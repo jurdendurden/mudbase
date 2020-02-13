@@ -1,0 +1,88 @@
+#PLAYER
+Name Vazbol~
+Id   1580081926
+LogO 1580081975
+Vers 11
+Blind 0
+Boon 0
+Prom <%hhp %mm %vmv> ~
+Race human~
+Sex  1
+Cla  0
+God	0
+Favored 0
+GuildRnk  0
+GuildPts  0
+Levl 0
+Sec  0
+Plyd 49
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 3700
+HMV  20 20 100 100 120 120
+Bleed 0
+Talent 0
+PP 0 0
+Gold 0
+Silv 0
+BAcct 0
+Bank 0
+Exp  0
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 0
+Account Vazbol~
+Recall 1010
+Act  QT
+Comm NO
+Pos  8
+Alig  0
+ACs 100 100 100 100
+Attr 12 15 15 11 9 13
+AMod 14 0 0 0 0 0
+Pass ~
+Titl ~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 0 0 0
+Cnd  0 60 60 60 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#END

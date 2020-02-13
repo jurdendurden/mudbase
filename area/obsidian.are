@@ -1,0 +1,93 @@
+#AREADATA
+Deprecated 0
+Name Clanhall: Obsidian~
+Builders Upro~
+VNUMs 9500 9599
+Levels 1 40
+Credits Upro~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 9
+Flags 34
+Faction (null)~
+History (null)~
+End
+
+
+
+#MOBILES
+#9500
+no name~
+(no short description)~
+(no long description)
+~
+~
+~
+human~
+AG 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#0
+
+
+
+#OBJECTS
+#9500
+no name~
+(no short description)~
+(no description)~
+unknown~
+0
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#9500
+{DObsidian{x Clanhall~
+~
+0 4 0
+0
+0
+0
+M 75 H 75
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 54 0 9500 The {dobsidian{x clan vault loaded to {DObsidian{x Clanhall
+O 0 45 0 9500 An orb of the {dobsidian{x clan loaded to {DObsidian{x Clanhall
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

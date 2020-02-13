@@ -1,0 +1,3700 @@
+#AREADATA
+Deprecated 0
+Name Northern Renfall~
+Builders Weiland~
+VNUMs 1100 1199
+Levels 1 40
+Credits Weiland~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 9
+Flags 32
+Faction (null)~
+History Northern Renfall was constructed due to the constrained size of Renfall's
+original living space, and houses many new shops, houses, temples, and guilds.
+As with it's southern counterpart, it houses many different ethnic backgrounds
+and serves up many resources in various forms for trade among the region. 
+~
+End
+
+
+
+#MOBILES
+#1100
+cleric guild master Tildus~
+Tildus the master cleric of Renfall~
+The master cleric of Renfall stands here.
+~
+(null)~
+A tall elven man stands here quietly studying a large tome in one
+well manicured hand. Tildus is the master cleric of Renfall, one of
+the most influential people in the the city. A prominent jaw sticks out
+over his broad chest, a well trimmed goatee covering its tip. Tildus is
+prone to long drawn out speeches about just about any subject matter but
+is generally a good man at heart.
+~
+elf~
+ABGJKQb 0 J 500 0
+40 10 10d150+400 40d10+100 5d8+20 punch
+0 0 0 0
+0 AB Bb IZ
+stand stand male 1500
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 1010 100~
+#1101
+quartermaster paladin Jeranz~
+Jeranz the quartermaster~
+Jeranz the quartermaster cleans a weapon here.
+~
+(null)~
+A squat friendly looking dwarf hums quietly here as he
+cleans an old training weapon. His ruddy complexion matches
+his blood red beard, a few hints of grey have begun to creep
+through its fiery red tangle. Squinting at the weapon in hand,
+he runs an oil cloth along its edge cleaning some unseen blemish
+off its far edge. Jeranz is the quartermaster of the paladin guild,
+it is his job to help equip new trainees in the guild and is often
+a good source of information.
+~
+dwarf~
+ABG 0 DFJ 200 0
+20 5 5d30+200 0d0+0 4d5+15 punch
+0 0 0 0
+0 0 LQa R
+stand stand male 1200
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 1100 100~
+M GIVE 1103 all~
+M GIVE 1104 1190~
+#1102
+trainee sweaty~
+a sweaty trainee~
+A sweaty trainee struggles with heavy weights here.
+~
+(null)~
+A young elf struggles with a heavy iron weight attached to a long
+wooden shaft. His face red with exertion he does not appear to be
+having much fun at the moment. A look of determination crosses his
+flushed face as he finishes lifting the weight to chest height then
+drops it to the ground with a dull thud.
+~
+elf~
+ABG 0 DFJ 200 0
+5 3 4d10+12 0d0+0 3d5+3 punch
+0 0 0 0
+0 A Bb IZ
+stand stand male 20
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 1105 75~
+#1103
+master paladin man rendrick~
+Rendrick the Paladin Guildmaster~
+A tall distinguished man studies a large map here.
+~
+(null)~
+A tall distinguished man studies a large detailed map here.
+Rendrick occupies one of the most influential positions in the city,
+that of Paladin Guild Master. Besides overseeing the tutelage of all
+prospective guild members, he is entrusted with coordinating troop 
+movements outside the city walls. An extremely seasoned veteran of
+campaigns on foreign soil, he is well respected in the military
+community.
+~
+human~
+ABGJKb 0 DF 400 0
+40 0 10d70+500 40d10+100 5d10+20 punch
+0 0 0 0
+0 AB CD 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 1102 100~
+#1104
+squire tired~
+a tired squire~
+A tired squire gets ready for some rest.
+~
+(null)~
+A tired looking squire yawns loudly as he gets ready for some
+much deserved rest. After a long day of physical and tactical
+training, he longs for the simple comforts of sleep. His training
+will begin again in just a few short hours and he must gain some
+shuteye as soon as possible.
+~
+elf~
+ABG C J 300 0
+5 2 1d17+20 0d0+0 2d3+6 none
+0 0 0 0
+0 A Bb IZ
+stand stand male 25
+AHMV ABCDEFGHIJK medium
+ unknown
+#1105
+druid hooded~
+a hooded druid~
+A hooded druid forages in the grass.
+~
+(null)~
+A young elven druid forages for herbs in the lush grass.
+Clad in an emerald green hooded robe, she hums softly as her
+gentle hands forage through the grass. A peaceful smile crosses
+her pretty face as goes about the clearing collecting the wild
+herbs. A wisp of light blonde hair creeps out from under her hood
+which she quickly tucks back and continues her search.
+~
+elf~
+A C J 300 0
+5 0 1d17+20 5d10+110 2d3+3 punch
+0 0 0 0
+0 A Bb IZ
+stand stand female 25
+AHMV ABCDEFGHIJK medium
+ unknown
+#1106
+bird colorful~
+a {Bcolorful{x bird~
+A {Bcolorful{x bird flits about the grove.
+~
+(null)~
+A {Rc{x{Wol{Yor{bf{ru{Yl{x{w bird chirps merrily delighting in 
+its own melodic calls. Miniscule in nature, its tiny wings flutter
+rapidly as it darts about the grove. Spotting a neary avian friend
+it alights nearby and begins to preen its feathery plumage.
+~
+song bird~
+A 0 T 0 0
+3 2 1d6+25 0d0+0 1d3+3 peck
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP medium
+ unknown
+#1107
+master druid fae Arbina~
+Arbina the Master Druid~
+A tall lithe fae stands quietly here.
+~
+(null)~
+A tall lithe blonde woman stands quietly here. One graceful hand on her
+hip, Arbina the Master Druid of Renfall surveys the peaceful grove. Arbina
+is rumored to be the offspring of elven and fairy parents, a rare mixture
+indeed. Her pale features are accentuated by pale crystal blue eyes that
+seem to be made of ice. That one is so beautiful to have such cold eyes is
+a mystery in itself.
+~
+elf~
+ABGJKb 0 DFJ 500 0
+40 5 10d70+500 40d10+120 5d8+25 none
+0 0 0 0
+0 AB BCDb IZ
+stand stand female 1500
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 1010 100~
+#1108
+elven woman Luellen~
+Luellen~
+A graceful elven woman stands quietly beside a display case.
+~
+(null)~
+A graceful blond elven woman stands quietly peering into a glass
+display case. The woman known simply as Luellen is a hot topic
+of gossip in the city, very little is known about her background.
+Her shop seemed to appear overnight not that long ago, filled to
+the brim with exotic and expensive wares almost like magic. Her
+long flowing blonde hair wraps her lovely face perfectly accenting
+her delicate doll-like features. Deep emerald green eyes filled
+with mystery top off this attractive woman's arsenal of physical
+wiles.
+~
+elf~
+ABGR 0 J -300 0
+40 5 10d120+400 40d10+100 5d8+20 blast
+0 0 0 0
+0 AZ BCDb IZ
+stand stand female 3000
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 1101 75~
+#1109
+angular tall man colbert~
+Colbert the Clothier~
+A tall angular fellow tends the counter here.
+~
+(null)~
+A tall rake thin angular fellow brushes dust off a clothing rack.
+Colbert is the proprietor of the shop, a youngish man who has
+recently set up shop in Renfall. His bony chin juts out from his
+thin pallid face at an almost absurd angle. His long bony fingers
+are quite skilled however and his expensive wares are well worth
+the coin he charges.
+~
+human~
+ABG 0 DF 200 0
+25 5 10d50+400 0d0+0 4d7+15 punch
+0 0 0 0
+0 AB CD 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium
+ unknown
+#1110
+visitor wide eyed~
+a wide eyed visitor~
+A wide eyed visitor to the city wanders by.
+~
+(null)~
+This wide eyed fellow is obviously from a small town and
+not used to the bustle of city life. He walks about with
+his jaw slightly ajar at all the activity around him. He
+has heard many wild things about what happens in the big city
+and is overjoyed to finally leave his dull country life behind
+him and experience the city life first hand.
+~
+elf~
+A C J 200 0
+6 2 1d18+45 0d0+0 2d4+4 punch
+0 0 0 0
+F 0 Bb IZ
+stand stand male 76
+AHMV ABCDEFGHIJK medium
+ unknown
+#1111
+bosomy barmaid Molly~
+Molly the barmaid~
+A bosomy barmaid bustles about the busy pub.
+~
+(null)~
+A bosomy blonde barmaid bustles about the busy pub tending
+to the busy patrons. Molly the barmaid is a young woman with
+ample assets who isn't afraid to advertise the goods as she
+flirts with the pub patrons. Her shrewd eyes reveal an inner
+glint of humor and intelligence as she goes about her rounds
+of the busy pub. Molly has a lot more going for her then just her
+amazing figure.
+~
+human~
+ABG 0 N 300 0
+15 3 5d30+180 0d0+0 3d5+8 punch
+0 0 0 0
+FHI ABKZ C 0
+stand stand female 400
+AHMV ABCDEFGHIJK medium
+ unknown
+#1112
+noble young~
+a young noble~
+An aloof young noble stands here.
+~
+(null)~
+A young well dressed noble stands here with a slightly aloof
+attitude about him. The young man has been raised by an affluent
+family to work in city politics. His days are spent dealing with
+trivial local matters and diplomatic hand shaking with visiting
+dignitaries from the surrounding area. His aloof attitude to those
+of lesser social standing tends to rankle the less fortunate.
+~
+human~
+A C 0 200 0
+10 3 3d22+50 0d0+0 2d5+5 punch
+0 0 0 0
+FU 0 F 0
+stand stand male 125
+AHMV ABCDEFGHIJK medium
+ unknown
+#1113
+resident local~
+a local resident~
+A local resident walks about the city.
+~
+(null)~
+A local resident walks about the city running her errands for the
+day. Her curly brown hair is cut in the local fashion preferred by
+the women of her age. Wide brown eyes frame her pretty features as
+she goes about her business with a slight smile. Like most of the
+people of the city she is friendly enough to visitors to the city
+and tolerant of the tourists that flock here.
+~
+elf~
+A C J 200 0
+6 6 1d17+50 0d0+0 2d3+5 punch
+0 0 0 0
+F 0 Bb IZ
+stand stand female 50
+AHMV ABCDEFGHIJK medium
+ unknown
+#1114
+cleric neophyte~
+a cleric neophyte~
+A bald cleric neophyte heads for the temple.
+~
+(null)~
+A bald neophyte cleric runs by intent on business for the guild.
+Barely out of his teens, the skinny youth has recently shaved his 
+head completely bald as part of his initiation into the clerical
+guild. His pale face flushed from exertion the young cleric scurries
+by intent on his mission.
+~
+human~
+AQ C 0 200 0
+8 3 2d10+26 8d10+100 2d4+3 punch
+0 0 0 0
+0 0 0 0
+stand stand male 58
+AHMV ABCDEFGHIJK medium
+ unknown
+M DEATH 1115 100~
+#1115
+bluebird~
+a bluebird~
+A {Bbluebird{x {wflies about the city.
+~
+(null)~
+A bluebird flies about the city scavenging for food. A
+notorious bigmouth, the bluebird emits an irritating
+chirp as it flies about the city. The bird alights
+briefly to peck at something on the ground and takes off
+chirping loudly as it goes.
+~
+song bird~
+A 0 T 200 0
+4 2 1d17+40 0d0+0 2d3+3 peck
+0 0 0 0
+FH 0 0 0
+stand stand male 0
+AGW ACDEFHKP medium
+ unknown
+#1116
+worker street~
+a street worker~
+A street worker keeps busy cleaning the streets.
+~
+(null)~
+An elven man makes his rounds of the city pushing a long
+handled wooden broom. A scruffy beard covers his tanned
+jawline, his eyes are kept down at street level as he
+goes about his way. His job isn't the most glamorous in the
+city but is one of the more secure ones.
+~
+elf~
+AG 0 J 200 0
+8 3 3d20+100 0d0+0 2d5+4 punch
+0 0 0 0
+0 0 Bb IZ
+stand stand male 40
+AHMV ABCDEFGHIJK medium
+ unknown
+#1117
+dwarven patron~
+a tipsy dwarven patron~
+A tipsy dwarven patron bellows for another drink.
+~
+(null)~
+A wide shouldered dwarf stands tipsily here. His ruddy face is
+beet red from a little too much of the local brew. His squinty
+bloodshot eyes narrow as he bellows for another cold drink. His
+clothing is rumpled from a long day at the pub but appears to be
+of better then average quality. Perhaps he is visiting the city from
+one of the neighboring dwarven communities.
+~
+dwarf~
+ABG 0 J 200 0
+10 15 10d8+40 10d8+100 2d5+10 punch
+1 1 1 1
+0 0 LQa R
+stand stand male 30
+AHMV ABCDEFGHIJK medium
+ unknown
+#1118
+man elderly elven~
+an elderly elven man~
+An elderly elven man tries to enjoy a quiet drink.
+~
+(null)~
+An elderly elven man attempts to enjoy a quiet drink. Long grey hair is
+neatly trimmed around his leathery aged face. Clear grey eyes sparkle with
+intelligence around his somewhat bulbous nose. A thin crescent shaped scar
+creases his right eyebrow giving him a perpetually quizzical appearance.
+~
+elf~
+ABG G J 200 0
+20 20 20d8+40 20d8+100 3d5+10 punch
+0 0 0 0
+GK AB Bb IZ
+stand stand male 400
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 1120 100~
+#1119
+man elderly Ivant~
+(no short description)~
+(no long description)
+~
+(null)~
+An elderly elven man known to you simply as Ivant for the moment studies
+you intently. A thin crescent shaped scar creasing his right eyebrow has
+given the man a perpetually quizzical appearance. He seeks certain information
+which hopefully you've returned to provide to him.
+~
+elf~
+ABG 0 J 200 0
+20 20 20d8+40 20d8+100 0d0+0 punch
+0 0 0 0
+0 0 Bb IZ
+stand stand male 3000
+AHMV ABCDEFGHIJK medium
+ unknown
+#1120
+guard taciturn~
+a taciturn guard~
+A taciturn guard paces by the gate.
+~
+(null)~
+A tall grim faced man, the guard at the gate appears
+to be in his middle years with a closely cropped blonde
+beard covering his trim jaw. Pale grey eyes are set too
+close to his rather bulbous nose giving him a rather disdainful
+demeanour. The guard does not appear to be overly friendly, his
+right hand clenched tightly around the hilt of his weapon.
+~
+human~
+ABGT C Z 200 0
+10 10 3d22+100 0d0+0 2d5+5 punch
+1 1 1 1
+E AB F 0
+stand stand male 110
+AHMV ABCDEFGHIJK medium
+ unknown
+M DEATH 1106 100~
+#1121
+guard estate~
+an estate guard~
+A nervous estate guard patrols the grounds.
+~
+(null)~
+A nervous looking estate guard patrols the estate grounds warily
+peering about as he goes. Rumor on the street has indicated
+the local thieves guild has taken interest in something the
+master of the estate has recently acquired. They have all been
+put on high alert to be vigilant in their patrols of the grounds.
+The guard stops to look behind him before continuing on with
+his rounds.
+~
+elf~
+AT C J 300 0
+8 0 2d20+100 0d0+0 2d4+3 punch
+0 0 0 0
+0 AB BGLQb IRZ
+stand stand male 75
+AHMV ABCDEFGHIJK medium
+ unknown
+#1122
+dog guard~
+a guard dog~
+A large guard dog runs towards you.
+~
+(null)~
+A bulky black guard dog runs about the estate grounds. A long
+trail of drool drips from its ajar canine mouth. Its fur is
+short and a studded collar has been placed around its thick
+neck. The muscular dog's beady eyes glare about as if daring
+someone to enter its masters domain without permission.
+~
+dog~
+AF 0 a 200 0
+5 3 1d17+50 0d0+0 2d3+3 bite
+0 0 0 0
+H 0 0 0
+stand stand male 0
+AGV ACDEFHJKUVX medium
+ unknown
+#1123
+guard large~
+a large estate guard~
+A large guard moves about the estate.
+~
+(null)~
+A large male guard moves about the estate calmly patrolling
+the rooms. His job is mostly checking the security of the estate
+after nightfall but lately they have all been alerted to be on
+their toes. Rumors of the thieves guild have reached the masters
+ears and all their jobs are at risk. If anyone manages to enter
+the estate uninvited they have all been instructed to deal with
+intruders harshly.
+~
+human~
+AFGT C 0 200 0
+10 3 3d22+100 0d0+0 2d4+6 punch
+0 0 0 0
+0 A F 0
+stand stand male 110
+AHMV ABCDEFGHIJK medium
+ unknown
+#1124
+chef master~
+the master chef~
+A master chef prepares his latest culinary delight.
+~
+(null)~
+A short round fellow begins his preparations for the day's
+meals. A shining metal cleaver grasped tightly in one pudgy
+hand, he eyes an uncooked roast on the counter as he debates
+what he'd like to do with it. A faint smile crosses his face
+as he decides on what his latest creation will taste like in
+the end.
+~
+gnome~
+ABG 0 0 200 0
+6 2 1d18+45 0d0+0 2d3+4 punch
+0 0 0 0
+0 A Pa R
+stand stand male 50
+AHMV ABCDEFGHIJK medium
+ unknown
+#1125
+noblewoman lady young~
+Lady Elderad~
+A young noblewoman brushes her hair quietly.
+~
+(null)~
+A young lady brushes her hair quietly here humming softly to
+herself. Lady Elderad is just the latest in a long string of
+trophy wives by the aging master of the estate. The bosomy young
+lady is quite comely, her attractive curves are topped by a winsome
+smile and lovely long flowing raven dark hair. Her clear {Bblue{x eyes
+are hard as diamonds however, her perfect figure matches a heart and
+mind that are as cold and calculating as any battle hardened veteran.
+~
+human~
+ABG D 0 200 0
+10 3 3d22+200 0d0+0 2d5+10 punch
+1 1 1 1
+0 A CD 0
+stand stand female 200
+AHMV ABCDEFGHIJK medium
+ unknown
+#1126
+overweight man lord elderad~
+Lord Elderad~
+An overweight aging man peers over the balcony.
+~
+(null)~
+An aging slightly balding man peers over the balcony deep
+in thought. His face once handsome, has begun to sag from age
+and overexcess in drink and food. His tall frame has gone to
+paunch, it has been many a day since he has taken to the road
+for adventure like in his youth. Content to wile away his wealth
+and health with a string of young wives, Lord Elderad had grown
+soft with prosperity.
+~
+human~
+ABGRT CE H -200 0
+13 13 3d30+200 12d10+120 3d5+5 punch
+1 1 1 1
+FH ABF CD 0
+stand stand male 300
+AHMV ABCDEFGHIJK medium
+ unknown
+#1127
+priest high~
+the High Priest of Renfall~
+The high priest of Renfall stands somberly here.
+~
+(null)~
+A tall elderly man stands here with a long flowing {Wwhite{x beard.
+Luminous {Gg{gr{Ge{ge{Gn{x eyes brim with intelligence atop his handsome
+face. Long slender fingers grasp a stout white oak staff as he stands
+beside his beloved altar. The high priest runs a pale hand through
+his tangled beard and sighs heavily deep in thought.
+~
+elf~
+ABGa 0 DHJ 500 0
+50 0 10d170+900 50d10+100 5d10+25 blast
+0 0 0 0
+0 ABCD Bb IZ
+stand stand male 2500
+AHMV ABCDEFGHIJK medium
+ unknown
+#1128
+cat black~
+a sleek black cat~
+A sleek black cat pads past.
+~
+(null)~
+A sleek black cat pads past, her well kept fur glistening
+slightly in the available lighting. Her mysterious {Yg{yo{Yl{yd{Ye{yn{x eyes
+narrow slightly as she pauses for a moment to look about. On
+a mission only her feline mind can comprehend, she almost seems
+to nod her head before continuing on about her way.
+~
+cat~
+AG 0 Z 200 0
+5 2 5d8+10 5d8+100 2d3+3 claw
+0 0 0 0
+FH 0 0 0
+stand stand female 0
+AGV ABCDEFHJKQUV medium
+ unknown
+#1140
+squinty eyed gnome alphonse~
+Alphonse the Clerk~
+A squinty eyed gnome tends the counter here.
+~
+(null)~
+A squinty eyed gnome by the name of Alphonse tends the
+rickety counter here. The slightly shady looking character
+is actually fairly skilled in the creation of minor medicinal
+cures. Being a smart businessman, he has taken his knowledge of
+common herbs and medicines and derived a lucrative business here
+at the pavilion. Local residents are savvy enough to know his
+medicines while useful are extremely overpriced for the limited
+benefits that they provide.
+~
+gnome~
+ABGQ 0 0 -300 0
+15 0 5d30+200 0d0+0 3d5+8 punch
+0 0 0 0
+G AB CDPa R
+stand stand male 300
+AHMV ABCDEFGHIJK medium
+ unknown
+#1141
+dwarf shifty Marz~
+Marz the shifty~
+A shifty looking dwarf rummages through some gear.
+~
+(null)~
+A shifty local dwarf by the name of Marz peddles his assorted
+jumble of cast off armor pieces here. His slightly crossed eyes
+are blood shot, a few empty bottles of devils grog lie behind his
+counter. His jagged yellow teeth have seen better days, his two
+front teeth long gone from some forgotten brawl. He does have a
+deft tongue however and knows how to finagle an unwary shopper
+when they stumble apon his little shop.
+~
+dwarf~
+ABGT 0 DFJ -200 0
+15 5 5d30+200 0d0+0 3d5+10 punch
+0 0 0 0
+EI AB CDLQa R
+stand stand male 400
+AHMV ABCDEFGHIJK medium
+ unknown
+#1142
+noble paunchy~
+a paunchy noble~
+A paunchy noble waddles about the city.
+~
+(null)~
+A paunchy noble waddles down the street his ponderous belly
+hanging over his tight belt. Dressed in the highly overpriced
+latest fashions, the noble is imperious in his manner. Intent
+on his own affairs he pays little mind to anyone of lesser
+stature around him. A velveteen money pouch hangs prominently
+around his waist jingling with coin as he stomps towards his
+office in the pavilion.
+~
+elf~
+AG 0 J -100 0
+10 2 10d8+20 10d8+100 2d5+5 punch
+1 1 1 1
+0 0 Bb IZ
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M DEATH 1111 100~
+#1143
+guard pavilion~
+a pavilion guard~
+A bored looking guard patrols the pavilion.
+~
+(null)~
+An armored guard patrols the busy pavilion, a bored look filling
+his young face. In his few years working this patrol he has caught a
+handful of pickpockets and the rare bar brawl. He stifles a yawn as he
+heads out once again on his round around the pavilion longing for the
+end of his shift.
+~
+human~
+AGT 0 0 400 0
+12 0 12d8+75 12d8+100 3d5+10 punch
+0 0 0 0
+0 ABZ 0 0
+stand stand male 70
+AHMV ABCDEFGHIJK medium
+ unknown
+#1144
+dignitary visiting~
+a visiting dignitary~
+A visiting dignitary strides down the pavilion.
+~
+(null)~
+A tall distinguished looking man peers about the pavilion. A visiting
+dignitary of the elven race, the man is currently on the lookoot for
+the nearby pub. After a long afternoon of haggling with the officials of
+the city as he looks forward to a stiff drink of three. A lethal looking
+weapon hangs prominently on one hip as he heads out on his mission.
+~
+elf~
+AGQ 0 J 100 0
+15 15 15d8+300 15d8+100 3d5+15 punch
+0 0 0 0
+0 0 Bb IZ
+stand stand male 125
+AHMV ABCDEFGHIJK medium
+ unknown
+#0
+
+
+
+#OBJECTS
+#1100
+bench wooden~
+a wide wooden bench~
+A wide wooden bench beckons to the weary here.~
+unknown~
+0
+furniture 0 0 0
+B CEFGHI EHJK CFG CFG
+0 0 0 P
+#1101
+fountain crystal~
+a crystal fountain~
+A solid crystal fountain sparkles in the light here.~
+crystal~
+0
+fountain 0 0 0
+999 999 'water' 0 0
+0 0 0 P
+E
+fountain~
+The fountain is constructed out of pure rare crystal with a
+large square basin at its base. The center of the fountain is
+an intricately carved cherub angel holding a tiny harp. The
+detail of the angel in the fountain is amazing. Ambient moisture
+glistens on the clear surface of the crystal reflecting available
+light acting like a prism. Many swear they have seen the angel in
+the fountain move, others decry that notion as utter nonsense.
+~
+#1102
+cot canvas~
+a canvas cot~
+A pale blue canvas cot is here.~
+canvas~
+0
+furniture 0 0 A
+A BDEFGH EHK DF DF
+0 8 100 P
+#1103
+podium small~
+a small oak podium~
+A small oak podium rests against the wall.~
+oak~
+0
+container 0 0 0
+30 0 0 30 20
+0 0 0 P
+#1104
+manual training~
+a training manual~
+A thick training manual lies here.~
+paper~
+0
+parchment 0 0 AO
+0 0 0 0 0
+5 2 0 P
+A
+12 5
+E
+manual~
+This training manual is the first in a series of
+instructional texts developed by the cleric guild
+of Renfall. One particular entry catches your eye..
+"When mixed properly in the correct ratios, the common
+hazelnut combined with a ripened elderberry has many
+beneficial curative aspects..."
+The text drones on at length making your eyes grow weary.
+~
+#1105
+pill green~
+a light green pill~
+A light green pill lies here.~
+pill~
+0
+pill 0 0 A
+5 'cure light' 'cure light' 'reserved' 'reserved'
+1 1 15 P
+#1106
+cleaver~
+a shiny cleaver~
+A shiny steel cleaver lies here.~
+steel~
+0
+weapon 0 0 AO
+exotic 2 4 cleave 0
+3 2 70 P
+#1107
+apron white~
+a {Wwhite{x apron~
+A cotton apron lies discarded here.~
+cotton~
+0
+armor 0 0 AL
+A 0 A 0 1
+2 1 25 A
+#1108
+cloak white~
+a {Wwhite{x leather cloak~
+A {Wwhite{x leather cloak lies here.~
+leather~
+0
+armor 0 0 AK
+A 0 A 0 1
+5 0 0 P
+A
+12 3
+#1109
+leather belt~
+a leather belt~
+A leather belt lies here.~
+leather~
+0
+armor 0 0 AL
+C C C C 1
+3 3 200 P
+A
+13 5
+A
+19 1
+#1110
+harness leather~
+a leather harness~
+A leather support harness lies here.~
+leather~
+0
+armor 0 0 AD
+B B B B 2
+5 5 100 G
+A
+1 1
+#1111
+weight iron~
+an iron weight~
+A heavy iron weight on a wooden shaft lies here.~
+iron~
+0
+furniture 0 0 AO
+0 0 0 0 0
+2 30 25 G
+E
+weight~
+A heavy iron weight is attached to a long four foot long
+wooden pole. The weight is designed for use in strength
+training. The cumbersome thing is heavy and quite off balance,
+its affects on any training regimen would probably be neglible.
+~
+#1112
+halberd bronze~
+a {ybronze{x halberd~
+A hefty halberd lies forgotten here.~
+bronze~
+0
+weapon 0 0 AN
+exotic 2 4 slash 0
+8 5 120 P
+#1113
+dagger bronze~
+a {yb{wr{yo{wn{yz{we {yd{wa{yg{wg{ye{x{wr{x~
+A slender dagger was dropped here.~
+bronze~
+0
+weapon 0 0 AN
+dagger 2 4 pierce 0
+6 2 110 P
+#1114
+buckler bronze~
+a {ybronze{x buckler~
+A small round buckler was dropped here.~
+bronze~
+0
+armor 0 0 AJ
+AB B B B 3
+8 4 110 G
+#1115
+robe hooded~
+a hooded {Ge{gme{Gra{gl{Gd{x{w robe~
+A hooded {Ge{gme{Gra{gl{Gd{x{w robe lies here.~
+cloth~
+0
+armor 0 0 AK
+B A B 0 1
+3 2 70 P
+#1116
+ring ivory~
+{wa scalloped ivory ring{x~
+A fancy scalloped ivory ring lies here.~
+ivory~
+0
+jewelry 0 0 AB
+0 0 0 0 0
+5 1 300 P
+E
+ivory~
+A fancy scalloped ivory ring, the initials "JM"
+are engraved on the inside of the band.
+~
+#1117
+armor light bronze~
+light {ybronze{x armor~
+A light set of armor shines here.~
+bronze~
+0
+armor 0 0 AD
+AB B B B 3
+8 6 110 P
+#1118
+gown dressing~
+a gauzy dressing gown~
+A sheer pile of silk lies here.~
+silk~
+0
+armor 0 0 AD
+0 0 0 0 0
+5 1 200 P
+A
+26 1
+#1119
+brush antique~
+an antique wooden hair brush~
+An antique wooden hair brush lies here.~
+wood~
+0
+treasure A 0 AO
+0 0 0 0 0
+5 2 300 P
+#1120
+bench padded~
+a padded bench~
+A padded bench circles the gazebo.~
+wood~
+0
+furniture 0 0 0
+D EFHK EHK CFG CFG
+0 500 0 P
+#1121
+robe ermine~
+an ermine robe~
+A rare ermine robe was dropped here.~
+hide~
+0
+armor A 0 AK
+B A B 0 1
+10 2 200 P
+A
+12 10
+E
+robe~
+The robe is designed to fit about the shoulders and is
+made from a rare ermine hide. A slight glow emanates from
+the robe indicating it is imbued with a minor enchantment.
+~
+#1122
+stone glittering~
+an odd {Bg{bl{Wi{Bt{bt{We{Br{bi{Wn{Bg{x {wstone{x~
+An odd glittering stone shines in the light here.~
+onyx~
+0
+warp_stone A 0 AO
+0 0 0 0 0
+5 2 300 P
+#1123
+alchemy lab~
+a makeshift alchemy lab~
+A makeshift alchemy lab is here, clearly hastily assembled.~
+stone~
+0
+alchemy_lab 0 0 0
+A 0 0 0 0
+20 1000 0 P
+#1125
+cape silk black~
+a black silk cape~
+A black silk cape lies in a heap here.~
+silk~
+0
+armor 0 0 AK
+B A B A 1
+8 1 700 P
+#1126
+pant dress black silk~
+black silk dress pants~
+A pair of black silk dress pants.~
+silk~
+0
+armor 0 0 AF
+A 0 A 0 1
+8 2 700 P
+#1127
+shirt dress silk~
+a flamboyand silk dress shirt~
+(no description)~
+silk~
+0
+armor 0 0 AD
+A 0 A 0 1
+5 2 700 P
+#1130
+Renewal Pill~
+a pill of renewal~
+A small white pill lies here.~
+dust~
+0
+pill 0 0 AO
+5 'refresh' 'refresh' 'cure light' 'reserved'
+5 1 500 P
+#1131
+tablet safe travels~
+a tablet of {Cs{ba{Cf{be {Ct{br{Ca{bv{Ce{bl{Cs{x~
+A square tablet lies here.~
+unknown~
+0
+pill 0 0 AO
+10 'cure poison' 'cure light' 'refresh' 'reserved'
+10 1 800 P
+#1132
+bracers of protection~
+the fabled bracers of protection~
+A set of leather bracers lie folded here.~
+hide~
+0
+armor 0 0 AI
+B A B A 1
+8 2 800 P
+A
+2 1
+E
+bracers~
+The fabled bracers of protection! However a closer look reveals
+the stitching in the leather work is very clumsy. An obvious fake
+to the discerning eye, these particular bracers do have a minor
+enchantment on them but are definitely not the fabled 'bracers of
+protection'.
+~
+#1133
+pouch velveteen~
+a velveteen money pouch~
+A velveteen money pouch was dropped here.~
+hide~
+0
+container 0 0 AL
+10 A 0 10 2
+5 2 100 P
+#1134
+coins pile~
+a pile of coins~
+A small pile of coins lie here.~
+unknown~
+0
+money 0 0 A
+BCDE 0 0 0 0
+0 1 0 P
+#1135
+broom wooden~
+a long handled wooden broom~
+A long handled wooden broom lies abandoned here.~
+wood~
+0
+weapon 0 0 AO
+exotic 3 4 smash 0
+5 3 15 G
+#1136
+cloak elvenkind~
+a cloak of elvenkind~
+A well crafted leather cloak lies forgotten here.~
+leather~
+0
+armor A 0 AK
+C C AC C 1
+15 3 300 P
+A
+13 20
+E
+cloak~
+The well crafted cloak appears to be made of fine embossed
+leather. The inseam mentions an obscure leathershop in a foreign
+shop. The supple cloak has a slight tangible glow to it apparently
+bearing some minor enchantment.
+~
+#1137
+death envious sword~
+the long sword, Envious {DDeath{x~
+A lethal looking long sword lies here.~
+silver~
+0
+weapon B D AN
+long_sword 3 5 flame A
+15 5 500 A
+A
+29 10
+A
+13 15
+A
+19 3
+E
+envious~
+The longsword known as 'Envious Death' is one of the more
+common of the so called legendary or epic weapons. Commonly made of
+a high grade silver, the sword is one of the preferred weapons of
+the elven race. Usually enchanted, this particular weapon is common issue
+to those of the visiting dignitaries of the elves.
+~
+#1140
+mace balanced~
+a well-balanced {Wm{xa{Wc{xe~
+A short handled copper mace lies here.~
+copper~
+0
+weapon B 0 AN
+exotic 2 3 crush 0
+1 3 0 P
+A
+1 1
+E
+mace~
+The mace hums softly imbued with a minor enchantment
+by the paladin's guild of Renfall. Its stout wooden
+shaft is about two feet in length, its head made of
+hardened copper.
+~
+#1141
+chainmail tunic~
+a {ycopper{x chainmail tunic~
+A copper chainmail tunic lies abandoned here.~
+copper~
+0
+armor 0 0 AD
+AB B AB AB 3
+10 5 200 G
+#1142
+copper chainmail leggings~
+copper chainmail leggings~
+A pair of copper chainmail leggings lie here.~
+copper~
+0
+armor 0 0 AF
+AB B AB AB 3
+10 6 200 P
+#1143
+battleaxe~
+a flanged battleaxe~
+A hefty flanged battleaxe was dropped here.~
+copper~
+0
+weapon 0 0 AN
+axe 3 5 cleave 0
+10 8 100 P
+#1150
+scroll white gold~
+a {Yg{yo{Yl{yd{x embossed scroll{x~
+A {Yg{yo{Yl{yd{x embossed scroll lies forgotten here.~
+paper~
+0
+scroll 0 0 AO
+5 'bless' 'cure light' 'reserved' 'reserved'
+5 1 100 P
+#1190
+letter~
+a letter from the guildmaster~
+An important looking letter lies here.~
+paper~
+0
+parchment 0 0 A
+0 0 0 0 0
+1 1 0 P
+#1191
+key iron~
+an iron key~
+A long iron key lies here.~
+iron~
+0
+key 0 0 A
+0 0 0 0 0
+1 1 0 P
+#1192
+gazebo~
+a gazebo~
+A tastefully appointed gazebo.~
+unknown~
+0
+portal 0 0 0
+ABCFGHIJ 0 A ABEFGK 0
+0 0 0 P
+E
+gazebo~
+A tastefully appointed wood gazebo has been built here
+facing out over a small duck pond. The gazebo is unlocked
+and all are free to enter it.
+~
+#1193
+key copper~
+a copper gate key~
+A tiny copper gate key lies here.~
+copper~
+0
+key PU 0 AO
+0 0 0 0 0
+8 1 0 P
+#1194
+tents colorful~
+a colorful tent~
+A series of {Bcolorful{x tents are pitched here.~
+unknown~
+0
+portal 0 0 0
+ABCDIJKN 0 0 ACDEHK 0
+0 0 0 P
+#1195
+flap exit~
+a flap exit~
+A flap serves as the exit to the pavilion.~
+unknown~
+0
+portal 0 0 0
+ABCDIJKN 0 0 BDEHK 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1100
+Stone Ramp to the Temple District~
+The wide stone ramp to the temple district reaches its zenith
+directly ahead. The temple district is home to the religious temples
+of the region as well as the palatial estates of the city's elite. Many
+of the rich nobles of the city have taken residence in the prime land
+located above the bustle of the city life of lower Renfall.
+~
+0 4 0
+0
+1
+2
+D0
+~
+~
+0 0 1101
+D5
+~
+~
+0 0 1095
+M 20 H 20
+S
+#1101
+A Gilded Archway~
+A white marble archway sparkles with interwoven white gold 
+leading towards Piety Square. The archway accentuates the disparity
+between the wealthy and the less fortunate of the city. A solid silver
+plaque is attached at eye level on the side of the archway. Directly
+ahead a pure crystal fountain glistens in the light.
+~
+0 0 0
+0
+1
+2
+E
+archway~
+The archway is cut from rare white marble interlaid with pure
+white gold. A solid brass plaque from the benefactor is attached at
+eye level for all to read.
+~
+E
+plaque~
+The plaque is of solid shiny silver attached firmly to
+the archway at eye level. The name of the benefactor who paid
+for the archway reads:
+            A gift to the city from the Renfrad Estate.
+ 
+~
+D0
+~
+~
+0 0 1102
+D2
+~
+~
+0 0 1100
+M 20 H 20
+S
+#1102
+Piety Square~
+A solid crystal fountain glistens at the center of Piety Square
+filled to the brim with fresh pure water. A series of small intimate
+alcoves lead off the fountain where people can relax and rest between
+their travels. A large elm towers above the square, its massive limbs
+providing welcome shade on hot days. The wide stone ramp leading back
+to the center of Renfall is just to the south.
+~
+0 1024 1
+0
+1
+2
+D0
+~
+~
+0 0 1105
+D1
+~
+~
+0 0 1104
+D2
+~
+~
+0 0 1101
+D3
+~
+~
+0 0 1103
+M 50 H 50
+S
+#1103
+A pleasant alcove~
+A wide wooden bench sits under the shade of a nearby oak
+calling to the weary to sit and rest for a moment. A well
+tended swatch of grass under the bench encroaches on the
+pristine stone cobblestones around it. Fragrant wildflowers
+blossom freely in the grass releasing their pollens into the
+passing breezes.
+~
+0 1024 2
+0
+1
+2
+D1
+~
+~
+0 0 1102
+M 40 H 40
+S
+#1104
+A quiet alcove~
+A wide swatch of neatly trimmed grass grows nicely here under a
+shady oak tree. A comfortable wide wooden bench is placed directly
+under the oak. Pleasant wildflowers sway gently in the grass stirred
+by passing breezes. The solitude of the alcove is comforting away from
+the hustle and noise of the city.
+~
+0 0 0
+0
+1
+2
+D3
+~
+~
+0 0 1102
+M 40 H 40
+S
+#1105
+Ascella Street~
+Ascella Street is lined with neatly trimmed grass and well
+kept trees. Small squirrels dart across the trees jumping from
+limb to limb foraging for nuts. Unlike the cluster of central
+Renfall, the temple district is filled with natural tree growth
+and green grass. Temples to the gods line the street leading into
+the wealthy nobles residential area.
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 1106
+D2
+~
+~
+0 0 1102
+M 20 H 20
+S
+#1106
+Ascella Street~
+A large ivory temple to the west is the home to the nonsecular
+clerical order of Renfall. The temple is housed between a series
+of trees that surround the temple like a small natural barricade.
+A few rounded stones have been placed in the grass leading towards
+the entrance to the temple.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1113
+D2
+~
+~
+0 0 1105
+D3
+~
+~
+0 0 1107
+M 20 H 20
+S
+#1107
+Before the Cleric Guild of Renfall~
+The cleric guild of Renfall is housed in a large ivory white
+temple nestled between tall trees. To avoid potential conflict
+between the religions, the clerical guild is nonsecular in nature.
+The guild's main focus is to provide guidance in the healing arts
+without any set religious overtones. A large crystal clear {cg{bl{ca{bs{cs{x
+door leads into the temple.
+~
+0 0 0
+0
+1
+2
+E
+temple~
+The temple is housed in a quaint white ivory structure with
+clear glass double doors leading into its interior. The glass
+doors are kept unlocked to allow the curious to investigate
+what lies within.
+~
+D1
+~
+~
+0 0 1106
+D3
+~
+glass~
+1 0 1108
+M 20 H 20
+S
+#1108
+Foyer of the Cleric Guild~
+The foyer of the cleric guild is well lit, tall pristine windows
+allow ample sunlight into the foyer. The walls are bright white with an
+elegant gold border atop its upper reaches. A few potted plants are set
+beside an open doorway to the west. The glass exit to the east leads back
+out towards Ascella Street.
+~
+0 8 0
+0
+1
+2
+D1
+~
+glass~
+1 0 1107
+D3
+~
+~
+0 0 1109
+M 20 H 20
+S
+#1109
+A quiet hallway~
+A quiet hallway extends through the core of the temple past small training
+rooms. The rooms are designed to train new acolytes in the various healing
+techniques practiced by the guild. A colorful bouquet of wildflowers bloom
+nicely apon a polished low end table. A deep brown mahogany door at the end of
+the hallway leads to the guild master's office. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 1110
+D1
+~
+~
+0 0 1108
+D2
+~
+~
+0 0 1111
+D3
+~
+mahogany~
+9 0 1112
+M 20 H 20
+S
+#1110
+Training Room~
+A few cots have been placed in this room to allow new acolytes to practice
+basic healing techniques apon each other. A round oak podium sits in the far
+corner with a training manual placed inside for reference. The walls of the
+room are bare with no windows creating a somewhat stuffy atmosphere. 
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 1109
+M 20 H 20
+S
+#1111
+Advanced Training Room~
+The spartan training room consists of a few canvas cots placed about it and
+little else. A wooden shelf on the far wall contains a few basic healing aids
+to assist the acolytes in their training regimen. A small table on the opposite
+wall contains a training manual with helpful tips for the acolytes. The bare
+floor has a few scraps of used bandaging dropped there by acolytes after usage.
+~
+0 8 0
+0
+1
+2
+E
+table~
+The training manual atop the small table has some
+interesting tidbits in it. One entry reads..
+"Many common herbs that grow in the wild can be crushed
+into a pill form with the proper training and care. These
+readily available herbs are not just for cooking purposes as
+the unenlightened would think...
+The text drones on at length giving you a headache with its
+attempts at pithy prose..
+~
+D0
+~
+~
+0 0 1109
+M 20 H 20
+S
+#1112
+Office of the Cleric Guild Master~
+The office of the guild master is a tasteful affair of nicely arranged
+flowers and colorful oil portraits along the walls. A plush lime green carpet
+covers the majority of the floor in a somewhat overdone fashion. A
+well-polished mahogany desk sits at the far end of the room matching the entry
+door to the office. 
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+9 0 1109
+M 20 H 20
+S
+#1113
+Ascella Street~
+Neatly trimmed grass sways silently along the street under tall shade trees.
+The ivory spire of the cleric guild peeks above the tree line to the southwest.
+The familiar silhouette of the crystal fountain in Piety Square is dimly
+visible. The ramp to the lower section of Renfall can be found further to the
+south. 
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1114
+D2
+~
+~
+0 0 1106
+M 20 H 20
+S
+#1114
+Ascella Street~
+A hedged pathway leads off the street to the east towards a
+private manor on a nearby hilltop. Glass windows on the manor peer
+down with bland indifference. The colorful crimson and teal banner
+of the paladin order of Renfall beckons to the north. A crisp breeze
+stirs fallen leaves off down the shaded pathway into shady darkness.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1115
+D2
+~
+~
+0 0 1113
+M 20 H 20
+S
+#1115
+Ascella Street~
+A large stone keep rises on the horizon not far to the north. A
+colorful crimson and teal banner flies the colors of the paladin
+order of Renfall. An elaborately designed portcullis covers the
+gateway to the imposing keep. The colorful banner seems somewhat
+out of place flying cheerfully over the no-nonsense keep below it.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1116
+D2
+~
+~
+0 0 1114
+M 20 H 20
+S
+#1116
+Ascella Street~
+The imposing stone keep of the paladins of Renfall stands
+just to the west of here. A large sturdy looking portcullis
+bars the entrance to the keep. The paladin guild is reknowned
+in the area for their unswerving devotion to the ruling family
+of Renfall. They are considered the sword and shield of the city
+when trouble arises.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1128
+D2
+~
+~
+0 0 1115
+D3
+~
+~
+0 0 1117
+M 20 H 20
+S
+#1117
+Before the Keep~
+The paladin's keep is in an opposing stone keep, a large iron portcullis
+stands firms across its entrance. The paladin's are a mainstay in the city's
+defense, some insist that they are the royalty's lackeys. Either way they are a
+force to be reckoned with and one is quite lucky to be able to partake in their
+specialized training regimens. 
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 1116
+D3
+~
+portcullis~
+1 0 1118
+M 20 H 20
+S
+#1118
+A large open courtyard~
+The interior of the keep reveals a cavernous open air courtyard, a
+series of much smaller buildings housing the various training areas
+for the paladins in training to utilize. A much larger building at
+the far end of the courtyard presumably holds the quarters of the
+guild master. Wood torches are inset along the walls at regular
+intervals to provide lighting when darkness falls.
+~
+0 8 0
+0
+1
+2
+D1
+~
+portcullis~
+1 0 1117
+D3
+~
+~
+0 0 1119
+M 20 H 20
+S
+#1119
+Between two small buildings~
+Twin identical stone buildings face each other, both almost mirror images of
+each other. Both buildings house the different training faculties for the
+paladins of Renfall. Stout oak doors face each other across the dirt courtyard,
+faint echos of steel on steel echo from the northern building. The southern one
+is curiously quiet perhaps unoccupied at the moment. A much larger building
+beckons to the west hugging the outer keep wall. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+oak~
+1 0 1120
+D1
+~
+~
+0 0 1118
+D2
+~
+doors~
+5 0 1123
+D3
+~
+~
+0 0 1124
+M 20 H 20
+S
+#1120
+Renfall Paladin Training Facility~
+The interior of the facility is spartan by design with no
+unnecessary decor. An open doorway to the west leads into the
+quartermasters' office. Another open doorway to the north leads
+into the main sparring area of the facility. A wide wooden barrel
+sits next to the quartermasters' office filled with fresh clean
+water.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1122
+D2
+~
+oak~
+1 0 1119
+D3
+~
+~
+0 0 1121
+M 20 H 20
+S
+#1121
+Quartermaster Storage~
+A few old battered weapons and dusty shields line the bare
+walls here. A guttering torch bathes the small storage room in
+a wavering light. The storage room is used primarily to store
+training weapons and discarded armor for new squires in the
+guild to practice with. A few fine weapons still remain here
+if one is patient enough to sort through the piles of junk.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 1120
+M 20 H 20
+S
+#1122
+Weight Training~
+Rough stone walls are lined with heavy iron weights, the weights
+are used to help the new trainees grow accustomed to the heavy
+burden of plate armors. Without a proper strength training regimen,
+the use of bulky plate armors ends up being more of a hindrance
+then of any aid to the wearer. New trainees in the guild have grown
+to loathe the tedious training in this room but it ends up being
+well worth it in the long run.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 1120
+M 20 H 20
+R ERROR 1100 100~
+S
+#1123
+A quiet barracks~
+A series of simple cots are aligned in double rows down the length of the
+barracks. Small footlockers are kept at the end of the cots for the trainees to
+store personal belongings. The rank smell of unwashed bodies in the close
+quarters here is overwhelming. Apparently they haven't gotten to the personal
+hygeine portion of their training here in the barracks. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+doors~
+5 0 1119
+M 20 H 20
+S
+#1124
+Before a large building~
+The colorful banner of the paladins of Renfall flaps silently in the breeze
+above the building. Twin oak doors leading into the building have the paladins'
+crest inscribed into the heavy wood. The building houses the office and living
+quarters of the paladin's guild master. A small tin smokestack releases a tiny
+plume of grey smoke from the rear of the building. 
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1119
+D3
+~
+doors~
+1 0 1125
+M 20 H 20
+S
+#1125
+Foyer of the Paladin Guild of Renfall~
+A comfortable plush carpet covers the floor of the foyer in tasteful
+elegance. A large ornate shield emblazoned with the crest of the paladins
+dominates the far wall. An open doorway to the south leads into the office of
+the guild. To the west another closed door presumably leads to the living
+quarters of the guild master. 
+~
+0 8 0
+0
+1
+2
+D1
+~
+doors~
+1 0 1124
+D2
+~
+~
+0 0 1126
+D3
+~
+bedroom~
+1 1191 1127
+M 20 H 20
+S
+#1126
+Office of the Guild Master~
+A large canvas map covers the far wall displaying troop
+movements and other archaic symbols in the surrounding regions
+about Renfall. A crystal clear bay window opposite the region
+map peers out behind the building showing a blank stone wall.
+A nicely polished desk covered with neat stacks of paperwork has
+a nice sway-backed chair behind it. The carpet underfoot matches
+the foyer's in tasteful elegance.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1125
+M 20 H 20
+S
+#1127
+A dark bedroom~
+~
+0 8 0
+0
+1
+2
+D1
+~
+bedroom~
+1 1191 1125
+M 20 H 20
+S
+#1128
+Ascella Street~
+Imposing trees cast their leaves down apon the street
+beneath them. A large stone keep to the south flies the
+crimson and teal banner of the paladins of Renfall. Past the
+keep lies Piety Square and the ramp to lower parts of the city.
+To the north the street curves to the east past a small natural
+grove of trees. 
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1129
+D2
+~
+~
+0 0 1116
+M 20 H 20
+S
+#1129
+Ascella Street~
+An ornately carved free standing archway leads into
+a natural grove of trees that flourishes deep within
+the city. The grove of trees predates the growth of the
+city by many years and is now considered home to the druids
+of Renfall. A passing breeze carries fallen leaves off into
+a dimly lit path that meanders off into the tree grove.
+~
+0 0 0
+0
+1
+2
+E
+archway~
+The archway is quite old, comprised of ashen pine and
+quite tall in height. Intricate carvings cover the surface
+of the archway depicting obscure magical runes of some sort.
+Perhaps the druids in the grove ahead would know more about
+the meaning of the runes.
+~
+D0
+~
+~
+0 0 1136
+D1
+~
+~
+0 0 1130
+D2
+~
+~
+0 0 1128
+M 20 H 20
+S
+#1130
+A dimly lit path~
+A tall free standing archway leads back out of the tree grove
+onto Ascella Street. A dim dirt path leads through the heavy
+tree growth towards the center of the grove. A palpable sense
+of peace and serenity lingers along the path. A bright {Rred{X
+cardinal darts off an overhead tree limb and off down the path.
+~
+0 4 3
+0
+1
+2
+D1
+~
+~
+0 0 1131
+D3
+~
+~
+0 0 1129
+M 20 H 20
+S
+#1131
+A dimly lit path~
+{RC{x{Wol{Yor{bf{ru{Yl{x{w birds flit between the overhead limbs of the
+trees calling softly to each other. Dry leaves crackle 
+underfoot as the dim path nears the center of the grove.
+Home to the druid guild of Renfall, they lead a peaceful
+existence in the heart of the cold stone city. To those
+who prefer this lifestyle, their training and guidance is
+invaluable.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 1132
+D3
+~
+~
+0 0 1130
+M 20 H 20
+S
+#1132
+A dimly lit path~
+Dry leaves crackle loudly underfoot echoing off down the
+quiet path. An open clearing to the south apparently serves
+as the main meeting place of the druids of Renfall. A giant
+stone boulder squats at the southern edge of the clearing.
+A bright {Rred{x cardinal swoops by and lands on the top of
+the giant boulder.
+~
+0 0 3
+0
+1
+2
+D2
+~
+~
+0 0 1133
+D3
+~
+~
+0 0 1131
+M 20 H 20
+S
+#1133
+An Ancient Clearing~
+An ancient clearing filled with fallen tree limbs and rotting leaves
+stretches off into the distance. A giant round stone boulder juts out
+of the ground to the south looking strangely out of place amidst the
+green foliage of the trees. Hooded figures move about the semidarkness
+foraging for herbs and perhaps communing with nature in some fashion.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 1132
+D2
+~
+~
+0 0 1134
+M 20 H 20
+S
+#1134
+An Ancient Clearing~
+Dry leaves cover fallen limbs and lush green as
+hooded figures forage amidst the tall grass. Directly to
+the south a large round boulder juts ominously out of the dirt
+easily matching the size of the large trees around it. A faint
+tingle of magical energy seems to be emanating from the nearby
+boulder filling the clearing with its odd not unpleasant energy.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 1133
+D2
+~
+~
+0 0 1135
+M 20 H 20
+S
+#1135
+Before a large boulder~
+The sheer size of the boulder is intimidating, easily
+dwarving the ancient trees around it. An odd unseen wave
+of mystical energy seems to ooze from within the boulder,
+its smooth surface emitting a soft glow. The druids have
+cleared the area of debris and use it as an informal gathering
+place for the guild.
+~
+0 12 3
+0
+1
+2
+D0
+~
+~
+0 0 1134
+M 20 H 20
+S
+#1136
+Ascella Street~
+A densely populated grove of tall trees and grass skirts
+the outskirts of the street. Ascella Street passes the outer
+border of the grove towards Elderad Square to the north. The
+upper portion of a large stone keep is barely visible just to
+the south of here. A grey squirrel darts across the street and
+enters the grove to the south.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1137
+D2
+~
+~
+0 0 1129
+M 20 H 20
+S
+#1137
+Elderad Way~
+The top of a rare white oak towers above a small cluster of
+buildings not far to the north. The road curves here to the
+west around a dense grove of ancient trees. Just to the north
+of here Elderad Square marks the beginning of the more upscale
+residential area of Renfall. A number of private estates and
+manors follow the northern route towards the distant Castle
+Renfall.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1138
+D3
+~
+~
+0 0 1136
+M 20 H 20
+S
+#1138
+Elderad Square~
+A square patch of well tended grass and wildflowers mark the 
+center of the square here. A nicely appointed gazebo to the east
+overlooks a small duck pond. To the west a small cul-de-sac lined
+with upscale shops beckons to the wealthy. Far off to the north, the
+twin spires of Castle Renfall hover on the horizon.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1146
+D2
+~
+~
+0 0 1137
+D3
+~
+~
+0 0 1141
+M 20 H 20
+S
+#1139
+A small gazebo~
+A tastefully appointed gazebo has been constructed here next to
+the duck pond. The gazebo is octagonal in nature, padded bench
+seating circles its walls facing the duck pond. A laquered low
+wooden table sits in the middle of the gazebo. Hanging ivy vines
+climb about the gazebo plump with small red berries. A slight breeze
+stirs the surface of the duck pond sending rthymic ripples across it
+placid surface.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 1140
+D3
+~
+square~
+0 0 1138
+M 20 H 20
+S
+#1140
+A small duck pond~
+A few fallen leaves mar the otherwise tranquil surface of
+the duck pond. The grassy ground tilts downwards towards the
+duck pond at a gentle angle. The pond is favored by the local
+birds in the area particularly a family of ducks. The local
+children enjoy coming down to the duck pond as its known to feed
+them. A few bread crumbs lie along the bank of the pond awaiting
+the return of the ducks.
+~
+0 0 2
+0
+1
+2
+D3
+~
+~
+0 0 1139
+M 20 H 20
+S
+#1141
+A quaint cul-de-sac~
+An intricately carved teak flowerbox flanks the glass door to the
+north. A small sign with elaborate calligraphy beckons the curious
+to enter and explore. A peek through the immaculate glass door reveals
+rows of glass showcases filled with expensive antiques. A few steps
+away a solid looking white oak door leads to a fine clothier shop.
+~
+0 0 1
+0
+1
+2
+E
+sign~
+The sign reads in elegant fashion:
+ 
+         Curious Antiquities
+ 
+~
+D0
+~
+glass_door~
+1 0 1142
+D1
+~
+~
+0 0 1138
+D2
+~
+~
+0 0 1144
+D3
+~
+oak~
+1 0 1143
+M 20 H 20
+S
+#1142
+Curious Antiquities~
+The brightly lit shop is filled with crystal clear glass cases
+showcasing pricy antiques. Rare gems and jewelery lay next to
+obscure priceless tomes and exotic knick knacks. A brushed red
+velvet carpet covers the bare floor reflecting the bright lighting
+back through the cases in a gaudy red haze. A small golden brazier
+at the rear of the shop burns a sweet smelling incense filling the
+interior of the shop with its fragrant smoke.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+1 0 1141
+M 20 H 20
+S
+#1143
+Colbert's Fine Clothing~
+Racks of fine cloaks and expensive robes are positioned about
+the interior of the shop. The floor underfoot is covered with a
+a series of reed mats leading up to a long low counter at the
+rear of the store. Bronze oil lamps are hung on the far walls
+bathing the shop with a comfortable glow. A curtained room on
+the opposite wall allows the customers to try on the clothing
+with some modesty before purchasing.
+~
+0 8 0
+0
+1
+2
+D1
+~
+oak~
+1 0 1141
+M 20 H 20
+S
+#1144
+A quaint cul-de-sac~
+A curious white elm grows proudly here, quite rare for
+the region. Its tall limbs dwarf the small house beneath it
+almost seeming to shelter it with its broad leafy limbs. The
+tree is quite old, it is said to predate some of the ancient
+trees that grow in the nearby tree grove to the south. The
+druids from the grove are known to covet its precious sap
+that oozes from its wrinkled time worn bark.
+~
+0 0 1
+0
+1
+2
+E
+elm~
+A curious white elm grows proudly here, quite rare for this
+region and climate. Its rare tree sap that oozes from its
+weathered trunk only at certain periods of the year is quite
+valuable to some. Druids in the area are rumored to use its
+precious sap for certain alchemical processes that are kept
+a closely guarded secret by its members.
+~
+D0
+~
+~
+0 0 1141
+D2
+~
+house~
+9 0 1145
+M 20 H 20
+S
+#1145
+A small house~
+The furnishings in the small house are old and but appear to
+be well made, comprised of sturdy oak and solid pine. By the
+level of dust on everything no one has set foot inside the
+house for months if not years.
+~
+0 8 0
+0
+1
+2
+D0
+~
+house~
+9 0 1144
+M 20 H 20
+S
+#1146
+Elderad Way~
+The ground is firm underfoot, solid white granite cobblestones
+line the way, perfectly rounded and quite expensive to cut in
+such a manner. Large well tended trees grow along the way of
+many species native to the region. Small woodland creatures
+frolic about the tree limbs enjoying their own form of city
+life within the tree limb environs. The twin spires of Castle
+Renfall have begun to grow more prominent on the northern
+horizon.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1147
+D2
+~
+~
+0 0 1138
+M 20 H 20
+S
+#1147
+Elderad Way~
+A private access road leads away from Elderad Way towards
+an impressive estate to the east of here. Many of the wealthy
+of Renfall have taken residence along the northern region of
+of the city, building expensive gated estates along the hilly
+region of the city. Money is power in the city and be it by
+noble blood or by sheer gold, the estates house the elite of
+the city.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1169
+D1
+~
+~
+0 0 1148
+D2
+~
+~
+0 0 1146
+M 20 H 20
+S
+#1148
+A private access road~
+Crushed white gravel is spread across the width of the hard
+packed dirt access road. A large guarded gate to the immediate
+east controls access to the private estate. Trees line the road
+ending next to the stone and mortar wall that encompasses the
+inner estate grounds. A discrete metal marker is driven in the
+ground next to the road with information for visitors.
+~
+0 4 1
+0
+1
+2
+D1
+~
+~
+0 0 1149
+D3
+~
+~
+0 0 1147
+M 20 H 20
+S
+#1149
+Before a large gate~
+A large gate seems to be the only access through a tall mortar
+and stone wall to the north. Rich green ivy grows rampant in the
+minute cracks and crevices in the wall. An oval copper plaque inset
+in the wall bears the name of the estate. A low growl emanates from
+behind the wall, apparently guard dogs roam the estate grounds.
+~
+0 0 0
+0
+1
+2
+E
+gate~
+A large iron gate with spikes atop it blocks access through
+the outer wall of the estate. Lively green ivy grows rampant
+in the minute cracks of the wall like an aboreal spider web.
+~
+E
+ivy~
+The green ivy along the wall is quite lively spreading along
+the surface of the wall like a virus. Someone with the right
+skill or strength could possibly use the ivy to clinb the
+exterior of the wall to gain access beyond it.
+~
+E
+plaque~
+The oval copper plaque reads in fine script:
+ 
+             Elderad Estate
+ 
+~
+D0
+~
+gate~
+1 1193 1150
+D3
+~
+~
+0 0 1148
+M 20 H 20
+S
+#1150
+A wide path~
+A wide path bordered by neatly trimmed grass leads towards the
+estate building to the east. The gate out of the estate looms high
+to the west, the only visible exit out of the estate property. An
+abundance of {Yyellow{x dragon lillies bloom nicely along the path.
+A low growl sounds in the distance as guard dogs patrol the inner
+perimeter of the estate grounds.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 1151
+D2
+~
+gate~
+1 0 1149
+M 20 H 20
+S
+#1151
+A wide path~
+The wide path ends at the front porch to the estate just
+to the east of here. Colorful {Yyellow{x dragon lillies grow
+in clusters along the path swaying silently in the passing
+breeze. Lush neatly trimmed grass along the path glistens with
+the dew of a recent rain storm. A creaking floorboard echos from
+the nearby porch of the estate, perhaps another guard is nearby.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 1152
+D3
+~
+~
+0 0 1150
+M 20 H 20
+S
+#1152
+Front Entrance to the Estate~
+The front porch of the estate house is a large pine and oak
+structure that wraps around and to the rear of the house. An
+elegant polished elmwood door leads into the interior of the
+house. A loose floorboard shifts under your weight creaking
+loudly. Twin windows framing the entrance are draped with
+{cpale{x curtains blocking any visible view of the interior.
+~
+0 0 2
+0
+1
+2
+D0
+~
+frontdoor~
+1 0 1155
+D1
+~
+~
+0 0 1153
+D3
+~
+~
+0 0 1151
+M 20 H 20
+S
+#1153
+Front porch of the estate~
+The front porch extends around the exterior of the
+estate house to its rear. A low railing at waist height
+wraps the porch with cross supports holding up the roof of
+the porch. The house itself is made out of a unique pale {rred{x
+polished brick material of clay and mortar. The estate house
+is one of the only in Renfall constructed of this expensive
+material.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 1154
+D3
+~
+~
+0 0 1152
+M 20 H 20
+S
+#1154
+East side of the estate~
+The pale {rred{x brick of the estate house is smooth in texture and
+cold to the touch. A pale {ccurtain{x flaps quietly in the breeze
+curtesy of an ajar window here. Someone has been incredibly lax in
+leaving such an easy entrance to the guarded interior of the estate.
+A loose floorboard in the porch creaks loudly around the front as 
+something heavy moves over it. The window could probably be opened
+further to gain access to the inside with a little effort.
+~
+0 0 0
+0
+1
+2
+D2
+~
+~
+0 0 1153
+D3
+~
+window~
+9 0 1157
+M 20 H 20
+S
+#1155
+A brightly lit hallway~
+A brightly lit hallway leads from the front porch through the
+interior of the house. Your feet sink into the deep {Wwhite{x shag
+carpet underfoot. The pale {rclay{x walls of the house are lined
+with gold framed family portraits. A door to the east leads to a
+formal sitting room for guests to the estate.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1158
+D1
+~
+pinedoor~
+1 0 1156
+D2
+~
+frontdoor~
+1 0 1152
+M 20 H 20
+S
+#1156
+A tasteful sitting room~
+A low leather couch faces its twin across a polished oak round
+table between them. The shag {Wcarpet{x from the hall extends in
+to the sitting room. Lamps in the four corners of the room bathe
+the couches in ample lighting. An open doorway to the east leads
+to another room at the side of the house.
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 1157
+D3
+~
+~
+1 0 1155
+M 20 H 20
+S
+#1157
+A quiet study~
+Tall bookcases filled with dusty tomes and scrolls line the
+walls of the study. A square desk with a chair tucked neatly
+behind sits at the opposite end of the study. A {cpale{x curtain
+covers a window on the eastern wall of the study. A doorway to 
+the west leads to a formal sitting room with a deep shag carpet.
+~
+0 8 0
+0
+1
+2
+D1
+~
+window~
+9 0 1154
+D3
+~
+~
+0 0 1156
+M 20 H 20
+S
+#1158
+A brightly lit hallway~
+The pale {rclay{x walls of the house contrast nicely with the
+thick {Wwhite{x shag carpet underfoot. A formal dining room and
+kitchen area to the west lead to the rear of the estate. Stairs
+at the far end of the hallway reach the second floor and living
+quarters of the estate house.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 1155
+D3
+~
+~
+0 0 1159
+D4
+~
+~
+0 0 1162
+M 20 H 20
+S
+#1159
+A formal dining room~
+A long rounded dining table is centered in the room flanked
+on both sides by tall backed padded chairs. A linen doille runs
+the center of the table with a pewter candlebra placed in its
+center for lighting. A tall cabinet in the east corner of the
+room houses rare porcelain dishes for honored guests. A doubledoor
+to the west leads into the kitchen area where a master chef designs
+his culinary concoctions.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 1158
+D3
+~
+doubledoor~
+1 0 1160
+M 20 H 20
+S
+#1160
+A large kitchen~
+Rows of cabinets line the kitchen walls filled with all the latest
+in cooking gadgets and supplies. The reinforced door on the far wall
+guards access to the back of the estate. A swinging doubledoor leads
+further into the formal dining room. An uncooked roast awaits the
+master chef to prepare his latest culinary triumph on the counter.
+~
+0 8 0
+0
+1
+2
+D1
+~
+doubledoors~
+1 0 1159
+D3
+~
+backdoor~
+1 0 1161
+M 20 H 20
+S
+#1161
+Back yard of the estate~
+A tall stone and mortar wall encases the rear of the estate 
+grounds in its protective grasp. Neatly trimmed grass abuts
+the wall with a solitary elm growing nicely between them. The
+house rises roughly halfway up the height of the outer wall
+casting a truncated shadow across the majority of the rear yard.
+A porch railing on the side of the estate house leads around the
+side and towards the front.
+~
+0 0 2
+0
+1
+2
+D1
+~
+backdoor~
+1 0 1160
+M 20 H 20
+S
+#1162
+Second Floor~
+A wide hallway stretches through the interior of the house 
+towards the front of the estate. Doors leading to living
+quarters face off across the hallway. A nice plush carpet a
+slightly lesser shade of pale {rred{x matches the rare clay
+brick of the house. Stairs lead down here to the first floor
+first floor of the estate house and the front entrance.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 1163
+D5
+~
+~
+0 0 1158
+M 20 H 20
+S
+#1163
+A wide hallway~
+A wide hallway terminates in front of three similar doors, all 
+presumably leading to living quarters. The hallway is quiet with no
+telltale sounds of occupancy from any of the doors. With the thick
+carpeting throughout the estate muffling all footsteps, it is difficult
+to determine if anyone is about without checking behind the doors.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1162
+D1
+~
+~
+1 0 1164
+D2
+~
+~
+1 0 1165
+D3
+~
+~
+1 0 1166
+M 20 H 20
+S
+#1164
+A dark bedroom~
+The room is quite dark, thick lace curtains are drawn together
+tightly at the windows on the east wall. A tall trundle bed by
+the windows is neatly made, two pillows lay at the top of the
+bed. A matching dresser by the bed has a porcelain vase atop it
+with fresh flowers. A faint smell of {mlavender{x lingers in the
+air, an aftertaste of someones pricey perfume.
+~
+0 8 0
+0
+1
+2
+D3
+~
+~
+1 0 1163
+M 20 H 20
+S
+#1165
+A messy bedroom~
+Dirty clothing is piled in heaps in the four corners of
+the room. An unmade bed by the far corner has its covers half
+of the bed, its sheets all askew. A matching dresser for clothing
+is open, clean clothing spilling out of its drawers. An open window
+across from the bed allows welcome fresh air into the stagnant body
+odor filled bedroom.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+1 0 1163
+M 20 H 20
+S
+#1166
+A comfortable sitting room~
+The room is tastefully arranged with comfortable chairs facing a
+set of glass and wood patio doors on the west wall. A doorway to
+the north leads towards a darkened bedroom. An unlit fireplace on
+the far wall is inset into the clay brick of the house for heat 
+during the cold winter months. A series of family portraits over
+the fireplace depict the family members over the years as they
+grow older together.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1167
+D1
+~
+~
+1 0 1163
+D3
+~
+~
+0 0 1168
+M 20 H 20
+S
+#1167
+The master bedroom~
+A large king sized bed dominates the room easily filling
+the far wall. An elaborate silk canopy over the bed is dressed
+with fine silk embroidered with custom pearl settings. A thick
+plush carpet underfoot similar to the one on the first floor is
+an immaculate shade of bright {Wwhite{x. A matching mahogany chest
+and dresser combo stand opposite each other in the far corners of
+the room.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 1166
+M 20 H 20
+S
+#1168
+Overlooking the estate~
+A thick chest high railing encircles the outside balcony of
+the estate overlooking the grounds below. The view from here
+is quite nice, the sunrise and sunset from this vantage point
+would be quite impressive. The lush green grass of the estate
+extends out towards the rather ugly stone and mortar walls that
+encase it. A glass and wood patio door to the east lead inward
+into the master sitting room of the estate.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1166
+M 20 H 20
+S
+#1169
+Elderad Way~
+Elderad Way begins to slope upwards following the gentle contours
+of the land. To the northwest, the temple of Renfall sits on a
+steep hilltop overlooking the area. A private walled estate is
+visible to the southeast off a wide dirt path. A small cluster of
+buildings to the south marks Piety Square and the ramp to lower
+Renfall.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1170
+D2
+~
+~
+0 0 1147
+M 20 H 20
+S
+#1170
+Elderad Way~
+The ornate temple of Renfall rises atop a tall hilltop to the
+west. Wide stone slabs forming steps lead up the steep hill towards
+the temple entrance. The temple is one of the oldest buildings still
+standing in the city and has seen much over the years. Its presence
+atop the hill predates the majority of the buildings that have grown
+up around it over the years. A wide stone pavilion before the castle
+is directly to the north bustling with activity.
+~
+0 4 1
+0
+1
+2
+D0
+~
+~
+0 0 1176
+D2
+~
+~
+0 0 1169
+D4
+~
+~
+0 0 1171
+M 20 H 20
+S
+#1171
+Approaching the temple~
+Wide stone slabs ease the steep climb towards the temple rising
+upwards at a slight pitch. The ornate stone and wood doors of the
+temple are always unlocked to welcome all those who seek guidance
+regardless of personal faith. The twin turrets of Castle Renfall
+are clearly visible not far to the north of here. A distant jumble
+of buildings to the south leads towards the lower area of the city.
+~
+0 0 1
+0
+1
+2
+D4
+~
+~
+0 0 1172
+D5
+~
+~
+0 0 1170
+M 20 H 20
+S
+#1172
+Before the temple of Renfall~
+An ornate temple rises at the top of the hilltop looking
+down over the city of Renfall. The architecture of the building
+is quite old, large cracks and seams are clearly visible in its
+outer craggy facade. Twin doors leading into the temple welcome
+all those who seek spiritual guidance regardless of personal god
+or religion. A covy of pigeons roost on the upper stanchions of 
+the temple, flying about the top of the temple from nest to nest.
+~
+0 0 1
+0
+1
+2
+D3
+~
+twin-doors~
+1 0 1173
+D5
+~
+~
+0 0 1171
+M 20 H 20
+S
+#1173
+The cloister of the temple~
+It is curiously cool within the temple, the high domed ceiling
+overhead supported by thick support columns of solid stone. The hardwood
+floor underfoot shines like glass reflecting your visage like a mirror.
+A wide path leads through twin rows of wooden pews all facing towards
+the altar at the rear of the temple. Twin doors of glass and wood lead
+back out of the temple towards the awaiting city.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+1 0 1172
+D3
+~
+~
+0 0 1174
+M 20 H 20
+S
+#1174
+Approaching the altar~
+Twin rows of wooden pews flank a wide carpeted path towards
+the altar of the temple. The impressive white marble and gold
+altar of the temple rises high to the north topped by a large
+holy symbol of pure gold. Stained glass windows depicting the various
+acknowledged gods of the realms allow ample outside light into the
+temple. A somber silence hangs over the temple, comforting and peaceful
+in its serene passiveness.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1175
+D1
+~
+~
+0 0 1173
+M 20 H 20
+S
+#1175
+Before the altar~
+An impressive altar rises against the far end of the temple of {Wwhite{x
+marble and {Yg{Wo{Yl{Wd{x. A large symbol of the gods hangs high over the altar
+supported by long slender chains attached to a low hanging support beam.
+A round stone basin of holy water sits beside the altar filled to the brim
+with crystal {Be{Cl{Bi{Cx{Bi{Cr{x. A sense of purity and safety envelopes the altar
+promising hope and peace if only one can believe.
+~
+0 1311752 0
+0
+1
+2
+D2
+~
+~
+0 0 1174
+M 20 H 20
+S
+#1176
+A wide pavillion~
+A wide stone pavillion covers the area here busy with passing
+nobles and visiting dignitaries. Much of the official business of
+the city is dealt with along the pavilion before ever reaching the
+castle. Being one of the largest and most influential cities on the
+continent, the city sees a constant influx of foreigners petitioning
+the city for a myriad of problems. The ruling underclass of nobles 
+wheel and deal along the pavilion constantly wrangling with the 
+dignitaries petitions for aid.
+~
+0 0 1
+0
+1
+2
+D2
+~
+~
+0 0 1170
+D3
+~
+~
+0 0 1177
+M 20 H 20
+S
+#1177
+A wide stone pavilion~
+Bland stone encases the pavilion in uniform grey under the looming
+presence of the castle. A series of {Rc{Wo{Yl{Ro{Wr{Yf{Ru{Wl{x tents are pitched on
+the pavilion by local merchants hawking their wares. A lot of foreign 
+visitors to the area makes for easy coin for the wily merchants. Many
+a foolish visitor has been fleeced without even knowing of it.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1185
+D1
+~
+~
+0 0 1176
+D3
+~
+~
+0 0 1178
+M 20 H 20
+S
+#1178
+A wide stone pavilion~
+Constant foot traffic mills about the pavilion, visitors to the
+city seeking aid for their local problems amidst a crowd of ruling
+noblemen. A squat building housing a local pub is nestled to the west
+of here against the high outer stone wall encircling the city. A crisp
+breeze blows through the open pavilion stirring some loose trash high
+into the air.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1184
+D1
+~
+~
+0 0 1177
+D3
+~
+~
+0 0 1179
+M 20 H 20
+S
+#1179
+A wide stone pavilion~
+Large uniform blocks of bland stone cover the pavilion, the high
+outer wall of the city rising high above it. A circular stone and
+wood bench was placed here for visitors to take a break from their
+travels. The pavilion sees a constant stream of visiting dignitaries
+mixing with the ruling subclass of the city. A busy pub to the south
+caters to the visitors in a building nestled in the corner of the
+pavilion.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1183
+D1
+~
+~
+0 0 1178
+D2
+~
+~
+0 0 1180
+M 20 H 20
+S
+#1180
+Pavilion Pub~
+The pub is crowded, wide wooden benches lining similar tables
+and stools. The pub caters to all types of clientele, wide eyed
+visitors to the city mix with regular working class citizens. A
+few well dressed nobles mingle with the crowd intent on a quick
+drink between diplomatic wrangling. The atmosphere is friendly
+enough and there is seldom any trouble within the pub.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1179
+M 20 H 20
+S
+#1181
+Within the tents~
+The {Rc{Wo{Yl{Ro{Wr{Yf{Ru{Wl{x fabric of the tent is far less glorious on the
+inside. A rickety wood counter leans precariously at the back
+displaying a variety of pills and potions. A thin circular reed
+rug covers the cold stone floor. The strong smell of cured hides
+and oiled steel wafts from the flap on the west wall. A similar
+flap leads back out to the pavilion.
+~
+0 8 0
+0
+1
+2
+D3
+~
+~
+0 0 1182
+M 20 H 20
+S
+#1182
+Within the tents~
+The smell of freshly cured hides and oiled steel fills the
+cluttered tent with its masculine aromas. Two round wooden casks
+support a large counter filled with assorted armors and weapons on
+display. The majority of the wares here are poorly made, the armors
+ill-fitting to the discerning shopper. The prices are also well above
+the norm found elsewhere in the city for more quality goods. A flap
+in the tent to the east leads towards a similar tent selling so-called
+'medical miracles'.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 1181
+M 20 H 20
+S
+#1183
+A wide stone pavilion~
+Giant bland stone blocks rise high above the city pavilion comprising
+the large outer wall of the city. Visiting dignitaries mill about with
+the occasional visitor to the city government district. A busy pub beckons
+to the thirsty to the nearby south of here. A colorful flag sways in the wind
+above the portcullis leading to the castle to the near north.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1184
+D2
+~
+~
+0 0 1179
+M 25 H 25
+S
+#1184
+A wide stone pavilion~
+A few colorful tents have been erected to the south of here
+displaying their somewhat disreputable wares to the unwary. A colorful
+flag bearing the city seal flaps merrily in the breeze ahead. A heavily
+armored steel and iron portcullis rises high blocking entrance into the
+fortified castle of the city.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1186
+D1
+~
+~
+0 0 1185
+D2
+~
+~
+0 0 1178
+D3
+~
+~
+0 0 1183
+M 25 H 25
+S
+#1185
+A wide stone pavilion~
+A wide stone pavilion stretches out on the outskirts of the
+mammoth Castle Renfall. The castle looms high on the horizon
+nestled safely on the northern most tip of the city itself. A well
+guarded portcullis is near at hand blocking entrance into the castle
+proper nearby.
+~
+0 0 1
+0
+1
+2
+D2
+~
+~
+0 0 1177
+D3
+~
+~
+0 0 1184
+M 25 H 25
+S
+#1186
+Approaching Castle Renfall~
+A wide stone ramp leads up to a well-guarded iron and steel
+portcullis directly ahead. Without the proper credentials, it is
+extremely difficult to gain entrance to the castle proper. The heavy
+portcullis serves as a front line of defense to the castle, in its many
+years its sturdy exterior has never been threatened. Still it provides a
+formidable obstacle to a hostile invader.
+~
+0 0 1
+0
+1
+2
+D2
+~
+~
+0 0 1184
+D4
+~
+~
+0 0 1187
+M 25 H 25
+S
+#1187
+Before Castle Renfall~
+A giant steel and iron portcullis bars entrance to the castle
+proper here. Armed sentries guard the portcullis, its elaborate opening
+mechanisms heavily guarded. Without the proper credential entry is all but
+impossible from this direction. A colorful flag bearing the seal of the royal
+family flaps quietly in the breeze high overhead.
+~
+0 4 1
+0
+1
+2
+D5
+~
+~
+0 0 1186
+M 25 H 25
+S
+#1199
+Backroom of the Pavilion Pub~
+A dim murmur of conversation drifts in from the closed curtains leading
+to the small room. The room is dimly lit by a brass lantern affixed to the
+far wooden wall. A small table with a few comfortable padded chairs comprise
+the contents of the room. The room is provided to select clientele of the
+pub who conduct their business here with discretion and a modicum of
+privacy. Silk curtains across the doorway allow people to protect their
+anonymity from the pub patrons. 
+~
+0 8 0
+0
+1
+2
+D1
+~
+curtains~
+1 0 1180
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+M 1116 spec_janitor
+M 1118 spec_cast_mage
+M 1119 spec_cast_mage
+M 1143 spec_patrolman
+S
+
+
+
+#RESETS
+D 0 1107 3 1
+D 0 1108 1 1
+D 0 1109 3 1
+D 0 1112 1 1
+D 0 1117 3 1
+D 0 1118 1 1
+D 0 1119 0 1
+D 0 1119 2 1
+D 0 1120 2 1
+D 0 1123 0 1
+D 0 1124 3 1
+D 0 1125 1 1
+D 0 1125 3 2
+D 0 1127 1 2
+D 0 1141 0 1
+D 0 1141 3 1
+D 0 1142 2 1
+D 0 1143 1 1
+D 0 1144 2 1
+D 0 1145 0 1
+D 0 1149 0 2
+D 0 1150 2 2
+D 0 1152 0 2
+D 0 1154 3 1
+D 0 1155 1 1
+D 0 1155 2 2
+D 0 1156 3 1
+D 0 1157 1 1
+D 0 1159 3 1
+D 0 1160 1 1
+D 0 1160 3 2
+D 0 1161 1 2
+D 0 1163 1 1
+D 0 1163 2 1
+D 0 1163 3 1
+D 0 1164 3 1
+D 0 1165 0 1
+D 0 1166 1 1
+D 0 1172 3 1
+D 0 1173 1 1
+D 0 1199 1 1
+O 0 1101 0 1102 A crystal fountain loaded to Piety Square
+M 0 1115 3 1102 10 Load a bluebird
+O 0 1100 0 1103 A wide wooden bench loaded to A pleasant alcove
+O 0 1100 0 1104 A wide wooden bench loaded to A quiet alcove
+M 0 1116 2 1106 10 Load a street worker
+E 0 1135 0 15 A long handled wooden broom is loaded wielded of a street worker
+O 0 1103 0 1110 A small oak podium loaded to Training Room
+P 0 1104 1 1103 15 A training manual put inside a training manual
+O 0 1102 0 1110 A canvas cot loaded to Training Room
+O 0 1102 0 1110 A canvas cot loaded to Training Room
+O 0 1102 0 1111 A canvas cot loaded to Advanced Training Room
+O 0 1102 0 1111 A canvas cot loaded to Advanced Training Room
+M 0 1100 1 1112 1 Load Tildus the master cleric of Renfall
+M 0 1115 2 1113 10 Load a bluebird
+M 0 1116 2 1113 10 Load a street worker
+E 0 1135 0 15 A long handled wooden broom is loaded wielded of a street worker
+M 0 1101 1 1121 3 Load Jeranz the quartermaster
+M 0 1102 1 1122 3 Load a sweaty trainee
+E 0 1110 0 5 A leather harness is loaded on the body of a sweaty trainee
+O 0 1111 0 1122 An iron weight loaded to Weight Training
+M 0 1104 3 1123 3 Load a tired squire
+G 0 18 0 A dummy loot piece is given to a tired squire
+M 0 1104 3 1123 3 Load a tired squire
+G 0 18 0 A dummy loot piece is given to a tired squire
+M 0 1104 3 1123 3 Load a tired squire
+G 0 18 0 A dummy loot piece is given to a tired squire
+O 0 1102 0 1123 A canvas cot loaded to A quiet barracks
+O 0 1102 0 1123 A canvas cot loaded to A quiet barracks
+O 0 1102 0 1123 A canvas cot loaded to A quiet barracks
+O 0 1102 0 1123 A canvas cot loaded to A quiet barracks
+M 0 1103 1 1126 3 Load Rendrick the Paladin Guildmaster
+M 0 1110 3 1129 15 Load a wide eyed visitor
+G 0 1130 0 A pill of renewal is given to a wide eyed visitor
+M 0 1106 3 1131 5 Load a {Bcolorful{x bird
+M 0 1105 3 1134 5 Load a hooded druid
+E 0 1115 0 11 A hooded {ge{gme{gra{gl{gd{x{w robe is loaded about the shoulders of a hooded druid
+M 0 1107 1 1135 1 Load Arbina the Master Druid
+M 0 1114 2 1136 10 Load a cleric neophyte
+E 0 1108 0 11 A {wwhite{x leather cloak is loaded about the shoulders of a cleric neophyte
+M 0 1112 5 1137 15 Load a young noble
+O 0 1192 0 1138 A gazebo loaded to Elderad Square
+M 0 1110 4 1138 15 Load a wide eyed visitor
+M 0 1113 5 1138 15 Load a local resident
+O 0 1120 0 1139 A padded bench loaded to A small gazebo
+M 0 1108 1 1142 3 Load Luellen
+G 0 1122 0 An odd {bg{bl{wi{bt{bt{we{br{bi{wn{bg{x {wstone{x is given to Luellen
+M 0 1109 1 1143 3 Load Colbert the Clothier
+G 0 1125 0 A black silk cape is given to Colbert the Clothier
+G 0 1126 0 Black silk dress pants is given to Colbert the Clothier
+G 0 1127 0 A flamboyand silk dress shirt is given to Colbert the Clothier
+M 0 1110 3 1146 15 Load a wide eyed visitor
+M 0 1113 4 1147 15 Load a local resident
+M 0 1142 2 1147 10 Load a paunchy noble
+E 0 1133 0 12 A velveteen money pouch is loaded around the waist of a paunchy noble
+P 0 1134 1 1133 1 A pile of coins put inside a pile of coins
+M 0 1120 1 1149 3 Load a taciturn guard
+E 0 1112 0 15 A {ybronze{x halberd is loaded wielded of a taciturn guard
+E 0 1117 0 5 Light {ybronze{x armor is loaded on the body of a taciturn guard
+E 0 1114 0 16 A {ybronze{x buckler is loaded as a shield of a taciturn guard
+M 0 1122 1 1150 3 Load a guard dog
+M 0 1122 2 1151 3 Load a guard dog
+M 0 1121 1 1152 3 Load an estate guard
+E 0 1117 0 5 Light {ybronze{x armor is loaded on the body of an estate guard
+E 0 1113 0 15 A {yb{wr{yo{wn{yz{we {yd{wa{yg{wg{ye{x{wr{x is loaded wielded of an estate guard
+E 0 1114 0 16 A {ybronze{x buckler is loaded as a shield of an estate guard
+M 0 1121 2 1154 3 Load an estate guard
+E 0 1117 0 5 Light {ybronze{x armor is loaded on the body of an estate guard
+E 0 1113 0 15 A {yb{wr{yo{wn{yz{we {yd{wa{yg{wg{ye{x{wr{x is loaded wielded of an estate guard
+M 0 1123 2 1155 3 Load a large estate guard
+E 0 1117 0 5 Light {ybronze{x armor is loaded on the body of a large estate guard
+E 0 1113 0 15 A {yb{wr{yo{wn{yz{we {yd{wa{yg{wg{ye{x{wr{x is loaded wielded of a large estate guard
+M 0 1123 2 1158 4 Load a large estate guard
+E 0 1117 0 5 Light {ybronze{x armor is loaded on the body of a large estate guard
+E 0 1112 0 15 A {ybronze{x halberd is loaded wielded of a large estate guard
+M 0 1124 1 1160 1 Load the master chef
+E 0 1107 0 12 A {wwhite{x apron is loaded around the waist of the master chef
+E 0 1106 0 18 A shiny cleaver is loaded held in the hands of the master chef
+G 0 18 0 A dummy loot piece is given to the master chef
+M 0 1123 2 1163 3 Load a large estate guard
+E 0 1112 0 15 A {ybronze{x halberd is loaded wielded of a large estate guard
+E 0 1117 0 5 Light {ybronze{x armor is loaded on the body of a large estate guard
+G 0 18 0 A dummy loot piece is given to a large estate guard
+M 0 1125 1 1167 1 Load Lady Elderad
+E 0 1118 0 5 A gauzy dressing gown is loaded on the body of Lady Elderad
+E 0 1119 0 18 An antique wooden hair brush is loaded held in the hands of Lady Elderad
+M 0 1126 1 1168 1 Load Lord Elderad
+E 0 1121 0 11 An ermine robe is loaded about the shoulders of Lord Elderad
+M 0 1113 2 1170 15 Load a local resident
+M 0 1127 1 1175 3 Load the High Priest of Renfall
+M 0 1110 2 1176 15 Load a wide eyed visitor
+M 0 1116 4 1176 10 Load a street worker
+M 0 1128 10 1176 10 Load a sleek black cat
+M 0 1113 2 1177 15 Load a local resident
+O 0 1194 0 1178 A colorful tent loaded to A wide stone pavilion
+M 0 1143 2 1178 12 Load a pavilion guard
+E 0 1117 0 5 Light {ybronze{x armor is loaded on the body of a pavilion guard
+E 0 1112 0 15 A {ybronze{x halberd is loaded wielded of a pavilion guard
+M 0 1110 2 1179 15 Load a wide eyed visitor
+G 0 1131 0 A tablet of {cs{ba{cf{be {ct{br{ca{bv{ce{bl{cs{x is given to a wide eyed visitor
+M 0 1112 10 1179 2 Load a young noble
+M 0 1143 2 1179 12 Load a pavilion guard
+E 0 1117 0 5 Light {ybronze{x armor is loaded on the body of a pavilion guard
+E 0 1112 0 15 A {ybronze{x halberd is loaded wielded of a pavilion guard
+E 0 1114 0 16 A {ybronze{x buckler is loaded as a shield of a pavilion guard
+M 0 1118 1 1180 1 Load an elderly elven man
+M 0 1111 1 1180 3 Load Molly the barmaid
+M 0 1112 10 1180 2 Load a young noble
+E 0 1126 0 7 Black silk dress pants is loaded on the legs of a young noble
+E 0 1125 0 11 A black silk cape is loaded about the shoulders of a young noble
+E 0 1127 0 5 A flamboyand silk dress shirt is loaded on the body of a young noble
+M 0 1117 10 1180 2 Load a tipsy dwarven patron
+E 0 1142 0 7 Copper chainmail leggings is loaded on the legs of a tipsy dwarven patron
+E 0 1143 0 15 A flanged battleaxe is loaded wielded of a tipsy dwarven patron
+E 0 1141 0 5 A {ycopper{x chainmail tunic is loaded on the body of a tipsy dwarven patron
+M 0 1140 1 1181 3 Load Alphonse the Clerk
+G 0 1130 0 A pill of renewal is given to Alphonse the Clerk
+G 0 1131 0 A tablet of {cs{ba{cf{be {ct{br{ca{bv{ce{bl{cs{x is given to Alphonse the Clerk
+O 0 1195 0 1181 A flap exit loaded to Within the tents
+M 0 1141 1 1182 3 Load Marz the shifty
+G 0 1132 0 The fabled bracers of protection is given to Marz the shifty
+M 0 1144 1 1185 1 Load a visiting dignitary
+E 0 1136 0 11 A cloak of elvenkind is loaded about the shoulders of a visiting dignitary
+E 0 1137 0 15 The long sword, envious {ddeath{x is loaded wielded of a visiting dignitary
+S
+
+
+
+#SHOPS
+1108 8 5 32 33 30 100 100 0 23
+0
+1109 9 0 0 0 0 110 90 0 23
+0
+1111 17 19 0 0 0 110 90 0 23
+0
+1140 26 10 0 0 0 90 130 0 23
+0
+1141 9 0 0 0 0 110 85 0 23
+0
+0
+
+
+
+#MOBPROGS
+#1100
+if carries $n 1190
+mob echoat $n Jeranz studies you intently for a moment...
+smile $n
+mob echoat $n Jeranz says to you in a deep booming voice:
+mob echoat $n "Don't be shy! Let me see that letter you have."
+else
+cough
+say What can I do for you today?
+endif
+~
+#1101
+mob echoat $n A graceful elven woman looks at you as you enter.
+mob echoat $n Her deep {Ge{gm{Ge{gr{Ga{gl{Gd{x eyes lock with yours.
+mob echoat $n Luellen say's to you in a soft voice.
+mob echoat $n "{CWelcome to Curious Antiquities{x"
+~
+#1102
+if level $n < 5
+mob echoat $n The guildmaster glances at you.
+mob echoat $n The guildmaster say's to you:
+mob echoat $n {Y"Welcome young one. You look like you could use a hand."{x
+mob echoat $n The guildmaster rummages through some papers on his desk.
+mob oload 1190
+give letter $n
+mob echoat $n {Y"Bring this to Jeranz. He'll get you started on the
+mob echoat $n right path."{x
+mob echoat $n The guildmaster turns and returns to his work.
+else
+say What can I do for you today?
+endif
+~
+#1103
+if ispc $n give == all
+say Sorry this is of no use to me.
+drop all
+endif
+~
+#1104
+if ispc $n give == 1190
+say Ahh hmm lets' see.
+mob echoat $n Jeranz sifts through a pile of weapons.
+say Here we go. This should make you a little more of a threat.
+laugh
+mob oload 1140
+give mace $n
+mob junk letter
+else
+say Sorry this is of no use to me.
+give $o $n
+endif
+~
+#1105
+if ispc $n or isimmort $n
+mob echoat $n The trainee wipes a sweaty palm across his tired face.
+endif
+~
+#1106
+if ispc $n
+mob echoat $n The guard collapses in a pool of blood.
+mob echoaround $n The guard collapses in a pool of blood.
+mob oload 1193 1 Room
+mob echoat $n A copper gate key falls from the guard's pocket.
+mob echoaround $n A copper gate key falls from the guard's pocket.
+endif
+~
+#1110
+mob echoat $n Something gleams in the corpse of the guard.
+oload 1193 none
+~
+#1111
+mob echo The money pouch on the noble hits the ground with a dull thud.
+mob echo A small pile of coins spill out of the pouch.
+mob oload 1134 1 R
+~
+#1115
+if ispc $n
+mob echoat $n A cleric's lifeless hand grasps a healing scroll.. too late.
+mob oload 1150 1 none
+endif
+~
+#1120
+if carries $n 1190
+mob echoat $n An elderly man motions to you to follow him.
+mob echoat $n Intrigued you follow the man behind some closed curtains...
+mob transfer $n 1199
+mob goto 1199
+Say I believe your guildmaster sent me a letter?
+mob echoat $n You hand the man the letter from your guildmaster.
+mob echoat $n The elderly man quickly reads the letter.
+mob remove $n letter
+mob junk letter
+sigh
+else
+if level $n > 5
+or isimmort $n
+sleep 3
+mob echoat $n An elderly man takes a leisurely sip from his drink.
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#1100
+if ispc $n or is immort $n
+room echo A heavy odour of stale sweat hangs heavy in the air.
+endif
+~
+#0
+
+#$

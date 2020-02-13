@@ -1,0 +1,805 @@
+#AREADATA
+Deprecated 0
+Name Limbo~
+Builders Upro~
+VNUMs 1 79
+Levels 1 50
+Credits Diku/Upro~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 9
+Flags 0
+Faction (null)~
+History (null)~
+End
+
+
+
+#MOBILES
+#1
+imp~
+a summoned mephit imp~
+(no long description)
+~
+(null)~
+~
+demon~
+A 0 J -1000 0
+0 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+FH A HLMOQ NS
+stand stand none 0
+AHMV ABCDEFGHIJKY medium
+ unknown
+F res C
+#2
+Tarrasque~
+the Tarrasque~
+This gargantuan bipedal creature is covered in huge spikes.
+~
+a gargantuan bipedal creature lumbers~
+~
+mountain giant~
+AFG CDE HJUV 0 0
+72 50 1500d5+20000 72d8+100 8d8+10 pound
+-45 -25 -40 -10
+CDFHIOVW ABLPQ HIRT CMNOP
+stand stand none 0
+AHMV ABCDEFGHIJKY gargantuan
+ unknown
+F res J
+F vul B
+#3
+shadow~
+an animated {Dshadow{x~
+An animated {Dshadow{x floats about.
+~
+~
+This animated {Dshadow{x appears to have little interest in it's surroundings. 
+~
+undead~
+AG 0 J 0 0
+10 10 10d8+20 10d8+100 0d0+0 drain
+0 0 0 0
+H M LOQ HNS
+stand stand none 0
+BHMV ABCGHIJU medium
+ unknown
+F off R
+F for A
+F par DEFKV
+#10
+fire elemental~
+a {Rfire{x elemental~
+An angry {Rfire{x elemental loiters about here.
+~
+an angry looking {Rfire{x elemental~
+This large {Rfire{x elemental does not appear at all to be happy to be here. 
+~
+elemental~
+AG 0 J 0 0
+10 7 1d18+54 2d16+100 1d4+4 flame
+2 2 2 2
+HV H C AIR
+stand stand none 9
+HM ABCDEGHIJK medium
+ unknown
+F for AV
+F par FY
+#11
+water elemental~
+a {Bwater{x elemental~
+An angry {Bwater{x elemental loiters about here.
+~
+An angry looking {Bwater{x elemental~
+This large {Bwater{x elemental does not appear at all happy to be here.
+~
+elemental~
+AG 0 J 0 0
+10 7 1d18+54 2d16+100 1d4+4 chill
+2 2 2 2
+HVW R I J
+stand stand none 9
+HM ABCDEGHIJK small
+ unknown
+F res C
+F vul A
+F for AV
+F par FY
+#12
+air elemental~
+an {Cair{x elemental~
+An angry {Cair{x elemental loiters about here.
+~
+An angry looking {Cair{x elemental~
+This large {Cair{x elemental does not appear at all happy to be here.
+~
+elemental~
+AG 0 J 0 0
+10 7 1d18+54 2d16+100 1d4+4 air
+2 2 2 2
+HVW EFG b Ta
+stand stand none 9
+HM ABCDEGHIJK small
+ unknown
+F res C
+F vul A
+F for AV
+F par FY
+#13
+air elemental~
+an {yearth{x elemental~
+An angry {yearth{x elemental loiters about here.
+~
+An angry looking {yearth{x elemental~
+This large {yearth{x elemental does not appear at all happy to be here.
+ 
+~
+elemental~
+AG 0 J 0 0
+10 7 1d18+54 2d16+100 1d4+4 earth
+2 2 2 2
+H FLZ GQa EHb
+stand stand none 9
+HM ABCDEGHIJK huge
+ unknown
+F res C
+F vul A
+F for AV
+F par FY
+#0
+
+
+
+#OBJECTS
+#1
+coin silver gcash~
+a silver coin~
+One miserable silver coin.~
+silver~
+0
+money 0 0 A
+A 0 0 0 0
+0 10 0 P
+#2
+coin gold gcash~
+a gold coin~
+One valuable gold coin.~
+gold~
+0
+money 0 0 A
+0 A 0 0 0
+0 10 0 P
+#3
+coins gold gcash~
+%d gold coins~
+A pile of gold coins.~
+gold~
+0
+money 0 0 A
+0 0 0 0 0
+0 10 0 P
+#4
+coins silver gcash~
+%d silver coins~
+A pile of silver coins.~
+silver~
+0
+money 0 0 A
+0 0 0 0 0
+0 10 0 P
+#5
+coins silver gold gcash~
+%d silver coins and %d gold coins~
+A pile of coins.~
+gold~
+0
+money 0 0 A
+0 0 0 0 0
+0 10 0 P
+#6
+scroll~
+a scroll~
+A scroll~
+parchment~
+0
+scroll 0 0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#7
+steak~
+a steak~
+A delicious looking steak lies here.~
+meat~
+0
+food 0 0 AO
+B AB 0 0 0
+0 0 0 P
+#8
+skin~
+an animal skin~
+The fur coat of some dead animal.~
+skin~
+0
+skin 0 0 AO
+0 0 0 0 0
+1 0 0 P
+#9
+rose~
+a red rose~
+A red rose is lying on the ground.~
+flower~
+0
+treasure 0 0 AEO
+0 0 0 0 0
+0 1 0 P
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+0
+npc_corpse 0 0 A
+0 0 0 A 0
+0 1000 0 D
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+0
+pc_corpse O 0 A
+0 0 0 A 0
+0 1000 0 D
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+meat~
+0
+trash 0 0 A
+0 0 0 0 0
+0 50 0 D
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+meat~
+0
+food 0 0 A
+E E 0 0 0
+1 20 0 D
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+meat~
+0
+food 0 0 A
+CE CE 0 0 0
+0 50 0 D
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+meat~
+0
+food 0 0 A
+CE CE 0 0 0
+0 50 0 D
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+meat~
+0
+food 0 0 A
+AC AC 0 A 0
+0 20 0 D
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+meat~
+0
+food 0 0 A
+BD BD 0 0 0
+0 20 0 D
+#18
+prototype~
+a dummy loot piece~
+A dummy random loot object~
+unknown~
+0
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#19
+herb~
+dummy herb~
+A plant of some sort is here.~
+plant~
+0
+herb 0 0 AO
+0 0 0 0 0
+0 0 0 P
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.~
+food~
+0
+food 0 0 A
+D D 0 0 0
+0 10 0 P
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+energy~
+0
+light A 0 A
+0 A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+water~
+0
+fountain G 0 0
+100000 100000 'water' 0 0
+0 0 0 P
+#23
+disc disk floating black~
+a floating disc~
+A floating black disc hangs in the air.~
+energy~
+0
+container GMPUYZ 0 AQ
+0 E 0 0 0
+0 0 0 P
+#24
+tree~
+a tree~
+(no description)~
+wood~
+0
+tree 0 0 0
+0 0 0 0 0
+0 0 0 P
+#25
+gate portal~
+a shimmering gate~
+A shimmering black gate rises from the ground, leading to parts unknown.~
+shadow~
+0
+portal GOT 0 0
+0 0 0 0 0
+0 0 0 P
+#26
+blood pool~
+a pool of blood~
+A pool of blood coagulates here.~
+blood~
+0
+blood_pool 0 0 0
+0 0 0 0 0
+0 0 0 P
+#27
+tracks~
+tracks~
+You see a set of tracks here.~
+unknown~
+0
+tracks 0 0 0
+0 0 0 0 0
+0 0 0 P
+#28
+dummy potion~
+a dummy potion~
+A dummy potion~
+glass~
+0
+potion 0 0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 1 0 P
+#30
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existent objects~
+~
+0
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#31
+ring silver thick~
+a thick silver ring~
+A thick silver ring with an oak leaf inlay.~
+silver~
+0
+wand 0 0 AB
+8 25 25 'cure serious' 0
+1 1 100 P
+A
+13 5
+A
+12 5
+A
+30 2
+A
+19 2
+E
+ring~
+The ring is inscribed with the following:
+Given for unwavering devotion in finding and testing
+during the alpha phase of construction! Our thanks to
+you!
+~
+#35
+prototype wand~
+prototype wand~
+Prototype wand~
+unknown~
+0
+wand 0 0 0
+0 0 0 'reserved' 0
+0 0 0 P
+#36
+dummy bandage~
+dummy bandage~
+Dummy bandage~
+unknown~
+0
+bandage 0 0 A
+0 0 0 0 0
+0 0 0 P
+#37
+treasure chest~
+a treasure chest~
+A treasure chest is here, yearning to be opened.~
+wood~
+0
+container 0 0 A
+100 ACD 0 200 500
+0 0 0 P
+#38
+pouch~
+a pouch~
+A pouch~
+denim~
+0
+container 0 0 A
+10 AC 0 30 50
+1 0 5 P
+#39
+fire~
+a small magical fire~
+A small magical {Rf{Yi{Rr{Ye{x.~
+unknown~
+0
+fire 0 0 0
+0 0 0 0 0
+0 0 0 P
+#40
+dragon scale~
+a dragon scale~
+A dragon scale~
+dragon hide~
+0
+treasure 0 0 AO
+0 0 0 0 0
+0 0 0 P
+#41
+guardian orb~
+an orb of the {YGuardian{x clan~
+An orb of the {YGuardian{x clan is here.~
+glass~
+0
+light AHPTZ E AO
+0 A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 0 P
+A
+19 3
+A
+17 -10
+A
+13 25
+#42
+conclave orb~
+an orb of the {cConclave{x clan~
+An orb of the {cConclave{x clan is here.~
+glass~
+0
+light AHPTZ 0 AO
+0 A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 0 P
+A
+12 25
+A
+30 3
+A
+28 5
+#43
+acolyte orb~
+an orb of the {WAcolyte{x clan~
+An orb of the {WAcolyte{x clan is here.~
+glass~
+0
+light AHPTZ 0 AO
+0 A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 0 P
+A
+13 15
+A
+12 15
+A
+20 -4
+#44
+ravager orb~
+an orb of the {RRavager{x clan~
+An orb of the {RRavager{x clan is here.~
+glass~
+0
+light AHPTZ 0 AO
+0 A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 0 P
+A
+29 15
+A
+28 15
+#45
+obisidan orb~
+an orb of the {DObsidian{x clan~
+An orb of the {DObsidian{x clan is here.~
+glass~
+0
+light AHPTZ 0 AO
+0 A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 0 P
+A
+18 2
+A
+19 2
+A
+17 -25
+#46
+song orb~
+an orb of the {BSong{x clan~
+An orb of the {BSong{x clan is here.~
+glass~
+0
+light AHPTZ 0 AO
+0 A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 0 P
+A
+14 15
+A
+13 15
+A
+26 3
+#47
+corsair~
+an orb of the {mCorsair{x clan~
+An orb of the {mCorsair{x clan is here.~
+glass~
+0
+light AHPTZ 0 AO
+0 A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 0 P
+A
+14 25
+A
+18 3
+A
+2 1
+#48
+Jaezred Chaulssin orb~
+an orb of the {yJaezred Chaulssin{x~
+An orb of the {yJaezred Chaulssin{x is here.~
+glass~
+0
+light AHPTZ 0 AO
+0 A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 0 P
+A
+13 10
+A
+20 -3
+A
+19 2
+#49
+bregan d'aerthe orb~
+an orb of the {DBregan D'aerthe{x~
+An orb of the {DBregan D'aerthe{x is here.~
+glass~
+0
+light AHPTZ 0 AO
+0 A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 0 P
+A
+18 2
+A
+2 1
+A
+3 1
+A
+14 30
+#50
+clan vault guardian~
+the {YGuardian{x clan vault~
+The {YGuardian{x clan vault is here.~
+unknown~
+0
+container A E 0
+8000 0 0 8000 1
+50 0 0 P
+#51
+clan vault conclave~
+the {cConclave{x clan vault~
+The {cConclave{x clan vault is here.~
+unknown~
+0
+container A E 0
+8000 0 0 8000 1
+50 0 0 P
+#52
+clan vault acolyte~
+the {WAcolyte{X clan vault~
+The {WAcolyte{X clan vault is here.~
+unknown~
+0
+container A E 0
+8000 0 0 8000 1
+50 0 0 P
+#53
+clan vault ravager~
+the {RRavager{x clan vault~
+The {RRavager{x clan vault is here.~
+unknown~
+0
+container A E 0
+8000 0 0 8000 1
+50 0 0 P
+#54
+clan vault obsidian~
+the {DObsidian{x clan vault~
+The {DObsidian{x clan vault is here.~
+unknown~
+0
+container A E 0
+8000 0 0 8000 1
+50 0 0 P
+#55
+clan vault song~
+the {BSong{x clan vault~
+The {BSong{x clan vault is here.~
+unknown~
+0
+container A E 0
+8000 0 0 8000 1
+50 0 0 P
+#56
+clan vault corsair~
+the {mCorsair{x clan vault~
+The {mCorsair{x clan vault is here.~
+unknown~
+0
+container A E 0
+8000 0 0 8000 1
+50 0 0 P
+#57
+clan vault jaezred~
+the {yJaezred Chaulssin{x clan vault~
+The {yJaezred Chaulssin{x clan vault is here~
+unknown~
+0
+container A E 0
+8000 0 0 8000 1
+50 0 0 P
+#58
+clan vault bregan d'aerthe daerthe~
+the {DBregan D'aerthe{x clan vault~
+The {DBregan D'aerthe{x clan vault is here.~
+unknown~
+0
+container A E 0
+8000 0 0 8000 1
+50 0 0 P
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+You are floating in nothing.
+~
+0 8204 0
+0
+1
+2
+D4
+~
+~
+0 0 1010
+M 1 H -1
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 8 0
+0
+1
+2
+D4
+~
+~
+0 -1 1
+M 100 H 1
+S
+#3
+The Apex of Reality~
+Endless cascading gradients of gray to black flood the panarama of scenery
+as far as the eye can see. 
+~
+0 537919492 21
+0
+0
+0
+M 1 H 1
+S
+#11
+The Void~
+You are floating in nothing.
+~
+0 12 0
+0
+1
+2
+M 100 H 1
+S
+#20
+~
+~
+0 4 0
+0
+0
+0
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

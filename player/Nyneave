@@ -1,0 +1,294 @@
+#PLAYER
+Name Nyneave~
+Id   1578442756
+LogO 1578454722
+Vers 11
+Blind 0
+Boon 8
+Prom <%hhp %mm %vmv> ~
+Race halfling~
+Sex  2
+Cla  1
+God	5
+Favored 0
+GuildRnk  0
+GuildPts  107
+Levl 7
+Sec  0
+Plyd 10923
+Email mlgoerdt@yahoo.com~
+Citizen (null)~
+Scro 22
+Room 1173
+HMV  60 60 139 139 156 156
+Talent 0
+PP 0 0
+Gold 6
+Silv 61
+BAcct 0
+Bank 0
+Exp  78807
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 2
+Eyes 4
+Hair 2
+Haircut 2048
+Age 31
+Account ~
+Recall 1010
+Act  CDGKQT
+Comm NOP
+Pos  8
+Prac 21
+Trai 1
+Alig  500
+Hit   1
+Dam   4
+ACs 89 92 89 92
+Attr 11 15 20 16 16 11
+AMod 0 0 0 0 0 0
+Pass ~
+Titl .~
+PreT {WAcolyte{x ~
+Cond	1
+Pnts 0
+TSex 2
+LLev 2
+HMVP 58 139 156
+Cnd  0 0 27 5 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 318
+36 -1623326719
+35 203883264
+0 2
+71 -264733184
+72 106497
+73 16744454
+68 -16777215
+69 536870910
+31 -63743
+32 1048570
+34 536866944
+62 458752
+63 813177858
+64 -604012479
+65 2046
+159 12288
+160 4
+74 65532
+165 204472320
+90 66060288
+91 536870912
+33 8
+42 4194302
+192 520192
+187 -604045311
+188 254
+190 120586240
+191 56
+41 -217121279
+37 8323086
+39 -8191
+40 6144
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 14 'bless'
+Sk 28 'create food'
+Sk 14 'cure light'
+Sk 1 'cure poison'
+Sk 14 'detect poison'
+Sk 14 'refresh'
+Sk 29 'mace'
+Sk 40 'first aid'
+Sk 1 'hide'
+Sk 1 'sneak'
+Sk 14 'scrolls'
+Sk 14 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'cleric basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0
+0
+0
+0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 0
+0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Cond 85
+Wear -1
+Time 523
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Cond 77
+Wear -1
+Time 984
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Cond 88
+Wear -1
+Time 922
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Cond 79
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Cond 79
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 600
+Nest 0
+Cond 84
+Wear 15
+Cost 250
+End
+
+#O
+Vnum 102
+Nest 0
+Cond 81
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 2210
+Nest 0
+Cond 88
+Wear 5
+Cost 60
+End
+
+#O
+Vnum 2202
+Nest 0
+Cond 76
+Wear -1
+Time 682
+Cost 20
+Spell 1 'cure light'
+Spell 2 'cure poison'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 1089
+Nest 0
+Cond 85
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Cond 95
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Cond 77
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Cond 90
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Cond 94
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Cond 81
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 2202
+Nest 0
+Cond 92
+Wear -1
+Time 644
+Cost 20
+Spell 1 'cure light'
+Spell 2 'cure poison'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 2216
+Nest 0
+Cond 83
+Wear -1
+Cost 100
+End
+
+#END

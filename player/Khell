@@ -1,0 +1,721 @@
+#PLAYER
+Name Khell~
+Id   1580788196
+LogO 1580917991
+Vers 11
+Blind 0
+Boon 0
+WalkDesc  a reptilian~
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race lizardman~
+Clan loner~
+Clan_Rank 0
+Clan_Points 0
+Sex  1
+Cla  8
+God	1
+Favored 0
+GuildRnk  1
+GuildPts  247
+Levl 11
+Sec  0
+Plyd 10144
+Email (null)~
+Citizen renfall~
+Scro 22
+Room 1095
+HMV  110 103 211 195 31 212
+Bleed 1
+Talent 0
+PP 0 0
+Gold 307
+Silv 3185
+BAcct 0
+Bank 0
+Exp  849959
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 242
+Age 10
+Account Dezadryk~
+Recall 1010
+Act  CDEGHKQT
+Comm NOP
+Pos  8
+Prac 35
+Trai 2
+Alig  -250
+Hit   3
+Dam   4
+ACs 65 75 67 68
+Attr 21 15 18 20 23 16
+AMod 0 2 2 0 1 4
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 2
+HMVP 98 159 192
+Cnd  0 0 24 43 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 572
+70 126
+290 1048576
+91 268469262
+90 -1074790399
+69 1342169088
+68 251658240
+77 4094
+76 -32767
+130 6
+129 2139095151
+128 -31
+818 14
+816 -98361
+817 -1
+815 -1048575
+64 16352
+63 -798489598
+62 -65535
+40 6144
+39 -8191
+37 8323072
+43 3598
+41 -511
+42 2147483647
+75 1048574
+74 16777213
+34 1052766350
+73 268435454
+32 -67108865
+33 -1056996801
+31 -255
+21 30
+19 -2064122882
+20 -131055
+18 1056964608
+72 -1527251509
+71 -268304895
+35 201786112
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 60 'bless'
+Sk 50 'staff'
+Sk 65 'dodge'
+Sk 84 'enhanced damage'
+Sk 81 'hand to hand'
+Sk 75 'first aid'
+Sk 70 'fast healing'
+Sk 50 'scrolls'
+Sk 50 'wands'
+Sk 4 'recall'
+Gr 'rom basics'
+Gr 'monk basics'
+Affc 'bless'   0   6   7   1  24          0
+Affc 'bless'   0   7   7   1  18          0
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+-805 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 608
+Nest 0
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 612
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 615
+Nest 0
+Wear 18
+Cost 1140
+End
+
+#O
+Vnum 1064
+Nest 0
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 2499
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 1060
+Nest 0
+Wear 6
+Cost 100
+End
+
+#O
+Vnum 1108
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1034
+Nest 0
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 1015
+Nest 0
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 1039
+Nest 0
+Cond 9
+Wear -1
+Time 957
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Cond 9
+Wear -1
+Time 715
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 28
+Nest 0
+Name a rainbowed, oily potion of sunbeam~
+ShD  a rainbowed, oily potion of sunbeam~
+Desc a rainbowed, oily potion of sunbeam~
+ExtF 16777281
+Cond 1
+Wear -1
+Lev  2
+Time 963
+Cost 301
+Val  3 132 0 0 0
+Spell 1 'sunbeam'
+End
+
+#O
+Vnum 28
+Nest 0
+Name a opaque, watery potion of cure light~
+ShD  a opaque, watery potion of cure light~
+Desc a opaque, watery potion of cure light~
+ExtF 65
+Cond 23
+Wear -1
+Lev  1
+Time 815
+Cost 149
+Val  1 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 18
+Nest 0
+Name a vambrace of hardiness~
+ShD  a vambrace of hardiness~
+Desc a vambrace of hardiness~
+ExtF 64
+WeaF 4097
+Ityp 9
+Wt   25
+Cond 99
+Material platinum~
+Wear -1
+Lev  5
+Cost 1380
+Val  6 6 6 6 5
+Affc 'reserved'   0   0  -1   1  13          0
+End
+
+#O
+Vnum 1046
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1065
+Nest 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 1065
+Nest 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 1065
+Nest 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 1065
+Nest 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 1012
+Nest 0
+Wear -1
+Cost 500
+Spell 3 'magic missile'
+End
+
+#O
+Vnum 1012
+Nest 0
+Wear -1
+Cost 500
+Spell 3 'magic missile'
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Cond 43
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2330
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 1012
+Nest 0
+Wear -1
+Cost 500
+Spell 3 'magic missile'
+End
+
+#O
+Vnum 1006
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1081
+Nest 0
+Wear -1
+Cost 15
+Val  40 40 10 0 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a brilliant topaz~
+ShD  a brilliant topaz~
+Desc a brilliant topaz~
+WeaF 16385
+Ityp 32
+Material topaz~
+Wear -1
+Lev  4
+Cost 581
+End
+
+#O
+Vnum 1065
+Nest 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 1012
+Nest 0
+Wear -1
+Cost 500
+Spell 3 'magic missile'
+End
+
+#O
+Vnum 6
+Nest 0
+Name a papyrus scroll of blink~
+ShD  a papyrus scroll of blink~
+Desc a papyrus scroll of blink~
+ExtF 16777281
+Wear -1
+Lev  11
+Time 2064
+Cost 2200
+Val  10 124 0 0 0
+Spell 1 'blink'
+End
+
+#O
+Vnum 1097
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 18
+Nest 0
+Name a wristlet of appeal~
+ShD  a wristlet of appeal~
+Desc a wristlet of appeal~
+ExtF 64
+WeaF 4097
+Ityp 9
+Wt   24
+Material platinum~
+Wear -1
+Lev  5
+Cost 3900
+Val  1 1 1 1 5
+Affc 'reserved'   0   0  -1   2  26          0
+Affc 'reserved'   0   0  -1   1  29          0
+End
+
+#O
+Vnum 1133
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 1015
+Nest 0
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 35
+Nest 0
+Name bracer of globe of invulnerability~
+ShD  bracer of globe of invulnerability~
+Desc bracer of globe of invulnerability~
+ExtF 64
+WeaF 4097
+Wear 14
+Lev  5
+Cost 1500
+Val  5 15 9 146 0
+Spell 3 'globe of invulnerability'
+End
+
+#O
+Vnum 1065
+Nest 0
+Wear 2
+Cost 120
+End
+
+#O
+Vnum 1049
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 1012
+Nest 0
+Wear -1
+Cost 500
+Spell 3 'magic missile'
+End
+
+#O
+Vnum 1049
+Nest 0
+Wear 0
+Cost 200
+Val  0 1 22 0 0
+End
+
+#O
+Vnum 1097
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 1065
+Nest 0
+Wear 1
+Cost 120
+End
+
+#O
+Vnum 18
+Nest 0
+Name a kopis of wizardry~
+ShD  a kopis of wizardry~
+Desc a kopis of wizardry~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   10
+Material silver~
+Wear -1
+Lev  8
+Cost 2340
+Val  1 1 6 3 0
+Affc 'reserved'   0   0  -1   9  12          0
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 2215
+Nest 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 2217
+Nest 0
+Wear 13
+Cost 70
+End
+
+#O
+Vnum 2213
+Nest 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 2221
+Nest 0
+Wear 10
+Cost 120
+End
+
+#O
+Vnum 2220
+Nest 0
+Wear 3
+Cost 230
+End
+
+#O
+Vnum 2219
+Nest 0
+Wear -1
+Cost 2200
+End
+
+#O
+Vnum 2222
+Nest 0
+Wear 12
+Cost 1900
+End
+
+#O
+Vnum 2215
+Nest 0
+Wear 7
+Cost 120
+End
+
+#O
+Vnum 38
+Nest 0
+Name a gray hide large bag~
+ShD  a gray hide large bag~
+Desc a gray hide large bag~
+ExtF 64
+WeaF 16385
+Wt   4
+Material hide~
+Wear -1
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   3  29          0
+Affc 'reserved'   0   0  -1   3   2          0
+Affc 'curse'   1  15  -1   2  20  268435456
+End
+
+#O
+Vnum 1055
+Nest 0
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 1057
+Nest 0
+Wear -1
+Cost 560
+End
+
+#END

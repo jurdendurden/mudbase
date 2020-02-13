@@ -1,0 +1,535 @@
+#PLAYER
+Name Tuzeric~
+Id   1579966898
+LogO 1580108509
+Vers 11
+Blind 0
+Boon 9
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race minotaur~
+Clan loner~
+Clan_Rank 0
+Clan_Points 0
+Sex  1
+Cla  1
+God	2
+Favored 0
+GuildRnk  1
+GuildPts  265
+Levl 10
+Sec  0
+Plyd 6064
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 2302
+HMV  134 134 190 176 187 187
+Bleed 0
+Talent 0
+PP 0 0
+Gold 58
+Silv 4237
+BAcct 0
+Bank 0
+Exp  396756
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 223
+Eyes 16
+Haircut 1
+Facial 1
+Age 40
+Account Drisen~
+Recall 1010
+Act  CDEGKQTe
+AfBy HJT
+Comm NOP
+Pos  8
+Prac 4
+Save  5
+Alig  0
+Hit   16
+Dam   6
+ACs -16 -17 -17 -11
+Attr 21 16 19 18 20 11
+AMod 0 0 0 0 0 0
+Pass ~
+Titl .~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 1
+HMVP 100 175 180
+Cnd  0 0 484 379 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 232
+71 -268403200
+18 251658240
+20 -534904803
+19 536902650
+31 4129536
+32 1048110
+21 30
+73 125566976
+68 -16777215
+72 540516352
+74 16711680
+128 -260047007
+129 8388510
+124 1
+125 -33554433
+127 66977792
+287 65536
+126 2
+69 33554302
+281 256
+90 -1074790399
+91 35966
+34 28800
+-1 -1
+Alias cc quaff health~
+Alias bs bandage self~
+Boards       7 General 1579918964 Changes 1579991183 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'bless'
+Sk 1 'create water'
+Sk 1 'cure light'
+Sk 1 'cure poison'
+Sk 1 'detect poison'
+Sk 1 'refresh'
+Sk 1 'nightmare'
+Sk 1 'axe'
+Sk 60 'mace'
+Sk 1 'enhanced damage'
+Sk 1 'kick'
+Sk 79 'first aid'
+Sk 50 'scrolls'
+Sk 43 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'cleric basics'
+Affc 'armor'   0  54  22 -20  17          0
+Affc 'shield'   0  54  60 -20  17          0
+Affc 'vocal shield'   0  54  18 -30  17          0
+Affc 'cacophonic shield'   0  54  20 -40  17          0
+Affc 'motivation'   0  54   9   4  18          0
+Affc 'motivation'   0  55   9   4  19          0
+Affc 'bless'   0  55  59   6  18          0
+Affc 'bless'   0  55  59   6  24          0
+Affc 'sanctuary'   0  53   6   0   0        128
+Affc 'fly'   0  54  55   0   0     524288
+Affc 'aid'   0  54   8   5  13          0
+Affc 'enlarge person'   0  53  11   1  27          0
+Affc 'feather fall'   0  54  11   0   0          0
+Affc 'deafness'   0  54  11  18  17          0
+Affc 'resistance'   0  53  24  -1  20          0
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 868
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 934
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 800
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 609
+Nest 0
+Wear 9
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 13
+Cost 48
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 611
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 608
+Nest 0
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 612
+Nest 0
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 35
+Nest 0
+Name a ring of paralyzation~
+ShD  a ring of paralyzation~
+Desc a ring of paralyzation~
+ExtF 65
+WeaF 3
+Wear -1
+Lev  2
+Cost 251
+Val  1 19 19 116 0
+Spell 3 'paralyzation'
+End
+
+#O
+Vnum 1035
+Nest 0
+Wear 6
+Cost 250
+End
+
+#O
+Vnum 1034
+Nest 0
+Wear 5
+Cost 400
+End
+
+#O
+Vnum 1033
+Nest 0
+Wear 7
+Cost 300
+End
+
+#O
+Vnum 1032
+Nest 0
+Wear 10
+Cost 200
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 816
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 486
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 537
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 596
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 564
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 700
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 964
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 38
+Nest 0
+Name a pink velvet satchel~
+ShD  a pink velvet satchel~
+Desc a pink velvet satchel~
+ExtF 64
+WeaF 1025
+Wt   3
+Material velvet~
+Wear 11
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   1  12          0
+Affc 'reserved'   0   0  -1   7  14          0
+End
+
+#O
+Vnum 6
+Nest 0
+Name a fishy lambskin scroll of geyser~
+ShD  a fishy lambskin scroll of geyser~
+Desc a fishy lambskin scroll of geyser~
+ExtF 16777280
+Extra2Flags 131072
+Wear -1
+Lev  7
+Time 2259
+Cost 1600
+Val  9 196 0 0 0
+Spell 1 'geyser'
+End
+
+#END

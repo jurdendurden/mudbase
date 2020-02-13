@@ -1,0 +1,109 @@
+#AREADATA
+Deprecated 0
+Name trainee~
+Builders Gungadin Lyris~
+VNUMs 80 99
+Levels 0 0
+Credits (null)~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 9
+Flags 2
+Faction (null)~
+History (null)~
+End
+
+
+
+#MOBILES
+#80
+no name~
+goblin sentry~
+A goblin sentry stands here attentively, his wary gaze fixed upon all who dare pass this way.
+~
+~
+~
+goblin~
+AG C J 1 0
+6 2 5d2+39 6d4+77 1d8+2 magic
+5 5 5 3
+0 0 Q C
+stand stand male 5
+AHV ABCDEFGHIJK medium
+ unknown
+F for M
+#0
+
+
+
+#OBJECTS
+#80
+goblin axe~
+goblin's axe~
+An average looking iron battle axe.~
+iron~
+0
+weapon 0 0 NO
+exotic 2 4 none 0
+6 6 20 G
+#0
+
+
+
+#ROOMS
+#80
+Outside the entrance to a cave~
+~
+0 4 4
+0
+1
+2
+D0
+~
+~
+0 0 81
+M 25 H 25
+S
+#81
+Entrance to a cave~
+~
+0 16389 0
+0
+0
+0
+D2
+~
+~
+0 0 80
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

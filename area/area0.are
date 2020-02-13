@@ -1,0 +1,73 @@
+#AREADATA
+Deprecated 0
+Name Clanhall: Guarden~
+Builders None~
+VNUMs 9400 9499
+Levels 5 40
+Credits Upro~
+Climate 0
+PrimaryResource (null)~
+Security 9
+Flags 34
+Faction (null)~
+History (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9400
+{YGuardian{x Clanhall~
+~
+0 1074790400 0
+0
+0
+0
+D4
+~
+~
+9 0 2053
+M 75 H 75
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 9400 4 1
+O 0 50 0 9400 The {yguardian{x clan vault loaded to {YGuardian{x Clanhall
+O 0 41 0 9400 An orb of the {yguardian{x clan loaded to {YGuardian{x Clanhall
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

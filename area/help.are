@@ -1,0 +1,4968 @@
+#HELPS
+0 gtalk grouptalk~
+
+Messages sent over this channel will only be seen by those in your company.... 
+~
+Upro~
+0 name~
+
+Try not to use names from existing canon such as Lord of the Rings, Dr. Who,
+Arthurian legends, etc. Originality is best, and there are plenty of random
+name generators out there to assist you. We're trying to make a 100% original
+world, and we need your help. 
+~
+Upro~
+0 spellup~
+
+Syntax: spellup
+ 
+This command allows the caster to cast every buff they know at once on
+themselves, easily getting prepared for battle.
+~
+Upro~
+0 shop~
+
+Shops can be found throughout Aragond, carrying a wide variety of items.
+Shops are only open during certain times during the day, and can only carry/buy
+certain types of items. Shops in Aragond can also be set with the ability to
+load a random object for sale. 
+
+Commands for interaction:
+buy
+sell
+list
+~
+Upro~
+0 power_grip powergrip~
+
+Powergrip is a passive skill that allows the experienced fighter to resist
+being disarmed in combat from opponents. 
+~
+Upro~
+0 identify~
+
+Utilization of the identify spell will reveal important details about an
+object to the caster, such as the material it is made from, any magical effects
+and enchantments, and how it can be used. 
+~
+Upro~
+0 detect_magic~
+
+This spell allows the caster to detect magical auras around objects, that
+they could normally not see. 
+~
+Upro~
+0 sex gender~
+
+Male characters of Aragond gain an extra hit point per level, whereas
+females gain an extra mana per level. 
+~
+Upro~
+45 pretitle~
+
+Syntax pretitle <player> <pretitle>
+ 
+Using this, an immortal can set a character's pretitle, relevant to their
+in character experience or clan.
+~
+Upro~
+0 hitroll~
+
+Hitroll is the measure of your character's ability to successfully land a
+blow on another character or monster. The higher your hitroll is, the easier
+time you will have hitting things. 
+~
+Upro~
+0 table~
+
+The table command will show you any resistances, immunities, and
+vulnerabilities your character has to any sort of attack. 
+~
+Upro~
+0 achievements~
+
+The achievements command will show you the list of game achievements you
+have accomplished with your character thus far. 
+~
+Upro~
+0 magic_missile~
+
+Syntax: cast 'magic missile' <target>
+ 
+The magic missile spell is not only one of the wizard's first spells, but also
+one of his most powerful. It shoots forth a bolt of magical energy to strike
+the wizard's foe. As the wizard progresses, more bolts are fired.
+~
+Upro~
+0 zap~
+
+Syntax: zap <target> <target wand>
+
+Utilizing the zap command, a character can test his skill in wands, by
+zapping one they have equipped, at an opponent or ally. 
+~
+Upro~
+0 hapkido~
+
+Hapkido is a passive skill that druids can use to increase their efficacy in
+combat, particularly on offense. The skill can sometimes afford the druid an
+extra attack during a round of combat. 
+~
+Upro~
+0 beeptell~
+
+Beeptells are useful if you are not checking the game window frequently
+(maybe you are checking email, browsing the web, or watching porn). This makes
+a beep sound whenever someone sends you a tell. 
+~
+Upro~
+0 ambidexterity~
+
+Ambidexterity is a passive boon pickable during creation, that allows one to
+utilize both hands for weaponry to a higher degree than someone with just dual
+wielding. Ambidexterity also helps with other things, such as backstabbing,
+offhand parrying, etc. 
+~
+Upro~
+0 stat stats statistic statistics attributes~
+
+A character's stats will determine what sort of class they can choose to
+become, and can have an effect on a variety of things regarding that character.
+The base stats include: strength, intelligence, wisdom, dexterity,
+constitution, charisma. Each of these affects different outcomes during a
+character's lifespan. 
+~
+Upro~
+0 martial~
+
+Martial arts is a passive skill learned by fighters and monks, to allow them
+to incorporate kicks into their fighting style. 
+~
+Upro~
+0 aasimar~
+
+Stat Modifiers:
+
+Strength + 1, Dexterity - 1, Charisma + 2
+
+The aasimar are physical embodiments of angelic creatures, pure of intent.
+The are humanoid in appearance, bearing all of the same physical attributes as
+humans. The aasimar are beautiful to behold, and are said to be some of the
+most attractive creatures in Aragond. No one is quite sure why they have
+travelled to the material plane. Aasimar are strong and charismatic, making
+excellent paladins. 
+~
+Upro~
+0 bugbear~
+
+Stat Modifiers:
+
+Strength + 1, Dexterity - 1, Constitution + 1, Charisma - 1
+
+The bugbear is a massive humanoid creature, distantly related to goblins and
+hobgoblins. They average seven feet in height, and can weigh 300 or more
+pounds. They are covered in a thick fur, which causes them to be fearsome of
+fire. Bugbears are incredibly strong and durable, but not much to look at. They
+make great fighters, rangers, and even decent clerics. 
+~
+Upro~
+0 Revenant~
+
+Stat Modifiers:
+
+Charisma - 2
+
+Revenants are creature born of pure evil, their malice willing their
+decripit body to life, in order to exact vengeance upon the world who took it's
+mortal life. They are strong, undead creatures, capable of dealing negative
+damage with their hands. A Revenant's stats reflect that of it's former mortal
+life. 
+~
+Upro~
+0 kidney kidney_punch~
+
+Syntax: kidney <target>
+ 
+With a quick kidney punch, the thief can exact extra damage to his opponent
+during combat, enabling them a greater chance to prevail.
+~
+Upro~
+0 dig~
+
+Syntax: dig <stop>
+
+Digging is a skill of hard labor, that requires the participant wield a
+shovel of some kind. Some shovels work better than others, and some characters
+will dig better than others. There is rumored to be ancient treasure chests
+buried across the world of Aragond, but those are as of yet, unsubstantiated. 
+~
+Upro~
+0 list~
+
+Syntax: list
+
+The list command can be used to show a list of objects a vendor is willing
+to overcharge you for. 
+~
+Upro~
+0 clans~
+
+Clans are exclusive guilds that characters may join through role play
+interaction with other members of the clan. Each clan has a specific roleplay
+trope centered around it, and is accompanied by a clanhall, ranking system, and
+clan objects, which grant statistics to a character in line with the clan's
+trope. 
+ 
+Current Clans:
+Conclave
+Acolyte
+Guardian
+Ravager
+Obsidian
+Song
+Corsair
+Jaezred Chaulssin
+Bregan D'Aerthe
+~
+Upro~
+0 mag fi~
+
+~
+Upro~
+0 title~
+
+Syntax: title <whatever your title will be>
+ 
+Setting your title must be done with role play in mind. All titles are in character (IC).
+~
+Upro~
+0 half_ogre~
+
+Stat Modifiers:
+ 
+Strength + 2, Constitution + 2, Wisdom - 1, Intelligence - 2, Charisma - 1
+~
+Upro~
+0 minotaur~
+
+Stat Modifiers:
+ 
+Strength + 2, Constitution +1, Charisma - 2, Intelligence - 1
+~
+Upro~
+42 item_shovel~
+
+The digging bonus for a shovel can be between -10 (cursed) and 30. These
+values represent actual percentages in the code. 
+~
+Upro~
+0 fly~
+
+Syntax: fly
+
+This skill is exclusive to the Aarakocra, a race of bird like creatures
+who inhabit this plane. It allows them to ride the air, for as long as
+necessary, as their wings are incredibly powerful.
+~
+Upro~
+0 aarakocra~
+
+Stat Modifiers:
+
+Dexterity + 1, Strength + 1, Charisma - 1
+
+Aarakocras resemble humanoid birds. The average specimen stood about 5 feet
+tall and have a wingspan of around 15 feet. Plumage color varies, but males
+generally have red, orange, and yellow coloration, while females tend towards
+brown and gray. They are fierce warriors, with excellent agility and strength.
+As they are tribal in nature, they also make excellent clerics, and even
+druids. Aarakocras reasonably dislike fire, but seem to be able to fly in the
+strongest of winds. 
+~
+Upro~
+41 area_ideas~
+
+2960 (Base of a giant tree) Could be an elven town, or dryad village.
+ 
+2842 (An icy intersection) Mentions "twin stone columns over a stone keep" to the west.
+~
+Upro~
+0 boon~
+
+Choosing a boon in creation can give your character a particular edge over
+others in game, but costs 3 of your initial 6 starting trains. 
+~
+Upro~
+0 stand~
+
+Stand is used to either wake up from sleep or to stand up from when
+sitting/lying on the ground or some sort of furniture. 
+~
+Upro~
+0 enter go~
+
+Using either enter or go, one can pass through a magical portal. 
+~
+Upro~
+0 push pull pry press~
+
+Objects in Aragond often times must be interacted with more than the simple
+'get', 'take', or 'drop' methods. In times like these, one would be wise to try
+and push, pull, press, or pry an object, depending on the situation. 
+~
+Upro~
+0 brandish~
+
+Brandish is the keyword used to invoke the magic in an enchanted staff. The
+correct syntax is simply brandish without an argument, or append the command
+with a target (self, Bob, etc..) 
+~
+Upro~
+0 nofollow~
+
+Nofollow can be toggled on or off to allow or disallow people from following
+you. It is useful to use when you have multiple charmies that you wish to
+dismiss simultaneously, or just to get rid of a pesky player who is bothering
+you. Used without an argument it will dismiss your entire group. 
+~
+Upro~
+0 nosummon~
+
+Nosummon can be toggled on or off in order to allow or disallow summoning of
+yourself by other players. This prevents you from being caught in a sticky
+situation with your pants down. 
+~
+Upro~
+0 building_guidelines~
+
+This is a general building guide for builders. It is meant to help people understand
+what I would like out of the areas they create here. It is not meant to help you figure
+out the functions of OLC, we have other helpfiles for that.
+ 
+mob names, object names: these should have every keyword in your short description, other
+than words like: the, a, an, etc...
+ 
+short descs: These are the things you see in combat, 'you swing at a kobold with an axe of
+slaying'. We don't want to see things like: 'you swing at a kobold with an axe of slaying
+lies here'.
+ 
+Long descs: End these with a period. always. Also please capitalize the first word in them.
+Be aware of things like: 'A key rests on the dirt ground here.' - What if they dropped it in
+a tiled room?
+ 
+ 
+Room descs: please try not to refer to characters using 'you' in room descs. Also try to remember
+that there are things like day/night, seasons, etc. So you don't want to say something like: "A
+[Hit Return to continue]
+valley sprawls before you, the sun bringing it's natural beauty to light.", since it might be night.
+Also try not to be repetitive with your room descriptions. Sometimes it's necessary, not always. Oh,
+and also, please PLEASE don't use a bunch of colors everywhere. This isn't some crap ass dragon ball Z
+mud.
+ 
+This is it for now, I'm sure I'll think of more to add later, but yeah. Try to make our areas look
+elegant. We want to attract players not drive them off. Thanks!
+ 
+Upro
+ 
+Addendum 8/30/2010
+Please do not set an area's primary resource to any of the following materials:
+mithril, adamantite, emerald, ruby, diamond, black oak, red oak, white oak, maple.
+ 
+Addendum 9/5/2010
+Health/mana regen per room is as follows:
+Poor: under 20
+Decent: 25-40
+Good: 50-75
+Excellent: 100 (Please don't go over this.)
+ 
+Addendum 11/18/2011
+Please do not put ability score modifiers on items purchasable in towns/cities/etc.
+This means no +str, int, wis, dex, con, charisma items should be buyable.
+~
+Upro~
+0 alignment~
+
+~
+Upro~
+0 pour fill~
+
+The FILL command is used to place an appropriate liquid into an acceptable
+container. 
+
+example{Y:{G fill (container name) (fountain/spring/etc.){x 
+
+The POUR command is used to empty the contents of a canteen or other such
+container. 
+
+example{Y: {Gpour (container name){x 
+
+example{Y:{G pour (container name) (alternate container){x 
+~
+Archanon~
+1 Recall~
+
+The RECALL command allows a character to be instantaneously returned to a
+set location, provided it is within a city. No longer are players bound to
+recall to one point. Using the RECALL command costs 1/2(one half) of a
+characters movement points. 
+
+Recall has a cooldown timer, so use with caution. Those afflicted with a curse
+will be unable to recall. 
+
+example{Y:{G recall here{x (sets a recall point for the location you are at)
+example{Y:{G recall{x (initiates the actual recall) 
+~
+Upro~
+1 eat drink hunger thirst food hungry thirsty~
+
+The EAT command is used to consume an edible item held in your inventory; be
+it food or other items classified as such. Eating will typically eliminate the
+HUNGER status. 
+
+example{Y: {Geat (item){x 
+
+The DRINK command is used to drink from either a fountain with appropriate
+contents, or from a filled container in a players inventory.({Ghelp fill{x)
+Drinking an appropriate liquid will typically eliminate the THIRSTY status. 
+
+example{Y:{G drink (fountain){x 
+
+example{Y:{G drink (container name) {W[if attempting to drink from inventory]{x
+
+
+(Note: The DRINK command is not used to consume potions. For that function,
+{Ghelp quaff{x.) 
+~
+Archanon~
+1 Archanon~
+
+Things I plan to do for ya's: 
+
+{RWrite helpfiles that explain to you just why, exactly, you are bleeding
+profuesely, etc.{x 
+
+Establish helpfiles for individual skills. 
+
+{YCrush my enemies, see them driven before me; and hear the lamentation of the
+women.{x {x 
+~
+Archanon~
+41 hedit~
+
+Syntax:
+ 
+hedit create <helpfile name>      (Creates new help for editting and places you in editor)
+hedit <helpfile name>             (Edits existing specified helpfile)
+
+Commands inside hedit:
+ 
+text    --> places you into text editor for the body of the helpfile.
+keyword --> allows you to set the keywords used to access this helpfile.
+level   --> sets minimum level necessary to view helpfile.
+done    --> exits helpfile editor.
+
+Remember to asave helps/world when finished with your new helpfile!
+~
+Upro~
+0 cooldowns~
+
+Cooldowns occur when a skill is used. This simply means that the skill
+cannot be used again for a certain amount of time. Higher level and more
+powerful skills and spells will take longer to cooldown. 
+ 
+One can see their cooldowns by typing 'affects'.
+~
+Upro~
+41 bugs~
+
+Pets cannot enter ships w/out crashing us.
+ 
+Earclap, gouge aren't finished.
+ 
+Riding/Mounting, mounted combat needs to be done.
+ 
+Notes will not allow more than one word subjects.
+ 
+can unique objects be sacrificed? disenchanted?
+ 
+size doesn't change with size-changing spells
+ 
+medit needs word based alignment setting.
+ 
+trying to read a note higher number than the newest on the spool crashes us.
+ 
+When walking in a forest room with stock description, leaves don't rustle like they should.
+ 
+item retrieval quests don't recognize other people giving you the qitems. you have to drop/repick up.
+ 
+Look over bleeding, fix clotting, maybe <lvl 10 dont bleed
+ 
+(null) satchel
+ 
+cannot alter level of item when loading it.
+~
+Upro~
+0 newlock~
+
+When the game is newlocked, no new characters may be created at that time.
+This is a setting usually toggled on when the immortals are testing something
+new in creation or when there has been a bug or issue found in the creation
+screen. 
+~
+Upro~
+0 bless~
+
+Spell Level:  1
+Type:         Enchantment
+Domain:       Enchantment
+Element:      Earth
+ 
+The bless spell is a commonplace enchantment used by priests across Aragond
+to aid the recipient with accuracy in combat as well as offer a bit of
+magical resistance.
+~
+Upro~
+0 commands_movement movement~
+
+north - moves character north
+south- moves character south
+east- moves character east
+west - moves character west
+up - moves character upwards
+down - moves character downwards
+exits - display all exits available
+recall - recalls character to recall location
+enter - enter somewhere (portal, hole etc)
+sleep - sleep
+wake - wake from sleep
+rest - rest your character
+stand - character stands up
+go - same as enter
+~
+Kamael~
+0 laugh social_laugh~
+
+Syntax : laugh or laugh <name>
+ 
+To fall down laughing by yourself or to laugh mercilessly at someone or something.
+~
+Kamael~
+0 chan_say say~
+
+Syntax : say <whatever>
+ 
+Say is used by players to express ic (in-character) views/opinions. Not to be used for anything ooc
+(out-of-character). Example : say My flight to New York is in 2 hours <-- this is ooc.
+~
+Kamael~
+41 chan_imm immtalk~
+
+Syntax : immtalk <whatever>
+ 
+Immtalk is the channel immortals of all levels (41-50) use to talk to each other.
+~
+Kamael~
+0 mlist olist rlist~
+
+Syntax: rlist/mlist/olist <free/all/[specific]> 
+
+The free argument shows a list of free vnums in the area for the specified
+type. 
+
+The all argument shows a somewhat detailed list of used vnums for the specified
+type. 
+
+A specific argument like 'sword' or 'copper' will return only those matches
+with that keyword for the specified type. 
+ 
+Hint: this command can be used in aedit, oedit, redit, and medit with all arguments.
+~
+Upro~
+0 gnoll~
+
+Stat Modifiers:
+
+Strength + 2, Constitution + 1, Charisma - 1, Intelligence - 2
+
+Gnolls are a proud race of dog-like humanoids who travel in packs, or
+sometimes more organized tribes. They are very skilled warriors, having both
+excellent agility as well as a powerful muscular build. They have an excellent
+sense of smell, giving them a small bonus when tracking their enemies. Gnolls
+are known to be clerics and thieves as well, but hardly ever has one been
+spotted wearing a wizard's cap. Gnolls are proficient skinners and butchers. 
+~
+Upro~
+0 retribution~
+
+Spell Level:  4
+Type:         Divine
+Domain:       Divinity
+Element:      n/a
+ 
+Using retribution, a paladin who takes damage has a chance of returning some
+of that damage to the opponent.
+~
+Upro~
+0 buy~
+
+Syntax: buy <item> 
+
+To purchase an item, you must have enough money to do so, and be in the correct
+place to do so. Some items you cannot buy until you have reached sufficient
+level. Shops are scattered throughout the lands, mostly found in cities and
+towns, but can be found elsewhere. You can see a list of what the shopkeeper is
+selling by typing 'list' while in their shop. 
+~
+Upro~
+0 Jopha~
+
+Jopha is the god of luck and fortune. He is followed mostly by bards and
+thieves, though most any class can be found in tow. Jopha was a bard before his
+ascension to godhood, and there are many legendary stories that he published
+before attaining immortality. Jopha can be followed by an adventurer of any
+alignment, but paladins and druids are restricted from his faith. 
+~
+Upro~
+0 weight~
+
+The weight of an object is important. We must keep evenly distributed item
+weight throughout the game to prevent overloading of secret items with no
+weight. 
+ 
+ 
+The current weight ratio on Aragond is 10 per pound.
+ 
+Weight Approximations:
+short sword    3-4 lbs
+long sword     5-6 lbs
+two-hand sword 8-11 lbs
+spear          6-10 lbs
+bastard sword  6-9 lbs
+dagger         1-3 lbs
+mace           4-10 lbs (depending on one/two handed)
+~
+Upro~
+0 summary~
+
+Below are some common commands and their association. Remember you
+can type help, followed by any of these, to get further information
+on what they do.
+
+You can see a FULL list of commands by typing 'commands'
+
+{gMOVEMENT                            GROUP{x
+north south east west up down       follow group gtell split
+exits recall enter go               
+sleep wake rest stand
+
+{gOBJECTS                             INFORMATION / COMMUNICATION{x
+get put drop give sacrifice         help credits commands areas
+wear wield hold                     report score time weather where who
+recite quaff zap brandish           description password title
+lock unlock open close pick         bug idea typo OOC
+inventory equipment look compare    gossip cgossip say shout tell yell
+eat drink fill                      emote pose
+list buy sell value                 note
+
+{gCOMBAT                              OTHER{x
+kill flee kick rescue disarm        ! save quit
+backstab cast wimpy                 practice train gain
+
+
+For more help, type 'help <topic>' for any command, skill, or spell.
+
+Also, see the helpfiles on: 
+DAMAGE DEATH EXPERIENCE GUILD QUEST NEWS STORY TICK WIZLIST NOTE
+~
+Upro~
+0 sunburst~
+
+Spell Level:  5
+Type:         Evocation
+Domain:       Sun
+Element:      Light
+ 
+Sunburst is a powerful spell that causes light damage to it's
+target via a solar flare. This spell will not work at night.
+~
+Upro~
+0 resist_scrying~
+
+Spell Level:  4
+Type:         Abjuration
+Domain:       Magic
+Element:      Water
+ 
+This spell is useful for avoiding the prying eyes of other
+wizards or clerics trying to scry upon your business.
+~
+Upro~
+0 copy~
+
+Spell Level:  0
+Type:         Cantrip
+Domain:       Magic
+Element:      n/a
+ 
+The copy spell allows it's caster to completely copy the
+contents of one document onto another, which requires a
+blank piece of parchment to be present. This does not work
+for magical scrolls, however.
+~
+Upro~
+0 displacement~
+
+Spell Level:  5
+Type:         Illusion
+Domain:       Magic
+Element:      Air
+ 
+The displacement spell is very useful for wizards who wish to
+avoid taking melee blows in combat...
+~
+Upro~
+0 weaken~
+
+Spell Level:  3
+Type:         Enchantment
+Domain:       Magic
+Element:      Earth
+ 
+The weaken spell has been used for centuries by wizards wanting
+to even the playing field with a more melee oriented opponent.
+This spell drains it's target of several points of strength for
+the duration, lowering their ability to deal direct damage in
+combat.
+~
+Upro~
+0 spell_schools~
+
+The following are the major schools of magic, but many have been broken down
+into subschools for convenience in categorizing spells.
+ 
+Alteration        Illusion        Enchantment
+Divination           *            Conjuration
+Invocation        Necromancy      Abjuration
+ 
+Each school opposes the school opposite it in the chart. For example, Alteration and
+Abjuration are opposing schools.
+~
+Upro~
+0 disrupt_undead~
+
+Spell Level:  1
+Type:         Necromancy
+Domain:       Necromancy
+Element:      Shadow
+ 
+This spell is useful to both wizards and clerics in a pinch, and can
+disrupt the physical 'image' of an undead creature residing on the
+material plane, causing it's 'body' to be destroyed, sending the spirit
+to the abyss.
+~
+Upro~
+0 audible_glamor~
+
+Spell Level:  1
+Type:         Illusion
+Domain:       Magic
+Element:      Earth
+ 
+Audible glamor is a useful spell for those wanting to make themselves
+appear better looking and more charismatic than they actually are.
+Many a wizard have used this as a disguise of sorts.
+~
+Upro~
+0 scry~
+
+Spell Level:  6
+Type:         Divination
+Domain:       Divination
+Element:      Air
+ 
+The scry spell can be used to spy on a specific living
+target. It does not work on undead beings.
+~
+Upro~
+0 silence~
+
+Spell Level:  5
+Type:         Abjuration
+Domain:       Magic
+Element:      Water
+ 
+The silence spell is a powerful malady for a wizard to have in
+their repoire. This spell can instantly remove another being's
+ability to talk, rendering them unable to cast spells, talk,
+whistle, or make any sort of sound via their vocal cords.
+~
+Upro~
+0 ventriloquate~
+
+Spell Level:  0
+Type:         Cantrip
+Domain:       Magic
+Element:      n/a
+ 
+The ventriloquate spell is used for trickery mostly, but a clever
+wizard could find it useful in intelligence gathering situations,
+or for frightening their opponent into fleeing the scene.
+~
+Upro~
+0 locate_object~
+
+Spell Level:  2
+Type:         Divination
+Domain:       Divination
+Element:      Water
+ 
+Wizards and clerics employing this spell are made aware of the
+whereabouts of a particular object in question, which is chosen
+at the time of the casting.
+~
+Upro~
+0 fly~
+
+Spell Level:  3
+Type:         Transportation
+Domain:       Magic
+Element:      Air
+ 
+the fly spell is useful for wizards who are travelling great distances,
+as it saves them quite a bit of energy during travel. It also provides
+immunity to any forms of ground attacks, and may be dispelled at any
+time by the wizard using the 'land' command.
+~
+Upro~
+0 fireball~
+
+Spell Level:  5
+Type:         Evocation
+Domain:       Magic
+Element:      Fire
+ 
+Fireball is a potent wizard spell which releases a powerful blast
+of fire from the outstretched hand of the caster, burning it's
+target with elemental fury.
+~
+Upro~
+0 searing_light~
+
+Spell Level:  2
+Type:         Evocation
+Domain:       Magic
+Element:      Air
+ 
+The searing light spell is usable by clerics, druids, and wizards. It's
+effect is a searing bolt of extremely hot light, much like a laser, tearing
+into it's target.
+~
+Upro~
+0 dimensional_mine~
+
+Spell Level:  8
+Type:         Abjuration
+Domain:       Magic
+Element:      Air
+ 
+Once this spell is cast upon an object, the next person to wear or
+pick up the item is instantaneously transported to the astral plane,
+assuming they failed the saving throw.
+~
+Upro~
+0 shillelagh~
+
+Spell Level:  3
+Type:         Transmutation
+Domain:       Nature
+Element:      Earth
+ 
+The shillelagh spell is used by druids to add a bit
+of a magical kick to their weapon, and is also known
+to protect it from the effects of fire.
+~
+Upro~
+0 hardstaff~
+
+Spell Level:  4
+Type:         Transmutation
+Domain:       Magic
+Element:      Earth
+ 
+When a wizard casts hardstaff on his staff, it becomes impervious
+to any sort of damage from burning or acid attacks, which can be
+very useful, depending on what one runs into in the wilderness.
+~
+Upro~
+0 remove_paralysis~
+
+Spell Level:  4
+Type:         Conjuration
+Domain:       Healing
+Element:      Air
+ 
+One casting this useful spell can remove a person's paralysis,
+restoring to them full movement once more.
+~
+Upro~
+0 finger_death~
+
+Spell Level:  8
+Type:         Necromancy
+Domain:       Magic
+Element:      Shadow
+ 
+Finger of death is a very powerful necromantic spell that can
+reduce an opponent to 25% of their current health in a single
+blow.
+~
+Upro~
+0 earth_ward~
+
+Spell Level:  4
+Type:         Divination
+Domain:       Magic
+Element:      Earth
+ 
+Earth ward is a powerful cleric/druid spell that allows one to
+remove traps from every item in the surrounding area of the
+caster.
+~
+Upro~
+0 shocking_web~
+
+Spell Level:  6
+Type:         Evocation
+Domain:       Magic
+Element:      Lightning
+ 
+The shocking web spell is similar to it's predecessor, the web spell,
+except that it does lightning damage on impact with it's target.
+~
+Upro~
+0 geyser~
+
+Spell Level:  4
+Type:         Evocation
+Domain:       Magic
+Element:      Water
+ 
+The geyser spell is used to damage opponents with drowning damage.
+It is said to be more useful when the caster is near water...
+~
+Upro~
+0 shocking_grasp~
+
+Spell Level:  1
+Type:         Evocation
+Domain:       Magic
+Element:      Lightning
+ 
+Shocking grasp is a touch based attack spell (meaning you can't
+use the spell from the back of a group) which delivers lightning
+damage to the opponent touched.
+~
+Upro~
+0 shocking_runes~
+
+Spell Level:  4
+Type:         Abjuration
+Domain:       Magic
+Element:      Lightning
+ 
+Shocking runes is a spell used to set objects with a magical trap
+which springs when the item is picked up or worn.
+~
+Upro~
+0 summon~
+
+Spell Level:  5
+Type:         Transportation
+Domain:       Magic
+Element:      Air
+ 
+The summon spell allows one to transport an individual of the caster's
+choosing to his location instantaneously.
+~
+Upro~
+0 land~
+
+Syntax: land 
+
+The land command allows one to will themselves out of a flight spell, bringing
+them back to the ground. 
+~
+Upro~
+0 score~
+
+Syntax: score
+
+Score is the command used to display a wealth of vital information about
+your character. Anything from your name, class, guildrank, experience, and more
+can be found on your scoresheet. 
+~
+Upro~
+0 noexp~
+
+Syntax: noexp <primary/secondary> 
+
+You can use the noexp to turn off experience gaining for either of your classes
+(if you are multiclassed), or just your main class. 
+~
+Upro~
+0 history~
+
+Many millennia ago, when humans first discovered their abilities to space
+travel, they began an extensive (and expensive) quest to colonize other
+planets, galaxies and star systems. Their technology was limited, and it was
+quickly realized that in order to branch out further than the known Solar
+System, a new type of fuel or energy would be required to power their ships
+faster and farther. 
+
+
+After a few decades of research and inhumane experimentation, humans were able
+to produce a new element from molecular combinations of plutonium, xenon, and
+hydrogen. This new chemical had the atomic power of a 300-ton atom bomb, but
+non of the explosive properties, making it extremely favorable as a fuel type.
+The drawback, however, was that it's half-life was incredibly short, and the
+fumes it exuded were extremely toxic to anything living on earth. 
+
+
+After many more years of research and development, it was decided that the new
+fuel was a viable alternative, provided that it was never used within Earth's
+atmosphere. A craft was created to transport ANOTHER craft to the GHST (galatic
+human space station, or commonly called 'ghost'). The transportee was a new
+ship designed to use the new fuel, and this mission was successful. Once docked
+with the GHST, the revolutionary new spacecraft was stocked with supplies and
+humans, and sling-shotted into space. 
+
+
+Two years passed, the ship hurtled through space, looking for a planet with an
+atmosphere similar to Earth's. Finally locating one, the humans eased the ship
+into the strange new planet's atmosphere, and made for landing. The following
+three years they colonized, building a reasonable community in a planet quite
+closely resembling earth. 
+
+
+The colonists were ordered to return to Earth after 5 years and debrief, get
+more supplies, and pick up more colonists, so once the time came, they left the
+newfound planet. Upon return to the Milky Way, a computer update revealed the
+location of Earth to be an empty, blank spot on the map. GHST still existed,
+which is how they were still receiving computer updates, but everyone aboard
+was dead. Apparently killed by some sort of airborne pathogenic mutating space
+virus, the colonists were very careful while refueling their vessel with the
+last bit of fuel left on board. 
+
+
+Once the colonists had scavenged out GHST, they journeyed back to the new
+planet. They ran out of fuel just as they hit the gravitational pull of this
+new world... crash landing a couple hundred miles away from the original
+colony. Wandering for some time, they eventually did find the original colony,
+in a bad state of disrepair. Settling in again, they officially formed what is
+now known as the city of Renfall. 
+
+
+Unknown to the colonists, the ship's reserve tank was not empty, and the fuel
+computer was simply malfunctioning. This cause a small amount of vapor from the
+toxic fuel to waft into the atmosphere of what is now called Aragond. It was a
+very trace amount, but over time mutated the humans who were growing in
+numbers. Some grew shorter, getting hairier and stockier, while others simply
+grew more slender, their features getting sharper and sharper (pointed ears,
+angular faces). Others became deformed beasts of powerful strength with little
+in the way of wits. 
+
+
+The vapor also began creating 'anomalies' in nature... IE magic. Beings found
+that they were able to harness mystical forces to cast spells, evoking
+elemental fire or ice to rain upon their enemies. This lessened the need for
+technology, which was scarce anyhow, since the knowledge of it was obscured and
+lost over time. 
+~
+~
+0 alpha~
+
+Credited playtesters during Alpha, give them thanks without
+them a lot of stuff would be broken! :P
+ 
+Ponnet
+Rishken
+Silence
+Galt
+Delvar
+Nhudri
+~
+~
+0 color colour ansi~
+
+Syntax: color
+        colour
+        {{variable
+Color can add quite a bit of life to the game, if used sparingly and
+properly. The commands color and colour both toggle ANSI color on and
+off. To use a color, when speaking or writing a note, simply insert the
+tag for the desired color in the appropriate place.
+Color Code Options: 
+{r     {rRed{x       {{R     {RBright Red{x
+{g     {gGreen{x     {{G     {GBright Green{x
+{b     {bBlue{x      {{B     {BBright Blue{x
+{m     {mMagenta{x   {{M     {MBright Magenta{x
+{c     Cyan{x      {{C     {CBright Cyan{x
+{y     Yellow{x    {{Y     {YBright Yellow{x
+{w     White{x     {{W     {WBright White{x
+{x     Colorless {{D     {DDark grey{x
+
+Beep Sound {{* <target>
+~
+Upro~
+0 description~
+
+Syntax: description <description>
+ 
+Using this command, a player may choose to describe their physical
+appearance to break the uniformity of most adventurer's in Aragond.
+~
+~
+0 stone skin~
+
+The stone skin spell increases the casters armor class tremendously,
+enabling them to linger in combat for a spell or two longer, possibly giving
+them the edge. 
+~
+Upro~
+0 psionic psion~
+
+Primary Stat: {rIntelligence{x
+2ndary Stat:  {yConstitution{x
+
+Psions are a rare occurence in the world of Aragond. Adventurers
+with unrecognized psionic potential may choose to address this,
+and hone his abilities with another more skilled psionicist. This
+usually costs a great deal of money, as much time is needed for
+one to hone their mental abilities to an extent necessary to become
+a true psionicist. Wild talents aren't unknown in Aragond, however,
+and can be a wildcard in any battle.
+~
+Upro~
+0 condition~
+
+Condition can be toggled on or off to show or hide item conditions in your
+inventory and worn equipment. It is important to note that items do wear down
+over time/use in Aragond, and without proper repair, can become useless
+(weapons do less damage, armor protects you less, tools work less efficiently,
+etc). 
+~
+Upro~
+0 favored~
+
+AVAILABLE RACES:
+
+human            elf
+ dwarf           half orc        half elf       
+ halfling        gnome           duergar        
+ drow            half ogre       mermaid        
+ merman          triton          harpy          
+ owlbear         animal          bat            
+ bear            bugbear         cat            
+ lion            tiger           leopard        
+ cheetah         panther         puma           
+ mountain lion   centipede       millipede      
+ worm            deer            moose          
+ elk             demon           doll           
+ white dragon    black dragon    blue dragon    
+green dragon    red dragon      brass dragon   
+ bronze dragon   copper dragon   silver dragon  
+ gold dragon     shadow dragon   astral dragon  
+ ethereal dragon rust dragon     onyx dragon    
+ ruby dragon     emerald dragon  sapphire dragon
+ crystal dragon  aasimar         deva           
+ asura           octopus         squid          
+ jellyfish       fish            shark          
+ whale           dolphin         dog            
+ fido            fox             wolf           
+ jackal          coyote          warg           
+ monkey          ape             goblin         
+ hobgoblin       insect          kobold         
+ lizard          alligator       crocodile      
+ modron          orc             pig            
+ boar            rabbit          rat        
+elemental       snake           song bird      
+ spider          troll           water fowl     
+ wyvern          undead          skeleton       
+ wraith          zombie          ghoul          
+ wight           mummy           vampire        
+ ghost           lich            ooze           
+ sphinx          griffon         chimera        
+ manticore       hippogriff      pegasus        
+ unicorn         horse           horse          
+ donkey          mule            zebra          
+ giraffe         camel           sheep          
+ goat            kuo-toa         pixie          
+ minotaur        centaur         djinn          
+ gargoyle        illithid        beholder       
+ imp             gnoll           quickling      
+ githyanki       githzerai       satyr          
+dryad           naiad           ogre           
+ sahuagin        slaad           thri-kreen     
+ aarakocra       drider          treant         
+ yugoloth        iron golem      stone golem    
+ wood golem      flesh golem     hill giant     
+ mountain giant  storm giant     fire giant     
+ frost giant     titan           cyclops        
+ cockatrice      basilisk        medusa         
+ banshee         grippli         troglodyte     
+ turtle          armadillo       bird           
+ yuan-ti         seahorse       
+~
+~
+0 favored~
+
+~
+~
+0 cannon~
+
+Cannons are powerful gun powder based weapons which can be loaded onto
+ships. The bigger the ship you own, the more cannons you may have, among other
+things. 
+~
+~
+41 mprog_ifcheck~
+
+--------------------------------------------------------------------------
+ifcheck    argument(s)     meaning
+--------------------------------------------------------------------------
+rand       num             Is random percentage less than or equal to num
+mobhere    vnum            Is a NPC with this vnum in the room
+mobhere    name            Is a NPC with this name in the room
+objhere    vnum            Is an object with this vnum in the room
+objhere    name            Is an object with this name in the room
+mobexists  name            Does NPC 'name' exist somewhere in the world
+objexists  name            Does object 'name' exist somewhere in the world
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+people == integer   Is the number of people in the room equal to integer
+players == integer  Is the number of PCs in the room equal to integer
+mobs == integer     Is the number of NPCs in the room equal to integer
+clones == integer   Is the number of NPCs in the room with the same
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+isnpc      $*              Is $* an NPC
+ispc       $*              Is $* a PC
+isgood     $*              Does $* have a good alignment
+isneutral  $*              Does $* have a neutral alignment
+isevil     $*              Does $* have an evil alignment
+isimmort   $*              Is $* an immortal (level of $* > LEVEL_HERO)
+ischarm    $*              Is $* affected by charm
+isfollow   $*              Is $* a follower with their master in the room
+isactive   $*              Is $*'s position > POS_SLEEPING
+isdelay    $*              Does $* have a delayed MOBprogram pending
+isvisible  $*              Is $* visible to NPC who activated the program
+hastarget  $*              Does $* have a MOBprogram target in the room
+istarget   $*              Is $* the target of NPC who activated the program
+pc_god     $*              Does the target of the NPC worship this god?
+on_quest  $*               Is the character on this quest (VNUM)
+complete_quest $*          Has the player completed quest #?
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+affected   $*   'affect'   Is $* affected by 'affect'
+act        $*   'act'      Is $*'s ACT bit 'act' set
+off        $*   'off'      Is $*'s OFF bit 'off' set
+imm        $*   'imm'      Is $*'s IMM bit 'imm' set
+carries    $*   'name'     Is $* carrying object 'name'
+wears      $*   'name'     Is $* wearing object 'name'
+has        $*   'type'     Does $* have object of item_type 'type'
+uses       $*   'type'     Is $* wearing object of item_type 'type'
+name       $*   'name'     Is $*'s name 'name'
+pos        $*   'position' Is $*'s position 'position' (sleeping etc.)
+clan       $*   'name'     Does $* belong to clan 'name'
+race       $*   'name'     Is $* of race 'name'
+class      $*   'name'     Is $*'s class 'name'
+objtype    $*   'type'     Is $*'s item_type 'type'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+vnum       $*   == integer Is $*'s virtual number equal to integer
+hpcnt      $*   == integer Is $*'s hitpoint percentage equal to integer
+room       $*   == integer Is vnum of the room $* is in equal to integer
+sex        $*   == integer Is $*'s sex equal to integer
+level      $*   == integer Is $*'s level equal to integer
+align      $*   == integer Is $*'s alignment equal to integer
+money      $*   == integer Does $* have money (in silver) equal to integer
+objval#    $*     == integer Is $*->value[#] equal to integer (# from 0-4)
+~
+~
+0 forums forum~
+
+Our forums can be found at:
+ 
+http://www.aragond.com/forum/phpBB3/index.php
+~
+~
+0 builder_funcs~
+
+This is a file to help new builders here get up to speed with some
+of the ease of use features I've added to OLC, to help speed up the
+building process and ensure you are able to spend your building time
+making the environment seem more realistic through more advanced
+things such as mob programs, object programs, quests, etc.
+ 
+Commands:
+COPY helps you copy object, room, or mobile information instead of retyping it.
+IRESET helps you easily set up resets. doesn't support nesting however.
+OLIST/RLIST/MLIST all show lists of objs/rooms/mobs in OLC
+AUTOSET for mobiles.
+ALLSECT sets all sectors in a given area.
+ALLHEAL/ALLMANA sets all regen rates in an area.
+ARESET shows all resets in the area.
+CHECKWPN/CHECKTYPE filter objects in a list to compare them.
+~
+~
+41 pc_immortal immortals~
+
+Ok these are just some general guidelines of being an immortal here:
+ 
+Be visible as much as possible please. I know there are times when
+you can't, but yeah 90% of the time you should be visible.
+ 
+Try not to be visible in the game world. If you need to, goto 101. It's
+where I tend to hang out, heh.
+ 
+If you have the power to spellup or restore or set double xp, please don't
+unless it's a special occasion.
+ 
+Newbie helping is a fine line. Their corpse is no longer hard to find so let's
+not get into the habit of transferring people to it. However, we do need to
+help them in certain areas (without giving away exact directions, actual objects, etc.)
+ 
+Don't give out gold, objects, experience, guild points, levels, etc. without
+my express permission.
+ 
+Don't ever give people skills/spells/skill percentages/spell percentages.
+I AM logging this, don't think you wont get caught. ;) I don't wanna
+lose good immortal staff to the temptations of cheating heh.
+ 
+Don't load eq for people. Right now in alpha it's ok to load the alpha tester
+rings for people but other than that DONT DO IT. Once again, this is logged
+for immortals so if you give eq to a player I will know about it.
+ 
+{YUpro is watching you!!{x
+~
+Kamael~
+0 history~
+
+Syntax: history <full area name>
+ 
+The history command displays in character information about the history
+of a particular area in question.
+
+It also displays the current faction of said area.
+~
+~
+41 city~
+
+A city of decent size should have the following:
+ 
+an alchemist.
+a bank.
+a weaponsmith (with an anvil in the shop)
+an armorsmith (possibly also with an anvil).
+a blacksmith, cobbler, peddler, bowyer, etc.. (basic medeival professions).
+a cloth merchant (with a loom in the shop)
+a jeweller (who sells jewelcrafting kits)
+guilds for each class.
+a food vendor
+a drink vendor/fountain
+a neighborhood
+a bar
+extra land for farms/docks (if nearby to a body of water)
+a few empty houses. (for sale or abandoned)
+a stables
+a temple to some in game deity
+ 
+ 
+ 
+ 
+Smaller cities/villages/towns will obviously not have some of these things,
+but I'll leave these at the discretion of the builder. This is just a guideline
+for making medium to large cities.
+~
+Upro~
+0 experience~
+
+Experience points earned advance an adventurer in level over time. They
+double every level until level 11. After that, it increases incrementally. The
+hardest level is from 10-11. Multiclassing splits your experience earned in
+half, but you can toggle this by using the noexp command. You now also earn
+experience points for exploring the world. 
+~
+Upro~
+0 kill hit~
+
+Syntax: kill <victim>
+
+Kill or hit is the command used to initiate combat in the simplest form here in
+Aragond. You may also initiate combat via spells, skills, and magical devices. 
+~
+~
+0 imotd~
+
+{GThank you for your time as an immortal here, your hard work is highly appreciated.{x
+
+
+[Hit Return to Continue]
+
+~
+Upro~
+0 charisma~
+
+Charisma is a relative figure of a character's social abilities mixed
+with their looks. A character may be beautiful but have a terrible attitude,
+attributing the 7 or 8 charisma they may have. Charisma is useful during
+diplomatic sessions, enemy engagements, monster summoning and charming, and
+controlling loyal subjects. 
+ 
+Charisma Affects: maximum charms, haggling
+~
+Upro~
+0 constitution~
+
+One's constitution score is directly correlated with their personal,
+physical health. This attribute is heavily relied upon when factoring hit
+point gains, system shock reactions, and situations where your body may be
+pushed to the limit. 
+ 
+Constitution Affects: hit points, psionic points, regeneration
+~
+Upro~
+0 dexterity~
+
+Dexterity is a trait sought for by those who want to be agile, discreet,
+or a combination of the two. Thieves, monks, and even fighters covet a high
+dexterity, as it affords them more movement points (some skills are based
+off of these), and a better ability to dodge. Dexterity also helps one hit
+another opponent. 
+ 
+Dexterity affects: hitroll, armor class, melee crit, # of attacks
+~
+Upro~
+0 wisdom~
+
+Wisdom is the measure of a character's capacity to see all perspectives in a
+situation, when others may not. Clerics, monks, and druids pursue wisdom
+throughout their career, in hopes of gleaning the slightest insight into the
+thinking of their respective Gods. Wisdom can also help one's mana pool. 
+ 
+Wisdom affects: potential for psionic powers, heal spells, magic defense
+~
+Upro~
+0 intelligence~
+
+Intelligence is a measure of your character's wits and his ability to
+adapt to his surroundings. Wizards and the like generally want to have
+higher intelligence because it allows them to cast spells better and learn
+them easier. Intelligence also helps one's mana pool. Having a high
+intelligence helps learn new languages. 
+ 
+Intelligence Affects: chance to learn spells from scrolls, mana per level, spell damage/crit, practicing
+~
+Upro~
+0 OOC~
+
+Syntax: ooc <message>
+ 
+OOC is a channel used for things that are explicitly NOT in character.
+This means that you may not relay any IC (in character) info over this
+channel, as it breaks the cycle of roleplay.
+~
+~
+41 area guidelines~
+
+Setting an area's primary resource:
+ 
+Doing this will give the material you set it to a 25% bonus chance
+of being harvested when a player does their mining, woodcutting, etc.
+See help build for material restrictions.
+ 
+Setting the climate:
+ 
+Please make sure your area's climate is relatively close to the area(s)
+next door to it. In some instances this may not be necessary, but in
+order to create 'flowing' weather patterns, this is a requirement.
+ 
+Setting an area's Faction:
+
+Each area will be part of a bigger faction that will later allow players to
+vie for land and resources. For now just make each zone part of the faction
+of the nearest town. So far Renfall and Golthek are the only two factions.
+ 
+Flagging the area as a 'ship' via area flags:
+
+Use of this flag creates an area that is actually a ship. Ships will
+need to have a 'stern' room, or basically a room where you can place
+a ship's helm (this is an actual item type in OEDIT). Ship's helms are
+required to make a ship operate. Also, the same room must have it's owner
+flag set to the character who owns the ship, otherwise once again the
+boat/ship will not act properly. Ships should never be more than 30 or so rooms.
+~
+~
+0 imbue~
+
+Syntax: imbue <object> <enchantment>
+ 
+Using imbue, a character may imbue an object with a pre-made enchantment,
+provided the enchantment wear slot and the item's wear slot match up, and
+the enchanter has an available spell slot available for the level of enchant.
+~
+~
+41 ITEM_ALCHEMY_RECIPE~
+
+v0, v1, and v2 are ingredient possibilities for said recipe. These
+do not have to be set, and can be set to 'none'. Also, v3 is the spell
+that the recipe can produce.
+ 
+Valid herbs/rarity/environment:
+ 
+catnip          VERY_COMMON     GRASS
+dandelion       VERY_COMMON     GRASS
+basil           COMMON          GRASS
+daffodil        COMMON          GRASS
+marigold        COMMON          GRASS
+adderstongue    UNCOMMON        GRASS
+angelica        UNCOMMON        GRASS
+aster           UNCOMMON        GRASS
+saffron         UNCOMMON        GRASS
+sage            UNCOMMON        GRASS
+jasmine         UNCOMMON        GRASS
+henbane         RARE            GRASS
+comfrey         COMMON          WATER
+agrimony        UNCOMMON        WATER
+butterbur       UNCOMMON        WATER
+coltsfoot       UNCOMMON        WATER
+birch           COMMON          FOREST
+blackberry      COMMON          FOREST
+camomile        COMMON          FOREST
+campion         COMMON          FOREST
+cowslip         COMMON          FOREST
+fern            COMMON          FOREST
+amaranth        UNCOMMON        FOREST
+anemone         UNCOMMON        FOREST
+holly           UNCOMMON        FOREST
+laurel          UNCOMMON        FOREST
+marjoram        UNCOMMON        FOREST
+mistletoe       UNCOMMON        FOREST
+peachtree       UNCOMMON        FOREST
+euphorbia       RARE            FOREST
+hellebore       RARE            FOREST
+moonwort        RARE            FOREST
+mullein         RARE            FOREST
+chickweed       COMMON          SWAMP
+hoarhound       UNCOMMON        SWAMP
+hemlock         RARE            SWAMP
+quince          RARE            SWAMP
+belladonna      VERY_RARE       SWAMP
+stinking arrach VERY_RARE       SWAMP
+cactus          VERY_COMMON     DESERT
+sandalwood      RARE            DESERT
+calamint        COMMON          HILL
+fennel          COMMON          HILL
+goldenrod       COMMON          HILL
+stickwort       COMMON          HILL
+milkweed        COMMON          HILL
+figwort         UNCOMMON        HILL
+~
+~
+0 blacksmithing~
+
+Syntax: blacksmith <smelt/forge/cost>
+ 
+Blacksmithing is an important skill in Aragond, because it
+can be used to create equipment for so many people throughout
+the realms. One may melt materials down from old equipment
+via the smelt command, or forge new equipment using materials
+they already have.
+ 
+One must be at an anvil to use blacksmithing, and have the
+appropriate tools (blacksmithing hammer, materials, etc)
+~
+~
+0 palmstrike palm_strike~
+
+Syntax: palm <target>
+
+Palmstriking is a very advanced monk technique taught only to the most devout
+of knowledge seekers, which can inflict major harm upon one's enemy. The monk
+must first gather energy, then he releases it the next 'combat round'. 
+~
+Upro~
+0 seafaring~
+
+The seafaring skill is important for adventurers who decide
+to live their lives on the sea. Most importantly it helps them
+navigate, but also helps in other areas on ships/water.
+~
+~
+0 jewelcrafting~
+
+Syntax: jewelcraft <cut/create/cost>
+ 
+By way of jewelcrafting, a player can create items from precious
+gems found throughout the lands. They may also harvest materials
+from previously found equipment, via the cut command.
+~
+~
+0 find trap~
+
+An adventurer's ability to find traps is sometimes crucial
+to his/her survival during campaigns. This skill is passive
+and will show a flag next to the trapped object when detected.
+~
+~
+0 first aid bandage bleeding blood~
+
+The first aid skill is useful to most adventurers in the land, allowing them
+to bandage themselves when bleeding. Characters lose hp over time when they
+bleed, and cannot recover by normal conventions (sleeping, resting). Characters
+without the first aid skill can still bandage themselves, but far less
+successfully. You can die from bleeding/bloodloss. 
+~
+Upro~
+0 hand parry~
+
+The ability to parry weapons and fists with one's own
+hands is an impressive one, and few have mastered it.
+This skill is seen mostly with monks, though there have
+been records of fighters and even rangers using hand to
+hand combat in some instances.
+~
+~
+0 detect secret~
+
+This skill allows one to detect secret doors. It works
+passively, and will show doors as {m({xeast{m){x instead of (east).
+~
+~
+0 blind fighting~
+
+Blind fighting is a skilled honed over time that allows an
+adventurer to retain keen awareness of his surroundings, even
+while blind. This does not give the person 'sight', but does
+afford them a bit of a bonus in combat situations.
+~
+~
+0 plant~
+
+Syntax: plant <object> <person>
+ 
+Using the plant skill, a thief may drop items into someone
+else's pockets inconspicuously. This is based on the object's
+weight of course.
+~
+~
+0 counter~
+
+Counter is a passive skill for melee types that allows them
+to reverse an attack from their opponent, causing damage
+instead to their attacker.
+~
+~
+0 swim~
+
+Swim is a passive skill that allows the common adventurer the
+ability to swim in the water, allowing him to travel to some
+places he might not have been able to get to before.
+~
+~
+0 woodcutting chop~
+
+Syntax: chop <tree>
+ 
+This skill requires the player to wield an axe, then he/she
+may proceed to chop down the nearest tree, and gather the wood
+they have collected from it. This material can be seen via the
+material command.
+~
+Upro~
+0 dual wield~
+
+Syntax: dual <weapon>
+ 
+Dual wielding is an ability that allows one to wield
+two weapons, provided the second weighs sufficiently
+less than the first (one third less). Dual wielding
+two weapons you are proficient or specialized in can
+give you bonuses to related skills such as parrying.
+~
+~
+0 spellcraft~
+
+Spellcrafting is a passive skill that allows wizard to enjoy
+a bonus to their casting abilities when it occurs.
+~
+~
+0 turn undead~
+
+Syntax: turn <undead creature>
+ 
+A cleric using this ability can force one or more
+undead creatures to flee in Holy terror. Alignment
+plays a large role in this.
+~
+~
+0 remove trap~
+
+Syntax: trap remove <object>
+ 
+A player using this ability can remove any traps laid
+upon such object, if he is careful and has the right
+tools for the job.
+~
+~
+0 lay trap~
+
+Syntax: trap lay <object> <type>
+ 
+In order to use this skill, one must have a container handy,
+or there must be one in the room, which can close. A thief
+must also have a good set of tools with him.
+~
+~
+0 alchemy~
+
+Syntax: brew <flask name> <recipe name>
+ 
+Using this skill, a player can brew potions based on the recipes
+they find throughout their adventures within Aragond. This is a
+helpful way to make money as well, as not everyone has access to
+potions and spells.
+~
+~
+0 tailoring~
+
+Syntax: tailor <fabric/clothing/cost> By way of the tailoring skill,
+people with cloth materials can make clothing based on what they have and
+what dyes are on hand. It also gives them the ability to 'fabric' existing
+cloth equipment, in order to reduce it to scrap fabric. 
+~
+~
+0 cooking~
+
+Using the cooking skill, one may create wondrous meals from the food they
+have on hand, provided they have some sort of a fire nearby. Food comes in
+handy, especially when you're stuck in the wilderness without any for a
+length of time.... 
+~
+~
+0 MXP~
+
+MXP has been integrated with this mud and is available by the command of the
+same name. There are many neat features that can be produced with MXP, and
+we'll be implementing them as they come by. Note: Gmud does not support MXP. If
+you're having problems with it try another client. 
+~
+~
+41 ideas/todo~
+
+A sanitation worker says 'There might be shops around here Telliri.' A
+sanitation worker slowly states 'But not here, you might buy a map of
+Palanthas...'
+
+add a auto_scroll_loot command.
+
+racial hate.
+
+make tracks based on not only direction headed but also on the type of foot
+wear they have on. elves with no shoes on will not leave prints.
+
+make a morgue that pc's can take embalmed corpses to and allow them to be able
+to remove the heart for the pc for a few gold (for summon monster, or
+whatever).
+
+rewards for playing characters to old age - 1) allow them to have improved
+forging/jewelcrafting/tailoring abilities. perhaps give an
+{rCraftsman{x/{CArtisan{x/{CMasterSmith{x whatever flags to people who have
+made over 250/1000/2500/5000 'crafting points', which are earned when a player
+creates any item (different values for diff items), and also when they hit 100%
+in the crafting skill.
+
+doppleganger-- it's a race and class with array of 10 'memorized' mobs they can
+shift to.
+
+smoke bomb idea for thieves.
+
+rwhere command to search by room name
+
+clan banks... furthermore... clan flags for players (can_bank, can_recruit,
+can_outcast, can_promote, etc).
+
+When factions/clans take over certain areas they gain gold/resources per day
+based on the area.
+
+autosheathe command. sheathed weapons keep cityguards from attacking and such.
+
+zap self all/second/third commands.
+
+Room ownership.... can purchase land from shop which has a list of rooms for
+sale based on the room list settable by kings, dukes, etc..
+
+If a room is owned, the PC should be able to directly change the room. object
+reqs based on skill/stats/size, not level (still can't wear more than ten
+levels ahead of you. 
+ 
+New fighter skills: sharpen (will add value to people playing the class)
+ 
+finish martial arts skill
+ 
+script command or something similar for bards to scribe spells.
+ 
+categorize skills into evil/neutral/good/all to allow for things like death field
+some evil pally spells, some good only pally spells, etc...
+ 
+Potion miscibility chart... drinking too many dif. potions could hurt you!
+ 
+Skinning certain races yields diff. results (dragon scales, etc..)
+ 
+make haggle an actual command... based on charisma, level, and haggle %
+ 
+pouring potions on containers... fireproof potion, etc..
+ 
+room echo for compare.
+ 
+each class needs group support skills/spells.
+ 
+UPDATE 'STAT MOB' layout
+ 
+some kind of skill or ability to use moves for hp (like mana shield but for moves)... (monks?)
+ 
+finish weather change descriptors
+ 
+2020 IDEAS
+ 
+1. Ambidexterity is not a boon, rather a % chance to have in creation like psion stuff.
+~
+Upro~
+0 walk_description entrance~
+
+Syntax: entrance <walk_description>
+ 
+Your walk description is what others will see as you enter or leave a room.
+This requires a very specific format to not look goofy therefore below I've
+included some examples to help you get accustomed to them.
+ 
+{GGood examples{x:
+ 
+A scarred, towering man
+A lithe, curvacious elf
+A surly dwarf purposefully
+ 
+{RBad examples{x:
+ 
+A force to be reckoned with
+The king of spain
+ 
+Also don't put numbers in them, at all.
+
+Immortals have the right to force you to change this if it doesn't conform to
+what we feel is appropriate for the game atmosphere.
+~
+~
+0 Animal Growth~
+
+Syntax: cast 'animal growth'
+
+
+This spell causes the caster to grow considerably in size and strength.
+The obvious benefits of being larger and stronger are a result, among them
+the capacity to should heavier loads and increased melee damage. 
+~
+~
+0 Frost Arrow~
+
+Syntax: cast 'frost arrow' <target>
+
+
+This spells conjures forth, and subsequently fires, a freezing arrow at
+your target. 
+~
+~
+0 Flame Arrow~
+
+Syntax: cast 'flame arrow' <target>
+
+
+This spells conjures forth, and subsequently fires, a flaming arrow at your
+target. 
+~
+~
+0 Acid Arrow~
+
+Syntax: cast 'acid arrow' <target>
+
+
+This spells conjures forth, and subsequently fires, an acidic arrow at
+your target. 
+~
+~
+0 Gust of Wind~
+
+Syntax: cast 'gust of wind' <target>
+
+
+This spell calls up a huge gust of wind powerful enough to send even the
+largest creatures flying. Damage is caused not by the gust itself, but by
+the target coliding into surrounding objects. 
+~
+~
+0 Nightmare~
+
+Syntax: cast nightmare <target>
+
+
+This malady is cast upon a target while they are sleeping. Once placed
+upon a slumber foe, this spell will go to work in the most insidious of
+ways, filling the targets dreams with horrible visions and feelings. While
+experiencing such nightmares, their body's normal rate of self healing will
+be greatly reduced, rendering the rest nearly useless. 
+~
+~
+0 Fear~
+
+Syntax: cast fear <target>
+
+
+This spell invades your opponents psyche, probing for their deepest fears
+and then unleashing them before their very eyes. Such an act will induce an
+immediate urge to get as far away from this terror as possible, resulting in
+the target fleeing. 
+~
+~
+0 Barkskin~
+
+The barkskin spell is helpful for a druid who would rather not take a lot of
+combat damage. It helps with their armor class as well as reducing actual
+damage taken by a small amount. 
+~
+Upro~
+0 Blade Barrier~
+
+Syntax: cast 'blade barrier'
+
+
+This powerful spell can only be cast when the user is in possession of a
+bladed object of some sort, ie: a sword or dagger. Once enacted, it will
+create magical copies of that blade and surround the caster in a whirling
+mass of them, inflicting a great deal of damage to any foe that dares draw
+near. 
+~
+~
+0 Water Breathing~
+
+Syntax: cast 'water breathing'
+
+
+This enchantment allows the user to, well... breathe underwater.
+~
+~
+0 Frost Breath~
+
+Syntax: cast 'frost breath' <target>
+
+
+Calling forth the same magics a White or Silver dragon would when
+summoning their breath weapon, the wizard casting this spell is for a short
+time capable of the same level death and destruction. 
+~
+~
+0 thorns~
+
+Syntax: cast thorns
+
+
+This spells surrounds its caster with a briar like tangles of enchanted
+thorns. Any aggresive movement made towards those surrounded by the thorns
+results in them lashing out in retaliation at the one who wished to harm
+them. 
+~
+~
+0 Fire Seeds~
+
+Syntax: cast 'fire seeds' <target>
+
+
+This spells allows the caster to embue a few seeds or other natural
+objects with explosive kinetic energy. When these charged objects make
+contact with a foe they result in an explosion of flames and force, both of
+which are highly damaging. 
+ 
+ 
+~
+~
+0 Regeneration~
+
+Syntax: cast regeneration <target/blank for self>
+
+
+This spells allows those affected by it to regenerate physical damage at
+a much greater than usual rate. 
+~
+~
+0 Meteor Swarm~
+
+(area of effect)
+
+Syntax: cast 'meteor swarm' <target optional>
+
+
+This extremely powerful spell calls down chunks of debris from beyond the
+atmosphere of the planet itself. These chunks obviously land with great
+force, and are all but deadly to those unlucky enough to be caught in the
+target zone. 
+~
+~
+0 Blink~
+
+Syntax: cast blink
+
+
+This spell allows a mage to rapidly "blink" in and out of existance in a
+close proximity. It can be viewed as a form of rapid short-range
+teleporting. Either way, the speed at which this "blinking" happens is quick
+to the degree that blows that would have otherwise landed directly on the
+caster miss entirely. 
+~
+~
+0 Stone Meld~
+
+Syntax: cast 'stone meld'
+
+This spell enables its caster to literaly meld into the ground beneath
+them, effectively hiding them from normal sight. It may be more or less
+effective depending on the location. 
+~
+~
+0 Sunbeam~
+
+Syntax: cast sunbeam <target>
+
+
+This powerful incantation calls forth a beam of pure sunlight to strike
+your goes, regardless of weather or time of day. The intense energy and
+radiance of this beam will not only damage those caught within it, buy may
+blind them as well. 
+~
+~
+0 Knock Spell~
+
+Syntax: cast knock <direction of lock>  (ie: cast knock east)
+
+
+This spells allows a caster to magically open otherwise locked doors or
+objects, regardless or not as to whether they possess the correct key. 
+~
+~
+0 Wrath of the Ancients~
+
+Syntax: cast 'wrath of the ancients' <target/blank for self>
+
+
+This beneficial enhancement grants the enchanted person the wrath of
+nature itself, greatly increasing their fury and ability when engaged in
+melee combat. 
+~
+~
+0 Two Word Test~
+
+~
+~
+0 confusion~
+
+Syntax: cast confusion <target>
+
+
+This enchantment confuses your opponent, causing them to at times get
+lost in battle resulting in either injury to themselves or those around
+them, friendly or not. 
+~
+~
+0 extension~
+
+Syntax: cast extension
+
+
+This meta-magic spell allows mages to extend the duration of both their
+benefecial and harmful spells. It must be enacted prior to using the spells
+you wish to extend. 
+~
+~
+0 shadow_bolt~
+
+Syntax: cast 'shadow bolt' <target>
+
+
+This spell calls forth a bolt of negative energy, pummeling your foe with
+unholy wrath. 
+~
+~
+0 web~
+
+Syntax: cast web <target>
+
+
+This spells covers your target in sticky layers of webbing, greatly
+hindering their ability to move. 
+~
+~
+0 death corpse~
+
+Death is caused by, well, dying. When you die, you will be transported to
+the healer in Renfall. Unlike most worlds, at this point you will be your whole
+self, not any sort of ghostly form, mostly unchanged save for a loss of a bit
+of experience. Normaly at this point one would pay the healer a sum of gold in
+order to make use of the 'morgue' command and recover your lost corpse, should
+you not be able to do it on your own. However, during the current alpha phases
+of the game, your corpse will be transported to the High Priest of Renfall,
+where it will await you, free of charge. The penalties and consequences of
+death, and your ability to recover your belongings will be ever changing, stay
+tuned. 
+
+Dying to players can sometimes cause loss of consitution. When one's
+constitution is reduced low enough, the player stands the risk of his character
+permanently dying. 
+
+A character can also die from aging, although this generally takes a very very
+long time to happen, as a player only ages at the rate of one year per 20
+playing hours, and even the shortest lived races, such as half orcs, can live
+to be sixty or seventy years old. 
+~
+Upro~
+0 feeblemind~
+
+Syntax:  cast feeblemind <target>
+
+
+This spell wreaks havoc on its targets mind. The end result of the
+affliction is a temporary loss of intelligence and the deplenishing of
+magical reserves. 
+~
+~
+0 knock_spell~
+
+Syntax: cast knock <direction of door> (ie: cast knock east)
+
+
+This spell magically unlocks a locked door, whether the caster has the
+key or not. 
+~
+~
+0 levels~
+
+Levels on Aragond range from 1 to 40, for mortals, then 41 to 50 for
+immortals. If you multiclass your character, your main class will top out at
+25, and your secondary at 15. 
+~
+Upro~
+0 directions~
+
+~
+~
+0 half-elf~
+
+Half-Elves are born of a relationship between a Human and Elf. They are
+usualy slightly larger than Elves, though not quite as larger as some of the
+larger Humans of the land. Like Half-Ogres, but to a smaller extent,
+Half-Elves can have difficulty finding their place among either of their
+parent cultures, and because of this many tend to walk a more
+loner-orientated path. They retain the ability to see in the infrared
+spectrum like their Elven parents, but do not gain any other of their
+inherent abilities. 
+~
+~
+0 half-ogre~
+
+Half-Ogres are a result of breeding between Human and Ogre parents. For
+the most part these relationships are non-consensual and usualy involve an
+Ogre male and Human female. Because of this the Half-Ogre offspring are
+often shunned by both races and have a hard time finding there place in the
+world. They are significantly larger than the average human, usualy topping
+out at eight or nine feet in height, and typicaly with a larger frame to
+match. Due to this size, they excell at inflicting a larger than usual
+amount of damage, and are very proficient at using their bulk to slam their
+opponents about. 
+~
+~
+0 Duergar~
+
+Duergar are a race of Dwarves which split off from their above-ground
+brethren many centuries ago. Shunning the light, they instead chose to make
+their home in the Underdark, and in the process set about abanodoning most
+of the customs and cultures of their kin. Most Duergar resemble Dwarves in
+stature, though their skin pigments vary significantly. Like their surface
+kin, they excell at mining, and have full use of the infrared spectrum for
+low-light sight. Like any Dwarf, they are prone to fits of rage when angered
+in combat, and thus gain free use of the berserk skill. 
+~
+~
+1 upro~
+
+This helpfile is to help clarify some of the things I'm working on
+currently, in an effort to try and keep everyone's ideas in an organized
+list. 
+ 
+{B2020 TO DO LIST{X
+- fix bugs. get as stable as possible.
+- finish any spells/skills that don't have code yet.
+- grow the game world by about 10x.
+
+To Do List:
+ 
+Finish up questing (hooking the quests that builders are now making into
+the player files.)
+ 
+Finish my mob AI codework (already did beholders and redid spec_cleric/spec_mage)
+ 
+A 'bulletin' board; a note board that you can only view the notes
+if you are in a tavern or some place with adventuring adverts.
+ 
+Camping (will go hand in hand with cooking / survival / etc.)
+ 
+Scaleable buildings and trees, altitudes, and flying combat.
+ 
+ 
+Mob personality flags: happy, sad, angry, sleepy, injured. Along with a memory
+system so that they can remember people they have met, fought, etc...
+~
+Upro~
+0 QEdit~
+
+QEdit is the editor I created specifically for our mud. It will enable us to create
+quests for area much like you would a mob, object, or room.
+~
+~
+0 engage~
+
+Syntax: engage <target>
+ 
+The engage skill is useful for switching targets in combat. Most tanks will
+want to use this skill often to save party members from being destroyed by
+minions in a boss fight.
+~
+~
+0 strength~
+
+Strength is the measure of the physical power that your character has. It limits the
+amount of items you can carry at once, the maximum weight, and can add or reduce damage
+to/from your melee attacks.
+ 
+Strength affects: hitroll, melee dam, how much you can carry, how heavy a weapon you can wield
+~
+Upro~
+0 embalm~
+
+The embalm spell was crafted many centuries ago by an ambitious necromancer who 
+wanted more efficiency out of his zombies. Carrying around their corpses turned
+out to be much to heavy, so he invented the embalm spell, which does just that
+to a corpse, allowing the mage/necromancer in question great ease when transporting
+their corpses.
+~
+~
+0 note board unread~
+
+Syntax: note <write/text/to/subject/board/post/clear/list/read/show/catch>
+
+Using the note command, one may post notes to the appropriate, selected board.
+To start a note, you simply type: note write. This will open up a new note in
+your default board. To edit the text, simply type 'note text' and you will be
+placed in the game's default text editor. An ampersand gets you out of the text
+editor.
+
+Typing unread/board will show all boards and which ones you have unread notes
+on. To switch boards, type board <board name>. To cancel a note in progress,
+type note clear or simply done.
+
+You can send notes to imm/immortal or imp/implementor as well. The first will
+allow only immortals to see them, the second will allow only the highest level
+imms to see them. 
+
+If a board has a lot of notes, you can read the last few of them by typing note
+list <##>, ranging 1 to 100. Therefore, typing note list 20, will show the last
+20 notes in the board. Note list new will show only new notes in the selected
+board. 
+ 
+New: note catch will mark all notes in your current board as read.
+~
+Upro~
+0 drow~
+
+Stat Modifiers:
+
+Wisdom + 1, Constitution - 1
+
+The drow are a race of elves which are inherently evil, though few have been
+known to walk the path of light. They are ebony in skin tone, and usually have
+grey or stark white hair. Their build is about the same as a normal elf, but
+they tend to have a bit more intelligence due to their cunning nature.
+ 
+Being a drow gives you the inherent abilities of sneak, magic detection, and
+invisibility.
+~
+Upro~
+42 ITEM_CRAFT~
+
+value 0    +/- bonus to whatever crafting skill it's used for.
+~
+~
+0 tracking~
+
+With the tracking skill, a ranger may spot the tracks of animals and
+and humanoids, enabling him to hunt things down with ease.
+ 
+Tracks can be wiped out by rain and snow fairly rapidly, and time itself
+eventually erases tracks.
+~
+~
+-1 learn~
+
+Syntax: learn <scrollname>
+ 
+This allows one proficient with scrolls to learn a spell from studying
+one. This is one way the spellcasters of Aragond learn new magic.
+Being relatively close to the level of the spell the scroll is scribed
+with is important for success.
+~
+~
+0 morgue~
+
+Syntax: morgue
+
+The morgue command must be used at a healer, and the player must be prepared
+to pay some gold, but once used it will allow the players to have his/her
+corpse magically transported to him, saving potentially a lot of trouble.
+
+
+--WARNING!  -- At this time the morgue command is not working properly,
+while the mud is in alpha stages, an immortal can be contacted to help you
+in recovery of your corpse. 
+~
+~
+0 foraging~
+
+Syntax: forage
+ 
+Use of this skill will allow the player to carefully retrieve
+herbs found in the wild, without damaging their potentially
+magical properties.
+~
+~
+0 grank~
+
+Syntax: grank <front/flank/back>
+ 
+When in a group, you can configure the formation by using this command.
+When in the front, you will tend to be attacked more by aggressive monsters,
+but while in the back, you will take slightly less melee damage. Flanking
+the group provides easier access to hit the enemy.
+~
+~
+0 class classes~
+
+The playable classes of Aragond are:
+ 
+Wizard
+Cleric
+Thief
+Fighter
+Druid
+Ranger
+Paladin
+Bard
+Monk
+~
+~
+0 addmin~
+
+Syntax: addmin <player> <minutes>
+ 
+Primarily used as a testing tool, addmin allows you to add
+minutes to a character's total played time.
+~
+~
+0 checkwpn~
+
+Syntax: checkwpn <name/level>
+ 
+Using checkwpn, an immortal may grab a poll of all weapons
+on the mud meeting the criteria listed. You can also use two
+arguments and pass a name AND a level criteria to the command.
+~
+~
+0 finger~
+
+Syntax: finger <person>
+        finger <real/email>
+ 
+Using the finger command, one can check the login times of other
+individuals. You can also set your real name and email address.
+~
+~
+0 prospecting~
+
+Syntax: prospect
+        prospect <stop>
+ 
+Prospecting is the art of sieving ore from the water, and in order
+to do this, you must have a sieve, and of course be near water.
+~
+~
+0 pressure point~
+
+A monk posessing the intimate knowledge of pressure points can
+effectively target their foes weakest areas much better than others, and so
+can land critical blows at a higher rate than others.  
+~
+~
+0 stun fist~
+
+Syntax: stunfist <target>
+ 
+The stun fist technique is a powerful tool learned by monks in
+order to momentarily disable their opponents. This technique does
+require a bit of ki energy, but it well worth it in the right
+situation.
+~
+~
+0 energy blast~
+
+Syntax:  energy <target>
+ 
+An energy blast is a powerful ki produced ability that monks
+may learn throughout their arduous training. A monk must first
+store enough ki to release the blast, using the channel ability,
+then once he has stored enough, he may release it in the form
+of a damaging blast.
+~
+~
+0 channel~
+
+Syntax: gather
+ 
+When a monk is sufficiently trained, he/she may learn how to channel
+ki energy into their body, storing it for later use. This process
+is time consuming, and requires heavy concentration, barring it's use
+during combat.
+~
+~
+0 evasion~
+
+Evasion is a passive monk skill that allows him/her to avoid incoming
+attacks totally.  This is something done with great finesse, and requires
+the monk to have excellent dexterity.  
+~
+~
+0 balance~
+
+Balance is a passive monk skill that allows the monk opportunity to avoid
+bashing or tripping from foes.  This skill is honed after years of training
+and relies heavily on the monk's own dexterity score.  
+~
+~
+42 build~
+
+This is a general building guide for builders. It is meant to help people understand
+what I would like out of the areas they create here. It is not meant to help you figure
+out the functions of OLC, we have other helpfiles for that.
+ 
+mob names, object names: these should have every keyword in your short description, other
+than words like: the, a, an, etc...
+ 
+short descs: These are the things you see in combat, 'you swing at a kobold with an axe of
+slaying'. We don't want to see things like: 'you swing at a kobold with an axe of slaying
+lies here'.
+ 
+Long descs: End these with a period. always. Also please capitalize the first word in them.
+Be aware of things like: 'A key rests on the dirt ground here.' - What if they dropped it in
+a tiled room?
+ 
+Room descs: please try not to refer to characters using 'you' in room descs. Also try to remember
+that there are things like day/night, seasons, etc. So you don't want to say something like: "A
+valley sprawls before you, the sun bringing it's natural beauty to light.", since it might be night.
+Also try not to be repetitive with your room descriptions. Sometimes it's necessary, not always. Oh,
+and also, please PLEASE don't use a bunch of colors everywhere. This isn't some crap ass dragon ball Z
+mud.
+ 
+This is it for now, I'm sure I'll think of more to add later, but yeah. Try to make our areas look
+elegant. We want to attract players not drive them off. Thanks!
+ 
+Upro
+ 
+ 
+Addendum 8/30/2010
+Please do not set an area's primary resource to any of the following materials:
+mithril, adamantite, emerald, ruby, diamond, black oak, red oak, white oak, maple.
+ 
+Addendum 9/5/2010
+Health/mana regen per room is as follows:
+Poor: under 20
+Decent: 25-40
+Good: 50-75
+Excellent: 100 (Please don't go over this.)
+~
+~
+0 prompt~
+
+Syntax: prompt
+Syntax: prompt all
+Syntax: prompt <%*>
+ 
+PROMPT with out an argument will turn your prompt on or off.
+ 
+PROMPT ALL will give you the standard "<hits mana moves>" prompt.
+ 
+PROMPT <%*> where the %* are the various variables you may set yourself.
+ 
+%h :  Display your current hits
+%H :  Display your maximum hits
+%m :  Display your current mana
+%M :  Display your maximum mana
+%v :  Display your current moves
+%V :  Display your maximum moves
+%x :  Display your current experience
+{x%X :  Display experience to level
+%g :  Display your gold held
+%i :  Display number of items carried
+%I :  Display amount of items you can carry
+%t :  Display current game time
+%G :  Display your guildpoints
+%s :  Display silver carried
+%b :  Display your bleeding status
+%a :  Display your alignment
+%S :  Display what terrain you are in
+%r :  Display the room name you are in
+%e :  Display the exits from the room in NESWDU style
+%c :  Display a carriage return (useful for multi-line prompts)
+%R :  Display the vnum you are in      (IMMORTAL ONLY)
+%z :  Display the area name you are in (IMMORTAL ONLY)
+%o :  Display current OLC editor       (IMMORTAL ONLY)
+%O :  Display current OLC vnum         (IMMORTAL ONLY)
+ 
+Example:  PROMPT <%hhp %mm %vmv>
+        Will set your prompt to "<10hp 100m 100mv>"
+~
+Upro~
+0 prompt~
+
+~
+~
+0 iron skin~
+
+Iron skin is a passive skill available for monks that allows them to
+ignore certain attacks as if they never happened.  The monk's body is a very
+highly trained thing, and can take more punishment than usual.  
+~
+~
+0 iron will~
+
+Iron will is a passive skill for monks that helps them stay alive even
+when they are extremely close to death.  This skill relies on a monk's
+constitution score, and so long as the monk's iron will holds out, he will
+stay alive.  
+~
+~
+0 iron fist~
+
+Iron fist is a passive monk skill that gives the monk in question a bit
+more power per punch. It can be learned as an initiate in one's monk guild. 
+~
+~
+46 rename~
+
+Syntax: rename <character name> <new name>
+ 
+Using this command will rename players. This is useful when they decide to
+make retarded or offensive names like Dildoman and Snatch. This will auto-
+magically resave the character upon completion.
+~
+~
+0 god gods deity deities~
+
+The Gods of Aragond are listed below:
+ 
+god of combat              Maelik
+god of magic               Omari
+god of neutrality          Nelenwe
+god of chaos               Nefyr
+god of light               Lirannon
+god of dark                Daij
+god of discipline          Aziel
+god of nature              Andora
+god of luck/fortune        Jopha
+
+Each god has his/her own helpfile.
+~
+Upro~
+-1 half_elf~
+
+Half-elves are the combination of elf and most often human breeding,
+though other variations do occur. Half-elves retain most of the elven
+wisdom, while inheriting more of the size of their usual human halves.
+ 
+Half-elves, like humans, tend to do fairly well in any class.
+~
+~
+0 half_orc~
+
+Stat Modifiers:
+
+Strength + 1, Wisdom - 1, Constitution + 1, Charisma - 1
+
+Half orcs are the conception of an orc and any other race in Aragond. Most
+frequently they share orc heritage with either elven or human, but there have
+been plenty of cases otherwise. Half orcs tend to be taller due to their orcish
+side, and can reach seven or eight feet in height sometimes.
+ 
+Half orcs live shorter than all the other races due to their genetic differences,
+and are not very wise or charismatic. They make excellent fighters, rangers, and
+the occasional thief.
+~
+Upro~
+-1 gnome~
+
+Stat Modifiers:
+
+Wisdom - 1, Intelligence + 2, Dexterity - 1
+
+Gnomes are close cousins to the dwarves, and are accustomed
+to caves, mountains, and underground areas. They generally
+have beady eyes and come to anywhere from two to three feet in
+height.
+ 
+Gnomes are very sturdy, just like their dwarven cousins, and
+as such they receive a bonus to their constitution. They are
+also known to be wise beyond most races, and thus their clerics
+are known to be powerful. Gnomes are well suited for most any
+class save for monk, where they tend to be far too clumsy to be
+of any competence.
+~
+Upro~
+-1 halfling~
+
+Stat Modifiers:
+
+Strength - 1, Dexterity + 2, Wisdom - 1
+
+Halflings resemble humans in almost every way, with their main difference
+being their height. Halflings are on average, about three feet tall, and
+tend to be more on the portly side, as they're well known for having six
+meals a day.
+ 
+Halflings are very dextrous creatures, and gain a bonus to this statistic,
+making them excellent choices for thieves. Halflings are also known to be
+fairly decent clerics.
+~
+Upro~
+0 MONK~
+
+Primary Stat: {rDexterity{x
+2ndary Stat:  {yWisdom{x
+
+Minimum Stats: Dexterity (15), Wisdom (12)
+
+Monks are masters of hand to hand combat, their proficiency at it is
+unrivaled among the classes of the world. Relying solely on their bodies for
+both attack and defense, they have shunned the use of any physical weapons
+whatsoever. They are capable of learning a limited selection of clerical
+devotions, but otherwise rely on their intense training to manipulate their
+bodies to bend to their will. Constitution, strength, and dexterity are
+important attributes for a Monk. 
+~
+Upro~
+0 BARD~
+
+Primary Stat: {rCharisma{x
+2ndary Stat:  {yIntelligence{x
+
+Minimum Stats: Charisma (15), Intelligence (10)
+
+Bards are excellent travelling companions, as they always seem to have a story
+to tell! They're also good for parties/groups due to the nature of their magic,
+which is centered mostly around being in a group. While bards tend to do just
+fine alone, they prefer company and excel when in a group.
+~
+Upro~
+0 PALADIN~
+
+Primary Stat: {rConstitution{x
+2ndary Stat:  {yWisdom{x
+
+Minimum Stats: Charisma (17), Constitution (10)
+
+Paladins are holy warriors who dabble very slightly in healing magic.
+They are very distrusting of sorcery of any kind, if it's source isn't 
+from one's deity, and thus tend to have trouble adventuring with wizards.
+ 
+Paladins usually have great charm, strength, constitution, and wisdom, and tend
+to be excellent leaders of adventuring groups due to this, though they can be
+a little foolhardy at times, almost seeming to have too much faith in their deity.
+ 
+As a paladin, you must be good aligned. If not, you will be drained of your paladin
+like abilities and reverted to something resembling a fighter.
+ 
+Paladins have excellent health and tend to be in the forefront of any group.
+ 
+Note: Paladins require at least a 17 charisma.
+~
+Upro~
+0 RANGER~
+
+Primary Stat: {rConstitution{x
+2ndary Stat:  {yWisdom{x
+
+Minimum Stats: Constitution (12), Wisdom (13)
+
+Rangers are the naturalists of a group. They have excellent tracking abilities,
+and usuall tend to be quite fierce in melee combat as well. They can wear fairly
+bulky armor (see 'help bulk'), giving them a decent amount of damage resistance,
+allowing them to tank in certain instances if necessary.
+ 
+Rangers have a multitude of different skills available, as well as a few spells, making
+them a useful addition to any adventuring group.
+~
+Upro~
+0 DRUID~
+
+Primary Stat: {rWisdom{x
+2ndary Stat:  {yConstitution{x
+
+Minimum Stats: Wisdom (13)
+
+Druids are nature's clerics. They tend to dwell in the woods more than the
+city, and are known to have fairly balanced melee/spell casting abilities.
+Druids are naturally wary of wizards, due to the arcane nature of the spells
+they cast, usually in opposition of nature's intent.
+ 
+Druids can make excellent healers, damage casters, and even melee competitors.
+~
+Upro~
+42 addhours~
+
+syntax: addhours <character> <amount>
+ 
+This command allows an immortal to add hours to a player.
+~
+~
+42 addgp~
+
+syntax: addgp <character> <amount>
+ 
+This command adds guild points to a specified character.
+~
+~
+0 addxp~
+
+syntax: addxp <character> <amount>
+ 
+Adds experience points to the specified player.
+~
+~
+0 slist~
+
+syntax: slist <class>
+ 
+Currently this command shows you all available spell per specified class.
+~
+~
+42 sector~
+
+~
+~
+0 aragond~
+
+Aragond is the planet upon which this MUD takes place, and
+is also the name of the MUD.
+~
+~
+0 mine mining~
+
+syntax: mine <stop>
+ 
+Using the mine command without an argument will get you started mining,
+provided you have a mining tool of some sort, and the skill itself, as
+well as being in the proper area to do such a thing.
+ 
+Using the stop argument will stop you from mining.
+~
+Upro~
+0 DIKU~
+
+Original game idea, concept, and design:
+          Katja Nyboe               [Superwoman] (katz@freja.diku.dk)
+          Tom Madsen              [Stormbringer] (noop@freja.diku.dk)
+          Hans Henrik Staerfeldt           [God] (bombman@freja.diku.dk)
+          Michael Seifert                 [Papi] (seifert@freja.diku.dk)
+          Sebastian Hammer               [Quinn] (quinn@freja.diku.dk)
+
+Developed at: DIKU -- The Department of Computer Science
+                      at the University of Copenhagen.
+~
+~
+0 practice~
+
+syntax: practice <skill>
+ 
+Used without an argument, practice will show all skills available that you may
+practice. Used with an argument (a skill name), it will practice specified skill
+for a small fee induced from the trainer you visit.
+ 
+Skills may only be practiced to 50% (learned)
+ 
+Practices gained per level are based on your character's primary and secondary stats.
+
+Note: practicing only costs 2 gold and is free until after level 3.
+~
+Upro~
+0 train~
+
+syntax: train <str/int/wis/dex/con>
+ 
+A train is the equivalent of ten practices. It can raise a stat point by one or
+be used to learn new skills and spells from your guild's trainer (which may cost
+gold).
+ 
+Characters receive 6 trains initially and get one per level thereafter. Once you
+have reached level 15, you are no longer eligible to raise stat points via the
+train command.
+~
+Upro~
+0 bulk~
+
+Bulk is the measure of how heavy the equipment/armor you're wearing is. 
+Each character class has limits to how much bulk they can wear, as well as
+how bulky the items they wear can be.  
+ 
+Max Bulk Per Class:
+Wizard          5
+Cleric          15
+Thief           15
+Fighter         50
+Druid           20
+Ranger          35
+Paladin         50
+Bard            30
+Monk            15
+ 
+Max Item Bulk Per Class:
+Wizard          1
+Cleric          2
+Thief           2
+Fighter         5
+Druid           3
+Ranger          4
+Paladin         5
+Bard            3
+Monk            2
+
+Builder Guide:
+Item:            Suggested Bulk:
+Cloth            0-1
+Shield           1-4
+Plate            3-5
+Chainmail        2-4
+Helm             1-3
+Hands/Feet       1-3
+Legs/Arms        2-4
+Waist            1-3
+Wrist            1-3
+ 
+Also keep in mind metals like mithril/adamantite are notorious for being lightweight,
+and should therefore have a slightly reduced bulk in comparison to other pieces of
+armor made from materials such as gold/silver/platinum.
+~
+~
+0 herbalism~
+
+When one has the skill of herbalism, they are more readily able to
+identify different plants with meta-magical properties.  Herbalism also
+helps the adventurer in the alchemy field, and can produce better results.. 
+Herbalism is a passive skill that the game uses without you entering any
+commands.  
+~
+~
+0 forage~
+
+Syntax: forage
+
+ The use of this skill has a chance of providing the user with an herb,
+depending on where he/she is, how proficient they are with the skill, and
+some other factors.  One must learn the herbalism skill before being able to
+properly forage.  
+~
+~
+41 ireset~
+
+Syntax: ireset
+ 
+When building, resets become tedious. Hence the ireset command. This is a basic reset
+creation tool which you can use to set (in sequential order), the resets of mobs/items
+which you have currently loaded into the room.
+ 
+You must first have each mobile/item in the room which you want to set as a reset,
+then simply type ireset.
+ 
+Currently the ireset and nesting combo appears to be buggy.
+~
+~
+0 prerequisites requisites~
+
+This system simply means that learning some skills requires the learning of others in advance.
+Most of the more powerful spells and combat skills require some sort of prerequisites, which
+also sometimes require guildrank. See help guildrank for more information on this.
+~
+~
+41 clone~
+
+Syntax: clone <mob or item name>
+ 
+Using this command, an immortal may clone an exact duplicate of the NPC or item
+he or she so desires. This command is not used for cheating, and is logged when used.
+~
+~
+0 wizlist admin~
+
+The immortal staff of Aragond: The Chronicles - 
+ 
+{rCoder/Head Admin/Head Coder/Webmaster/Light Builder{x:
+ 
+Upro (50)
+ 
+{rBuilder{x:
+ 
+Krilantis (46)
+Ithric (43)
+
+{rHelpfile Imm{x:
+ 
+Archanon (41)
+~
+Upro~
+0 repair~
+
+Syntax repair <itemname>
+ 
+Using this skill, a player can repair his damaged equipment, provided he has the knowledge
+to do so. Without proficiency in the skill, a player might also visit the blacksmith for
+repairs on damaged or broken equipment.
+ 
+Going to the blacksmith costs a small fee, but can prove to be a better repair at times.
+~
+~
+0 bank banking~
+
+Syntax: bank <open/deposit/withdraw/statement>
+ 
+Banks are used to store more money than a character can generally carry, but come with
+stipulations of their own. Banks charge a small fee for withdrawal, and are prone to
+being robbed. However, one's bank account accrues interest with each passing year.
+ 
+Using bank open, if a player has 100 gold, he may open a bank account. With the usage of
+bank deposit, one can deposit gold coins into their existing account. The bank withdraw
+command allows a player to withdraw coins from their account, with a small surcharge.
+And finally, bank statement will show a player what they currently have in the bank.
+ 
+Banking can only be done at the appropriate place, silver cannot be deposited, and one
+can only deposit a maximum of fifty thousand gold in their account.
+~
+~
+-1 DWARF DWARVES~
+
+Stat Modifiers:
+
+Charisma - 2, Constitution + 1, Strength + 1
+
+Dwarves are short, stocky demi-humans, known for foul temper and great
+stamina.  Dwarves have high strength and constitution, but poor dexterity.
+They are not as smart as humans, but are usually wiser due to their long 
+lifespans.  Dwarves make excellent fighters and priests, but are very poor
+mages or thieves.  
+
+Dwarves are very resistant to poison and disease, but cannot swim, and so
+are very vulnerable to drowning.  They recieve the berserk skill for free
+(if warriors), and can see in the dark with infravision.
+ 
+Dwarves are known to excel at mining and blacksmithing, and have a natural
+affinity for axes and hammers. They also have keen vision in the dark.
+~
+Upro~
+-1 ELF ELVES~
+
+Stat Modifiers:
+
+Wisdom + 1, Constitution - 1
+
+Elves are a shorter version of humans, with a much lighter build. They
+lack the strength and stamina of the other races, but are for more agile,
+both in body and mind.  Elves are superb mages and thieves, but have at
+best fair talent as warriors or priests.
+
+Elves resist charm spells most effectively, due to their magical nature.
+However, they are burned by the touch of iron, and so are barred from the
+use of iron or steel in their adventuring careers.  Elves are notoriously 
+hard to spot, and so elven warriors and thieves recieve the sneak and hiding
+automatically. They may see in the dark with infravision.
+~
+Upro~
+-1 HUMAN HUMANS MAN~
+
+Humans are the most prominent race in all of Aragond, and they make up
+the majority of intelligent life on the planet. They are generally any-
+where from 5 to 7 feet tall, and do not receive bonuses to any stats.
+Humans tend to excel in every class, though have none that they are truly
+masters of.
+~
+~
+-1 GIANT GIANTS~
+
+Giants are the largest of the races, ranging from 9-12 feet in height.  They
+are stronger than any other race, and almost as durable as the dwarves.  
+They aren't too bright, however, and their huge size makes them more clumsy
+than the other races.  Giants make the best warriors of any race, but are
+ill-suited for any other profession.
+
+Giants resist heat and cold with nary a mark, due to their huge mass.  However,
+their slow minds make them extremely vulnerable to mental attacks.  Giants,
+due to their size and stamina, receive the fast healing and bash skills for
+free. (Only giant warriors recive bash).
+~
+~
+-1 WANDS STAVES SCROLLS~
+
+Magical items require training to use properly.  If your character lacks the
+necessary skill to use an item, he will fail, possibly destroying it.  The
+item skills are as follows:
+
+scrolls             The reading of magical scrolls and books (see 'help recite'/'help learn')
+staves		The use of staves and similar devices (see 'help brandish')
+wands		The use of wands and similar items (see 'help zap') 
+~
+~
+-1 'MENU CHOICE'~
+
+Choice (add,drop,list,help)?~
+~
+-1 BASICS 'ROM BASICS'~
+
+The basic skills:
+
+Every character starts with two skill groups, one for their class and a default
+set that all characters receive.  The default skills are:
+
+recall  	essential escape skill (see help recall)
+scrolls		reading of scrolls and other magical volumes
+staves		use of magical staves
+wands		use of magical wands
+
+for class defaults, check the classes themselves.
+~
+~
+-1 wizard mage~
+
+Primary Stat: {rIntelligence{x
+
+Minimum Stats: Intelligence (10)
+
+Wizards are a potent force within Aragond, though it takes a long time and
+quite a bit of dedication for a wizard to become powerful. Spells are not
+handed out, and must be found through painstaking adventuring, or learned
+through your guild after trust is built and coin is paid.
+
+Wizards have by far the largest array of abilities, due to the massive amount
+of spells available to them. They begin with either chilling touch, burning
+hands, magic missile, or shocking grasp for a combative spell. Wizards also
+begin with a utility spell, either copy, knock, or audible glamor. They can
+choose to specialize in a particular element, allowing them to hone their skill
+with one element, making their spells of that element stronger and giving them
+a slight resistance to the chosen element.
+
+Wizards rely on their intelligence for almost everything involving their class.
+They can also only wear armor of the cloth type, and cannot surpass a total
+armor bulk of 5. 
+~
+Upro~
+-1 CLERIC 'CLERIC BASICS' 'CLERIC DEFAULT'~
+
+Primary Stat: {rWisdom{x
+
+Mininum Stats: Wisdom (10)
+
+Clerics are the most defensively orientated of all the classes. Most of their
+spells focus on healing or defending the faithful, with their few combat spells
+being far less powerful than those of mages. However, clerics are the best
+class by far at healing magics, and they posess an impressive area of
+protective magics, as well as fair combat prowess.
+
+Clerics can wear pliable armor up to 2 bulk per piece, and can have a total
+bulk of 15. This gives them reasonable defense in battle, giving them better
+ability to heal their group... or themself. 
+~
+Upro~
+-1 THIEF 'THIEF BASICS' 'THIEF DEFAULT'~
+
+Primary Stat: {rDexterity{x
+
+Minimum Stats: Dexterity (10)
+
+Thieves are a marginal class. They do few things better than any other class,
+but have the widest range of skills available.  Thieves are specialists at
+thievery and covert actions, being capable of entering areas undetected where
+more powerful adventurers would fear to tread.  They are better fighters than
+clerics, but lack the wide weapon selection of warriors.
+
+All thieves begin with the dagger combat skill, and are learned in steal as 
+well.  Any other weapon skills must be purchased, unless the default selection
+is chosen.  This default skill package includes:
+~
+Upro~
+-1 FIGHTER~
+
+Primary Stat: {rStrength{x
+2ndary Stat:  {yConstitution{x
+
+Minimum Stats: Strength (10)
+
+Fighters are the melee meat of Aragond. They are usually powerful warriors
+and have capability with every weapon available. Fighters have a fairly wide
+array of melee and non combat skills, and are the backbone of any adventuring
+group. Fighters rely mainly on strength and constitution, though having a good
+dexterity score will not hurt. They have no bulk restrictions concerning armor,
+and can wear a maximum bulk of 50.
+~
+Upro~
+-1 weapon axe dagger sword flail mace polearm spear staff whip bow crossbow~
+
+Each weapon skill applies to a specific group of armaments, and determines how
+well a character fights with a particular weapon.  The weaponsmaster group
+provides talent in all weapons (save exotics), from chair legs to halberds.
+If the character has the parry skill as well, he can parry incoming attacks.
+The chance of parrying is best if the character in question is skilled at 
+both his weapon and his opponent's.
+
+The weapon skills consist of the following:
+
+axe                 the use of axes, ranging from hand to great (but not halberds)
+dagger		the use of knives and daggers, and other stabbing weapons
+flail		skill in ball-and-chain type weapons
+mace		this skill includes clubs and hammers as well as maces
+staff               staves, quaterstaffs, bo sticks
+polearm		the use of pole weapons (except spears), including halberds
+spear		this skill covers both spears and staves, but not polearms
+short sword         short swords, sabers, blades (no more than 3 feet in length)
+long sword          long swords, cutlasses, claymores, rapiers (longer than 3 feet in length)
+whip		the use of whips, chains, and bullwhips
+bow                 ranged combat with arrows.
+crossbow            ranged combat with crossbow bolts.
+exotic		the use of strange magical weapons
+
+The exotic skill cannot be purchased, and is dependent solely upon level.
+~
+Upro~
+-1 'SHIELD BLOCK'~
+
+Shield block is a rather fancy name for the art of parrying with a shield.
+Characters with no shield block skill will not be able to defend themselves
+well with a shield.  All classes may learn shield block, but only warriors and
+clerics are good at it.  Beware, flails ignore shield blocking attempts, and
+whips have an easier time getting around them.  Axes may split shields in two.
+~
+~
+-1 ATTACK~
+
+The attack spells are essentially powerful curses, fueled by divine energy
+rather than magical power (like the combat spells are). They are less powerful
+than the combat spells, but can still deal out a stinging blow.  Mages and 
+thieves cannot use this group.  The attack spell group consists of the 
+following spells:
+
+demonfire	a powerful, but very evil, spell
+dispel evil	torments evil foes
+dispel good	calls down unholy power on good creatures
+earthquake	brings the power of earth to bear against your foes
+flamestrike	sends a column of flame from the heavens
+heat metal	heats metal equipment to searing tempatures
+ray of truth	sends forth a blinding ray of holy energy
+~
+~
+-1 BEGUILING~
+
+This insideous spell group is used to invade the minds of others.  It consists
+of various charming magics, well suited for turning your foes to your cause.
+Only mages and thieves have access to the beguiling magics, which consist of
+the following:
+
+calm            if successful, stops all fighting in the room
+charm person	turns an enemy into a trusted friend
+sleep		puts a foe into enchanted slumber
+~
+~
+-1 BENEDICTIONS~
+
+Benedictions are priestly spells, used to bestow divine favor upon your allies.
+They are often restricted to those of like alignment.  Only clerics and 
+warriors may use these spells.  The benedictions spell group consists of the
+following:
+
+bless		bestows divine favor upon the target
+calm		if successful, stops all fighting in the room
+frenzy		puts the recipient into beserker rage
+holy word	aids your allies while calling divine wrath upon your foes
+remove curse	removes malevolent magic from players and items
+~
+~
+-1 COMBAT~
+
+Combat in Aragond is round based, and different classes have a base amount
+of attacks per round, based on their level, martial ability, dexterity, and
+hitroll. Each round you may use a 'mid-rounder', a skill, special ability, or
+spell available to you. Each of these has it's own cooldown time and an amount
+of time required to use. Some may be used twice per round, while others, one
+per three rounds. One must be careful in choosing the abilities they use in
+battle, as the many creatures of Aragond have resistances or even immunities to
+certain forms of physical or magical damage. Bearing that in mind, many
+creatures also have vulnerabilities to these same things, allowing for
+strategic options in battle. 
+~
+Upro~
+-1 CREATION~
+
+The creation spell group is used to create objects, of temporary or permanent
+duration.  Skill creators can travel without food or drink, and use their 
+powers to create nourishment as required.  All classes may become learned in
+this group, which contains these spells:
+
+continual light	creates an eternal light source
+create food	produces a nourishing mushroom
+create rose	creates a beautiful red rose
+create spring	calls forth a small but pure spring from the ground
+create water	fills any available container with water
+floating disc	creates a floating disc of force perfect for hauling treasure
+~
+~
+-1 CURATIVE~
+
+The curative spells are used to heal various unpleasant conditions that can
+befall an adventurer.   For healing of damage, see the healing spell group.
+Curative spells cannot be used by mages or thieves.
+
+cure blindness	restored sight to the blind
+cure disease	heals the plague
+cure poison	removes the harmful effects of poison
+~
+~
+-1 DETECTION~
+
+The detection spells have may uses, all related to gathering information. They
+can be used to see hidden objects, give information about treasure, or even
+scry out the true nature of your foe.  All classes except warriors can use 
+detection spells.
+
+detect evil	reveals the aura of evil monsters
+detect good	similar to above, only for good monsters
+detect hidden	shows the whereabouts of hidden foes
+detect invis	allows the caster to see the unseeable
+detect magic	reveals magical auras to the caster
+detect poison	determines if food is safe to eat
+farsight	searches for living beings near the caster
+identify	gives information about the nature of an object
+know alignment	determines the moral character of a monster or person
+locate object	finds a specific item
+~
+~
+-1 DRACONIAN~
+
+The Draconian spell group deals with the magic of dragons -- in this case, 
+bringing forth the devastating power of their breath weapons upon your foes.
+Only mages have the mental training necessary to cast these spells, and few
+of them ever reach the level of mastery required to use them.
+
+acid breath	 uses the black dragon's attack upon an enemy
+fire breath	 calls forth the flames of a red dragon
+frost breath	 drains the life from a foe with the power a white dragon
+gas breath	 suffocates your enemies with poison gas
+lightning breath summons the electrical fury of a blue dragon 
+~
+~
+-1 ENCHANTMENT~
+
+The enchantment spell group is used to imbue items with magical properties.
+Currently, this spell group consists of enchant weapon and enchant armor, 
+although more will be added in the future.  Only mages may enchant.
+
+enchant weapon	increases the hit and damage bonuses of a weapon
+enchant armor	increases the protective value of armor
+fireproof       shields items from the harmful effects of fire and acid
+recharge	restores power to a depleted wand or staff
+~
+~
+-1 ENHANCEMENT~
+
+The enhancement spells improve upon the body's pontential, allowing feats of
+superhuman strength and speed.  However, these spells may often have harmful
+effects upon the recipient.
+
+giant strength	grants increased strength
+haste		doubles the speed of the target, but slows down healing
+infravision	allows monsters to be seen in the dark
+refresh		restores energy to tired adventurers
+~
+~
+-1 HARMFUL~
+
+This spell group is the opposite of healing.  The harmful spells are designed
+to tear flesh from bone, rupture arteries, and generally turn the body against
+itself.  Only priests and warriors may use this spell group.
+In order of power, the harmful spells are:
+
+cause light	inflicts minor wounds on an enemy
+cause serious	inflicts wounds on a foe
+cause critical  causes major damage to the target
+harm		the most deadly harmful spell
+~
+~
+-1 HEALING~
+
+The healing spells are used to cure the wounds that adventurers inevitably
+suffer in battle.  For curing other conditions, such as poison, see the
+curative spell group.  Only warriors and priests have access to this group.
+In order of power, the healing spells are:
+
+cure light	heals minor wounds
+refresh		restores vigor to a tired adventurer
+cure serious	heals wounds
+cure critical	closes all but the worst wounds
+heal		the most powerful healing spell
+mass healing	casts a heal spell on each player in the room
+~
+~
+-1 ILLUSION~
+
+The illusions spells are dedicated to deception and trickery.  They can be
+used to mask appearances, or create distractions for the party.  Currently,
+the illusion group is very small, but it will be expanded in the future.
+Only thieves and mages can cast illusion spells, which consist of the 
+following:
+
+invis		turns the target invisible
+mass invis	turns the caster's group invisible
+ventriloquate	allows the caster to put words in someone's mouth
+~
+~
+-1 MALADICTIONS~
+
+Maladictions are a group of curses and other baneful spells, designed to
+cripple, inconvenience, or torture, rather than kill outright.  These spells
+may be cast by any class.
+
+blindess	strikes the target blind
+curse		prevents recalling and weakens the target in combat
+energy drain	drains experience and mana, while strengthening the caster
+plague		causes the target to suffer a slow, painful death from plague
+poison		weaker than plague, but often fatal
+slow		slows your enemies down, reducing their rate of attack	
+weaken		drains the strength of the target
+~
+~
+-1 PROTECTIVE~
+
+The protective spells are used to shield against harm, whether from spells or
+physical attack.  They range from the weak armor spell to the sought-after
+sanctuary charm.  Also included in this group are several spells for dispeling
+hostile magics. Any class may use this group, which consists of the following 
+spells:
+
+armor		provides the target with an extra layer of defense
+cancellation	a powerful dispel, used for removing spells from friends
+dispel magic	removes spells from enemies, not as effective as cancel
+fireproof	shields items from the harmful effects of fire and acid
+protection evil	provides defense from the attacks of evil creatures
+protection good protects from the attacks of good beings
+sanctuary	reduces all damage taken by the recipient by half
+shield		puts a shimmering shield between you and your enemies
+stoneskin	turns skin hard as stone, providing a huge armor boost
+~
+~
+-1 TRANSPORTATION~
+
+The transportation group is used for travel, whether by flight, magical
+teleportation, or walking through walls.  All classes may learn these spells,
+which are among the most useful in the game.
+
+fly		allows the target to fly over nearly all obstacles
+gate		transports the caster to the target
+nexus		forms a two-way portal to a far off destination
+pass door	allows the caster to walk through walls
+portal		creates a one-way portal to a destination
+summon		transports the target to the caster
+teleport	sends the target to a random location
+word of recall	transports the caster to safety in Midgaard
+~
+~
+-1 WEATHER~
+
+These spells allow the caster to manipulate local weather conditions, as well
+as summon fog clouds, lightning, or even electrical glows.  This group is
+usable by all classes.
+
+call lightning	summons a huge bolt from the heavens, if the weather is right
+control weather	changes the weather in the manner desired by the caster
+faerie fire	surrounds the target in a glowing aura
+faerie fog	reveals all hidden creatures in the room
+lightning bolt	sends a bolt of electricity into the target
+
+(the weather command, unrelated to this group, shows local weather conditions)
+~
+~
+-1 BACKSTAB~
+
+Backstab is the favored attack of  thieves, murderers, and other rogues.  It 
+can be used with any weapon type, but is most effective with piercing weapons.
+The damage inflicted by a backstab is determined by the attacker's level, his
+weapon skill, his backstab skill, and the power of his opponent.
+Only thieves may learn the backstab.
+~
+~
+-1 BASH~
+
+The bash skill is a warrior talent, a brute-force attack designed to knock
+your foe to his knees.  Its success depends on many factors, including the
+bash rating, your weight, and the size of your opponent.  Bashing a dragon
+is not generally a wise idea.
+~
+~
+-1 BERSERK~
+
+Only powerful warriors can master berserking, the ability to enter insane rage
+in combat.  Its effects are not altogether unlike the frenzy spell -- a huge
+surge of combat prowess, coupled with a disregard for personal safety.  
+Berserking warriors are more resistant to the effects of magic.
+~
+~
+-1 DIRT 'DIRT KICKING'~
+
+Consider by some to be a cowardly skill, dirt kicking gives the clever 
+combatant a chance to blind his opponent by casting dirt into his eyes.  The
+blindness does not last long, but can provide an edge in combat.  Dexterity
+helps in hitting or avoiding a dirt kick.  Only warriors and thieves may
+learn this skill.
+~
+~
+-1 DISARM~
+
+Disarm is a somewhat showy and unreliable skill, designed to relieve your
+opponent of his weapon.  The best possible chance of disarming occurs when you
+are skilled both your own and your opponent's weapon. Only talented thieves
+and warriors may learn this skill.
+~
+~
+-1 DODGE~
+
+In the words of one wise warrior, 'the best way to block a blow is to not
+be where it lands'.  The dodge skill honors this tradition, by improving the
+character's natural agility to the point where many blows will miss the 
+target. The chance of dodging is also affected by the dexterity of the
+attacker and the target.  Any class may learn dodging.
+~
+~
+-1 'ENHANCED DAMAGE'~
+
+Warriors and skilled thieves can become skilled enough in combat that they are
+able to inflict more damage than other classes.  Enhanced damage is checked
+for with each hit, although with a low skill, the chance of receiving a bonus
+is very low indeed.
+~
+~
+-1 ENVENOM~
+
+The envenom skill is a cowardly skill practiced only by thieves, designed to
+win a battle through alchemy and treachery rather than skill or strength.
+Or, put another way, it's a skill used by the smart to kill the foolish.
+Food, drink, and weapons may be envenomed, with varying effects. Poisoned
+food or drink puts a mild poison spell on the consumer, and is unlikely to
+be more than a minor inconvience (after all, the typical adventurer could
+drink sewer water with only a trace of the runs).  A poisoned weapon, on
+the other hand, can inflict serious damage on an opponent as the poison 
+burns through his bloodstream.  But be careful, blade venom evaporates 
+quickly and is rendered almost powerless by repeated blows in combat.
+~
+~
+-1 hand_to_hand unarmed~
+
+Hand to hand combat is a rare skill in the lands of Aragond.  Learning this
+style of fighting gives the player a weapon even when disarmed -- bare hands.
+Trained hand to hand experts are far more effective than many swordsmen.
+Clerics and warriors are the best at this skill, although thieves and mages
+may also learn it.
+~
+Upro~
+-1 KICK~
+
+Kicking allows the adventurer to receive an extra attack in combat, a powerful
+kick. However, a failed kick may throw an unwary fighter off balance.  Fighters
+and clerics are the most skilled at kicking, although thieves may also learn
+it.
+~
+~
+-1 PARRY~
+
+If at first you fail to dodge, block it.  Parry is useful for deflecting 
+attacks, and is succesful more often than dodge.  Parry requires a weapon for
+full success, the hand-to-hand skill may also be used, but results in reduced
+damage instead of no damage.  The best chance of parrying occurs when the
+defender is skilled in both his and his opponent's weapon type.
+~
+~
+-1 RESCUE~
+
+A friend in need is a friend indeed.  And when in combat, a warrior with
+the rescue skill is just the friend you need.  Rescue allows you to intercede
+in combat, protecting weaker characters from bodily harm. Hopefully the
+favor will be returned.  Success in rescuing depends on the skill rating, as
+well as a comparision of level, dexterity, and speed between the character and
+the target. (note: you rescue a friend, not the monster)
+~
+~
+-1 TRIP~
+
+Back by popular demand.  Trip is a somewhat dastardly attack, and involves
+using any one of a number of methods to bring your opponent down to the ground.
+Tripping large monsters is generally not a good idea, and agile ones will
+find the attack easy to avoid.  Thieves and warriors may learn trip.
+~
+~
+-1 HIDE SNEAK~
+
+Hide and sneak are similar skills, both related to remaining undetected.
+Hide has a very high chance of success, but only works for as long as the
+character remains stationary.  Sneak may be used when moving (including to
+sneak by monsters), but has a lower chance of success.  Only warriors and
+thieves may learn these skills.
+~
+~
+-1 'FAST HEALING'~
+
+The fast healing skill improves wound healing rates, whether walking, resting,
+or sleeping. It represents knowledge of healing herbs or just general 
+toughness and stamina.  Fast healing is checked every tick, and it is 
+possible for it to fail.  All class may learn this skill, but mages find it
+very difficult to master, due to their bookish lifestyle.
+~
+~
+-1 LORE~
+
+Lore is a general skill, consisting of knowledge of myths and legends. Use
+of the lore skill gives a chance of obtaining information on an object,
+concerning its power and uses.  It also may occasionally increase the value
+of an object, because more will be known about its worth.  All classes may
+learn lore, although thieves are best at it, and warriors find it very hard
+to use.
+~
+~
+-1 HAGGLE HAGGLING~
+
+Haggling is an indispensable skill to the trader.  It allows a character to
+match wits with a merchant, seeking to get a better price for merchandise,
+or to buy at the lowest possible cost.  Unfortunately, most merchants are 
+already very skilled at haggling, so the untrained adventurer had best
+guard his treasure closely.  Thieves are natural masters at haggling, 
+although other classes may learn it as well.
+~
+Upro~
+-1 PEEK~
+
+The peek skill is useful for seeing what a player or monster is carrying,
+the better to use the steal command with.  More intelligent characters are
+harder to peek at.  All characters may learn peek, but thieves are the most
+common practicioners.
+~
+~
+-1 PICK 'PICK LOCK'~
+
+Lock picking is one of the prime skills of thieves, allowing them to gain
+access to many secured areas.  Lock picking chances are improved by  
+intelligence, and hindered by the difficulty of the lock. Other classes may
+learn to pick locks, but they will never find it easy.
+~
+~
+-1 MEDITATION~
+
+This skill is similar to fast healing, but relies on the concentration and
+mantras to increase mana recovery when the character is sleeping or resting.
+Thieves and warriors, with their troubled minds and violent attitudes, have
+much trouble learning to meditate.
+~
+~
+-1 STEAL~
+
+Theft is the defining skill of the thief, and is only available to that class.
+It allows items to be stolen from the inventory of monsters and characters,
+and even from shops!  But beware, shop keepers gaurd their merchandise 
+carefully, and attempting to steal from a character earns you a THIEF flag
+if you are caught (making you free game for killing).
+~
+~
+-1 'DETECT GOOD'~
+
+Syntax: cast 'detect good'
+ 
+This spell enables the caster to detect good characters, which will
+reveal a characteristic golden aura.
+~
+~
+-1 'DISPEL GOOD'~
+
+Syntax: cast 'dispel good' <victim>
+ 
+Dispel good brings forth evil energies that inflict horrific torment on 
+the pure of heart.  Good-aligned characters use this dark magic at their
+peril.
+~
+~
+-1 'RECHARGE'~
+
+Syntax: cast 'recharge' <item>
+
+The recharge spell is used to restore energy to depleted wands and staves.
+Fully exhausted items cannot be recharged, and the difficulty of the spell
+is proportional to the number of charges used.  Magic items can only be
+recharged one time successfully.
+~
+~
+-1 'DEMONFIRE'~
+
+Syntax: cast 'demonfire' <target>
+
+Demonfire is a spell of blackest evil, and as such can only be used by those
+who follow the paths of darkness.  It conjures forth demonic spirits to 
+inflict terrible wounds on the enemies of the caster.
+~
+~
+-1 'RAY OF TRUTH'~
+
+Syntax: cast 'ray of truth' <target>
+
+Ray of truth opens a portal to the planes of positive energy, bringing forth
+a beam of light of sufficient purity to harm or or annihilate the servants
+of evil.  It cannot harm the pure of heart, and will turn and strike 
+casters who are tainted by evil.
+~
+~
+-1 'PORTAL'~
+
+Syntax: cast 'portal' <target>
+
+The portal spell is similar to gate, but creates a lasting one-way portal
+to the target creature, instead of transporting the caster.  Portals are
+entered using 'enter' or 'go' command, as in 'go portal'.  Portals cannot
+be made to certain destinations, nor used to escape from gate-proof rooms.
+Portal requires a special source of power to be used, unfortunately the
+secret of this material component has been lost...
+~
+~
+-1 'NEXUS'~
+
+Syntax: cast 'nexus' <target>
+
+This spell is virtually identical to portal (see 'help portal'), with the
+only difference being that while portal creates a one-way gate, a nexus 
+spell makes a two-sided gate.  It also lasts longer than the lower-powered
+portal spell.  Both spells require an additional power source, the secret
+of which has been lost...
+~
+~
+-1 'HEAT METAL'~
+
+Syntax: cast 'heat metal' <target>
+
+Heat metal is a powerful clerical attack spell, with effects that vary 
+according to the armor of the victim.  It heats up the metal equipment
+(assumed to be all weapons and armor at this point in time) on the target,
+causing him or her to drop them if possible, taking serious burns in the
+process (possibly fatal if the equipment is too heavy to remove easily).
+This spell does no damage to creatures who are immune to fire.
+~
+~
+-1 'HOLY WORD'~
+
+Syntax: cast 'holy word'
+
+Holy word involves the invocation of the full power of a cleric's god, with
+disasterous effects upon the enemies of the priest coupled with powerful
+blessings on the priest's allies.  All creatures of like alignment in the
+room are blessed and filled with righteous divine wrath, while those of
+opposite morals (or both good and evil in the case of neutral priests)
+are struck down by holy (or unholy might) and cursed.  The cleric suffers
+greatly from the strain of this spell, being left unable to move and 
+drained of vitality.  Experience loss is no longer associated with the spell.
+~
+~
+-1 FRENZY~
+
+Syntax: cast 'frenzy' <target>
+
+The frenzy spell fills the target with righteous fury, greatly increasing
+his or her attack skill and damaging capacity.  Unfortunately, this divine
+wrath is coupled with a tendency to ignore threats to personal safety, 
+making the character easier to hit.  Frenzy provides immunity to the calm
+spell (see 'help calm'), and may only be used on those of the caster's 
+alignment.
+~
+~
+-1 CALM~
+
+Syntax: cast 'calm' 
+
+One of the most useful and often overlooked abilities of the master cleric is
+the calm spell, which can put an end to all violence in a room.  Calmed
+creatures will not attack of their own volition, and are at a disadvantage
+in combat as long as the spell soothes their minds.  The more violence 
+activity there is in a room, the harder the spell, and it is all or nothing --
+either all combat in the room is ended (with the exception of those who
+are immune to magic) or none is.
+~
+~
+-1 HASTE~
+
+Syntax: cast 'haste' <target>
+
+The haste spell increases the speed and agility of the recipient, allowing
+an extra attack (or even a backstab) in combat, and improving evasive
+abilities in combat.  However, it produces a great strain on the system,
+such that recuperative abilities are halved.  Haste is capable of negating
+the slow spell. (see 'help slow').
+~
+~
+-1 SLOW~
+
+Syntax: cast 'slow' <target>
+
+Despite popular mythology, slow is not the opposite of haste, but is a spell
+with it's own unique set of effects.  When cast on an unfortunate victim,
+it slows its movements, making it easier to hit and reducing its rate
+of attack.  The effect of slow also double movement costs and halve healing
+rates, due to reduced metabolism.
+~
+~
+-1 PLAGUE~
+
+Syntax: cast 'plague' <target>
+
+The plague spell infests the target with a magical disease of great virulence,
+sapping its strength and causing horrific suffering, possibly leading to
+death.  It is a risky spell to use, as the contagion can spread like
+wildfire if the victim makes it to a populated area.
+~
+~
+-1 'CREATE ROSE'~
+
+Spell Level:  0
+Type:         Invocation
+Domain:       Creation
+Element:      Air
+
+Syntax: cast 'create rose'
+
+With this spell a one may create a rose from thin air, an excellent way to turn
+the eye of the fairest elf nearby. 
+~
+Upro~
+-1 'PROTECTION GOOD' 'PROTECTION EVIL'~
+
+Syntax: cast 'protection evil' <target>
+	cast 'protection good' <target>
+
+The protection spells reduce damage taken from attackers of the appropriate
+ethos, and improve saving throws against all forms of magic. They may not
+be cast on others, and one person cannot carry both defenses at the same
+time.
+~
+~
+0 'GIANT STRENGTH'~
+
+Syntax: cast 'giant strength' <character>
+ 
+This spell increases the strength of the target character.
+~
+~
+-1 'CHAIN LIGHTNING'~
+
+Syntax : cast 'chain lightning' <target>
+
+Chain lightning is a deadly spell, producing a powerful bolt of lightning
+that arcs from target to target in the room, until its force is fully
+expended.  Allies of the caster may be hit by this spell if they are members 
+of a clan, while the caster himself will not be struck unless no other
+viable target remains.  Chain lightning is most effective when used on
+groups of creatures.
+~
+~
+-1 FARSIGHT~
+
+Syntax: cast 'farsight'
+	cast 'farsight' <direction>
+
+The farsight spell expands the caster's consciousness, allowing him or her
+to see far away beings like they were in the same room.  It takes intense
+concentration, often leaving the caster helpless for several minutes.
+The spell may be used for a general scan that reaches a short distance in
+all directions, or with a directional component to see creatures much
+farther away.
+~
+~
+-1 MASS HEALING~
+
+Syntax: cast 'mass healing' 
+
+The mass healing spell, as its name might suggest, performs a healing spell
+on all players in the room.  It also throws in a refresh spell for good
+measure.
+~
+~
+-1 'FLOATING DISC'~
+
+Syntax: cast 'floating disc'
+
+This useful spell creates a floating field of force which follows the caser
+around, allowing him or her to pile treasure high with no fear of weight
+penalties.  It lasts no more than twice the casters level in hours, and
+usually less.  It can hold 10 pounds per level of the caster, with a 
+maximum of five pounds per item.  The spell requires an open float location
+on the character, and the only way to remove the disc is to die or allow it
+to run out of energy.
+~
+~
+-1 FIREPROOF~
+
+Syntax: cast 'fireproof' <object>
+
+The fireproof spell creates a short-lived protective aura around an object,
+to protect it from the harmful effects of acid and flame.  Items protected
+by this spell are not harmed by acid, fire, or the heat metal spell.
+Although inexpensive to use, the spell's short duration makes it impractical
+for protecting large numbers of objects.
+~
+~
+-1 ALIAS UNALIAS~
+
+Syntax: alias
+	alias <word>
+	alias <word> <substitution>
+	unalias <word>
+
+The alias command allows limited shortening of command names.  At this time,
+aliases cannot call other aliases, and cannot generate more than one command.
+Alias by itself lists your current aliases, Alias <word> lists the alias with 
+that name (if such exist), and alias with both a word and and argument 
+produces a new alias.  You cannot alias either alias or unalias to a new
+command.  Examples of use:
+
+alias gc get all corpse --> typing gc will equal typing 'get all corpse'
+alias ff cast 'fireball' --> ff orc will equal 'cast 'fireball' orc'
+
+Only the first word on the line will be subsituted at this time.
+ 
+Characters may have up to 15 aliases at one time.
+~
+Upro~
+-1 NEWBIE INFO~
+
+Ah!  Another mortal, seeking adventure. You should go through mudschool
+first, to gain experience to face the trials outside. Be sure to practice a
+weapon in the guild room, or your stay with us shall be very short indeed. Type
+'equipment' to see what your are wielding, 'spells' to see your spells,
+'skills' to see your skills, and 'commands' for a list of commands. Help is
+available on most commands and abilities.
+
+To see a list of commands, type the word commands. They are organized to give
+you an idea of what they do without needing to read a helpfile on them. Some
+however, are not so obvious, and have helpfiles which you can read by typing
+help <command name>. 
+
+For optimum display please set your client column wrap to about 120.
+
+Please type 'help rules' to see the Rules of Aragond : The Chronicles. 
+~
+Upro~
+-1 LAG~
+
+Twas dial-up, and the failing mudders did toil and struggle in the fray
+All checksummed were the compressed files
+And the man pages, outdate
+Beware the Internet my son,
+The noise that hangs, the lag that kills
+Beware the Usenet news, and shun the frivolous mud with frills
+So took his his mudding client in hand
+Longtime the virtual foe he sought
+So rested he by the T1s three and paused a while in swap
+And as in disk-drive swap he stayed,
+The Internet, with lags of fame
+Came packetwise through the T1 line
+And error-checked as it came
+One two one two and through and through, the mudding client went kill -9
+He left it dead and with it's core he went a tracing back
+And hath thou slain the Internet?
+Come to my arms my disk-based bot!
+Oh lag-free day, callooh callay, he chortled in his joy
+Twas dial-up, and the failing mudders did toil and struggle in the fray
+All checksummed were the compressed files
+And the man pages, outdate.
+~
+~
+-1 ROM~
+
+ROM started in early February 1993, using Merc 1.0 code. In July of 1993,  
+ROM II was started, eventually replacing the original ROM.  ROM was up for
+a little over a year, after which the code (version 2.3) was released,
+and various other ROM muds were started, including Rivers of Mud under
+a new management (Zump's ROM), at rom.org 9000.
+
+Alander's current project is Athen, the sequel to the ROM code. It can
+be found on Rehobaom's Legacy, at hypercube.org 9000.
+
+The following people contributed to the ROM flavor of the merc base code:
+
+Socials --
+    Kelsey and Liralen
+
+New, Improved Valhalla --
+    Liralen
+
+Puff's new special proc and improved poofin/poofout code --
+    Seth
+
+Maps and map shop --
+    Ezra, Regnan (Olympus)
+
+Nirvana zone --
+    Forstall (mobiles rewritten by Alander)
+
+Mob Factory --
+    Pinkfloyd (originally written for ROM, mobiles rewritten by Alander)
+
+Geographically correct Midgaard (tm) --
+    Alander
+
+Ideas and playtesting --
+    Thousands of dedicated mudders around the world
+
+The New Thalos area was donated by Onivel of Jedi, who was also the originator
+of the ASCII flags used in the zone files
+
+Beta testing --
+    Ken Blosser, Doug Araya, and Sherene Neil all helped with bugs reports
+    and suggestions, saving a lot of headaches
+
+Bug reports --
+    Thanks to Shad Muegge, Jerome Despret, Phoenix, Will Hongach,
+    Erwin S. Andreasen, Adam Debus and especially Gary Turkington
+    (author of the ROM FAQ) for help spotting bugs
+
+ROM 2.4 was developed during my time with Moosehead mud, and the release
+shares many of the features I wrote while I was there.  Additional code
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used.  Portions of Rusty's work on
+Moosehead also remain.
+
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle Taylor and Brian Moore, without whom this release wouldn't
+have happened.  In particular, the new privacy code, furniture, and
+wiznet are the results of Gabrielle's ideas.
+
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of
+hair-pulling. Hope you enjoy it.
+
+(my apologies if anyone was forgotten in this list)
+~
+~
+-1 immortal immort imm~
+
+'Immortal' (often, simply, 'immort') refers to players who have reached
+the highest attainable levels in the game.  Here, anyone of level 52
+or higher is an 'immortal.'  Immortals are capable of exceeding the
+usual game rules, in more drastic and pervasive ways as levels increase;
+examples range from teleportation and invisibility to mortal sight to
+creation of objects, removal of a player's privileges (channels,
+ability to move, or even ability to log in), and ability to promote
+players to immortality.
+
+Since immortals can wreak havoc with game balance, they are (ideally)
+a carefully-chosen and policed group.  An absolute rule of immortal
+behavior is that no immortal can aid or assist any player without
+explicit permission from the higher ranks; in other words, please
+don't ask an immortal to help you kill a mob, gather EQ, etc, or
+you'll likely be either politely or rudely refused, or referred to
+this file.
+
+The duties of immortals, and even the very reasons for their existence,
+are topics of continual and heated debate in various MUD forums, and are
+fraught with misconceptions, poor examples, and outrageous hypocrisies. :)
+~
+~
+-1 SOCIALS~
+
+This is a complete list of socials for this MUD:
+Compiled originally by: Sara
+accuse       adjust      air          apologize     applaud     babble
+bark         bcatch      beckon       beer          bearhug     beg
+bird         bkiss       bleed        blink         blush       boast
+boggle       bonk        bounce       bow           brb         burp
+cackle       caress      charge       cheer         chuckle     clap
+claw         collapse    comfort      comb          cough       cover
+cower        cringe      criticize    cry           cuddle      curse
+curtsey      dance       daydream     drool         duck        embrace
+explode      eyebrow     faint        fart          flare       flash
+flex         flinch      flip         flirt         flutter     fondle
+french       frown       fume         gasp          giggle      glare
+goose        grimace     grin         groan         grope       grovel
+growl        grumble     hand         head          hiccup      highfive
+hop          howl        hug          hush          ignore      innocent
+insane       judge       kiss         knee          laugh       lick
+love         lust        massage      meditate      moan        moon
+mosh         mutter      nibble       nod           nudge       nuzzle
+pant         passout     pat          peck          pie         pinch
+pissed       plead       point        poke          ponder      pout
+pray         propose     puke         punch         purr        ramble
+raspberry    rofl        roll         rub           ruffle      run
+scratch      scream      serenade     shake         shiver      shrug
+sigh         sing        slap         slobber       smile       smirk
+snap         snarl       sneeze       snicker       sniff       snore
+snort        snowball    snuggle      sob           spam        spank
+spit         squeal      squeeze      squirm        stare       stretch
+strip        stroke      strut        sulk          swoon       tackle
+tease        thank       threaten     tickle        tip         tongue
+twiddle      type        undress      view          wave        whine
+whistle      wiggle      wince        wink          wonder      worry
+worship      yawn        yeehaw       yodel         rose	laces
+tank	     starve	 aargh	      homework	    puff	differ
+yae	     lightbulb   voodoo       ogg	    confused	beam
+bite	     discodance  scuff        whap	    lag		chortle
+zerbert      twitch
+ 
+~
+~
+-1 MERC~
+
+This mud is based on Merc 2.1, created by Furey, Hatchet, and Kahn.  
+Merc 2.1 is available as Merc_21.tar.gz from ftp.tcp.com and 
+ftp.math.okstate.edu.
+E-mail to 'majordomo@webnexus.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, and Mystic Realms for bug reports, ideas, new code,
+      and hours of enjoyment.
+
+Also see "help ROM" for information about the Rivers of Mud code base.
+~
+~
+-1 MAP MAPS~
+
+Syntax : map 
+ 
+Map allows you to view the partial map of the area you are currently in.
+~
+Kamael~
+-1 GREETING~
+
+.
+                        o                          
+                       _---|         _ _ _ _ _     
+                    o   ---|     o   ]-I-I-I-[     	{xBased on: ROM Version 2.4b6
+   _ _ _ _ _ _  _---|      | _---|    \ ` ' /      	{xDikuMUD by Hans Staerfeldt,
+   ]-I-I-I-I-[   ---|      |  ---|    |.   |       	{xKatja Nyboe, Tom Madsen, 
+    \ `   '_/       |     / \    |    | /^\|       	{xMichael Seifert, and Sebastian Hammer.
+     [*]  __|       ^    / ^ \   ^    | |*||       	{xBased on MERC 2.1 code by: 
+     |__   ,|      / \  /    `\ / \   | ===|       	{xHatchet, Furey, and Kahn.
+  ___| ___ ,|__   /    /=_=_=_=\   \  |,  _|		{xROM 2.4 (c) 1993-1998 Russ Taylor.
+  I_I__I_I__I_I  (====(_________)___|_|____|____
+  \-\--|-|--/-/  |     I  [ ]__I I_I__|____I_I_|   	{xImplementor/Owner: Upro.
+   |[]      '|   | []  |`__  . [  \-\--|-|--/-/    
+   |.   | |' |___|_____I___|___I___|---------|     
+  / \| []   .|_|-|_|-|-|_|-|_|-|_|-| []   [] |     
+ <===>  |   .|-=-=-=-=-=-=-=-=-=-=-|   |    / \    
+ ] []|`   [] ||.|.|.|.|.|.|.|.|.|.||-      <===>   
+ ] []| ` |   |/////////\\\\\\\\\\.||__.  | |[] [   
+ <===>     ' ||||| |   |   | ||||.||  []   <===>   
+  \T/  | |-- ||||| | O | O | ||||.|| . |'   \T/    
+   |      . _||||| |   |   | ||||.|| |     | |
+../|' v . | .|||||/____|____\|||| /|. . | . ./
+.|//\............/...........\........../../\\\
+
+
+Do you wish to (C)reate and account or (L)og into an existing one?
+~
+~
+-1 MOTD~
+
+{cWelcome to Aragond: the Chronicles{x
+
+{BALPHA{x version - expect pwipes periodically until {BBETA{x.
+
+
+{Y************************************************************************{x
+{Y*{x Please heed our rules. This is to be a fun environment for people to {Y*{x
+{Y*{x  come and roleplay, help shape this world, advance in stature and in {Y*{x
+{Y*{x  general have a good time. Try not to ruin that for others!          {Y*{x
+{Y*{x                                                                      {Y*{X
+{Y*{X Thanks, Upro.                                                        {Y*{X
+{Y************************************************************************{x
+
+{Y*{x You are responsible for knowing the rules (type 'rules').  Ignorance of 
+      the rules is no excuse.
+
+{Y*{x Important commands:  {Bcommands{x, {Bscore{x, {Binventory{x, {Bequipment{x, {Bhelp{x
+
+{Y*{x TIP: You can shorten most commands!
+
+{Y*{x Most importantly... HAVE FUN!
+
+~
+Upro~
+52 JOBS~
+
+This is a partial list of what a god of any given level should be doing. It is
+not complete yet.
+
+Angels:(52-54)
+Angels and higher level gods may not assist mortals directly in any way.  
+An Angel's main job is to help with quests (via switch), or possibly run
+small quest of their own -- but the rewards should be minimal.
+
+Deities:(55-56)
+Deities have two main roles: reimbursement and quest running.  Be skeptical
+on reimburses, don't just hand out every piece of gear.  I suggest limiting
+reimbursements to 10 items at a time, and make sure that you do not load things
+at too high a level (new format items have hard-coded levels, so are not a
+problem).  vnum and stat are useful for this.  You can draft Angels to help you
+run a quest, and please note that quests should NOT have huge rewards -- the
+main point should be to have fun.  Deities have no business trying to enforce
+rules -- the most you should do to a player is a NOCHANNEL or similar light
+punishment.
+
+Gods:(57-59)
+Gods can run quests just like Deities, and it's nice to do reimbursements too.
+However, the main role of a God is keeping the peace.  Gods can enforce (but
+not create rules), using the various NOTELL-class commands, as well as deny,
+purge, freeze, and ban (but be careful with these commands!)  Gods are expected
+to help make the mud run more smoothly, power trips are strictly verbotten.
+
+Not fufilling the roles of your office can result in demotion or deletion.
+~
+~
+-1 PKILL PKILLING PKILLER 'PLAYER KILLING' PSTEAL PSTEALING 'PLAYER STEALING'~
+
+Player killing and player stealing are allowed to all clan members 
+(including loners), provided the victim is is within 8 levels of the
+character and is also in a clan.  This will flag you as a "killer" or
+"thief", allowing any character to attack, and also provoking action
+from the city guard.
+~
+~
+52 COMMANDMENTS LAWS 'GOD RULES' GODS~
+
+.
+                         **********************
+                         ** The Rules of ROM **
+                         **********************
+ 
+1)  Do not kill mortals, do not kill mortals, do not kill mortals.
+    This includes transferring/summoning them to aggressive mobs.
+ 
+2)  Do not cheat for ANY mortal in ANY way, especially your own. 
+    Unless of course you LIKE deletion. Yes this includes tanking,
+    healing/restoring, casting protection spells <armor, sanct>,    
+    and softening up or altering mobs.
+ 
+3)  Do not transfer or summon mobs to mortals or mortals to mobs.
+    They have legs, if they want to kill a mob, they can easilly
+    go there themselves.
+ 
+4)  DO NOT kill the shopkeepers for any reason at ALL.
+ 
+5)  DO NOT use reboot.  <--- Note, simple English.
+ 
+6)  Do not give out free equipment.  You don't need to win brownie
+    points with the mortals.  Quest are fine but handing out items
+    isn't.
+ 
+7)  A note on quests: Quests are a good thing, more or less, BUT 
+    do not give out overly extravagant prizes.  Exercise some 
+    common sense here folks.  Do not load items more than 4 levels
+    below their normal level (i.e. no level 5 ogre gauntlets).
+ 
+8)  Do not undermine the authority of a higher level god.  If you 
+    see that someone has been frozen or nochannelled do not restore
+    their priveleges.  They are being punished for a reason.
+ 
+9)  Do not try to overrule each other.  
+ 
+10) Trusted mortals:  Do not use your god powers to help your mortal
+    character.  If you do, your trust will be taken away.
+
+~
+~
+-1 RULES~
+
+These are the rules of Aragond : The Chronicles.  For other matters, use common sense.
+
+1) Player killing and stealing are encouraged, just as much as the roleplay behind it.
+However if you abuse it, we will ban/deny at our discretion.
+
+* Your presence here is a privilege not a right. Obey any orders from gods, and
+  you will be fine.  Deletion does not require a reason, appeals are to be sent
+  to the implementors.
+ 
+* Sitting around idle with a client is hazardous to your health. If we catch
+  you doing it, you will lose half your playing time.
+
+* No multiple logins, multiple playing, or helping your own characters with 
+  other characters you own -- by any arrangment.
+ 
+* No kill stealing.  This means you cannot attack a mob someone else is 
+  fighting, unless they ask you to. Also avoid attacking fleeing mobs.
+
+* Cheating will not be tolerated.  This includes accepting favors from gods
+  and exploiting bugs. If you find a bug, report it, then do not use it.
+
+* Changes to these rules are at the discretion of the immortals, and may be
+done without warning, notice, or even evidence of sanity. Walk softly,
+and carry a black stick.
+~
+~
+0 SUICIDE DELETE~
+
+Use the delete command to erase unwanted characters, so the name will be
+available for use.  This command must be typed twice to delete a character,
+and you cannot be forced to delete.  Typing delete with an argument will
+return your character to 'safe' status if you change your mind after the
+first delete.
+~
+~
+0 HEALER~
+
+The healer decided to grab a quick buck, and now charges for his heals.  Some
+services are still free to players of level 10 or below, however.  To see
+a full listing of the healer's services, type 'heal' at his residence. To
+receive healing, bring plenty of money, and type 'heal <spell>'.
+~
+~
+0 SKILLS SPELLS~
+
+The skills and spells commands are used to display your character's list
+of available skills (or spells, as the case may be).  They are listed in
+order of level, with mana cost (for spells) or percentage (for skills)
+listed where applicable.
+~
+~
+0 OUTFIT~
+
+The outfit command, usable by levels 5 and below, equips your character with
+a new set of sub issue gear (banner, weapon, helmet, shield, and vest), 
+courtesy of the Mayor's warehouses.  Only empty equipment slots are affected.
+~
+~
+-1 CLAN~
+
+Clanning is an important part of Aragond. Each clan has it's own faction,
+which each player may earn reputation with. If a player has high reputation
+with said clan, he may petition to join it. Sometimes even if the player has
+no reputation with said Clan/Faction, they may still join based on their
+citizenship rank, in whichever town they hail from.
+ 
+Reputation is gained by completing quests (this is still in implementation) for
+a particular town or faction, and sometimes both (quests in Renfall will give you
+faction and citizenship points.)
+ 
+Clans have ranks as well, which can be attained through whatever system that
+particular clan has set up (player run). 
+ 
+Clans can be chartered via large sums of money to Faction leaders. These prices 
+are/will be totally negotiated between players.
+ 
+There are currently no Faction leaders until we go into beta and have a slightly
+more stable player base.
+ 
+The game will automatically enter you into the PK system at level 15.
+~
+~
+-1 COUNT~
+
+The count command displays the number of people (that you can see) logged
+into the mud.  It also displays the highest number observed that day, if
+it is higher.
+~
+~
+-1 GATE~
+
+The gate spell is a powerful transportation magic that opens up a portal 
+between your character and another person or creature somewhere else in the
+world.  This portal will transport you and any pet you might have, but not
+other members of your group.  Monsters recieve a save against gate, and
+monster or players more than 3 levels higher than you can not be gated to at 
+all.  God rooms, private rooms, and no recall rooms cannot be gated to, and
+no recall rooms cannot be gated out of.  Finally, any god or hero is also 
+immune to gate, as well as in player who has no summon set.  Clan members 
+may not be gated to except by their fellow Clan members.
+~
+~
+-1 AFFECTS AFFECT~
+
+This command is used to show all the spells affecting your character. At
+low levels, only the spell name will be displayed, at higher levels the
+effects and duration of the spell will also be shown.  Spell effects
+are no longer shown on score (this can be changed by using 'show' command).
+~
+~
+0 quest~
+
+Syntax: quest
+Quest <request/abandon/log/complete/info>
+
+ 
+Quest alone will tell you about the current quest you are on. Quest abandon will abandon the
+current quest, quest request will request the next quest in line, and quest complete will
+complete the quest if you have met the requirements. You must be at a trainer to use this command,
+unless you just type 'quest' with no argument.
+~
+Upro~
+-1 'RACE HELP' 'RACE' 'RACES'~
+
+Human
+Elf
+Dwarf
+Half Orc
+Half Elf
+Halfling
+Gnome
+Duergar
+Drow
+Half Ogre
+
+Different races have different starting statistics, and also different
+stat maximums for magic items and training.
+
+Each race also has inherent abilities, as described in their respective helpfiles.
+~
+Upro~
+52 IMOTD~
+
+Welcome Immortal!
+
+You are responsible for following the laws of immortal behavior. These can
+be found by typing 'help laws' or 'help commandments'.
+
+* Excessive loading is not allowed, and is grounds for deletion.
+
+* Asking for promotion is grounds for instant deletion.
+
+* Type 'help jobs' to get some idea of what you should be doing.
+
+ [Hit Return to continue]
+~
+~
+-1 GAIN~
+
+The gain command is used to learn new skills, once the proper trainer has 
+been found. (Currently at recall) The following options can be used with gain:
+
+gain list:    lists all skills and spells that can be learned (limited by guildrank).
+gain <name>:  add a skill or skill group, at the listed cost
+gain convert: turns 10 practices into one training session
+
+Gain uses training sessions, not practices. (see 'help train')
+ 
+Gaining new spells and skills does not raise your experience to level.
+~
+~
+52 CLONE~
+
+Syntax:
+  clone obj <object>
+  clone mob <mobile>
+  clone <name>
+
+The clone command duplicates an object or mobile.  The level of item or mobile
+that may be cloned depends on your level.  The target object or mob must be in
+the same room as you, or in your posession.  Strung and set information is
+preserved by clone, as well as any spell effects and container contents or
+mobile inventory, except for items which are too high for you to clone.  
+Strung extended descriptions on objects are not kept, however.
+~
+~
+0 AUTO AUTOLIST AUTOLOOT AUTOGOLD AUTOSAC AUTOEXIT AUTOASSIST AUTOSPLIT AUTOALL~
+
+Aragond (ROM) uses various automatic actions to ease the boredom of always splitting
+gold and sacrificing corpses.  The commands are as follows:
+
+autolist  : list all automatic actions
+autoloot  : take all equipment from dead mobiles
+autogold  : take all gold from dead mobiles
+autosac   : sacrifice dead monsters (if autoloot is on, only empty corpses)
+autoexit  : display room exits upon entering a room
+autosplit : split up spoils from combat among your group members
+autoassit : makes you help group members in combat
+autoall   : turns all autos on or off at once
+automap   : toggles the minimap.
+autotrack : toggles seeing tracks on the ground (ranger only)
+
+Typing a command sets the action, typing it again removes it. Use
+autoall on|off to save yourself some keystrokes.
+ 
+See also: {gnosummon{x, {gnoexp{x, {gnofollow{x, and {gcondition{x.
+~
+Upro~
+-1 PRICES PRICE~
+
+New Clan Hall Rooms cost 50 diamonds.
+Boosting the mana or healing gains for a room costs 250 diamonds.
+Both in the same room costs double.
+Making the Healer or Store prices lower costs 1,000 diamonds.
+~
+~
+0 Andora~
+
+Andora (and-or-a) is the goddess of nature, having reign over the planet itself.
+Her anger is swift, but her love and devotion sincere and soft. Many of her followers
+tend to be druids and rangers.
+~
+~
+0 Aziel~
+
+Aziel represents everything that is the embodiment of discipline. He is a
+wise, fair, and just god, and attracts many clerics and monks as his followers.
+It is, however, not unknown for druids, rangers, and paladins to be found in
+his congregation. 
+~
+Upro~
+0 Daij~
+
+Daij (die-j) is an evil god whose realm of control lies in darkness and deceit.
+His only purpose is dealing death, evil, and spreading illness and disease in
+the world. His constant opponent is Lirannon.
+~
+~
+0 Lirannon~
+
+Lirannon (leer-anon) is the god of all that is good within the world, and
+many of his followers are inherently clerics and paladins. Lirannon is in
+a constant struggle with Daij.
+~
+~
+0 Nefyr~
+
+Nefyr (ne-fear) is the god of Chaos, and reigns supreme on causing trouble.
+Many lost souls wander towards the light of Nefyr, only to be smited down
+by the god in order to preserve chaotic order.
+~
+~
+0 Nelenwe~
+
+Nelenwe is the god of true neutrality, apathy, and ambiguity. Balance of
+karma, good and light, and justice are the alma mater of this deity, who
+primarily attracts Thieves, Bards, Rangers, and Wizards. 
+~
+Upro~
+0 Omari~
+
+Omari is the all encompassing god of magic throughout the land. He is known
+to be quite reclusive, but some have reported communing with him in dire times
+of trouble. His followers tend to be exclusively wizards, although some clerics
+and even bards have been found in the midst of his gatherings. 
+~
+Upro~
+0 Maelik~
+
+Maelik is a bloodthirsty god who's followers appease him through the
+constant strife of battle and bloodshed. A very egotistical god, Maelik
+requires much from all of his followers, who tend to be Fighters, Monks, or
+Battle Clerics. 
+~
+Upro~
+-1 OLC EDIT~
+
+Syntax: EDIT AREA [create/reset] [vnum]     - Area Creation and Repoping.
+Syntax: EDIT ROOM ( [create] [vnum] )       - Room Creation and Editing.
+Syntax: EDIT OBJ  [create] <vnum>           - Object Creation and Editing.
+Syntax: EDIT MOB  [create] <vnum>           - Mobile Creation and Editing.
+Syntax: EDIT MP   [create] <vnum>           - MobProg Creation/Editing.
+
+Syntax: ASAVE  <world/area/changed/list>    - Save Editing to Disk.
+Syntax: ALIST                               - Listing of Areas.
+Syntax: RESET  See Help Resets.             - Set Game Resets.
+
+Definition: [optional]  <required>  (combined arguments)
+
+     The above commands are used to expand the game world.  The original
+code is based on was written by Surreality and installed in The Isles by Locke.
+It was then converted to work with Envy by Jason Dinkel, and ported to ROM
+2.3 by Hans Birkeland (Hugin). Port to Rom 2.4 by Ivan Toledo (ver 1.7).
+
+     Inside an editor, typing COMMANDS lists working commands and ? gives
+help. AEDIT and REDIT default to the current area or room. EDIT ROOM RESET
+resets the current room.  Most commands with no arguments display syntax.
+See also help: AEDIT REDIT MEDIT OEDIT
+~
+~
+0 ALIST~
+
+Syntax: ALIST
+
+This command gives you a listing of all the areas along with their
+vnum assignments and the builder(s) assigned to editing them.
+~
+~
+0 AEDIT~
+
+Syntax: edit area	 -Enters the editor for the current area.
+Syntax: edit area <vnum> -Enters the editor for the selected area.
+
+The follow commands are available from within the AEDITOR:
+
+age <number>        - set the age of the area
+builder <player>    - toggle that builder's access
+commands            - prints a list of possible commands
+create              - create a brand new area and switch to it
+done                - exits the area editor and returns to normal play
+filename <filename> - change the file name for the area (be careful)
+name <name>         - change the 'AREAS' name of this area
+reset               - resets the current area
+security <rating>   - set the security rating for this area
+show                - hitting return, or 'show' shows the area stats
+vnum <lower> <upper>- set the lower and upper vnum's
+lvnum <lower>       - set the lower vnum
+uvnum <upper>       - set the upper vnum
+<flags>             - area flags, type ? AREA for a list
+~
+~
+0 REDIT~
+
+Syntax: edit room		-Enters the editor for the current room.
+
+The following commands are available from within the REDITOR:
+
+commands            - prints a list of possible commands
+create <vnum>       - creates a room with a certain vnum
+desc                - edit description of room
+done                - exists the room editor and returns to normal play
+ed                  - type this command for additonal extra-description help
+format              - format(wordwrap) the room description
+name <room title>   - changes the room title
+show                - hitting return, or 'show' shows the room stats
+oshow <vnum>        - shows an object with given vnum
+olist               - lists objects in this area.
+mshow <vnum>        - shows a mobile with given vnum
+mlist               - lists mobiles in this area.
+room <flags>        - room attributes, type ? ROOM for a list
+sector <type>       - terrain of room, type ? SECTOR for a list
+<direction>         - see help EXIT, or type <dir> ?
+~
+~
+0 EXIT~
+
+For exits, type the direction (north/s/e/w) followed by:
+
+dig <vnum>         - creates the room and makes a two way link
+link <room vnum>   - make a two way link
+room <room vnum>   - make a one way link (use with caution)
+key <object vnum>  - makes specified object the vnum of the key required
+name <door name>   - makes the door's name/keywords = to the given name
+desc               - edit the description of the exit
+delete             - delete this exit
+<exit-flags>       - type ? EXIT for a list(make exit door, locked etc.)
+
+The exit flags are presented in the following manner.  The capitalized
+flags are ones not included in the reset info.  i.e. closed is due to
+a player closing the door and not due to the door being set to be closed.
+
+-South to [ 3744] Key: [   -1] Exit flags: [door CLOSED bashed pickproof]
+~
+~
+0 OEDIT~
+
+Syntax: edit object <vnum>	-Enters the editor for the selected object.
+
+The following commands are available from within the OEDITOR:
+
+addaffect           - applies an affect to an object, no args for help
+delaffect           - removes an affect to an object, no args for help
+commands            - prints a list of possible commands
+cost <gold>         - sets the gold value of the object
+create <vnum>       - creates object with specified vnum
+done                - exits the object editor and returns to normal play
+ed                  - type this for info on adding/editing extended descripts
+long                - edit long description (the one in the room)
+name <keywords>     - sets the keywords on an object
+short <desc>        - sets the 'name' of an object (a sword, a fish etc)
+show                - hitting return, or 'show' shows the object stats
+v0 <num>            - sets the value '0' on the object
+v1 <num>            - sets the value '1' on the object
+v2 <num>            - sets the value '2' on the object
+v3 <num>            - sets the value '3' on the object
+v4 <num>            - sets the value '4' on the objcet
+weight <num>        - sets the weight of the object
+type         	    - type of object, type ? TYPE for a list
+extra		    - attributes of object, type ? EXTRA for a list
+wear                - where object is worn, type ? WEAR for a list
+material            - material the object is made from
+~
+~
+0 MEDIT~
+
+Syntax: medit <vnum>		-Enters the editor for the selected mobile.
+
+The following commands are available from within the MEDITOR:
+
+alignment <value>   - set the mobile's alignment
+commands            - prints a list of possible commands
+create <vnum>       - creates mobile with specified vnum
+desc                - edit the mobile's description (when looked at)
+done                - exits the mobile editor and returns to normal play
+level <level>       - set the mobile's level
+long                - edit long description (the one in the room)
+name <keywords>     - sets the keywords on an mobile
+shop                - type this command for further information
+short <desc>        - sets the 'name' of an mobile (a sword, a fish etc)
+show                - hitting return, or 'show' shows the mobile stats
+spec                - sets a mobiles spec proc, type ? SPEC for a list
+sex                 - set the mobile's sex, type ? SEX for a list
+act                 - mobiles actions, type ? ACT for a list
+affect              - mobile affects, type ? AFFECT for a list
+ac		    - set the mobile's ac, type ? AC for a list
+form		    - mobiles body-form, type ? FORM for a list
+part		    - mobiles bodyparts, type ? PART for a list
+imm		    - mobile is immune to, type ? IMM for a list
+res		    - mobile is resistant to, type ? RES for a list
+vuln		    - mobile is vulnerable to, type ? VULN for a list
+material	    - material mobile is made from, type ? MATERIAL for a list
+off		    - offensive behaviour, type ? OFF for a list
+size		    - size, type ? SIZE for a list
+hitdice		    - dice to toss to get mobile's hitpoints
+manadice	    - dice to toss to get mobile's mana
+damdice		    - dice to toss to get mobile's hand to hand damage
+
+type 'help HITDICE', 'help MANADICE', 'help DAMDICE' for lists of reasonable dice 
+combinations on different levels.
+~
+~
+0 HITDICE~
+
+A high number of dice makes for less variance in mobiles hitpoints.
+Suggested values are:
+
+       level:     dice         min         max        mean
+         1:       1d2+6       7(  7)     8(   8)     8(   8)
+	 2:       1d3+15     16( 15)    18(  18)    17(  17)
+	 3:       1d6+24     25( 24)    30(  30)    27(  27)
+	 5:      1d17+42     43( 42)    59(  59)    51(  51)
+	10:      3d22+96     99( 95)   162( 162)   131( 129)
+	15:      5d30+161   166(159)   311( 311)   239( 235)
+	30:     10d61+416   426(419)  1026(1026)   726( 723)
+	50:    10d169+920   930(923)  2610(2610)  1770(1767)
+
+Diff = max - min.  Mean is the arithmetic mean.
+The values in parenthesis are the the standard merc values.
+~
+~
+0 MANADICE~
+
+A high number of dice makes for less variance in mobiles mana.
+The values the server generates for merc-type mobs is
+
+  <level> d 10 + 100
+
+where level is the level of the mobile.
+~
+~
+0 DAMDICE~
+
+A high number of dice makes for less variance in mobiles hitpoints.
+Suggested values are:
+
+       Level      dice       min      min    mean
+        1         1d2+0       1        2       2
+        2         1d2+1       2        3       3
+        3         1d3+2       3        5       4
+        5         2d3+2       4        8       6
+       10         2d5+5       7       15      11
+       15         3d5+8      11       23      17
+       20         4d5+10     14       30      22
+       30         5d6+15     20       45      33
+       50         5d10+25    30       75      53
+
+Mean is the arithmetic mean.  The values in parenthesis are the the
+standard merc values.  (Will be put in when there's time to calculate
+them...)
+~
+~
+0 RESETS~
+
+Syntax: RESET <number> OBJ <vnum> <location on body>    - equips last mobile
+        RESET <number> OBJ <vnum> inside <obj vnum>     - store in container
+        RESET <number> OBJ <vnum> room                  - store in room
+        RESET <number> MOB <vnum> [<max #>]             - load a mobile
+        RESET <number> DELETE                           - delete a reset
+
+RESET alone will display the resets in the current room.  The <number> will
+be displayed with this list.  Typing ? WEAR-LOC will list possible locations
+that an object can be loaded to.  The [<max #>] is the maximum number of
+mobiles allowed in this room and will default to 1 if no number is entered.
+
+For resets to be successful make sure that you add them in a logical order.
+For example if you are equiping a mobile don't load a container in the room
+and fill it with some objects and then continue equiping the mobile.  It is
+likely that resets will backfire if they are not carefully entered.
+
+If you wish to reset the room then use EDIT ROOM RESET.  
+~
+~
+0 MOB_AC~
+
+The values ROM generates for a merc format mob is:
+
+   level      pierce    bash    slash   exotic
+     1          95       95       95      95
+     5          70       70       70      85
+    10          40       40       40      70
+    15           5        5        5      55
+    20         -25      -25      -25      40
+    25         -55      -55      -55      20
+    30         -90      -90      -90       5
+    35        -120     -120     -120     -10
+    40        -150     -150     -150     -25
+    45        -180     -180     -180     -40
+    50        -215     -215     -215     -55
+    55        -245     -245     -245     -70
+    60        -275     -275     -275     -90
+    65        -305     -305     -305    -105
+    70        -340     -340     -340    -120
+    80        -400     -400     -400    -150
+
+These values are 10 times what you would put in an area file. This
+is because the server multiplies what it reads from file with 10.
+~
+~
+0 ITEM_LIGHT~
+
+{x   value 0    unused
+{x   value 1    enclosed? (yes means it cannot be extinguished by rain/snow)
+   value 2    hours of light available, 0 is dead, -1 or 999 is infinite            
+   value 3    unused
+   value 4    unused
+~
+Upro~
+0 ITEM_STAFF_WAND~
+
+.   value 0    level
+   value 1    max charges
+   value 2    current charges
+   value 3    spell name
+   value 4    unused
+
+
+An up-to-date list of spells can be obtained by typing:
+? SPELLS [ignore/attack/defend/self/object/all]
+~
+~
+0 ITEM_SCROLL_POTION_PILL~
+
+.   value 0    level
+   value 1    spell name 1
+   value 2    spell name 2
+   value 3    spell name 3
+   value 4    unused
+
+An up-to-date list of spells can be obtained by typing:
+? SPELLS [ignore/attack/defend/self/object/all]
+~
+~
+0 ITEM_ARMOR~
+
+{x   value 0    ac pierce
+   value 1    ac bash
+   value 2    ac slash
+   value 3    ac exotic (magic)
+{x   value 4    bulk (see help {gbulk{x)
+~
+Upro~
+0 ITEM_WEAPON~
+
+.   value 0    weapon class.
+   value 1    number of dice to roll.
+   value 2    type of dice to roll.
+   value 3    weapon type.
+   value 4    special weapon type.
+
+An up-to-date list of values can be obtained by typing
+? WCLASS
+help WEAPON_DICE
+? WEAPON
+? WTYPE
+~
+~
+0 WEAPON_DICE~
+
+These are the values the server generates automatically when
+converting a merc-format mobile to ROM format.  A higher
+number of dice gives less variance in damage.  There is no
+dice-bonus on weapon dice.
+
+      level:   dice 
+        1:     1d8
+        2:     2d5
+        3:     2d5
+        5:     2d6
+       10:     4d5
+       20:     5d5
+       30:     5d7
+       50:     5d11
+~
+~
+0 ITEM_CONTAINER~
+
+.   value 0    weight capacity
+   value 1    flags: closeable, pickproof, closed, locked            
+   value 2    key vnum
+   value 3    unused
+   value 4    unused
+
+An up-to-date list of flags can be obtained by typing
+? CONTAINTER
+~
+~
+0 ITEM_DRINK~
+
+{x   value 0    capacity
+   value 1    current quantity
+   value 2    liquid type
+   value 3    poisoned?
+   value 4    unused
+
+An up-to-date list of liquid types can be obtained by typing
+? LIQUID
+~
+Upro~
+0 ITEM_FOOD~
+
+.   value 0    hours of food value
+   value 1    unused
+   value 2    unused
+   value 3    poisoned?
+   value 4    unused
+~
+~
+0 ITEM_MONEY~
+
+.   value 0    value in gold pieces
+   value 1    unused
+   value 2    unused
+   value 3    unused
+   value 4    unused
+~
+~
+0 trap~
+
+Syntax: trap <set/remove> <object> <trap type if setting trap>
+ 
+By way of this command, a person with sufficient skill can set or remove
+the trap on an object. You must be holding a set of thieves' tools in order
+to successfully use this skill.
+~
+~
+0 guild guildranks~
+
+Guild ranks are a class based ranking system that is tied into your guild.
+Each character has 'guild points', which they earn by completing guild quests.
+Each guild rank requires a certain amount of accumulated guild points, and can
+open accessibility to new skills and spells.
+ 
+Some skills cannot be attained without gaining a certain amount of exposure within
+one's guild, and even the skill or spell may require some sort of prerequisite in
+order to learn.
+~
+~
+0 butcher~
+
+Syntax: butcher <corpse>
+ 
+Using the butcher skill, players are able to create food from
+the corpses of their enemies, a self sustaining practice that
+can save a lot of money in the long run.
+~
+~
+0 skin skinning~
+
+Syntax: skin <creature>
+ 
+Once you have killed a creature, if you are capable, you
+may then skin the corpse, and sell it in certain circles.
+~
+~
+0 scribe scribing~
+
+Syntax: scribe <spell>
+ 
+If you have the scribe skill, you are able to copy spells
+out of memory onto a parchment, scroll, or otherwise similar
+receptacle. Once you have done this, you can either use it
+as a scroll or pass it off to other mages to learn.
+ 
+However, most wizards hoard secrets, and thus charge a hefty
+amount for the scribing of any spell, particularly rare and
+deadly spells.
+~
+~
+0 bounty~
+
+Syntax: bounty
+        bounty <player> <amount>
+        bounty remove <player>
+        bounty collect <player>
+ 
+Using the bounty system, you can place a bounty on
+a player's head, effectively marking them for death.
+You can specify how much bounty you wish to place on
+said person, and even add to it at a later date if no
+one seems interested in your first reward offer.
+ 
+To collect a bounty you must bring the head of the target
+to a known bounty collector.
+~
+~
+0 knock~
+
+Syntax: knock <door>
+ 
+By using the knock command, you can alert people on
+the other side of a door of your presence. It's that
+simple.
+ 
+Also see:  knock_spell
+~
+~
+0 mclass multiclass~
+
+Syntax: mclass
+        mclass <class>
+ 
+In order to multi class, you must be of at least level 10
+in your primary class. Once you have this prerequisite,
+head to your trainer and type mclass without an argument.
+You will then get a list of options that you can multi
+class into. From there simply type mclass <class>, and your
+trainer will charge you a fee, then teach you the basics of
+whatever secondary class you chose.
+~
+~
+0 $~
+
+#$

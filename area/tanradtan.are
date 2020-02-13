@@ -1,0 +1,4283 @@
+#AREADATA
+Deprecated 0
+Name Tanradtan~
+Builders Upro~
+VNUMs 1200 1399
+Levels 1 40
+Credits Upro~
+Climate 2
+Plane 0
+PrimaryResource copper~
+Security 9
+Flags 34
+Faction (null)~
+History Tanradtan has long been a trading partner with Renfall, it's larger sister
+city to the north. Tanradtan has rich mines full of silver, and bountiful
+tobacco crops giving them excellent resources to work with. They are also a
+coastal city, and thus enjoy the amenities of having a large port area, where
+ships often come from far away to do business. 
+
+The town is of medium size, and boasts a fair number of citizens from every
+overland race, with a few of the rare underdark races sprinkled in. Tanradtan
+is overseen by a benevolent wizard who lives in a tower towards the north end
+of the town. It is for this reason that there are no clerical temples to be
+found in the town. 
+~
+End
+
+
+
+#MOBILES
+#1200
+Irnen wizard man~
+Irnen, Lord of Tanradtan~
+A tall human garbed in dark red robes.
+~
+A tall, red robed human~
+This wily gentleman has slanted gray eyes. His silky, wavy, burgandy hair is
+short and is worn in a dignified, practical style. He has a thin build. His
+skin is cream-colored. He has an upturned nose and bushy eyebrows. His wardrobe
+is elegant and made up mostly of deep tones of red.
+~
+human~
+AGR CEFG H 250 0
+28 16 26d8+730 23d10+798 7d2+22 wrath
+-15 -15 -15 -11
+H AB C 0
+stand stand male 58
+AHMV ABCDEFGHIJK medium
+ unknown
+#1201
+iron golem~
+an iron golem~
+A monstrous statue-like creature made of iron.
+~
+The ground trembles slightly as this creature~
+This huge iron monstrosity is fearsome, to say the least. It's body is
+ridiculously muscular, and it's shoulders are roughly 8 feet in width, with the
+monster's height coming somewhere around sixteen feet. It's skin is pure iron,
+flaking as oxidation takes it's course, tarnished maroon in appearance. 
+~
+iron golem~
+ABG D H 0 0
+26 16 6d40+720 16d5+280 10d2+26 beating
+-14 -14 -14 -10
+CHV ABP F E
+stand stand none 0
+AHMV ABCDEFGHIJK huge
+ unknown
+#1202
+Margo gnome~
+Margo~
+A plump, older gnome woman.
+~
+~
+Margo has been selling oddities to aspiring mages and adventuring wizards
+for ages, and her weathered face shows it. She wears a cliche pointy black hat,
+which has a slight bend at the top which she can't reach to fix. Her large
+almond eyes survey her shop with eagle vision, wary at all times of
+shoplifters. 
+~
+gnome~
+ABG FG 0 0 0
+40 0 40d8+80 40d8+100 0d0+0 none
+0 0 0 0
+0 AB Pa R
+stand stand female 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#1203
+Korit halfling~
+Korit the Esteemed~
+An average size halfling male, wearing fine garments.
+~
+~
+Korit the banker has been working the business for some time now, taking
+over from his father who did the same. This halfling is less portly than most,
+and wears very fine garments. 
+~
+halfling~
+ABGde G DFH 0 0
+30 13 5d53+805 21d4+280 13d1+19 shbite
+-14 -14 -14 -10
+0 AB LP BR
+stand stand none 4500000
+AHMV ABCDEFGHIJK small
+ unknown
+#1204
+Faronas~
+Faronas Halfbreed~
+A rather tall half-elf, wearing a vest lined with many pockets.
+~
+~
+Faronas Halfbreed is the local jeweller, a well respected individual within
+the community. His garb is plain, despite his income, and he remains a gentle
+and helpful soul, regardless of his past. 
+~
+half elf~
+ABG G HJ 0 0
+28 14 8d31+756 12d7+254 12d1+14 frbite
+-13 -13 -13 -9
+0 AB B IZ
+stand stand male 1850
+AHMV ABCDEFGHIJK medium
+ unknown
+#1205
+Tervi human man~
+Tervi~
+A tall, thin man with long, stringy hair.
+~
+~
+He has hooded sapphire eyes. His stringy, amber hair is worn in an untamed
+manner. He's got a beard and moustache. He is very tall and has a boyish build.
+His skin is light-colored. He has bushy eyebrows and wide feet. His wardrobe is
+unconventional. 
+~
+human~
+ABG G 0 0 0
+30 13 27d10+850 15d5+277 1d16+16 slash
+-12 -12 -12 -9
+0 AB 0 0
+stand stand male 12320
+AHMV ABCDEFGHIJK medium
+ unknown
+#1206
+Bruman man human~
+Bruman~
+A really fat, rather unattractive man.
+~
+~
+Bruman is a disgusting example of gluttony. His fat jiggles about as he
+moves around his shop, selling what is understood to be the town's finest food
+and drink. 
+~
+human~
+ABG G 0 0 0
+30 18 15d18+810 21d5+323 1d13+13 blast
+-13 -13 -13 -10
+0 AB 0 0
+stand stand male 1200
+AHMV ABCDEFGHIJK large
+ unknown
+#1207
+Halma human man~
+Halma~
+A tall, muscular man, with angular features.
+~
+~
+This intimidating gentleman has slanted eyes the color of blueberries. His
+thick, straight, beige hair is worn in a style that reminds you of a pair of
+wings. He has a wide-chested build. His skin is cream-colored. He has hollow
+cheeks. His wardrobe is loose-fitting, with a set of chain mail over top. 
+~
+human~
+ABGJb G H 0 0
+32 19 3d107+971 19d5+289 9d1+15 crush
+-12 -12 -12 -9
+0 AB 0 0
+stand stand male 81
+AHMV ABCDEFGHIJK medium
+ unknown
+#1208
+Kalver dwarf~
+Kalver the Silversmith~
+A middle aged dwarf with fire red hair and beard.
+~
+~
+Kalver is a stout dwarf, decked out in silver armor of his own design, which
+is quite masterful. He has a long double braided beard which reaches nearly to
+his knees. Kalver has an impressive shop full of beautiful craftsmanship. 
+~
+dwarf~
+ABG G J 0 0
+32 17 4d87+1046 29d4+460 5d3+17 blast
+-13 -13 -13 -9
+0 AB LQa R
+stand stand none 8500
+AHMV ABCDEFGHIJK small
+ unknown
+#1209
+young male human stable attendant~
+a stable attendant~
+A fairly young male human, wearing all leather.
+~
+~
+~
+human~
+ABG G 0 0 0
+32 15 29d15+1315 10d13+420 6d2+22 blast
+-15 -15 -15 -11
+0 AB 0 0
+stand stand none 36
+AHMV ABCDEFGHIJK medium
+ unknown
+#1210
+Danith man human~
+Danith~
+A short human, with a stocky build and parted hair.
+~
+~
+Danith is a quiet human, but works hard and creates a lot of good quality
+items for the town and for adventurers from abroad. His hair is parted in the
+middle, and he has no facial hair. He is decked out in all leather. 
+~
+human~
+ABG G J 0 0
+32 17 4d87+1046 29d4+460 5d3+17 blast
+-13 -13 -13 -9
+0 AB 0 0
+stand stand none 8500
+AHMV ABCDEFGHIJK small
+ unknown
+#1211
+Delbia woman human~
+Delbia~
+A tall, athletic woman with long black hair.
+~
+~
+This tall woman has beautiful green eyes and long wavy black hair. Her
+athletic build and excellent proportions make her quite a beauty to behold. She
+effortlessly works the entire bar and takes care of her own while doing so,
+refusing to take any guff from her customers. 
+~
+human~
+ABG G J 0 0
+32 17 4d87+1046 29d4+460 5d3+17 blast
+-13 -13 -13 -9
+0 AB 0 0
+stand stand female 8500
+AHMV ABCDEFGHIJK medium
+ unknown
+#1212
+aged man human~
+an aged man~
+A bent, aged man with hardly any hair.
+~
+~
+This old man is bent due to age, with very little hair and few if any teeth.
+His speech is hard to understand, and he hobbles around very slowly. 
+~
+human~
+ABG G J 0 0
+32 17 4d87+1046 29d4+460 5d3+17 blast
+-13 -13 -13 -9
+0 AB 0 0
+stand stand male 8500
+AHMV ABCDEFGHIJK medium
+ unknown
+#1213
+lady woman human Dania~
+Dania~
+A fair skinned, middle aged lady.
+~
+~
+She has round amethyst eyes. Her silky, straight, gray hair is worn in a
+style that reminds you of a flame. She is tall and has a plump build. Her skin
+is pale. She has a large mouth. Her wardrobe is tight and plain, with a lot of
+violet and gray. 
+~
+human~
+ABG G J 0 0
+32 17 4d87+1046 29d4+460 5d3+17 blast
+-13 -13 -13 -9
+0 AB 0 0
+stand stand female 8500
+AHMV ABCDEFGHIJK medium
+ unknown
+#1214
+Tanelm man half~
+Tanelm~
+An average height half elf of human descent.
+~
+~
+This old man is bent due to age, with very little hair and few if any teeth.
+His speech is hard to understand, and he hobbles around very slowly. 
+~
+half elf~
+ABG G J 0 0
+32 17 4d87+1046 29d4+460 5d3+17 blast
+-13 -13 -13 -9
+0 AB B IZ
+stand stand male 8500
+AHMV ABCDEFGHIJK medium
+ unknown
+#1215
+owlbear~
+a large spotted owlbear~
+A large spotted owlbear lumbers about.
+~
+a large spotted owlbear~
+~
+owlbear~
+AI 0 J 0 0
+15 8 9d6+186 12d3+137 3d2+8 grep
+0 0 0 0
+CH AB 0 Z
+stand stand male 41
+AHMV ABCDEFGHIJK large
+ unknown
+F imm R
+F res B
+#1216
+cow~
+a spotted cow~
+A spotted cow is here, lazily munching grass.
+~
+~
+A rather fat cow grazes here, munching grass idly as the day passes her by. 
+~
+horse~
+ABG 0 Z 0 0
+7 3 3d2+27 2d11+66 2d1+2 crush
+6 6 6 4
+0 0 0 0
+stand stand female 0
+AGV ACDEFJKQV large
+ unknown
+F off FH
+#0
+
+
+
+#OBJECTS
+#1200
+wand acid melted black~
+a thin, partially melted, black wand~
+A thin black wand with some bad acid burns.~
+black oak~
+0
+wand A T AO
+25 10 10 'acid arrow' 0
+22 2 122200 P
+#1201
+scroll~
+a scroll sealed with a shield~
+A scroll sealed with a shield.~
+paper~
+0
+scroll 0 0 A
+24 'shield' '' '' ''
+11 0 6000 P
+#1202
+sleep scroll~
+a slightly worn scroll~
+A slightly worn scroll.~
+paper~
+0
+scroll 0 0 A
+24 'sleep' '' '' ''
+11 0 9000 P
+#1203
+ring silver~
+a thin, {Dsilver{x band~
+A thin, silver band.~
+silver~
+0
+wand AG 0 AB
+15 13 13 'cure serious' 0
+10 3 10000 P
+#1204
+small emerald chip~
+a small {Gemerald{x chip~
+A small {Gemerald{x chip.~
+emerald~
+0
+gem 0 0 A
+0 0 0 0 0
+1 1 2500 P
+#1205
+small ruby chip~
+a small {Rruby{x chip~
+A small {Rruby{x chip.~
+ruby~
+0
+gem 0 0 A
+0 0 0 0 0
+1 2 5000 P
+#1206
+small diamond chip~
+a small {Wdiamond{x chip~
+A small {Wdiamond{x chip.~
+unknown~
+0
+gem 0 0 A
+0 0 0 0 0
+1 2 10000 P
+#1207
+topaz ring~
+a topaz ring~
+A thick ring studded with a topaz.~
+topaz~
+0
+jewelry I 0 AB
+0 0 0 0 0
+10 2 2500 P
+A
+20 -2
+A
+28 10
+A
+12 10
+A
+30 2
+#1208
+diamond earring~
+an exquisite diamond earring~
+An exquisite diamond earring.~
+diamond~
+0
+jewelry I 0 AC
+0 0 0 0 0
+12 3 19900 P
+A
+20 -2
+A
+12 15
+A
+30 3
+#1209
+jewelry 3~
+jewelry 3~
+(no description)~
+unknown~
+0
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#1210
+jewelry 4~
+jewelry 4~
+(no description)~
+unknown~
+0
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#1211
+no name~
+jewelry 5~
+(no description)~
+unknown~
+0
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#1212
+potion clear blue~
+a clear blue potion~
+A clear blue potion.~
+glass~
+0
+potion 0 0 A
+15 'water breathing' 'reserved' 'reserved' 'reserved'
+10 1 3500 P
+#1213
+no name~
+potion 2~
+(no description)~
+unknown~
+0
+potion 0 0 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#1214
+no name~
+potion 3~
+(no description)~
+unknown~
+0
+potion 0 0 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#1215
+no name~
+potion 4~
+(no description)~
+unknown~
+0
+potion 0 0 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#1216
+no name~
+potion 5~
+(no description)~
+unknown~
+0
+potion 0 0 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#1217
+silver dirk~
+an ornate silver dirk~
+An ornate silver dirk~
+silver~
+0
+weapon 0 0 AN
+dagger 2 5 pierce 0
+11 6 4500 P
+A
+13 10
+A
+19 2
+A
+12 20
+#1218
+silver ornate cutlass~
+an ornate silver cutlass~
+An ornate silver cutlass.~
+silver~
+0
+weapon 0 0 AN
+long_sword 2 6 slash 0
+11 6 5000 P
+A
+13 10
+A
+12 20
+A
+19 3
+#1219
+silver breastplate~
+a gleaming silver breastplate~
+A gleaming silver breastplate.~
+silver~
+0
+armor I 0 AD
+D D D ABC 5
+11 0 8000 P
+A
+19 2
+A
+13 15
+A
+12 10
+A
+1 1
+#1220
+silver arrow~
+a silver arrow~
+A silver arrow.~
+silver~
+0
+missile 0 0 A
+0 0 0 0 0
+9 1 500 P
+#1221
+leather doublet~
+a studded leather doublet~
+A thick, well stitched, studded leather doublet.~
+leather~
+0
+armor 0 0 AD
+AB AB AC A 1
+5 5 1000 P
+A
+13 8
+A
+18 1
+#0
+
+
+
+#ROOMS
+#1200
+Northern Gate of Tanradtan~
+These stout iron gates rise some fifteen feet before topping off... tall
+enough to keep some fairly large creatures out. The walls which sprout from
+either side of these gates match this height, wrapping east and west, to
+surround the town of Tanradtan. 
+ 
+There is a beaten {Rsignpost{x in the ground.
+~
+0 0 11
+0
+0
+0
+E
+signpost~
+Welcome to Tanradtan. This is a tolerant town, but be wary.... Irnen takes
+not kindly to those who wish to cause trouble. 
+~
+D0
+~
+~
+0 0 1341
+D1
+~
+~
+0 0 1207
+D2
+~
+~
+0 0 1201
+D3
+~
+~
+0 0 1260
+M 25 H 25
+S
+#1201
+Inside the Northern Gate~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1200
+D2
+~
+~
+0 0 1202
+M 25 H 25
+S
+#1202
+Ashton Lane~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1201
+D2
+~
+~
+0 0 1203
+M 25 H 25
+S
+#1203
+Ashton Lane~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1202
+D2
+~
+~
+0 0 1204
+D3
+~
+~
+0 0 1271
+M 25 H 25
+S
+#1204
+Ashton Lane~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1203
+D2
+~
+~
+0 0 1205
+M 25 H 25
+S
+#1205
+Ashton Lane~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1204
+D2
+~
+~
+0 0 1206
+M 25 H 25
+S
+#1206
+Corner of Ashton and Belston~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1205
+D3
+~
+~
+0 0 1261
+M 25 H 25
+S
+#1207
+Fence around Tanradtan~
+~
+0 16384 11
+0
+0
+0
+D1
+~
+~
+0 0 1208
+D3
+~
+~
+0 0 1200
+M 25 H 25
+S
+#1208
+Fence around Tanradtan~
+~
+0 16384 11
+0
+0
+0
+D1
+~
+~
+0 0 1209
+D3
+~
+~
+0 0 1207
+M 25 H 25
+S
+#1209
+Fence around Tanradtan~
+~
+0 16384 11
+0
+0
+0
+D1
+~
+~
+0 0 1210
+D3
+~
+~
+0 0 1208
+M 25 H 25
+S
+#1210
+Fence around Tanradtan~
+~
+0 16384 11
+0
+0
+0
+D2
+~
+~
+0 0 1211
+D3
+~
+~
+0 0 1209
+M 25 H 25
+S
+#1211
+Eastern Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1210
+D2
+~
+~
+0 0 1212
+M 25 H 25
+S
+#1212
+Eastern Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1211
+D2
+~
+~
+0 0 1213
+M 25 H 25
+S
+#1213
+Eastern Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1212
+D2
+~
+~
+0 0 1214
+M 25 H 25
+S
+#1214
+Eastern Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1213
+D2
+~
+~
+0 0 1215
+M 25 H 25
+S
+#1215
+Eastern Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1214
+D2
+~
+~
+0 0 1216
+M 25 H 25
+S
+#1216
+Eastern Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1215
+D2
+~
+~
+0 0 1217
+M 25 H 25
+S
+#1217
+Eastern Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1216
+D2
+~
+~
+0 0 1218
+M 25 H 25
+S
+#1218
+South East Corner of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1217
+D2
+~
+~
+0 0 1219
+D3
+~
+~
+0 0 1220
+M 25 H 25
+S
+#1219
+Rocky Shoals~
+~
+0 0 13
+0
+0
+0
+D0
+~
+~
+0 0 1218
+D2
+~
+~
+0 0 10200
+D3
+~
+~
+0 0 1395
+M 25 H 25
+S
+#1220
+South Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1218
+D3
+~
+~
+0 0 1221
+M 25 H 25
+S
+#1221
+South Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1220
+D3
+~
+~
+0 0 1222
+M 25 H 25
+S
+#1222
+South Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1221
+D3
+~
+~
+0 0 1223
+M 25 H 25
+S
+#1223
+South Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1222
+D3
+~
+~
+0 0 1224
+M 25 H 25
+S
+#1224
+South Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1223
+D2
+~
+~
+0 0 1225
+M 25 H 25
+S
+#1225
+South Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1224
+D3
+~
+~
+0 0 1226
+M 25 H 25
+S
+#1226
+South Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1225
+D2
+~
+~
+0 0 1227
+M 25 H 25
+S
+#1227
+South Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1226
+D3
+~
+~
+0 0 1228
+M 25 H 25
+S
+#1228
+South Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1227
+D3
+~
+~
+0 0 1229
+M 25 H 25
+S
+#1229
+Bottom of Stairs~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1228
+D3
+~
+~
+0 0 1230
+M 25 H 25
+S
+#1230
+South Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1229
+D3
+~
+~
+0 0 1231
+M 25 H 25
+S
+#1231
+South Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1230
+D3
+~
+~
+0 0 1232
+M 25 H 25
+S
+#1232
+South Side of Fence~
+The road slopes up again, leading to a very short staircase, which enters
+into a large shipyard. 
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1231
+D3
+~
+~
+0 0 1233
+M 25 H 25
+S
+#1233
+Docks of Tanradtan~
+~
+0 0 25
+0
+0
+0
+D1
+~
+~
+0 0 1232
+D3
+~
+~
+0 0 1234
+M 25 H 25
+S
+#1234
+Docks of Tanradtan~
+~
+0 0 25
+0
+0
+0
+D1
+~
+~
+0 0 1233
+D3
+~
+~
+0 0 1235
+M 25 H 25
+S
+#1235
+Docks of Tanradtan~
+~
+0 0 25
+0
+0
+0
+D0
+~
+~
+0 0 1296
+D1
+~
+~
+0 0 1234
+D3
+~
+~
+0 0 1236
+M 25 H 25
+S
+#1236
+Docks of Tanradtan~
+~
+0 0 25
+0
+0
+0
+D1
+~
+~
+0 0 1235
+D3
+~
+~
+0 0 1237
+M 25 H 25
+S
+#1237
+Docks of Tanradtan~
+~
+0 0 25
+0
+0
+0
+D1
+~
+~
+0 0 1236
+D3
+~
+~
+0 0 1238
+M 25 H 25
+S
+#1238
+South Side of Fence~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1239
+D1
+~
+~
+0 0 1237
+M 25 H 25
+S
+#1239
+West Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1240
+D2
+~
+~
+0 0 1238
+M 25 H 25
+S
+#1240
+West Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1241
+D2
+~
+~
+0 0 1239
+M 25 H 25
+S
+#1241
+West Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1242
+D2
+~
+~
+0 0 1240
+M 25 H 25
+S
+#1242
+West Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1243
+D2
+~
+~
+0 0 1241
+M 25 H 25
+S
+#1243
+West Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1244
+D2
+~
+~
+0 0 1242
+M 25 H 25
+S
+#1244
+West Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1245
+D2
+~
+~
+0 0 1243
+M 25 H 25
+S
+#1245
+West Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1246
+D2
+~
+~
+0 0 1244
+M 25 H 25
+S
+#1246
+West Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1247
+D2
+~
+~
+0 0 1245
+M 25 H 25
+S
+#1247
+West Side of Fence~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1248
+D2
+~
+~
+0 0 1246
+M 25 H 25
+S
+#1248
+Northwest Corner of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1249
+D2
+~
+~
+0 0 1247
+M 25 H 25
+S
+#1249
+North Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1250
+D3
+~
+~
+0 0 1248
+M 25 H 25
+S
+#1250
+North Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1251
+D3
+~
+~
+0 0 1249
+M 25 H 25
+S
+#1251
+North Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1252
+D3
+~
+~
+0 0 1250
+M 25 H 25
+S
+#1252
+North Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1253
+D3
+~
+~
+0 0 1251
+M 25 H 25
+S
+#1253
+North Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1254
+D3
+~
+~
+0 0 1252
+M 25 H 25
+S
+#1254
+North Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1255
+D3
+~
+~
+0 0 1253
+M 25 H 25
+S
+#1255
+North Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1256
+D3
+~
+~
+0 0 1254
+M 25 H 25
+S
+#1256
+North Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1257
+D3
+~
+~
+0 0 1255
+M 25 H 25
+S
+#1257
+North Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1258
+D3
+~
+~
+0 0 1256
+M 25 H 25
+S
+#1258
+North Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1259
+D3
+~
+~
+0 0 1257
+M 25 H 25
+S
+#1259
+North Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1260
+D3
+~
+~
+0 0 1258
+M 25 H 25
+S
+#1260
+North Side of Fence~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1200
+D3
+~
+~
+0 0 1259
+M 25 H 25
+S
+#1261
+Belston Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1340
+D1
+~
+~
+0 0 1206
+D3
+~
+~
+0 0 1262
+M 25 H 25
+S
+#1262
+Belston Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1321
+D1
+~
+~
+0 0 1261
+D3
+~
+~
+0 0 1263
+M 25 H 25
+S
+#1263
+Belston Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1322
+D1
+~
+~
+0 0 1262
+D3
+~
+~
+0 0 1264
+M 25 H 25
+S
+#1264
+Belston Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1323
+D1
+~
+~
+0 0 1263
+D3
+~
+~
+0 0 1265
+M 25 H 25
+S
+#1265
+Belston Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1324
+D1
+~
+~
+0 0 1264
+D3
+~
+~
+0 0 1266
+M 25 H 25
+S
+#1266
+Belston Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1325
+D1
+~
+~
+0 0 1265
+D3
+~
+~
+0 0 1267
+M 25 H 25
+S
+#1267
+Belston Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1326
+D1
+~
+~
+0 0 1266
+D3
+~
+~
+0 0 1268
+M 25 H 25
+S
+#1268
+Belston Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1327
+D1
+~
+~
+0 0 1267
+D3
+~
+~
+0 0 1269
+M 25 H 25
+S
+#1269
+Belston Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1268
+D3
+~
+~
+0 0 1270
+M 25 H 25
+S
+#1270
+Corner of Belston and Dracton~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1292
+D1
+~
+~
+0 0 1269
+D2
+~
+~
+0 0 1294
+M 25 H 25
+S
+#1271
+Coldton Lane~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1203
+D3
+~
+~
+0 0 1272
+M 25 H 25
+S
+#1272
+Coldton Lane~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1271
+D2
+~
+~
+0 0 1338
+D3
+~
+~
+0 0 1273
+M 25 H 25
+S
+#1273
+Coldton Lane~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1272
+D2
+~
+~
+0 0 1337
+D3
+~
+~
+0 0 1274
+M 25 H 25
+S
+#1274
+Coldton Lane~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1273
+D2
+~
+~
+0 0 1336
+D3
+~
+~
+0 0 1275
+M 25 H 25
+S
+#1275
+Coldton Lane~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1274
+D3
+~
+~
+0 0 1276
+M 25 H 25
+S
+#1276
+Coldton Lane~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1275
+D3
+~
+~
+0 0 1277
+M 25 H 25
+S
+#1277
+Coldton Lane~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1276
+D2
+~
+~
+0 0 1331
+D3
+~
+~
+0 0 1278
+M 25 H 25
+S
+#1278
+Coldton Lane~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1277
+D2
+~
+~
+0 0 1330
+D3
+~
+~
+0 0 1279
+M 25 H 25
+S
+#1279
+Coldton Lane~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1278
+D2
+~
+~
+0 0 1329
+D3
+~
+~
+0 0 1280
+M 25 H 25
+S
+#1280
+Corner of Coldton and Dracton~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+1 0 1281
+D1
+~
+~
+0 0 1279
+D2
+~
+~
+0 0 1291
+D3
+~
+~
+1 0 1293
+M 25 H 25
+S
+#1281
+A bridge over a moat~
+This bridge serves as the connection from Dracton Lane across the moat to
+the tower-keep in which the loard of this town resides. 
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+3 0 1282
+D2
+~
+~
+1 0 1280
+M 25 H 25
+S
+#1282
+Entranceway of the Tower~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+3 0 1281
+D3
+~
+~
+0 0 1283
+M 25 H 25
+S
+#1283
+Base of the Stairs~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 1282
+D4
+~
+~
+0 0 1284
+M 25 H 25
+S
+#1284
+Second Floor~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 1285
+D4
+~
+~
+0 0 1286
+D5
+~
+~
+0 0 1283
+M 25 H 25
+S
+#1285
+Second Floor~
+~
+0 0 0
+0
+0
+0
+D3
+~
+~
+0 0 1284
+M 25 H 25
+S
+#1286
+Third Floor~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 1287
+D4
+~
+~
+0 0 1288
+D5
+~
+~
+0 0 1284
+M 25 H 25
+S
+#1287
+Third Floor~
+~
+0 0 0
+0
+0
+0
+D3
+~
+~
+0 0 1286
+M 25 H 25
+S
+#1288
+Fourth Floor~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 1289
+D4
+~
+~
+0 0 1290
+D5
+~
+~
+0 0 1286
+M 25 H 25
+S
+#1289
+Fourth Floor~
+~
+0 0 0
+0
+0
+0
+D3
+~
+~
+0 0 1288
+M 25 H 25
+S
+#1290
+Fifth Floor~
+~
+0 0 0
+0
+0
+0
+D5
+~
+~
+0 0 1288
+M 25 H 25
+S
+#1291
+Dracton Lane~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1280
+D2
+~
+~
+0 0 1292
+M 25 H 25
+S
+#1292
+Dracton Lane~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1291
+D2
+~
+~
+0 0 1270
+M 25 H 25
+S
+#1293
+Guard Room (for Moat)~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+1 0 1280
+M 25 H 25
+S
+#1294
+Dracton Lane~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1270
+D2
+~
+~
+0 0 1295
+M 25 H 25
+S
+#1295
+Dracton Lane~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1294
+D1
+~
+~
+0 0 1297
+D2
+~
+~
+0 0 1296
+M 25 H 25
+S
+#1296
+Dracton Lane~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1295
+D2
+~
+~
+0 0 1235
+M 25 H 25
+S
+#1297
+Welden Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1298
+D3
+~
+~
+0 0 1295
+M 25 H 25
+S
+#1298
+Welden Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1317
+D1
+~
+~
+0 0 1299
+D2
+~
+~
+0 0 1318
+D3
+~
+~
+0 0 1297
+M 25 H 25
+S
+#1299
+Welden Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1315
+D1
+~
+~
+0 0 1300
+D2
+~
+~
+0 0 1316
+D3
+~
+~
+0 0 1298
+M 25 H 25
+S
+#1300
+Welden Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1313
+D1
+~
+~
+0 0 1301
+D2
+~
+~
+0 0 1314
+D3
+~
+~
+0 0 1299
+M 25 H 25
+S
+#1301
+Welden Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1311
+D1
+~
+~
+0 0 1302
+D2
+~
+~
+0 0 1312
+D3
+~
+~
+0 0 1300
+M 25 H 25
+S
+#1302
+Welden Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1309
+D1
+~
+~
+3 0 1303
+D2
+~
+~
+0 0 1310
+D3
+~
+~
+0 0 1301
+M 25 H 25
+S
+#1303
+Rich Manor~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 1304
+D3
+~
+~
+3 0 1302
+M 25 H 25
+S
+#1304
+Rich Manor~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1305
+D3
+~
+~
+0 0 1303
+D4
+~
+~
+0 0 1306
+M 25 H 25
+S
+#1305
+Rich Manor~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1304
+M 25 H 25
+S
+#1306
+Rich Manor~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1308
+D3
+~
+~
+0 0 1307
+D5
+~
+~
+0 0 1304
+M 25 H 25
+S
+#1307
+Rich Manor~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 1306
+M 25 H 25
+S
+#1308
+Rich Manor~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1306
+M 25 H 25
+S
+#1309
+House~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1302
+M 25 H 25
+S
+#1310
+House~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1302
+M 25 H 25
+S
+#1311
+House~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1301
+M 25 H 25
+S
+#1312
+House~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1301
+M 25 H 25
+S
+#1313
+House~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1300
+D4
+~
+~
+0 0 1320
+M 25 H 25
+S
+#1314
+House~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1300
+M 25 H 25
+S
+#1315
+House~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1299
+M 25 H 25
+S
+#1316
+House~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1299
+D5
+~
+~
+0 0 1319
+M 25 H 25
+S
+#1317
+House~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1298
+M 25 H 25
+S
+#1318
+House~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1298
+M 25 H 25
+S
+#1319
+House Basement~
+~
+0 0 0
+0
+0
+0
+D4
+~
+~
+0 0 1316
+M 25 H 25
+S
+#1320
+House Second Floor~
+~
+0 0 0
+0
+0
+0
+D5
+~
+~
+0 0 1313
+M 25 H 25
+S
+#1321
+Bank~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1262
+M 25 H 25
+S
+#1322
+Jeweller~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1263
+M 25 H 25
+S
+#1323
+Alchemist~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1264
+M 25 H 25
+S
+#1324
+Food & Drink~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1265
+M 25 H 25
+S
+#1325
+General Trainer~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1266
+M 25 H 25
+S
+#1326
+Silversmith~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1267
+M 25 H 25
+S
+#1327
+Stables~
+~
+0 4096 0
+0
+0
+0
+D2
+~
+~
+0 0 1268
+D3
+~
+~
+0 0 1328
+M 25 H 25
+S
+#1328
+Stables~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 1327
+M 25 H 25
+S
+#1329
+Blacksmith~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1279
+M 25 H 25
+S
+#1330
+Crystal Coast Tavern~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1278
+M 25 H 25
+S
+#1331
+Inn~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1277
+D1
+~
+~
+0 0 1332
+M 25 H 25
+S
+#1332
+Inn~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 1333
+D3
+~
+~
+0 0 1331
+D4
+~
+~
+0 0 1334
+M 25 H 25
+S
+#1333
+Inn~
+~
+0 0 0
+0
+0
+0
+D3
+~
+~
+0 0 1332
+D4
+~
+~
+0 0 1335
+M 25 H 25
+S
+#1334
+Inn~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 1335
+D5
+~
+~
+0 0 1332
+M 25 H 25
+S
+#1335
+Inn~
+~
+0 0 0
+0
+0
+0
+D3
+~
+~
+0 0 1334
+D5
+~
+~
+0 0 1333
+M 25 H 25
+S
+#1336
+Tailor~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1274
+M 25 H 25
+S
+#1337
+Travelling Goods~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1273
+M 25 H 25
+S
+#1338
+Public Baths~
+~
+0 0 0
+0
+0
+0
+D0
+~
+~
+0 0 1272
+D1
+~
+~
+0 0 1339
+M 25 H 100
+S
+#1339
+Public Baths~
+~
+0 0 0
+0
+0
+0
+D3
+~
+~
+0 0 1338
+M 100 H 25
+S
+#1340
+Magic Shop~
+~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 1261
+M 25 H 25
+S
+#1341
+Before the gates of Tanradtan~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1342
+D2
+~
+~
+0 0 1200
+M 25 H 25
+S
+#1342
+Road near a large city~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1343
+D2
+~
+~
+0 0 1341
+D3
+~
+~
+0 0 1366
+M 25 H 25
+S
+#1343
+Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1344
+D2
+~
+~
+0 0 1342
+M 25 H 25
+S
+#1344
+Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1345
+D2
+~
+~
+0 0 1343
+M 25 H 25
+S
+#1345
+Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1346
+D2
+~
+~
+0 0 1344
+M 25 H 25
+S
+#1346
+Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1347
+D2
+~
+~
+0 0 1345
+M 25 H 25
+S
+#1347
+Road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1348
+D2
+~
+~
+0 0 1346
+M 25 H 25
+S
+#1348
+A turn in the road~
+~
+0 0 11
+0
+0
+0
+D2
+~
+~
+0 0 1347
+D3
+~
+~
+0 0 1349
+M 25 H 25
+S
+#1349
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1348
+D3
+~
+~
+0 0 1350
+M 25 H 25
+S
+#1350
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1349
+D3
+~
+~
+0 0 1351
+M 25 H 25
+S
+#1351
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1350
+D3
+~
+~
+0 0 1352
+M 25 H 25
+S
+#1352
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1351
+D3
+~
+~
+0 0 1353
+M 25 H 25
+S
+#1353
+A turn in the road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1352
+D2
+~
+~
+0 0 1354
+M 25 H 25
+S
+#1354
+A turn in the road~
+~
+0 0 11
+0
+0
+0
+D0
+~
+~
+0 0 1353
+D3
+~
+~
+0 0 1355
+M 25 H 25
+S
+#1355
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1354
+D3
+~
+~
+0 0 1356
+M 25 H 25
+S
+#1356
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1355
+D3
+~
+~
+0 0 1357
+M 25 H 25
+S
+#1357
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1356
+D3
+~
+~
+0 0 1358
+M 25 H 25
+S
+#1358
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1357
+D3
+~
+~
+0 0 1359
+M 25 H 25
+S
+#1359
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1358
+D3
+~
+~
+0 0 1360
+M 25 H 25
+S
+#1360
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1359
+D3
+~
+~
+0 0 1361
+M 25 H 25
+S
+#1361
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1360
+D3
+~
+~
+0 0 1362
+M 25 H 25
+S
+#1362
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1361
+D3
+~
+~
+0 0 1363
+M 25 H 25
+S
+#1363
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1362
+D3
+~
+~
+0 0 1364
+M 25 H 25
+S
+#1364
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1363
+D3
+~
+~
+0 0 1365
+M 25 H 25
+S
+#1365
+Road~
+~
+0 0 11
+0
+0
+0
+D1
+~
+~
+0 0 1364
+D3
+~
+~
+0 0 2377
+M 25 H 25
+S
+#1366
+Entrance to Farmland~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 1342
+D3
+~
+~
+0 0 1367
+M 25 H 25
+S
+#1367
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1380
+D1
+~
+~
+0 0 1366
+D3
+~
+~
+0 0 1368
+M 25 H 25
+S
+#1368
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1379
+D1
+~
+~
+0 0 1367
+D3
+~
+~
+0 0 1369
+M 25 H 25
+S
+#1369
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1378
+D1
+~
+~
+0 0 1368
+D3
+~
+~
+0 0 1370
+M 25 H 25
+S
+#1370
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1377
+D1
+~
+~
+0 0 1369
+D3
+~
+~
+0 0 1371
+M 25 H 25
+S
+#1371
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1376
+D1
+~
+~
+0 0 1370
+D3
+~
+~
+0 0 1372
+M 25 H 25
+S
+#1372
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1375
+D1
+~
+~
+0 0 1371
+D3
+~
+~
+0 0 1373
+M 25 H 25
+S
+#1373
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1374
+D1
+~
+~
+0 0 1372
+M 25 H 25
+S
+#1374
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1387
+D1
+~
+~
+0 0 1375
+D2
+~
+~
+0 0 1373
+M 25 H 25
+S
+#1375
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1386
+D1
+~
+~
+0 0 1376
+D2
+~
+~
+0 0 1372
+D3
+~
+~
+0 0 1374
+M 25 H 25
+S
+#1376
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1385
+D1
+~
+~
+0 0 1377
+D2
+~
+~
+0 0 1371
+D3
+~
+~
+0 0 1375
+M 25 H 25
+S
+#1377
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1384
+D1
+~
+~
+0 0 1378
+D2
+~
+~
+0 0 1370
+D3
+~
+~
+0 0 1376
+M 25 H 25
+S
+#1378
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1383
+D1
+~
+~
+0 0 1379
+D2
+~
+~
+0 0 1369
+D3
+~
+~
+0 0 1377
+M 25 H 25
+S
+#1379
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1382
+D1
+~
+~
+0 0 1380
+D2
+~
+~
+0 0 1368
+D3
+~
+~
+0 0 1378
+M 25 H 25
+S
+#1380
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1381
+D2
+~
+~
+0 0 1367
+D3
+~
+~
+0 0 1379
+M 25 H 25
+S
+#1381
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1394
+D2
+~
+~
+0 0 1380
+D3
+~
+~
+0 0 1382
+M 25 H 25
+S
+#1382
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1393
+D1
+~
+~
+0 0 1381
+D2
+~
+~
+0 0 1379
+D3
+~
+~
+0 0 1383
+M 25 H 25
+S
+#1383
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1392
+D1
+~
+~
+0 0 1382
+D2
+~
+~
+0 0 1378
+D3
+~
+~
+0 0 1384
+M 25 H 25
+S
+#1384
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1391
+D1
+~
+~
+0 0 1383
+D2
+~
+~
+0 0 1377
+D3
+~
+~
+0 0 1385
+M 25 H 25
+S
+#1385
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1390
+D1
+~
+~
+0 0 1384
+D2
+~
+~
+0 0 1376
+D3
+~
+~
+0 0 1386
+M 25 H 25
+S
+#1386
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1389
+D1
+~
+~
+0 0 1385
+D2
+~
+~
+0 0 1375
+D3
+~
+~
+0 0 1387
+M 25 H 25
+S
+#1387
+Farmland~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 1388
+D1
+~
+~
+0 0 1386
+D2
+~
+~
+0 0 1374
+M 25 H 25
+S
+#1388
+Farmland~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 1389
+D2
+~
+~
+0 0 1387
+M 25 H 25
+S
+#1389
+Farmland~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 1390
+D2
+~
+~
+0 0 1386
+D3
+~
+~
+0 0 1388
+M 25 H 25
+S
+#1390
+Farmland~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 1391
+D2
+~
+~
+0 0 1385
+D3
+~
+~
+0 0 1389
+M 25 H 25
+S
+#1391
+Farmland~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 1392
+D2
+~
+~
+0 0 1384
+D3
+~
+~
+0 0 1390
+M 25 H 25
+S
+#1392
+Farmland~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 1393
+D2
+~
+~
+0 0 1383
+D3
+~
+~
+0 0 1391
+M 25 H 25
+S
+#1393
+Farmland~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 1394
+D2
+~
+~
+0 0 1382
+D3
+~
+~
+0 0 1392
+M 25 H 25
+S
+#1394
+Farmland~
+~
+0 0 2
+0
+0
+0
+D2
+~
+~
+0 0 1381
+D3
+~
+~
+0 0 1393
+M 25 H 25
+S
+#1395
+Rocky Shoals~
+~
+0 0 13
+0
+0
+0
+D1
+~
+~
+0 0 1219
+D2
+~
+~
+0 0 10201
+D3
+~
+~
+0 0 1396
+M 25 H 25
+S
+#1396
+Rocky Shoals~
+~
+0 0 13
+0
+0
+0
+D1
+~
+~
+0 0 1395
+D2
+~
+~
+0 0 10202
+D3
+~
+~
+0 0 1397
+M 25 H 25
+S
+#1397
+Rocky Shoals~
+~
+0 0 13
+0
+0
+0
+D1
+~
+~
+0 0 1396
+D2
+~
+~
+0 0 10203
+D3
+~
+~
+0 0 1398
+M 25 H 25
+S
+#1398
+Rocky Shoals~
+~
+0 0 13
+0
+0
+0
+D1
+~
+~
+0 0 1397
+D2
+~
+~
+0 0 1399
+M 25 H 25
+S
+#1399
+Rocky Shoals~
+~
+0 0 13
+0
+0
+0
+D0
+~
+~
+0 0 1398
+D1
+~
+~
+0 0 10203
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+M 1200 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 1280 0 1
+D 0 1280 3 1
+D 0 1281 0 1
+D 0 1281 2 1
+D 0 1282 2 1
+D 0 1293 1 1
+D 0 1302 1 2
+D 0 1303 3 2
+M 0 1203 1 1321 1 Load Korit the Esteemed
+G 0 1204 0 A small {gemerald{x chip is given to Korit the Esteemed
+G 0 1205 0 A small {rruby{x chip is given to Korit the Esteemed
+G 0 1206 0 A small {wdiamond{x chip is given to Korit the Esteemed
+M 0 1204 1 1322 1 Load Faronas Halfbreed
+G 0 1207 0 A topaz ring is given to Faronas Halfbreed
+G 0 1208 0 An exquisite diamond earring is given to Faronas Halfbreed
+M 0 1205 1 1323 1 Load Tervi
+G 0 1212 0 A clear blue potion is given to Tervi
+M 0 1206 1 1324 1 Load Bruman
+M 0 1207 1 1325 1 Load Halma
+M 0 1208 1 1326 1 Load Kalver the Silversmith
+G 0 1217 0 An ornate silver dirk is given to Kalver the Silversmith
+G 0 1218 0 An ornate silver cutlass is given to Kalver the Silversmith
+G 0 1219 0 A gleaming silver breastplate is given to Kalver the Silversmith
+G 0 1220 0 A silver arrow is given to Kalver the Silversmith
+M 0 1209 1 1327 1 Load a stable attendant
+M 0 1215 2 1327 2 Load a large spotted owlbear
+M 0 1215 1 1328 2 Load a large spotted owlbear
+M 0 1210 1 1329 1 Load Danith
+M 0 1211 1 1330 1 Load Delbia
+M 0 1212 1 1331 1 Load an aged man
+M 0 1213 1 1336 1 Load Dania
+G 0 1221 0 A studded leather doublet is given to Dania
+M 0 1214 1 1337 1 Load Tanelm
+M 0 1202 1 1340 1 Load Margo
+G 0 1200 0 A thin, partially melted, black wand is given to Margo
+G 0 1201 0 A scroll sealed with a shield is given to Margo
+G 0 1202 0 A slightly worn scroll is given to Margo
+G 0 1203 0 A thin, {dsilver{x band is given to Margo
+M 0 1216 20 1377 4 Load a spotted cow
+M 0 1216 20 1379 4 Load a spotted cow
+M 0 1216 20 1386 4 Load a spotted cow
+M 0 1216 20 1391 4 Load a spotted cow
+M 0 1216 20 1393 4 Load a spotted cow
+S
+
+
+
+#SHOPS
+1202 10 2 3 36 56 120 80 5 20
+1
+1203 20 32 0 0 0 100 90 6 22
+0
+1204 33 32 0 0 0 100 100 5 20
+0
+1205 10 17 62 42 41 100 100 0 23
+0
+1206 19 17 63 0 0 100 100 0 23
+0
+1208 9 5 0 0 0 100 100 0 23
+0
+1209 0 0 0 0 0 100 100 6 22
+0
+1210 9 5 0 0 0 100 100 0 23
+0
+1213 0 0 0 0 0 100 100 0 2400
+1
+1214 17 1 64 15 37 100 100 0 23
+0
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

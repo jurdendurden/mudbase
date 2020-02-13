@@ -1,0 +1,165 @@
+#PLAYER
+Name Kheldar~
+Id   1579411687
+LogO 1581563630
+Vers 11
+Blind 0
+Boon 8
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race elf~
+Clan d'aerthe~
+Clan_Rank 1
+Clan_Points 0
+Sex  1
+Cla  0
+God	2
+Favored 0
+GuildRnk  2
+GuildPts  1261
+ElemSpec   5
+Levl 15
+Sec  0
+Plyd 110557
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 1010
+HMV  105 105 245 245 210 210
+Bleed 0
+Talent 0
+PP 0 0
+Gold 1
+Silv 23
+BAcct 0
+Bank 0
+Exp  2123774
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 121
+Eyes 2
+Hair 2
+Haircut 128
+Facial 1
+Age 81
+Account Everclear~
+Recall 1010
+Act  CDEGHKQT
+AfBy J
+Comm NOP
+Pos  5
+Prac 6
+Trai 2
+Alig  250
+ACs 100 100 100 100
+Attr 15 22 20 13 18 14
+AMod 0 0 0 0 0 0
+Pass ~
+Titl , merchant extraordinaire.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 28
+HMVP 105 245 210
+Cnd  0 0 1854 1580 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 566
+0 2
+70 2046
+818 12
+33 -117472707
+126 -1
+125 -33562625
+124 1
+129 8388510
+128 -264241167
+71 1879080448
+18 -1090519039
+20 -503447437
+19 -1061
+31 -255
+72 865574913
+73 134184966
+74 16776193
+32 218103806
+21 30
+62 458752
+63 -252150721
+64 114656
+815 -1048575
+817 -16777609
+816 -1
+68 -16777215
+69 -129
+90 -1074790399
+91 1610678911
+127 131070
+34 503738510
+75 15358
+92 242
+76 -32768
+77 510
+35 1038581504
+36 -1626996735
+37 6
+-1 -1
+Alias 1 c 'frost arrow'~
+Alias 2 c 'burning hands'~
+Boards       7 General 1579918964 Changes 1580149889 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 26 'armor'
+Sk 55 'burning hands'
+Sk 4 'detect invis'
+Sk 1 'detect magic'
+Sk 23 'protection evil'
+Sk 45 'sleep'
+Sk 23 'knock'
+Sk 46 'frost arrow'
+Sk 23 'negative plane protection'
+Sk 26 'elemental protection'
+Sk 69 'dagger'
+Sk 1 'staff'
+Sk 26 'scribe'
+Sk 100 'mine'
+Sk 75 'first aid'
+Sk 34 'lore'
+Sk 1 'sneak'
+Sk 50 'scrolls'
+Sk 26 'wands'
+Sk 5 'recall'
+Sk 26 'tailoring'
+Gr 'rom basics'
+Gr 'wizard basics'
+End
+
+#MATERIAL
+748 49 55 56 70 97 117 63 19 23 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#END

@@ -1,0 +1,82 @@
+#AREADATA
+Deprecated 0
+Name Uniques/Bestiary~
+Builders Upro~
+VNUMs 400 599
+Levels 1 50
+Credits (null)~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 9
+Flags 2
+Faction (null)~
+History This area will be used to house the unique items in the world, as well as
+the prototypes for up to 200 basic mobiles that builders can just {Bcopy{x into
+their areas while in MEDIT. These are not to be changed without my permission. 
+ 
+ 
+Thanks, Upro.
+~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#400
+Serdaro Sword~
+serdaro's Sword of Flames~
+An intricate long sword with etched runes.~
+unknown~
+0
+weapon AK 0 AN
+long_sword 3 7 flbite K
+25 15 250000 P
+#0
+
+
+
+#ROOMS
+#400
+~
+~
+0 4 3
+0
+0
+0
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

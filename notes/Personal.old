@@ -1,0 +1,536 @@
+Sender  Upro~
+Date    Sun Dec 13 14:41:10 2009~
+Stamp   1260733378
+Expire  1263152492
+To      ona weiland shadwen~
+Subject Finger command.~
+Text
+I've hastily added this snippet se we can help keep track
+of each other's online times. Typing finger email/real
+will allow you to update you email and real name.
+~
+
+Sender  Weiland~
+Date    Thu Dec 17 22:12:30 2009~
+Stamp   1261106277
+Expire  1263525170
+To      Upro~
+Subject Midgaard Rewrite~
+Text
+Hey just took a quick walk around Midgaard. The rundown of
+the vnums are kind of a mess. there not really sequential, they
+tend to kind just run all over the place. This is a pretty messy
+way to run an area especially one with such a large chunk of vnums.
+Removing midgaard.. you'd have to rekey the numbers in the merc.h
+to whatever really. could rekey them to all one number even. recall
+etc. I was able to do this in smaug before as well as envy so its
+not that difficult. If it were me I'd rekey them to maybe 1000 for
+now until rewrites are in place. That way you could free up those
+vnums. In the long run once you get a good chunk of areas together
+its nice if all the numbers are sequential and flow together. Easier
+to avoid mistakes that way or someone screwing up another area by
+accident. Anyway going to relax a bit I'll be back around tomorrow
+and maybe we can chat a bit more there or thru email whatever's easy.
+Have a good night.
+W
+@
+~
+
+Sender  Upro~
+Date    Fri Dec 18 02:20:49 2009~
+Stamp   1261120935
+Expire  1263540113
+To      weiland~
+Subject vnums~
+Text
+Ok I should have the vnums reassigned in the morning
+Before I go to work, See you tomorrow!
+~
+
+Sender  Weiland~
+Date    Sat Dec 19 23:10:09 2009~
+Stamp   1261282616
+Expire  1263701426
+To      Upro~
+Subject Started Renfall.. few snags~
+Text
+Hey man hope work went ok. Started running thru a few rooms for
+Renfall starting at 1k. Hope i read your earlier note right lol.. anyway
+few snags I ran into. Coupla crashes i caused. one was screwed up reset
+which i fixed.. another one was a mob that i forgot to set the hit/mana etc
+dice for. I'm missing purge/slay so tried to just kill the mob which resulted
+in another crash. One good thing is the autoreboot seems to work great. Another
+type thing to keep 
+.s
+.s
+.h
+.c
+lol hate this editor too short. I seem to lack the olist/rlist type
+thing to keep track of rooms objects or i'm screwing up the syntax
+for it. Otherwise no real issues with the olc cept for my clumsiness
+with it. Oh mprogs seem to be the only things in too.. doesn't seem
+to be rprog/oprogs. Sorry about the earlier crashes hope you didn't
+have any unsaved work in progress. So far i setup a mage guild.. and
+the groundwork for just the main drag through town. Maybe i'll catch
+you later on in the weekend and update you easier that way. Have a 
+good night.
+@
+~
+
+Sender  Upro~
+Date    Mon Dec 21 13:24:50 2009~
+Stamp   1261419968
+Expire  1263839101
+To      weiland~
+Subject editor, olc, etc..~
+Text
+Before you could only olist/mlist/etc... from redit. This is
+fixed. This editor is going to be a thing of the past soon.
+Crashing with 0/0 hp/mana... I'll have to look into that.
+ 
+You should now be able to purge/slay. They were set to level
+54, but I see no reason a level 53 builder can't use them.
+ 
+The area itself looks great so far! On second though, think
+i'm going to put you to 55, that should give you some better
+commands and such to tinker with.
+ 
+As for oprogs/rprogs, I'll look into that as well. Could have
+sworn those were already built in.
+ 
+Anyway, have a good one!
+~
+
+Sender  Krilantis~
+Date    Fri Dec 25 19:53:15 2009~
+Stamp   1261788838
+Expire  1264208013
+To      imm~
+Subject steal~
+Text
+Steal crashes the mud.
+ 
+~
+
+Sender  Weiland~
+Date    Sun Dec 27 23:23:26 2009~
+Stamp   1261974497
+Expire  1264393424
+To      Upro~
+Subject Editors in general~
+Text
+Hey Boss hope things are going good. area is coming along..
+Ranger Guild in with armor shop coupla others i forget already.
+Anyhoo I think I mentioned the .f in the majority of the editors is
+either set too high.. default is usually 80 or so. The room descripts
+in particular tend to scrawl all over the damn place after the .f .
+Newer editors crop at whatever the default is set too. so makes it 
+easier to keep things uniform. A minor bitch but it' ends up giving
+everything a kind of half-assed look otherwise. Oh wordwrap is another
+function for it i think its called. Anyway real minor like i said,
+something else i meant to mention but can't think of at this time. Oh
+yeah caught the mudconnect post. nicely written. Catch ya down the road.
+W
+@
+done
+~
+
+Sender  Upro~
+Date    Sun Jan  3 08:52:09 2010~
+Stamp   1262526773
+Expire  1264341141
+To      midnight~
+Subject testing~
+Text
+It's quite alright. I'm just glad to see you back. Hopefully we'll see
+each other again soon. I've got some other stuff working to test now :)
+~
+
+Sender  Upro~
+Date    Fri Jan  8 14:42:29 2010~
+Stamp   1262979817
+Expire  1264794164
+To      weiland krilantis~
+Subject notes/board/unread~
+Text
+When I was coding ships, I added a 'board' command to get on the ship.
+Now it's thrown off the note system, so in place of it I put the 'unread'
+command so if you need to change boards to check old notes 'unread general'
+and the like will work.
+~
+
+Sender  Ragnar~
+Date    Sun Jan 10 18:04:05 2010~
+Stamp   1263164671
+Expire  1265583859
+To      Upro~
+Subject note board~
+Text
+I think the "board" command used for ships is breaking the note board.
+Ragnar
+~
+
+Sender  Upro~
+Date    Mon Jan 11 00:13:46 2010~
+Stamp   1263186838
+Expire  1265606035
+To      weiland~
+Subject this is a test~
+Text
+test
+~
+
+Sender  Upro~
+Date    Wed Feb  3 03:20:50 2010~
+Stamp   1265185459
+Expire  1267604457
+To      weiland~
+Subject green hills~
+Text
+I've begun porting over the green hills area by copy/pasting.
+Currently I'm skipping the mprogs, just adding all the main
+items of interest (and going in sequential order, which is
+why there are only mobs done so far.)
+ 
+I have assigned both of us to the area so if you'd like to copy paste 
+with me a bit here and there that'd be awesome, so we can get this
+thing up and in the game. We'll do the same thing with ebonshear once
+we're done here.
+ 
+Unfortunately this is the quickest way I can think of for us to
+just both copy/paste in what we can here and there, which shouldn't
+take TOO long with both of us.
+ 
+I figure we can re-add the mprogs once we're done as well.
+~
+
+Sender  Upro~
+Date    Wed Feb  3 04:15:45 2010~
+Stamp   1265188600
+Expire  1267607755
+To      weiland~
+Subject mobs in green hills~
+Text
+I've got them in (the basics), they will still need mprogs attached later on,
+and dam dice/dam types set for them, as well as the shops will need to be set
+back up, but hey, it's a start!
+~
+
+Sender  Upro~
+Date    Wed Feb  3 05:19:37 2010~
+Stamp   1265192389
+Expire  1267611584
+To      upro~
+Subject test~
+Text
+this is a test
+l
+~
+
+Sender  Upro~
+Date    Wed Feb  3 05:20:22 2010~
+Stamp   1265192547
+Expire  1267611654
+To      weiland krilantis doreen~
+Subject builder/tester/crapall port~
+Text
+I've opened a copy of the mud on port 8177. This is intended to
+be used for testing of anything that could possibly crash us.
+ 
+There's no need to use it now, but in the future if there are players on,
+multiple builders working, or something along those lines, that's pretty
+much when you'd want to use this port.
+ 
+All your chars exist on this port already and notes written on each
+port can be seen on the other, (although not until a reboot/copyover).
+~
+
+Sender  Weiland~
+Date    Wed Feb  3 22:12:47 2010~
+Stamp   1265253393
+Expire  1267672379
+To      Upro~
+Subject Green Hills rewrite~
+Text
+Hey man started banging on greenhills.are.. got it up to 20.
+I don't mind doing a quick rewrite of it.. its pretty easy and
+not as draining as trying to flesh out a city. Ill dump out the
+rooms and tweak it here/there. Nrenfall et al. is pretty much done
+until progs can be ironed out. Both the renfall's still need a good
+walkthru for bugs/typo's etc. It's easier for people who don't know
+the area to spot them then my blurry eyes lol. I mixed up the structure
+of the rooms a bit so far in the greenhills.are just to make it seem
+fresher. I'll keep the xp mobs around 3-5 for easy grinding. Ebonshear..
+the one off it was supposed to be a bit higher but doesn't matter to me
+really either way.
+Peace
+W
+~
+
+Sender  Upro~
+Date    Mon Feb  8 17:11:04 2010~
+Stamp   1265667128
+Expire  1268086270
+To      weiland~
+Subject mprogs~
+Text
+This is insanity. I'm going to rip the whole saving/loading system out
+and plug in one that a newer base uses. This will take some time but yeah,
+it needs to be done because this is a ridiculous problem that I can't seem
+to get figured out.
+~
+
+Sender  Weiland~
+Date    Wed Feb 10 21:58:32 2010~
+Stamp   1265857203
+Expire  1268276323
+To      upro~
+Subject Added Green Hills~
+Text
+Hey man how goes the week. Anyhow added in Green Hills tonight
+out the western side like we discussed. Began a small area off
+that could be hooked into Ebonshear Forest if you want to add
+that one in. Green Hills still a lil rough but came out around
+60 rooms or so.. plenty of weenie mobs to beat on. Talk to you
+during the week sometime.
+W
+~
+
+Sender  Weiland~
+Date    Fri Feb 12 17:39:20 2010~
+Stamp   1266014402
+Expire  1268433567
+To      upro~
+Subject areset~
+Text
+Nice looks good man if it ends up being too long maybe just the
+mobs? otherwise looks fine helps out a lot thanks!
+~
+
+Sender  Upro~
+Date    Fri Feb 12 18:38:10 2010~
+Stamp   1266017945
+Expire  1268437099
+To      weiland~
+Subject areset~
+Text
+adding functionality right now to specify mobs/objs/etc..
+ 
+after that going to go through and make the areset (without
+and argument) a huge buffer and page it so you can hit 'return
+to continue'.
+~
+
+Sender  Weiland~
+Date    Fri Feb 12 23:09:18 2010~
+Stamp   1266034468
+Expire  1268453369
+To      upro~
+Subject Coupla things~
+Text
+Hey man coupla things katago picked up on. Bleed works
+but kind of difficult to cure without the bandage skill.
+I did up a bandage which ill add to some of the shops so 
+people can pick them up. He had died awhile back an lost
+all his gear so i helped him out a little. That brought to
+mind maybe a newbie kit for certain levels.. maybe make the
+cutoff 8 or so. Anyway he also mentioned.. at level 6 he had
+tnl of something crazy .. like 30mil or so lol. Maybe he read
+it wrong not sure. The other thing he mentioned an i checked with
+a mort was the heal regen rate. Maybe an aedit.. an area flag that
+would set health rates.. right now it defaults at 1 per room looks
+like.. even set at 150.. it only ticks off 2 or 3 points per min or
+so roughly. Not sure if its keyed to con check or not in the rom.
+I know the smaug has that built into the race file i think.. the regen
+rate.. also the class plays a lesser role. Might be acting up not sure.
+Anyway the areset worked nice. i spread the mobs around a lil more in
+renfall. .need to work on the others areas now so the mobs aren't all
+bundled together too much. Talk to ya.
+W
+~
+
+Sender  Upro~
+Date    Sun Feb 14 02:12:19 2010~
+Stamp   1266131648
+Expire  1268550746
+To      weiland~
+Subject ebonshear~
+Text
+I got all the mobs copy/pasted in that were in the file. Damage dice/ac will
+still need to be set, along with your mprogs of course. Also had an idea for
+another act2 flag for mobs (act2_adds), basically like in WoW, where bosses
+can 'create' add-ons for the group/party/raid to fight to make it harder. Let
+me know what you think of this :)
+~
+
+Sender  Katago~
+Date    Sat Feb 20 08:42:09 2010~
+Stamp   1266673421
+Expire  1277041338
+To      upro~
+Subject Using tilde~
+Text
+Your site is legendsofold.com/(tilde)aragond
+You have a - where a tilde should be. I'm not sure how to 
+put that into note form since the tilde ends the notes.
+Katago
+~
+
+Sender  Upro~
+Date    Mon Mar  8 12:57:04 2010~
+Stamp   1268071158
+Expire  1278439031
+To      weiland~
+Subject ebonshear~
+Text
+How is this coming along? I have picked up work on the Mosgha woods, and put off any further coding
+to help push along the expansion of new areas.
+ 
+Once I finish Mosgha, I'm going to help kril touch his area up and put it into place, then work on
+an ocean. If you were finished with ebonshear, I was curious if you would like to start a new area
+or how you felt about it. I know you've been pumping them out already and so I don't want to push
+you too hard.
+ 
+Anyway let me know what you think.
+ 
+Have a good day!
+~
+
+Sender  Upro~
+Date    Mon Mar  8 13:06:40 2010~
+Stamp   1268071856
+Expire  1278439612
+To      weiland~
+Subject ebonshear part 2 :P~
+Text
+I just explored ebonshear to get a feel for placement and I see exactly where you
+are on it. It's looking good by the way :) Anyway kril started his area off at a
+landing by a rocky shoreline so I'm going to put it pretty much directly south of
+renfall. That will put greenhills/ebon sw of ren, mosgha east/north, the farm
+village far east, and his area far south.
+ 
+It actually works out well that he did that because I began an ocean area and I'll
+just put it directly south of his area (south of the south continent). I figure we
+can flesh out the continent in no time if we can get this guy Toxis to join us full
+time as well (he's been poking around a couple of days now). With 4 of us building
+it shouldn't take long to flesh out a few more areas and open up for public play (in
+extreme alpha)
+ 
+Again let me know what you think
+~
+
+Sender  Weiland~
+Date    Mon Mar  8 19:42:41 2010~
+Stamp   1268095492
+Expire  1278463372
+To      Upro~
+Subject Ebonshear~
+Text
+Hey man bad timing lately i guess.. keep missing each other. Ebon
+is about done.. finishing off the tomb part of it now. Honestly been
+kind of burnt out lately took a week or so off to recharge a bit. New
+code looks interesting good job on that man. Was debating what the next
+thing would be to do after Ebon.. not sure if you need more xp areas or
+maybe another town or 2. Let me know what you think.. ill try an be on
+later on tonight after dinner.
+~
+
+Sender  Weiland~
+Date    Wed Mar 10 23:04:56 2010~
+Stamp   1268280452
+Expire  1278648310
+To      Upro~
+Subject Website?~
+Text
+hey I tried aragond.com.. just links to a godaddy site? Anyway while
+fiddling around with some mobs earlier realized.. theres no fireshield/iceshield
+type thing here? Hmm thought we had that anway.. Ebon's about done.. loaded it
+with mobs an set up a quest mob.. allura to do a gather type or whatever.. haven't
+fully figured that part out yet. Might do a higher level sometime off ebon but
+its about 95% done now or so id say. Any thoughts on what you wanted next area
+wise? Talk to you soon.
+W
+~
+
+Sender  Weiland~
+Date    Wed Mar 17 22:54:27 2010~
+Stamp   1268880943
+Expire  1279248877
+To      upro~
+Subject What's next?~
+Text
+Hey man checked out the site.. looking good so far.. 'retro' lol.
+Anyway ebon's pretty much finished i think for now.. what's the
+next step area wise? Not sure what you want from this point.. let
+me know what the scoop is when your not busy.
+Peace!
+W
+~
+
+Sender  Weiland~
+Date    Sun Mar 21 23:46:57 2010~
+Stamp   1269229824
+Expire  1355629629
+To      Upro~
+Subject Coupla ideas~
+Text
+Hey man meant to mention this earlier.. What do you think of
+climbable surfaces.. using the climb skill obviously. Not sure
+if thats in.. i think its a room flag usually. On a side note
+that ring of wizardry.. vnum 9800 is mad overpowered lol didn't
+know about that one. We got a new player earlier.. Krahe. that
+expressed interest in building. I told him to come up with a
+decent area idea and to pitch that when he felt he was ready.
+Pointed him towards the ansalonmud building site for olc info.
+Anyway.. oh another crash not sure what the deal was with that..
+maybe bug file will have something relevant in it. Gonna crash
+mad headache for some reason today.
+Peace
+W
+~
+
+Sender  Upro~
+Date    Mon Mar 22 12:32:08 2010~
+Stamp   1269275594
+Expire  1355675538
+To      weiland~
+Subject ring of wiz, etc..~
+Text
+climbing not a skill but could be... i like the idea of having
+to climb things.
+ 
+ring of wizardry was just the test object for objects behaving as wands.
+i'm going to nerf it soon enough lol :)
+~
+
+Sender  Weiland~
+Date    Mon Mar 22 21:17:15 2010~
+Stamp   1269307202
+Expire  1355707058
+To      Upro~
+Subject Objects an Mprogs~
+Text
+Hey man how's things.. was thinking a fire type object.
+More for atmosphere or maybe use it for cooking/crafting
+somehow down the road. .maybe forging of some sort. Oh once
+again mprogs appear to be working when they want too lazy bastiches
+lol. Anyway wasn't sure if you ever tracked down what the deal
+was with that. Started work on the swamp an had some ideas for
+the area quests in there. Anyway i'll keep plugging and catch up
+with you down the road.
+Peace
+W
+~
+
+Sender  Upro~
+Date    Mon Mar 22 23:47:37 2010~
+Stamp   1269316091
+Expire  1355716065
+To      krilantis~
+Subject your char is bugged.~
+Text
+Not sure how, but your damn immortal seems to be bugged
+yet again. :P Anyway whenever we're on next we need to recreate
+him. bleh.
+~
+

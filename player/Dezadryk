@@ -1,0 +1,264 @@
+#PLAYER
+Name Dezadryk~
+Id   1580872847
+LogO 1580876901
+Vers 11
+Blind 0
+Boon 7
+WalkDesc  portal~
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race tiefling~
+Sex  1
+Cla  0
+God	1
+Favored 0
+GuildRnk  1
+GuildPts  244
+ElemSpec   3
+Levl 7
+Sec  0
+Plyd 4054
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 1248
+HMV  72 72 191 191 27 165
+Bleed 0
+Talent 0
+PP 0 0
+Gold 59
+Silv 248
+BAcct 0
+Bank 0
+Exp  119060
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 52
+Age 17
+Account Dezadryk~
+Recall 1010
+Act  CDEGHKQT
+AfBy JZ
+Comm NOP
+Pos  8
+Prac 3
+Save  -2
+Alig  -250
+Hit   5
+Dam   6
+ACs 54 56 54 61
+Attr 16 22 16 23 19 11
+AMod 0 3 1 2 1 0
+Pass ~
+Titl  Naorei{x~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 66 161 160
+Cnd  0 20 46 34 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 277
+43 16252928
+38 -1
+37 -8323071
+41 -536870911
+42 33554430
+77 766
+76 -32767
+75 524286
+74 65533
+73 12550150
+72 114123
+34 28808
+32 486522410
+33 -125861315
+31 -589308160
+21 2
+19 -1610612741
+20 2097018
+18 251658240
+71 -268435455
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 60 'armor'
+Sk 1 'chain lightning'
+Sk 60 'create spring'
+Sk 60 'detect invis'
+Sk 60 'detect magic'
+Sk 60 'identify'
+Sk 60 'infravision'
+Sk 60 'protection good'
+Sk 60 'shocking grasp'
+Sk 60 'knock'
+Sk 1 'cone of cold'
+Sk 58 'dagger'
+Sk 1 'staff'
+Sk 75 'first aid'
+Sk 53 'lore'
+Sk 50 'scrolls'
+Sk 50 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'wizard basics'
+Affc 'armor'   0   7  21 -20  17          0
+Affc 'infravision'   0   6  11   0   0        512
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+-32 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 601
+Nest 0
+Wear 15
+Cost 210
+End
+
+#O
+Vnum 612
+Nest 0
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 611
+Nest 0
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 615
+Nest 0
+Wear 18
+Cost 1140
+End
+
+#O
+Vnum 1010
+Nest 0
+Wear 5
+Cost 300
+End
+
+#O
+Vnum 1064
+Nest 0
+Wear 3
+Cost 200
+End
+
+#O
+Vnum 38
+Nest 0
+Name a violet velvet large bag~
+ShD  a violet velvet large bag~
+Desc a violet velvet large bag~
+ExtF 64
+WeaF 16385
+Wt   2
+Material velvet~
+Wear -1
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1  -1  17          0
+End
+
+#O
+Vnum 1015
+Nest 0
+Wear 1
+Cost 1200
+End
+
+#O
+Vnum 1015
+Nest 0
+Wear 2
+Cost 1200
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1049
+Nest 0
+Wear 0
+Cost 200
+Val  0 1 30 0 0
+End
+
+#O
+Vnum 1065
+Nest 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 1066
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 1064
+Nest 0
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 1067
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 1012
+Nest 0
+Wear -1
+Cost 500
+Val  5 5 4 66 0
+Spell 3 'magic missile'
+End
+
+#END

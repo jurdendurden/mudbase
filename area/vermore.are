@@ -1,0 +1,1216 @@
+#AREADATA
+Deprecated 0
+Name Vermore Highlands~
+Builders Upro~
+VNUMs 4100 4299
+Levels 10 40
+Credits Upro~
+Climate 4
+Plane 0
+PrimaryResource garnet~
+Security 9
+Flags 34
+Faction (null)~
+History (null)~
+End
+
+
+
+#MOBILES
+#4100
+crow black~
+a black crow~
+A black crow is here, looking on mockingly.
+~
+~
+This bird appears to mock everything as it passes by. What a jerk.
+~
+crow~
+AG 0 T 0 0
+6 0 6d8+12 6d8+100 1d2+2 claw
+6 6 6 6
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP small
+ unknown
+#4101
+wolf dire~
+a dire wolf~
+A dire wolf is here, bristling and baring it's teeth.
+~
+~
+A very large wolf is here, pacing about, while bristling and baring it's
+teeth!  
+~
+wolf~
+AFG 0 Z 0 0
+9 3 9d8+18 1d1+1 1d4+2 bite
+4 4 4 4
+FH 0 0 H
+stand stand none 0
+AGV ACDEFJKQV medium
+ unknown
+#4102
+green dragon~
+a young green dragon~
+A young {ggreen{x dragon is here, a very impressive sight.
+~
+~
+A {ggreen{x dragon, resplendent in it's glory, is here. This massive
+creature is nearly twenty feet in length already, despite barely being an
+adult. Despite it's age, it is clearly not prey for the meek. 
+~
+green dragon~
+AFG CE JT 0 0
+32 0 50d8+2200 10d8+1000 3d8+6 none
+-5 -15 -15 -20
+CFHM ABLQ BCEM FR
+sleep sleep none 16000
+AHZ ACDEFGHIJKPQUVX huge
+ unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4100
+southern western tip~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4103
+D3
+~
+~
+0 0 4101
+M 25 H 25
+S
+#4101
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4102
+D1
+~
+~
+0 0 4100
+D2
+~
+~
+0 0 2391
+M 25 H 25
+S
+#4102
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4106
+D1
+~
+~
+0 0 4103
+D2
+~
+~
+0 0 4101
+M 25 H 25
+S
+#4103
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4104
+D2
+~
+~
+0 0 4100
+D3
+~
+~
+0 0 4102
+M 25 H 25
+S
+#4104
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4105
+D2
+~
+~
+0 0 4103
+D3
+~
+~
+0 0 4106
+M 25 H 25
+S
+#4105
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4107
+D3
+~
+~
+0 0 4104
+M 25 H 25
+S
+#4106
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4104
+D2
+~
+~
+0 0 4102
+M 25 H 25
+S
+#4107
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4108
+D3
+~
+~
+0 0 4105
+M 25 H 25
+S
+#4108
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4109
+D3
+~
+~
+0 0 4107
+M 25 H 25
+S
+#4109
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4110
+D3
+~
+~
+0 0 4108
+M 25 H 25
+S
+#4110
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4111
+D3
+~
+~
+0 0 4109
+M 25 H 25
+S
+#4111
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4112
+D3
+~
+~
+0 0 4110
+M 25 H 25
+S
+#4112
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4113
+D2
+~
+~
+0 0 4111
+M 25 H 25
+S
+#4113
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4114
+D2
+~
+~
+0 0 4112
+M 25 H 25
+S
+#4114
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4124
+D2
+~
+~
+0 0 4113
+D3
+~
+~
+0 0 4115
+M 25 H 25
+S
+#4115
+Inside a cave~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4114
+D3
+~
+~
+0 0 4116
+M 25 H 25
+S
+#4116
+Inside a cave~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4115
+D3
+~
+~
+0 0 4117
+M 25 H 25
+S
+#4117
+Inside a cave~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4116
+D3
+~
+~
+0 0 4118
+M 25 H 25
+S
+#4118
+Inside a cave~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4117
+D2
+~
+~
+0 0 4120
+D3
+~
+~
+0 0 4119
+M 25 H 25
+S
+#4119
+A dead end~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4118
+M 25 H 25
+S
+#4120
+Inside a cave~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4118
+D1
+~
+~
+0 0 4121
+M 25 H 25
+S
+#4121
+Inside a cave~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4122
+D3
+~
+~
+0 0 4120
+M 25 H 25
+S
+#4122
+Inside a cave~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4123
+D3
+~
+~
+0 0 4121
+M 25 H 25
+S
+#4123
+Inside a cave~
+~
+0 0 5
+0
+0
+0
+D3
+~
+~
+0 0 4122
+M 25 H 25
+S
+#4124
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4125
+D3
+~
+~
+0 0 4114
+M 25 H 25
+S
+#4125
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4126
+D3
+~
+~
+0 0 4124
+M 25 H 25
+S
+#4126
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4127
+D3
+~
+~
+0 0 4125
+M 25 H 25
+S
+#4127
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4128
+D3
+~
+~
+0 0 4126
+M 25 H 25
+S
+#4128
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4129
+D3
+~
+~
+0 0 4127
+M 25 H 25
+S
+#4129
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4130
+D2
+~
+~
+0 0 4128
+M 25 H 25
+S
+#4130
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D2
+~
+~
+0 0 4129
+D4
+~
+~
+0 0 4131
+M 25 H 25
+S
+#4131
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4132
+D3
+~
+~
+0 0 4133
+D5
+~
+~
+0 0 4130
+M 25 H 25
+S
+#4132
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4135
+D3
+~
+~
+0 0 4131
+M 25 H 25
+S
+#4133
+A massive tunnel~
+~
+0 0 14
+0
+0
+0
+D1
+~
+~
+0 0 4131
+D3
+~
+~
+0 0 4134
+M 25 H 25
+S
+#4134
+A massive tunnel~
+~
+0 0 14
+0
+0
+0
+D1
+~
+~
+0 0 4133
+D3
+~
+~
+0 0 4151
+M 25 H 25
+S
+#4135
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4136
+D3
+~
+~
+0 0 4132
+M 25 H 25
+S
+#4136
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4137
+D3
+~
+~
+0 0 4135
+M 25 H 25
+S
+#4137
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4138
+D3
+~
+~
+0 0 4136
+M 25 H 25
+S
+#4138
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4139
+D3
+~
+~
+0 0 4137
+M 25 H 25
+S
+#4139
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4140
+D3
+~
+~
+0 0 4138
+M 25 H 25
+S
+#4140
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4141
+D2
+~
+~
+0 0 4139
+M 25 H 25
+S
+#4141
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4142
+D2
+~
+~
+0 0 4140
+M 25 H 25
+S
+#4142
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4143
+D2
+~
+~
+0 0 4141
+M 25 H 25
+S
+#4143
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D2
+~
+~
+0 0 4142
+D3
+~
+~
+0 0 4144
+M 25 H 25
+S
+#4144
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4143
+D3
+~
+~
+0 0 4145
+M 25 H 25
+S
+#4145
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4144
+D3
+~
+~
+0 0 4146
+M 25 H 25
+S
+#4146
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4145
+D3
+~
+~
+0 0 4147
+M 25 H 25
+S
+#4147
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4146
+D3
+~
+~
+0 0 4148
+M 25 H 25
+S
+#4148
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4149
+D1
+~
+~
+0 0 4147
+M 25 H 25
+S
+#4149
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D2
+~
+~
+0 0 4148
+D3
+~
+~
+0 0 4150
+M 25 H 25
+S
+#4150
+Vermore highlands~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4000
+D1
+~
+~
+0 0 4149
+M 25 H 25
+S
+#4151
+A massive tunnel~
+~
+0 0 14
+0
+0
+0
+D1
+~
+~
+0 0 4134
+D3
+~
+~
+0 0 4152
+M 25 H 25
+S
+#4152
+A massive tunnel~
+~
+0 0 14
+0
+0
+0
+D1
+~
+~
+0 0 4151
+D3
+~
+~
+0 0 4153
+M 25 H 25
+S
+#4153
+A massive tunnel~
+~
+0 0 14
+0
+0
+0
+D0
+~
+~
+0 0 4154
+D1
+~
+~
+0 0 4152
+M 25 H 25
+S
+#4154
+A massive tunnel~
+~
+0 0 14
+0
+0
+0
+D0
+~
+~
+0 0 4155
+D2
+~
+~
+0 0 4153
+M 25 H 25
+S
+#4155
+A massive tunnel~
+~
+0 0 14
+0
+0
+0
+D2
+~
+~
+0 0 4154
+D3
+~
+~
+0 0 4156
+M 25 H 25
+S
+#4156
+A massive tunnel~
+~
+0 0 14
+0
+0
+0
+D1
+~
+~
+0 0 4155
+D3
+~
+~
+0 0 4157
+M 25 H 25
+S
+#4157
+A massive tunnel~
+~
+0 0 14
+0
+0
+0
+D1
+~
+~
+0 0 4156
+D3
+~
+~
+0 0 4158
+M 25 H 25
+S
+#4158
+A massive den~
+~
+0 0 14
+0
+0
+0
+D1
+~
+~
+0 0 4157
+D2
+~
+~
+0 0 4161
+D3
+~
+~
+0 0 4160
+M 25 H 25
+S
+#4159
+~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 4158
+M 25 H 25
+S
+#4160
+A massive den~
+~
+0 0 14
+0
+0
+0
+D1
+~
+~
+0 0 4158
+D2
+~
+~
+0 0 4162
+M 25 H 25
+S
+#4161
+A massive den~
+~
+0 0 14
+0
+0
+0
+D0
+~
+~
+0 0 4158
+D3
+~
+~
+0 0 4162
+M 25 H 25
+S
+#4162
+A massive den~
+~
+0 0 14
+0
+0
+0
+D0
+~
+~
+0 0 4160
+D1
+~
+~
+0 0 4161
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+M 4102 spec_breath_gas
+S
+
+
+
+#RESETS
+M 0 4100 40 4102 40 Load a black crow
+M 0 4101 20 4104 20 Load a dire wolf
+M 0 4100 40 4105 40 Load a black crow
+M 0 4101 20 4106 20 Load a dire wolf
+M 0 4101 20 4107 20 Load a dire wolf
+M 0 4100 40 4110 40 Load a black crow
+M 0 4101 20 4110 20 Load a dire wolf
+M 0 4100 40 4113 40 Load a black crow
+M 0 4101 20 4113 20 Load a dire wolf
+M 0 4101 20 4116 20 Load a dire wolf
+M 0 4100 40 4125 40 Load a black crow
+M 0 4100 40 4128 40 Load a black crow
+M 0 4100 40 4129 40 Load a black crow
+M 0 4101 20 4129 20 Load a dire wolf
+M 0 4102 1 4162 1 Load a young green dragon
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

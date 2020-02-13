@@ -1,0 +1,417 @@
+#PLAYER
+Name Brando~
+Id   1580786484
+LogO 1580788185
+Vers 11
+Blind 0
+Boon 7
+WalkDesc  port~
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race duergar~
+Sex  1
+Cla  3
+God	6
+Favored 0
+GuildRnk  0
+GuildPts  143
+WpnSpec	6
+Levl 5
+Sec  0
+Plyd 1701
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 2028
+HMV  88 88 114 114 52 146
+Bleed 1
+Talent 0
+PP 0 0
+Gold 104
+Silv 1495
+BAcct 0
+Bank 0
+Exp  26490
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 59
+Age 49
+Account Dezadryk~
+Recall 1010
+Act  CDEGHKQT
+AfBy J
+Comm NOP
+Pos  8
+Prac 31
+Alig  -500
+Hit   13
+Dam   6
+ACs 68 67 67 80
+Attr 22 16 16 14 26 9
+AMod 0 0 0 0 0 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 66 114 146
+Cnd  0 16 38 38 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 84
+63 455678
+62 983040
+32 554
+31 -268173311
+21 30
+19 -1795162114
+20 -131055
+18 -1090519040
+71 1073741824
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 70 'detect hidden'
+Sk 1 'detect magic'
+Sk 78 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'spear'
+Sk 1 'staff'
+Sk 1 'short sword'
+Sk 1 'long sword'
+Sk 1 'bow'
+Sk 1 'crossbow'
+Sk 1 'whip'
+Sk 1 'berserk'
+Sk 75 'first aid'
+Sk 1 'fast healing'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'fighter basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 619
+Nest 0
+Wear 15
+Cost 350
+End
+
+#O
+Vnum 102
+Nest 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 608
+Nest 0
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 6
+Nest 0
+Name a disagreeable scripted scroll of frostbite~
+ShD  a disagreeable scripted scroll of frostbite~
+Desc a disagreeable scripted scroll of frostbite~
+ExtF 64
+Wear -1
+Lev  1
+Cost 199
+Val  1 215 0 0 0
+Spell 1 'frostbite'
+End
+
+#O
+Vnum 607
+Nest 0
+Wear 7
+Cost 72
+End
+
+#O
+Vnum 612
+Nest 0
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 606
+Nest 0
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 611
+Nest 0
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 197
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 35
+Nest 0
+Name bracer of blink~
+ShD  bracer of blink~
+Desc bracer of blink~
+ExtF 66
+WeaF 4097
+Wear 14
+Lev  2
+Cost 500
+Val  1 15 13 124 0
+Spell 3 'blink'
+End
+
+#O
+Vnum 609
+Nest 0
+Wear 9
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear 10
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 13
+Cost 48
+End
+
+#O
+Vnum 615
+Nest 0
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 6
+Nest 0
+Name a horizontal scroll of cure light~
+ShD  a horizontal scroll of cure light~
+Desc a horizontal scroll of cure light~
+ExtF 65
+Wear -1
+Lev  1
+Cost 399
+Val  2 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 6
+Nest 0
+Name a ancient scroll of free action~
+ShD  a ancient scroll of free action~
+Desc a ancient scroll of free action~
+ExtF 1073741889
+Wear -1
+Lev  2
+Cost 201
+Val  1 169 0 0 0
+Spell 1 'free action'
+End
+
+#O
+Vnum 28
+Nest 0
+Name a rainbowed, syrupy potion of manavert~
+ShD  a rainbowed, syrupy potion of manavert~
+Desc a rainbowed, syrupy potion of manavert~
+ExtF 64
+Extra2Flags 131072
+Wear -1
+Lev  2
+Cost 300
+Val  2 92 0 0 0
+Spell 1 'manavert'
+End
+
+#O
+Vnum 609
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 18
+Nest 0
+Name a lamp of phenomenal witchcraft~
+ShD  a lamp of phenomenal witchcraft~
+Desc a lamp of phenomenal witchcraft~
+ExtF 64
+WeaF 16385
+Ityp 1
+Material amethyst~
+Wear -1
+Lev  4
+Cost 2780
+Val  0 1 594 0 0
+Affc 'reserved'   0   0  -1   4  12          0
+Affc 'reserved'   0   0  -1   2   1          0
+End
+
+#O
+Vnum 615
+Nest 0
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#END

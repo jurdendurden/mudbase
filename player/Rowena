@@ -1,0 +1,473 @@
+#PLAYER
+Name Rowena~
+Id   1579061062
+LogO 1581546817
+Vers 11
+Blind 0
+Boon 7
+Prom (%h %m %v) (%t / %S) [%o / %O] ~
+Race halfling~
+Clan loner~
+Clan_Rank 0
+Clan_Points 0
+Sex  2
+Cla  1
+God	5
+Favored 0
+GuildRnk  1
+GuildPts  827
+Levl 42
+Sec  9
+Plyd 39084
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 2316
+HMV  368 368 415 415 366 366
+Bleed 0
+Talent 0
+PP 0 0
+Gold 200
+Silv 28
+BAcct 0
+Bank 0
+Exp  25234000
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 69
+Eyes 4
+Hair 2
+Haircut 1536
+Age 29
+Account Roguegrl~
+Recall 1010
+Act  CDEFGHKNTb
+Comm NOP
+Pos  8
+Prac 182
+Trai 29
+Alig  500
+Hit   8
+Dam   4
+ACs 66 69 61 74
+Attr 14 17 20 17 18 13
+AMod 0 1 1 0 1 0
+Pass ~
+Titl , the wise.~
+PreT {mBuilder{x ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 2
+LLev 4
+HMVP 314 415 366
+Cnd  0 0 79 24 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 459
+281 256
+69 33552384
+38 -9
+37 -65535
+42 33554430
+68 2130706432
+39 2097150
+41 -536772607
+127 262142
+126 -1
+125 -33554433
+124 1
+129 8388606
+128 -267911327
+74 16777212
+72 -50856497
+73 134217726
+32 2046817792
+33 508
+31 983808
+21 30
+19 16777210
+20 -1179647
+18 1056964608
+71 -268403200
+34 504295552
+815 50331648
+3 15859952
+0 2
+35 52891392
+328 536870416
+-1 -1
+Boards       7 General 1579043652 Changes 1579791534 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 17 'armor'
+Sk 17 'bless'
+Sk 19 'create food'
+Sk 19 'create spring'
+Sk 16 'create water'
+Sk 33 'cure light'
+Sk 37 'cure poison'
+Sk 17 'detect poison'
+Sk 19 'locate object'
+Sk 19 'pass door'
+Sk 35 'refresh'
+Sk 53 'mace'
+Sk 66 'herbalism'
+Sk 19 'alchemy'
+Sk 51 'first aid'
+Sk 19 'fast healing'
+Sk 19 'hide'
+Sk 19 'sneak'
+Sk 17 'scrolls'
+Sk 17 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'cleric basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 469
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 429
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 100
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 103
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 600
+Nest 0
+Cond 89
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 611
+Nest 0
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 606
+Nest 0
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 608
+Nest 0
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 14
+Cost 48
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 609
+Nest 0
+Wear 9
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear 10
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 13
+Cost 48
+End
+
+#O
+Vnum 18
+Nest 0
+Name a necklace of pain~
+ShD  a necklace of pain~
+Desc a necklace of pain~
+ExtF 64
+WeaF 5
+Ityp 9
+Wt   5
+Material silk~
+Wear 3
+Lev  4
+Cost 2480
+Val  6 6 6 6 0
+Affc 'reserved'   0   0  -1   1  19          0
+Affc 'reserved'   0   0  -1   1  30          0
+End
+
+#O
+Vnum 38
+Nest 0
+Name a dark green backpack~
+ShD  a dark green backpack~
+Desc a dark green backpack~
+ExtF 64
+Wt   2
+Material silk~
+Wear 12
+Cost 780
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   5  13          0
+End
+
+#O
+Vnum 42
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 615
+Nest 0
+Wear 18
+Cost 1140
+End
+
+#O
+Vnum 1081
+Nest 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 1028
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1028
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1028
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1028
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1028
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 2214
+Nest 0
+Wear 5
+Cost 150
+End
+
+#O
+Vnum 2215
+Nest 0
+Wear 7
+Cost 120
+End
+
+#O
+Vnum 2216
+Nest 0
+Cond 99
+Wear 15
+Cost 100
+End
+
+#O
+Vnum 197
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 41
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 1028
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 18
+Nest 0
+Name a crown of prodigious magic~
+ShD  a crown of prodigious magic~
+Desc a crown of prodigious magic~
+ExtF 64
+WeaF 17
+Ityp 9
+Wt   30
+Cond 91
+Material silver~
+Wear -1
+Lev  23
+Cost 5120
+Val  10 9 11 9 5
+Affc 'reserved'   0   0  -1  19  12          0
+Affc 'reserved'   0   0  -1   4  28          0
+End
+
+#O
+Vnum 38
+Nest 0
+Name a purple hide satchel~
+ShD  a purple hide satchel~
+Desc a purple hide satchel~
+ExtF 64
+WeaF 1025
+Wt   3
+Material hide~
+Wear -1
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   6  29          0
+Affc 'reserved'   0   0  -1   3   2          0
+Affc 'curse'   1  18  -1   1  20   67108864
+End
+
+#O
+Vnum 2499
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 2330
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 2499
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 2330
+Nest 0
+Wear -1
+Cost 2
+End
+
+#END

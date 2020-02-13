@@ -1,0 +1,80 @@
+Sender  Ragnar~
+Date    Tue Jan 12 18:02:29 2010~
+Stamp   1263337497
+Expire  1268521352
+To      all~
+Subject clan symbol~
+Text
+[    3   Human    Fighter ] }^\v/^{ Ragnar this is my title
+That is an example of instead of a clan name a symbol instead.
+Could be other things up to whatever you set for max_length.
+-,--`-@  or what not.  including color codes, so you would need a color_strlen for it.
+Ragnar
+~
+
+Sender  Weiland~
+Date    Wed Jan 13 10:53:23 2010~
+Stamp   1263398213
+Expire  1268582020
+To      all~
+Subject olc suggestions~
+Text
+A covering flag to place hidden/secret objects under others.
+"You look under the rug and find the key!" That type of thing.
+Maybe even a hidden/secret flag for actual loaded objects. Not
+an invis one.. tried that person without detect invis can't see
+the object properly. Ireset doesn't like nested objects within
+others either btw.. caused crash earlier today. Container resets
+in particular don't carry over to hotboot/reboot either for some
+reason. A few object types.. salves.. that you apply for different
+benefits. A few others i can't think of atm ill try and come up with
+some more.
+W
+@
+~
+
+Sender  Weiland~
+Date    Thu Jan 28 20:29:56 2010~
+Stamp   1264728726
+Expire  1269912604
+To      all~
+Subject Player shops~
+Text
+Had kind of an odd idea while messing with a portal. What if
+players could have a custom portal to a shop that they could
+stock and control.. and that they could move around like they
+wanted to? Within reason of course to prevent littering all
+over the place. Might be kind of an interesting selling point
+for the pbase. The portal would need some type of owner/keepsake
+flag of course to prevent people from snagging/moving it.
+~
+
+Sender  Weiland~
+Date    Sun Feb 14 21:19:27 2010~
+Stamp   1266200437
+Expire  1271384375
+To      upro~
+Subject Custom entrance~
+Text
+friggin editor crashed again ill make it quick.. custom
+entrance for mobs/pcs that could be set in editor or by
+players.. pant pant lol. Ebon is on the way with 20 rooms or
+so.. heal/mana rates are set at at least 10 for all existing
+areas!
+~
+
+Sender  Silence~
+Date    Sun Mar 21 11:50:58 2010~
+Stamp   1269186723
+Expire  1355586671
+To      all~
+Subject prompt~
+Text
+Can we get a carriage return put into the prompt command?
+It'd be nice if:
+.       lv cost item
+1 40 honeybun
+were lined up when I typed list.
+Silence
+~
+

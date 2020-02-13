@@ -1,0 +1,76 @@
+#AREADATA
+Deprecated 0
+Name The Ethereal Plane~
+Builders None~
+VNUMs 10700 10899
+Levels 1 40
+Credits (null)~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 9
+Flags 2
+Faction (null)~
+History (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#10700
+sheath~
+a sheath~
+A sheath~
+unknown~
+0
+armor 0 0 AS
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#10700
+~
+~
+0 4 3
+0
+0
+0
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

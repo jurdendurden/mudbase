@@ -1,0 +1,177 @@
+#PLAYER
+Name Trex~
+Id   1580011550
+LogO 1580011706
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race revenant~
+Sex  1
+Cla  8
+God	7
+Favored 0
+GuildRnk  0
+GuildPts  0
+Levl 1
+Sec  0
+Plyd 156
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 2302
+HMV  22 22 100 100 120 120
+Bleed 0
+Talent 0
+PP 0 0
+Gold 174
+Silv 167
+BAcct 0
+Bank 0
+Exp  4
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 0
+Eyes 16
+Haircut 1
+Facial 1
+Age 199
+Account Drisen~
+Recall 1010
+Act  CDEGKQT
+AfBy Z
+Comm NOP
+Pos  8
+Prac 6
+Trai 3
+Alig  -1000
+Hit   2
+Dam   5
+ACs 85 85 85 85
+Attr 13 13 16 16 16 12
+AMod 0 0 0 0 0 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 20 100 120
+Cnd  0 56 58 58 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 1
+71 1073741824
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'bless'
+Sk 1 'staff'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 50 'hand to hand'
+Sk 75 'first aid'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'monk basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 618
+Nest 0
+Wear 15
+Cost 290
+End
+
+#END

@@ -1,0 +1,3298 @@
+#AREADATA
+Deprecated 0
+Name Arctic Plains of Irland~
+Builders Weiland~
+VNUMs 2800 2899
+Levels 10 20
+Credits Weiland~
+Climate 3
+Plane 0
+PrimaryResource copper~
+Security 9
+Flags 50
+Faction golthek~
+History (null)~
+End
+
+
+
+#MOBILES
+#2800
+fox white~
+a small {Wwh{Bi{Wte{x fox~
+A small {Ww{wh{Bi{Wte{x fox pads through the snow.
+~
+A miniscule bright white fox~
+A small white fox pads through the grass slyly stalking the wooly sheep
+of the hamlet. A general nuisance, the white fox are one of the weakest
+predators of the Irland plains. Cowardly in nature, the white fox is barely
+tolerated by the locals due to is somewhat valuable hide. Skilled tailors
+use the fox's hide for clothing materials and other assorted sundries.
+~
+fox~
+AGH 0 Z 0 0
+10 10 10d8+20 10d8+100 2d5+10 bite
+0 0 0 0
+FHR 0 C 0
+stand stand male 0
+AGV ABCDEFHJKQUV medium
+ unknown
+M DEATH 2812 100~
+#2801
+owlbear brown mottled~
+a brown mottled owlbear~
+A large brown mottled owlbear lumbers about.
+~
+A large brown mottled owlbear~
+A large mottled brown owlbear lumbers about with a certain unique grace.
+Roughly six feet tall, its head is a curious mixture of bear and avian.
+Large mottled wings cover is muscular back that act more as an offensive
+weapon then for actual flight. Rare in most parts, the mottled brown owlbear
+is a regular fixture in the Irland plains. 
+~
+owlbear~
+AFG 0 J -200 0
+12 0 5d30+200 12d8+100 3d5+10 claw
+1 1 1 1
+HRV R BI Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M DEATH 2810 15~
+#2802
+spider ivory~
+a bright {Wwh{Bi{Wte{B sp{Wid{Ber{x~
+A bright {Wwh{Bi{Wte {Bsp{Wid{Ber{x scuttles past.
+~
+A scuttling, stark white arachnid~
+A large fist shaped spider scuttles past, its tiny legs moving incredibly
+fast. Bright white in color, the spider is almost invisible in contrast to
+its wintry enviroment. The spider is indigenous to the Irland plains and prefers
+to cohabitate with large numbers of its brethren.
+~
+spider~
+AGH 0 BZ 100 0
+15 20 15d8+30 15d8+100 3d5+8 bite
+1 1 1 1
+0 L FI EH
+stand stand female 0
+ABGO ACK medium
+ unknown
+#2803
+sheep wooly~
+a wooly sheep~
+A plump wooly sheep trots by.
+~
+A plump overweight sheep~
+A plump wooly sheep trots by searching for something edible to fill its
+always hungry belly. Large herds once roamed freely amidst the tall frozen
+grass of the plains. Hunted to near extinction, the sheep are now carefully
+raised and shorn for their warm wooly coats. Allowed the run of the small
+hamlet, the sheep are trained not to wander far from the hamlet. They would
+not survive long against the more predatory creatures that roam outside the
+protection of the hamlet. 
+~
+sheep~
+AG 0 Z 200 0
+14 15 14d8+28 14d8+100 3d5+10 crush
+1 1 1 1
+0 0 0 0
+stand stand female 0
+AGV ACDEFJKQV medium
+ unknown
+#2804
+dog Mandy~
+a long haired dog~
+A friendly long haired dog bolts past.
+~
+A long haired black dog~
+A long haired black dog bolts past chasing after a runaway sheep.
+Its long hair freshly brushed, the dog known as Mandy is one of the favorites
+of the hamlet's children. Quite large, Mandy has been raised since a pup
+and is generallly beloved by the community.
+~
+dog~
+AG 0 0 500 0
+20 20 20d8+400 20d8+100 4d5+15 bite
+2 2 2 2
+FHV 0 C 0
+stand stand female 0
+AGV ACDEFHJKUVX medium
+ unknown
+#2805
+ram long-horned~
+a long-horned ram~
+A majestic long horned ram wanders past.
+~
+A majestic long-horned ram~
+A majestic long horned ram wanders by keeping a careful eye on its herd
+of sheep. Trained to protect the safety of the sheep herd against predatory
+animals, the ram is father and protector to the herd. Its sharp horns are
+rumored to be a potent aphrodisiac if properly prepared by a skilled alchemist.
+~
+sheep~
+AG 0 Z 200 0
+15 15 15d8+200 15d8+100 4d5+10 crush
+1 1 1 1
+CLR 0 0 0
+stand stand male 0
+AGV ACDEFJKQV medium
+ unknown
+#2806
+snowcat feral~
+a feral snowcat~
+A feral snowcat slinks through the snow.
+~
+A long-toothed surly snowcat~
+A feral snowcat slinks through the deep snow blending in like a chameleon
+in the white enviroment. Almost four feet in length from toothy grin to
+bushy tail, its fur is a luxurious satiny marvel. Many an unskilled hunter
+has fallen prey to its fast attack speed in greedy pursuit of its valuable
+white fur.
+~
+cat~
+AFG 0 Z -200 0
+17 20 17d8+120 17d8+100 4d5+12 claw
+1 1 1 1
+FHUV AB 0 0
+stand stand male 0
+AGV ACDEFHJKQUV medium
+ unknown
+M DEATH 2811 5~
+#2807
+male elderly~
+an elderly elven male~
+An elderly male sits close to the fire.
+~
+~
+An elderly male of elven descent sits hunched over huddled by the
+blazing fire. Quite old, the male has lived his entire life as a hunter
+in the Irland Plains. Heavily scarred, the man has endured quite a few
+hardships living in the onerous conditions of the plains. His blue eyes
+are still clear however and he looks up as his front door opens.
+~
+elf~
+ABG 0 J 300 0
+15 15 15d8+30 15d8+100 3d5+8 punch
+1 1 1 1
+0 0 Bb IZ
+stand stand male 300
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 2803 75~
+#2808
+frost giant guard keep~
+a surly frost giant guard~
+A surly frost giant keep guard patrols the plateau.
+~
+a foul-tempered frost giant guard~
+A surly looking keep guard patrols the perimeter of the keep. Heavily
+armored, the frost giant guard has a perpetual scowl on his dark face, his
+harsh features flushed from the bitter cold. Clutching his weapon with grim
+intent, the guard has little mercy for any foolhardy sort who happens to wander
+by uninvited to the keep. 
+~
+frost giant~
+AFGT 0 J -300 0
+18 20 18d8+200 18d8+100 4d5+12 punch
+2 2 2 2
+FHKV 0 IR BH
+stand stand male 200
+AHMV ABCDEFGHIJKY huge
+ unknown
+#2809
+frost giant shaman~
+a frost giant shaman~
+A frost giant shaman stalks the plateau.
+~
+a coldly calculating frost giant~
+A frost giant mystic stalks the plateau bolstering the defenses of
+the guards with her potent magicks. Clad in deep flowing robes, a confident
+smirk coats her lovely features. The drow is cold and calculating as she goes
+about her duties. 
+~
+frost giant~
+AFG 0 J -300 0
+18 20 18d8+200 18d8+100 4d5+14 blast
+2 2 2 2
+GHR AB CIR BHNS
+stand stand female 200
+AHMV ABCDEFGHIJKY medium
+ unknown
+#2810
+eli man old~
+Eli Tobogan~
+A grizzled old man stands quietly here.
+~
+(null)~
+A grizzled old man known to the settlers as Eli stands quietly here.
+Dressed plainly in heavy furs, the old man is considered one of the elders
+of the the small community. A wealth of knowledge and information of the
+plains of Irland have been accumulated over his years spent travelling the
+area. Stern in demeanour, his grizzled looks conceal a cheery disposition
+and a penchant for gossip with any new face that wanders by. 
+~
+human~
+ABG G DF 400 0
+20 0 20d8+40 20d8+100 0d0+0 punch
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M ACT 2802 greet~
+M GREET 2801 100~
+M SPEECH 2815 white fox menace~
+M SPEECH 2816 serious spiders~
+#2811
+woman blonde Ellen~
+Ellen, the mercantile owner~
+A broad shouldered blonde woman tends the mercantile here.
+~
+(null)~
+A broad shouldered elven woman keeps warm inside the small shop, moving
+crates of supplies and sundries about. Warmly dressed to fight the chill in
+the air, her face is somewhat pinched as if deep in thought over something
+personal. Her slightly greying blonde hair is tied into a long ponytail that
+extends down her back to mid-waist. Ellen as she is known to the locals has
+recently lost her husband of many years and is still struggling with the
+untimely loss.
+~
+elf~
+ABG G J 0 0
+30 0 30d8+60 30d8+100 0d0+0 punch
+0 0 0 0
+0 0 Bb IZ
+stand stand female 5000
+AHMV ABCDEFGHIJK medium
+ unknown
+#2812
+smith Bernak~
+Bernak, the master smith of Irland~
+Bernak, the master smith of Irland works the forge here.
+~
+(null)~
+A burly bare chested dwarf tends the forge of Irland here. Beads of sweat
+glisten on his hairy chest, his skin a deep red hue in color from exposure
+to the constant heat. His eyes squint in concentration as he feeds the forge
+more fuel to keep its impressive heat at its peak. He allow's you a brief
+nod at your entry and waits impatiently for you to explain what you are
+seeking. 
+~
+dwarf~
+ABG G J 400 0
+30 0 30d8+60 30d8+100 0d0+0 none
+0 0 0 0
+0 0 LQa R
+stand stand male 4000
+AHMV ABCDEFGHIJK medium
+ unknown
+#2813
+tailor woman Lucinda~
+Lucinda, the tailor of Irland~
+A lovely dark haired woman tends the shop here.
+~
+(null)~
+A lovely dark haired woman hums softly as she moves about the
+tailor shop of Irland. Long ebony black hair is swept back from her
+round pretty face held back with a simple silver circlet. Deep {bblue{x eyes
+radiate from her lovely face like pools of limpid water. Lucinda as she is
+known has set many a young heart afire in the tiny hamlet but is content for
+the moment to maintain the tailor shop. When the right person comes along for
+her she knows in her heart that their will be that magical connection when
+their eyes first meet.
+~
+human~
+ABG 0 DF 500 0
+30 0 30d8+60 30d8+100 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium
+ unknown
+#2814
+lumberjack burly~
+a burly lumberjack~
+A burly lumberjack strides through the snow.
+~
+A heavily muscled lumberjack~
+A burly villager strides through the snow, his trusty woodaxe firmly tucked
+tucked on one broad shoulder. Ruddy red hair straggles down his wide back
+protected by a thick wool cap. He whistles a slightly offkey tune softly as
+he heads out to gather more wood for the fire. 
+look
+~
+frost giant~
+AGT 0 J 300 0
+15 0 15d8+230 15d8+100 3d5+20 chop
+1 1 1 1
+0 0 IR BH
+stand stand male 300
+AHMV ABCDEFGHIJKY medium
+ unknown
+#2815
+Paul master lumberjack~
+Paul, the master lumberjack~
+A massive lumberjack strides about with purpose.
+~
+(null)~
+A bear of man, the master lumberjack known as Paul strides about with a
+grim purpose. His thick chest is covered with heavy bear furs, his enormous
+legendary axe gripped in one hairy palm. Paul is a rare sight in this area,
+his exploits are things of legend and innuendo in the area. If Paul is in
+the area danger and mayhem is sure to be close at hand. 
+~
+dwarf~
+AGT CE HJ 200 0
+25 30 25d8+1500 25d8+100 5d6+20 chop
+2 2 2 2
+CDFHKO ABEX LQa R
+stand stand male 1200
+AHMV ABCDEFGHIJK medium
+ unknown
+#2816
+stooped man elderly Albart~
+Albart, the master alchemist~
+A stooped elderly man pores over an ancient book.
+~
+(null)~
+A tall stooped elderly man peers over an open book on the table before him.
+A long wrinkled finger traces the lines of dense text on the book before him,
+his wizened face scrunched up in deep concentration. His bony frame is covered
+in a loose fitting fur jacket that is way too large for his sparse frame. Clear
+grey eyes widen in surprise as he notices someone has discovered his little
+tucked away laboratory.
+~
+elf~
+ABG G DFJ -200 0
+30 0 30d8+60 30d8+100 0d0+0 blast
+0 0 0 0
+0 0 Bb IZ
+stand stand male 2000
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 2820 100~
+#2817
+guard seasoned shaman frost~
+a seasoned frost giant shaman~
+A seasoned frost giant guard loiters dutifully.
+~
+~
+The tall frost giant stands silently here, his dark features swollen in a
+furious grimace of defiance. Many years of soldiering for various masters have
+led him to this moment. Determined to guard his post to the bitter end, he
+draws his weapon and prepares his attack. 
+~
+frost giant~
+ABFGT CD J -900 0
+19 0 5d30+500 19d8+100 0d0+0 punch
+2 2 2 2
+EFHKN A IR BH
+stand stand male 150
+AHMV ABCDEFGHIJKY huge
+ unknown
+M GREET 2899 100~
+#2820
+frost giant guard frantic~
+a frantic frost giant guard~
+A frantic frost giant guard struggles to protect the keep.
+~
+~
+A bloody and battered guard struggles to stay on his feet. His damaged
+armor is coated with his fellow's blood as well as his own. His dark eyes
+narrow with anger as he is determined to avenge the deaths of his friends.
+No longer simply a job, he is fighting for his life and has no recourse but
+to attack.
+~
+frost giant~
+AFG 0 J -900 0
+18 20 18d8+36 18d8+100 4d5+10 punch
+2 2 2 2
+KNV A IR BH
+stand stand male 80
+AHMV ABCDEFGHIJKY huge
+ unknown
+#2821
+stoic frost giant~
+a stoic frost giant invader~
+A stoic frost giant invader assaults the keep.
+~
+~
+A burly man of mixed race storms by clad in armor bearing the symbol
+of the Paladins of Order. Determined to erase the evil that the keep has
+perpetuated, the man goes about his business with a religous zeal. His
+eyes are glazed over in a killing frenzy attacking all who cross his path
+that he deems an immediate threat to his cause.
+~
+frost giant~
+AFGT C CDJO 800 0
+17 20 17d8+200 17d8+100 4d5+12 punch
+-2 -2 -2 3
+HKV AB CILR BHP
+stand stand male 200
+AHMV ABCDEFGHIJKY medium
+ unknown
+#2822
+marauder undead frost giant~
+an {Dundead{x frost giant marauder~
+An undead {Wfrost{x giant marauder meanders aimlessly, looking for fresh blood to spill.
+~
+a rotting {Wfrost{x giant corpse~
+The undead frost giant marauder still seeps blood from various wounds to the
+ground. It's battered frame is coiled in an unseemly bundle of broken limbs
+and sundered flesh. Unholy energy powers it's mindless body forward bathing
+it in a sickly {ga{Gu{gr{Ga{x of forbidden unnatural energy. Its eyes roll
+into the back of its now rotting skull as it pursues it's next opponent. 
+~
+frost giant~
+AFGT CD HJ -1000 0
+20 20 20d8+400 20d8+100 4d5+20 bite
+2 2 2 2
+HIRV ABMZ IJR HNS
+stand stand none 200
+ABHIMV ABCDEFGHIJKUVY huge
+ unknown
+F vul B
+#2825
+Gratzul frost giant lichgiant lich~
+Gratzul, the undead lichgiant~
+A powerful frost giant lich stands in defiance.
+~
+a rotting lichgiant~
+Clad in billowing ebony robes, the notorious lichgiant known as
+Gratzul stands in defiance before his obscene throne of power. Sinister
+features contort into a grimace of frustruation and perhaps a little fear as
+his eyes focus on yours. His hand curls around a long staff clutched in one
+bony hand as he readies his offense!  
+~
+frost giant~
+ABFG CDE DFJ -1000 0
+25 100 25d8+10000 25d8+100 4d5+100 blast
+3 3 3 3
+AFGH AB CDIJR HNS
+stand stand male 750
+AHMV ABCDEFGHIJKY huge
+ unknown
+F vul B
+M FIGHT 2890 90~
+#2899
+throne demonic~
+the {Rdemonic{x throne of Gratzul~
+The demonic throne of Gratzul pulsates with power.
+~
+~
+The demonic throne of Gratzul pulsates with deadly levels of
+malevolent arcane energy. Comprised of precious jewels and costly
+metals, the throne has been empowered with the trapped essence of a
+lesser planar demon. Bound to Gratzul by an unholy pact, the throne
+is the primary focal point of the necromage's deadly magick. The
+destruction of the throne would greatly weaken the necromage making
+him vulnerable.
+~
+demon~
+ABG DI DFJc -1000 0
+20 40 20d8+4000 20d8+100 4d5+15 blast
+3 3 3 3
+GHKV 0 CLQ NS
+stand stand none 0
+AHMV ABCDEFGHIJKY medium
+ unknown
+M FIGHT 2898 90~
+#0
+
+
+
+#OBJECTS
+#2800
+fireplace~
+a simple stone fireplace~
+A simple stone fireplace is built into the far wall.~
+unknown~
+0
+container 0 A 0
+500 0 0 200 0
+1 0 0 P
+#2801
+fox hide~
+a slightly tattered {Wwh{Bi{Wte{x fox hide~
+A slightly tattered white fox hide draws flies here.~
+hide~
+0
+skin 0 0 A
+0 0 0 0 0
+1 3 30 G
+#2802
+fountain stone~
+a circular stone fountain~
+A circular stone fountain burbles quietly here.~
+stone~
+0
+fountain 0 0 0
+0 0 'water' 0 0
+0 0 0 P
+#2803
+owlbear feather~
+a long mottled brown owlbear feather~
+A long brown mottled owlbear feather lies here.~
+flesh~
+0
+treasure 0 F AO
+0 0 0 0 0
+15 1 80 G
+#2805
+thick woolen bandage~
+a thick woolen bandage~
+An unused woolen bandage.~
+wool~
+0
+bandage 0 0 A
+0 0 0 0 0
+9 2 100 P
+#2806
+pick mining~
+a rune covered mining pick~
+A mining pick enscribed with runes.~
+silver~
+0
+mining_tool G 0 AO
+ABCD 0 0 0 0
+15 80 7500 P
+#2807
+silver lined cloak~
+a silver lined p{We{xa{Wr{xl cloak~
+A silver lined p{We{xa{Wr{xl cloak.~
+silk~
+0
+armor Ge 0 AC
+ABC C AC BD 1
+14 5 1500 P
+A
+28 14
+A
+13 14
+#2810
+vial peppermint~
+a swirling red vial~
+A colorful vial of liquid lies here.~
+glass~
+0
+potion 0 0 AO
+14 'bless' 'shield' 'reserved' 'reserved'
+10 1 4000 P
+#2811
+dust vial red~
+{Wa{R v{Wi{Ra{Wl{x {Ro{Wf{R r{We{Rd{W d{Ru{Ws{Rt{x~
+A small vial of red dust lies here.~
+glass~
+0
+herb 0 0 A
+0 0 0 0 0
+10 1 50 P
+O GET 2899 flask~
+#2812
+potion flecked gold~
+a gold flecked potion~
+A clear, gold flecked potion.~
+glass~
+0
+potion 0 0 A
+10 'cure critical' 'reserved' 'reserved' 'reserved'
+12 1 2600 P
+#2813
+lamp bronze~
+a burnished bronze lamp~
+A burnished bronze lamp was dropped here.~
+bronze~
+0
+light 0 0 AO
+0 A CDFI 0 0
+15 10 1000 P
+#2814
+flask hefty~
+a hefty copper flask~
+A hefty looking copper flask was dropped here.~
+copper~
+0
+drink 0 0 AO
+50 50 'water' 0 0
+10 2 150 P
+E
+flask~
+The hefty flask fits nicely in the palm of one hand, made
+of common durable pressed copper. Suitable for water or
+perhaps something stronger to help while away a cold winter's
+night.
+~
+#2815
+bag fox jerky~
+a small bag of dried fox jerky~
+A small greasy bag of fox jerky lies here.~
+hide~
+0
+food 0 0 AO
+BEF BEF 0 0 0
+10 1 200 P
+E
+jerky~
+A favorite of the Irlands Plains, the fox jerky is kept fresh
+in a hide skin bag made out of fox hide. The grease has saturated
+the bag but it is quite delicious.
+~
+#2816
+anvil Irland~
+the impressive anvil of Irland~
+The impressive anvil of Irland sits next to the forge.~
+iron~
+0
+anvil 0 0 0
+AB 0 0 0 0
+30 400 0 P
+E
+anvil~
+The anvil of Irland is gigantic, its heavily scarred iron surface
+marred by countless hammer strikes. There is ample space beside the
+anvil for those of the blacksmithing trade to practice their craft.
+~
+#2817
+forge glowing~
+the glowing forge of Irland~
+The forge of Irland emanates intense heat here.~
+fire~
+0
+fire A 0 0
+0 0 0 0 0
+30 1000 0 P
+#2818
+loom intricate~
+an intricate wooden loom~
+An intricate wooden loom awaits use here.~
+wood~
+0
+loom 0 0 0
+AB 0 0 0 0
+0 0 0 P
+#2819
+cloudy liquid vial~
+a vial of {Wc{wl{Wo{wu{Wd{wy{x liquid~
+A small vial of cloudy liquid lies here.~
+glass~
+0
+potion 0 0 AO
+10 'detect invis' 'reserved' 'reserved' 'reserved'
+10 1 40 P
+#2820
+woodaxe~
+a hand crafted woodaxe~
+A long handled woodaxe lies here.~
+wood~
+0
+weapon 0 0 AN
+axe 3 6 chop 0
+15 6 300 G
+#2821
+cap wool~
+a thick wool cap~
+A thick wool cap lies forgotten here.~
+wool~
+0
+armor 0 0 AE
+C C AB C 1
+15 2 180 G
+A
+12 10
+A
+20 -2
+A
+13 6
+#2822
+fur overcoat~
+a thick fur overcoat~
+A thick fur overcoat.~
+hide~
+0
+armor 0 0 AD
+C C C C 2
+15 30 400 G
+A
+12 15
+A
+30 5
+#2823
+pants fur~
+thick fur pants~
+A pair of thick fur pants lie forgotten here.~
+hide~
+0
+armor 0 0 AF
+AC AC AC AC 2
+15 5 300 G
+A
+13 21
+#2824
+wristlet fox hide~
+wristlet of the {WWh{Bi{Wte F{Bo{Wx{x~
+Handmade fur wristlets lie in a pile here.~
+hide~
+0
+armor AG 0 AM
+C C C C 1
+13 2 40 P
+A
+13 10
+A
+2 1
+E
+wristlets~
+These narrow handmade bands are comprised of animal hide and tiny
+tufts of {Wwh{{Bi{Wte{x fox fur. A slight glow emanates from the
+wristlets indicating a small enchantment exists on them.
+~
+#2825
+blanket fur~
+a {Wwh{Bi{Wte{x fur blanket~
+A thick fur blanket lies in a heap here.~
+hide~
+0
+armor 0 0 AK
+AB AB B B 1
+10 0 0 G
+E
+blanket~
+The blanket is made of aged white fur and is quite
+heavy. Virtually a necessity in the cold climate of the
+Irland Plains.
+~
+#2830
+chain shirt~
+a reinforced chain shirt~
+A reinforced chain shirt lies here.~
+bronze~
+0
+armor 0 0 AD
+AC C C AC 3
+15 80 1075 G
+A
+20 -1
+A
+14 12
+A
+12 12
+A
+13 12
+#2831
+chain leggings~
+a set of reinforced chain leggings~
+A pair of reinforced chain leggings were dropped here.~
+bronze~
+0
+armor 0 0 AF
+BC AC BC AB 3
+15 180 1450 G
+A
+19 2
+A
+20 -2
+A
+13 15
+E
+leggings~
+The leggings are made of hammered bronze, they appear to be of
+drowish design. A bit heavy for the average adventurer, the leggings
+are quite flexible in nature despite their hefty bulk.
+~
+#2832
+shortsword serrated~
+a serrated short sword~
+A cruel serrated short sword.~
+bronze~
+0
+weapon 0 0 AN
+short_sword 4 4 slash E
+15 30 1200 G
+A
+18 4
+A
+13 12
+#2833
+satin robe glowing adorned~
+a glowing satin robe adorned with strange symbols~
+A glowing satin robe adorned with strange symbols lies in a heap.~
+cotton~
+0
+armor A 0 AK
+AC AC AC AC 1
+16 30 1300 G
+A
+30 2
+A
+12 15
+A
+4 2
+#2834
+short staff oak burnt~
+a burnt oak shortstaff~
+A slender oak shortstaff was left here.~
+red oak~
+0
+wand G 0 AO
+15 4 4 'lightning bolt' 0
+15 30 1250 G
+A
+12 10
+E
+shortstaff~
+Made of hearty oak, the shortstaff is roughly two feet in length. A
+highly conductive copper plate is attached to one end to conduct magical
+energy at its target. Bereft of charges the shortstaff would still provide
+some offense in a pinch.
+~
+#2835
+silver ebony half plate~
+ebony half-plate~
+Battered ebony plate lies here in a heap.~
+silver~
+0
+armor 0 0 AD
+AC AB AC AB 4
+17 120 1750 A
+A
+30 2
+A
+12 12
+A
+13 12
+#2836
+silver circular shield~
+a very large, circular shield~
+A circular shield lies here.~
+silver~
+0
+armor 0 0 AJ
+C C C C 5
+17 5 200 A
+A
+13 10
+A
+30 2
+A
+12 10
+#2837
+greaves adamantite~
+a pair of slightly dented a{Dd{xa{Dm{xa{Dn{xt{Di{xt{De{x greaves~
+These greaves have a peculiar sheen about them.~
+adamantite~
+0
+armor 0 0 AF
+C AB C C 2
+17 6 200 G
+A
+19 2
+A
+20 -2
+A
+13 5
+#2838
+crossbow flanged~
+a flanged crossbow~
+This flanged crossbow appears to be of drow make.~
+wood~
+0
+weapon 0 0 AN
+exotic 3 5 pierce 0
+18 6 140 A
+A
+18 6
+A
+29 15
+A
+19 2
+#2839
+kindling piece~
+a rotting piece of kindling~
+A knobby piece of kindling rots here.~
+wood~
+0
+staff 0 0 AO
+5 5 0 'create fire' 0
+5 3 15 W
+#2840
+scimitar drow~
+a curved a{Dd{xa{Dm{xa{Dn{xt{Di{xt{D{xe scimitar~
+A wide, sickly curved scimitar lies here.~
+silver~
+0
+weapon 0 0 AN
+exotic 4 4 slash 0
+17 6 160 A
+A
+19 5
+A
+18 2
+#2841
+shirt chain enchanted mail~
+a noticeably enchanted chain mail shirt~
+A heavy looking chain mail shirt.~
+iron~
+0
+armor A 0 AD
+BC BC BC AC 3
+16 80 130 G
+A
+29 6
+A
+18 2
+A
+19 3
+E
+chain~
+The enhanced chain tunic of fervor is standard issue to the
+Paladins of Order. Embossed with their personal seal, the paladins
+favor the armor for its personal protective value. The tunic is
+designed with interlinking iron chain links over a leather harness
+providing a somewhat heavy but effective armnament.
+~
+#2842
+gothic iron helm~
+a gothic style iron helm~
+A gothic style iron helm.~
+iron~
+0
+armor 0 0 AE
+C AB AB C 4
+15 30 700 G
+A
+29 4
+A
+18 1
+A
+19 2
+E
+helm~
+The lesser helm of purity is one of the minor enchanted items
+provided to the Paladins of Order. The helm fits snugly over ones
+and buckles under the chin. Made of sturdy iron, this particualr one is
+slightly dented on the left side but is otherwise quite serviceable.
+~
+#2850
+barrel oak~
+a stout oak barrel~
+A stout oak barrel rests here.~
+wood~
+0
+container 0 0 0
+100 A 0 100 0
+0 0 0 G
+E
+barrel~
+The stout oak barrel is about chest high, strapped with
+rusting iron bands for support. Commonly used for storage of
+foodstuffs and other sundry items.
+~
+#2851
+girdle containment~
+a girdle of containment~
+A leather girdle lies forgotten here.~
+leather~
+0
+container 0 0 AL
+3 AC 0 12 3
+15 2 0 P
+E
+girdle~
+The girdle is of sturdy weather treated leather designed
+to fit snugly around the waist. It is capable of holding some
+small items such as potions or even a key or two.
+~
+#2852
+key steel~
+a small steel key~
+A small steel key was dropped here.~
+steel~
+0
+key U 0 A
+0 0 0 0 0
+10 1 0 A
+#2855
+robe billowing black~
+a billowing black robe~
+An ebony robe radiates foul energy here.~
+cotton~
+0
+armor J C AD
+AC C C AC 0
+20 30 1400 G
+A
+30 3
+A
+12 30
+E
+robe~
+The long robe is dyed a jet black, its cotton fibers percolate with
+an obscene foul energy. Costly gold threads woven in the cotton have
+tiny runic symbols engraved in some unknown tongue. The fabric of the robe
+is quite soft and pleasant to the touch.
+~
+#2856
+ashen staff~
+a long ashen staff~
+A long ashen staff lies here.~
+wood~
+0
+wand BJ 0 AO
+20 5 5 'acid blast' 0
+20 50 4000 G
+#2890
+Orb Snowcat~
+orb of the {WSno{BwC{wat{x~
+A curious {Corb{x floats here.~
+glass~
+0
+light 0 0 AQ
+0 0 CDFI 0 0
+10 3 40 G
+#2895
+apparatus alchemical~
+an elaborate alchemical apparatus~
+An elaborate {ra{cl{rc{rh{ce{rm{ci{rc{ca{rl{x apparatus was placed here.~
+unknown~
+0
+alchemy_lab 0 0 0
+B 0 0 0 0
+15 1000 0 A
+E
+alchemical~
+An elaborate series of beakers are interlinked together with clear
+transparent tubing. A small burner placed under the beakers keeps them
+bubbling at a steady rate. A philtre of empty vials sits next to the beakers
+awaiting the finished product. An unpleasant burnt smell hangs heavy in the
+air over the apparatus, a byproduct of the alchemical process.
+~
+#2896
+portal glittering~
+a glittering icy portal~
+A glittering icy portal beckons to the warmth of Renfall.~
+unknown~
+0
+portal 0 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 BEFGHIJ 0
+0 0 0 P
+#2897
+mutilated~
+a bloody mutilated corpse~
+A mutilated {Rbloody{x corpse lies here.~
+unknown~
+0
+container 0 0 0
+200 0 0 100 0
+0 0 0 P
+#2898
+knife Eli's skinning~
+a weathered skinning knife~
+Eli's trusty skinning knife lies here.~
+wood~
+0
+weapon H F A
+exotic 3 4 pierce 0
+10 1 0 P
+E
+knife~
+The knife is roughly the size of a human hand, its hilt is
+comprised of ancient bone. It's serrated edge is quite keen, more
+then capable of skinning the pelt off of a small animal.
+~
+#2899
+Soul Cleave~
+{RS{ro{Ru{rl{x {YC{yl{YE{yA{Yv{yE{x~
+A blazing great axe lies here.~
+gold~
+0
+weapon 0 0 AN
+exotic 20 2 cleave A
+25 12 2000 P
+#0
+
+
+
+#ROOMS
+#2800
+Along the icy trails of Irland~
+The arctic plains of Irland stretch off far into the horizon, a glittering
+frozen wasteland of ice and snow. Heavy drifts of freshly fallen snow cover
+a nondescript trail that leads off in a northerly direction. Ice covers the
+limbs of elm trees lining the path slowly dripping water to the frozen ground
+below.
+~
+0 4 19
+0
+1
+2
+D0
+~
+~
+0 0 2801
+M 30 H 30
+S
+#2801
+Along an icy trail~
+A narrow dirt path covered in slippery ice winds its way through the icy
+plains of Irland. Few venture into the icy grasp of the plains preferring
+more tropical humid climates. A few hardy folk are rumored to have setup
+small isolated settlements over the years. Not far in the distance a few
+plumes of grey smoke waft up above the tree line perhaps indicating such a
+settlement is close at hand. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2802
+D2
+~
+~
+0 0 2800
+M 30 H 30
+S
+#2802
+Along an icy trail~
+Tree limbs laden with heavy snow hang heavy over the icy trail creating
+frozen pools of ice. A crisp breeze stirs the trail with a sharp biting
+edge to it. Unproperly attired, one would not last long in this cold bitter
+climate. Heavily furred animals meander down the trail unheeding of the
+glacial winds and slippery conditions.
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2803
+D2
+~
+~
+0 0 2801
+M 30 H 30
+S
+#2803
+Along an icy trail~
+Snow and slippery ice line the winding trail making travel somewhat
+precarious. Steady plumes of smoke billow up into the sky above the trees,
+it appears a settlment of some sort is close at hand. A crooked chimney juts
+out just above the tree line ahead billowing a steady plume of soot and ash.
+~
+0 0 19
+0
+1
+2
+D1
+~
+~
+0 0 2804
+D2
+~
+~
+0 0 2802
+M 30 H 30
+S
+#2804
+Hamlet of Irland~
+A string of stone and wood houses comprise a small settlement tucked
+away in the midst of the the plains of Irland. Stone chimneys spew out
+steady streams of soot into the hair tinting the snow an unpleasant grey
+hue. A man nods as he passes by in greeting before entering a dwelling off
+the trail. The atmosphere in the the settlement appears to be relatively
+cordial and at ease.
+~
+0 4 19
+0
+1
+2
+D0
+~
+oak~
+1 0 2805
+D1
+~
+~
+0 0 2806
+D3
+~
+~
+0 0 2803
+M 30 H 30
+S
+#2805
+Inside a cozy dwelling~
+The interior of the dwelling is cozy and somewhat plain, the furniture of
+a solid native oak. A framed oil painting of a young family sits proudly
+over a blazing fireplace. Several chairs are tucked neatly behind a square
+dinner table under a tightly closed window. The air inside the house is
+actually a little too hot compared to the frigid temperatures outside. 
+~
+0 8 19
+0
+1
+2
+D2
+~
+oak~
+1 0 2804
+M 30 H 30
+S
+#2806
+Hamlet of Irland~
+A series of simple wood and stone dwellings are nestled on the outskirts
+of the icy plains of Irland. Known to the locals simply as the Hamlet of
+Irland, they lead a relatively frugal existence. Few travellers ever bother
+to visit their tiny secluded community. The local residents are always glad
+to see a new face wander by however. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2809
+D1
+~
+~
+0 0 2807
+D3
+~
+~
+0 0 2804
+M 30 H 30
+S
+#2807
+Hamlet of Irland~
+Ice covered dirt winds its way past a series of simple stone and
+wood dwellings. Heavily furred inhabitants of the hamlet go about their
+daily affairs well-adjusted to the frigid climate after many years. Docile
+snow foxes resembling small dogs wander freely through the tiny hamlet.
+~
+0 0 19
+0
+1
+2
+D1
+~
+~
+0 0 2810
+D2
+~
+~
+1 0 2808
+D3
+~
+~
+0 0 2806
+M 30 H 30
+S
+#2808
+A warm dwelling~
+A cozy warmth fills the simple dwelling consisting of plain wooden
+furniture and little else of real value. A blazing fire crackles softly in a
+stone fireplace at the far end of the one room dwelling. A heavy bear skin
+covers the dirt floor of the dwelling curtesy of one of the larger
+inhabitants of the Irland plains. 
+~
+0 8 19
+0
+1
+2
+E
+bear~
+A gigantic specimen of a sadly almost extinct species, the Irland polar
+bear has been hunted into virtual nonexistence. The bear pelt is quite old
+and shows various food stains and grime from everyday foot traffic. It's once
+ivory white color is now an unattractive shade of grey.
+~
+D0
+~
+pine~
+1 0 2807
+M 30 H 30
+S
+#2809
+An empty dwelling~
+The small dwelling is dark and cold, a thin coating of dust glitters
+with frost apon the bare floor. A stone fireplace at the rear of the
+tiny dwelling houses some slowly rotting kindling. A solitary square
+window opposite the fireplace is slightly open allowing a frigid breeze
+to stir the dust of the empty house.
+~
+0 8 19
+0
+1
+2
+D2
+~
+~
+0 0 2806
+M 30 H 30
+S
+#2810
+Hamlet of Irland~
+A circular stone fountain encrusted with heavy ice provides a weak
+trickle of refreshing clean water. Battered wooden benches around the
+fountain provide a central gathering place for the locals to gather weather
+permitting. A small cluster of shops are scattered about the fountain
+providing daily essentials to the hamlet. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2811
+D1
+~
+~
+0 0 2815
+D3
+~
+~
+0 0 2807
+M 30 H 30
+S
+#2811
+Hamlet of Irland~
+Several small shops are scattered under the limbs of a copse of elm trees
+that frame the tiny hamlet. A steady plume of grey smoke streams from the
+chimney of the forge to the north. A heavy oak door to the east leads to the
+local tannery. To the west a peek through the window reveals stacks of
+general merchandise. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2813
+D1
+~
+oak~
+1 0 2814
+D2
+~
+~
+0 0 2810
+D3
+~
+~
+0 0 2812
+M 30 H 30
+S
+#2812
+Irland Mercantile~
+Piles of supplies are stacked neatly apon the plain pine floor of
+the mercantile. Wide shelves line the tiny shop covered with the essentials
+to living in the unforgiving plains of Irland. Their is nothing frivolous for
+sale here only the basics to help alleviate the harsh living conditions the
+locals endure here.
+~
+0 8 19
+0
+1
+2
+D1
+~
+~
+0 0 2811
+M 30 H 30
+S
+#2813
+The Irland Smithery~
+A deep satisfying warmth emanates from the glowing forge of the smithery.
+A burly dwarven man tends the fire feeding the forge, a large iron stack
+catching the forge's deep black smoke. Stacks of armor in various stages of
+completion are stacked neatly beside the forge awaiting its turn indifferently.
+The air is acrid inside the smithery and quite difficult to breathe for long
+periods of time.
+~
+0 8 19
+0
+1
+2
+D2
+~
+~
+0 0 2811
+M 30 H 30
+S
+#2814
+Irland Tailorshop~
+The tidy shop is well lit, the tell-tale smell of harsh curing agents
+hang heavily in the air. A wooden counter on the far wall divides the shop
+where the proprietor of the shop is usually stationed. A few modelling
+dummies hold the shops wares on display for prospective buyers. A large
+intricate loom sits opposite the counter freely available for anyone to use
+at their discretion. 
+~
+0 8 19
+0
+1
+2
+D3
+~
+~
+1 0 2811
+M 30 H 30
+S
+#2815
+Hamlet of Irland~
+A crisp cold breeze stirs drifts of snow
+down the trail through the tiny hamlet of
+Irland.  Warmly dressed locals go about their
+business well accustomed to the harsh living
+conditions of the plains.  Only a fool hardy
+person would venture far from the hamlet
+without the proper clothing and supplies.  A
+group of red faced children dash by and head
+off into a small snow covered area to the
+north.  
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2816
+D1
+~
+~
+0 0 2830
+D3
+~
+~
+0 0 2810
+M 30 H 30
+S
+#2816
+A Vast Expanse of Snow~
+A snow covered field surrounded by elm
+trees contains a small number of tiny wood and
+stone houses.  Small children dart about the
+field playing with neighbors and enjoying life
+as children do.  Several snowmen of various
+shapes and sizes dot the field constructed
+with care by the children.  Their appears to
+be little real danger in the immediate area. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2817
+D2
+~
+~
+0 0 2815
+M 30 H 30
+S
+#2817
+A Vast Expanse of Snow~
+Large drifts of snow cover the field
+surrounded by tall elms and tidy stone
+dwellings.  The children in the area have
+constructed a small army of snowmen of varying
+sizes and shapes throughout the field.  A
+stone and wood house with light blue shutters
+is flanked by a gigantic snowman to the east. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2818
+D1
+~
+~
+1 0 2823
+D2
+~
+~
+0 0 2816
+M 30 H 30
+S
+#2818
+A Vast Expanse of Snow~
+Large snow drifts coat a wooded field off the main trail through the
+hamlet of Irland. A small sprinkling of stone and wood houses comprise the
+majority of the villager's habitats. The local children have assembled an
+army of snowmen of varying sizes and shapes between the houses. 
+~
+0 0 20
+0
+1
+2
+D0
+~
+~
+0 0 2819
+D1
+~
+~
+0 0 2822
+D2
+~
+~
+0 0 2817
+M 30 H 30
+S
+#2819
+A Vast Expanse of Snow~
+An irregular shaped snowman stands guard next to this tidy stone and
+wood house. An oblong smokestack inset in the house's roof releases thick
+plumes of grey smoke. A plain oak door leads into the tidy house to the east.
+Gauzy pink curtains in the front window obscures the contents of the house
+from this vantage point.
+~
+0 0 20
+0
+1
+2
+D0
+~
+~
+0 0 2820
+D1
+~
+~
+1 0 2824
+D2
+~
+~
+0 0 2818
+M 30 H 30
+S
+#2820
+A Vast Expanse of Snow~
+Ice and snow coat this small sheltered field dotted with wood and stone
+dwellings. The villagers of the small hamlet have lived in the sturdy little
+houses for generations. They have become well accustomed to handling the harsh
+living conditions of the icy Irland plains.
+~
+0 0 20
+0
+1
+2
+D1
+~
+~
+0 0 2821
+D2
+~
+~
+0 0 2819
+M 30 H 30
+S
+#2821
+A Vast Expanse of Snow~
+A weathered house to the north appears to be abandoned, the front door of
+the house lists lifelessly by a few rusty nails. Snow covers some battered
+steps leading into the house. A sense of sadness grips the small house,
+perhaps its occupants succumbed to the harsh living conditions of the
+plains. Something darts past the half open door and disappears into the
+darkness of the house's interior. 
+~
+0 0 20
+0
+1
+2
+D0
+~
+boards~
+1 0 2825
+D1
+~
+~
+0 0 2878
+D3
+~
+~
+0 0 2820
+M 30 H 30
+S
+#2822
+A Vast Expanse of Snow~
+Snow and ice drift across this small field comfortably nestled in the
+protective grasp of a copse of elm trees. Tidy wood and stones houses dot
+the field, hearth and home to the villagers of the hamlet. Fairly docile
+wildlife mingle freely amidst the frozen grass peacefully coexisting with
+the villagers. 
+~
+0 0 20
+0
+1
+2
+D1
+~
+~
+0 0 2880
+D3
+~
+~
+0 0 2818
+M 30 H 30
+S
+#2823
+A Cozy Home~
+A small square dwelling, twin beds occupy opposing corners of the house.
+The plain stone and wood walls are covered with family portraits depicting a
+gaggle of young children with their beaming parents. A battered pine table
+sits squarely in the center of the room with a small bouquet of roses. The
+house is kept warm by a blazing fire in a stone hearth fireplace. 
+~
+0 8 1
+0
+1
+2
+D3
+~
+~
+1 0 2817
+M 30 H 30
+S
+#2824
+A well-kept home~
+The interior of the well-kept home is immaculate, not a speck of dust
+covers any surface. Expensive gauzy curtains cover the front windows of
+the home providing a measure of privacy to the occupants. A thick ivory
+white bear skin covers the pine floor. A large ornately carved bed sits
+against the far walls. The opposite wall has a foot to floor bookcase
+brimming with obscure texts on alchemy and other arcane materiels. The
+owner of the house is apparently not a common villager like the majority
+of the hamlet.
+~
+0 8 1
+0
+1
+2
+D3
+~
+oak~
+1 0 2819
+M 30 H 30
+S
+#2825
+An abandoned house~
+The interior of the house is virtually empty, the floor of the dwelling
+covered in frost and cobwebs. Large gossamer spiders rule the abandoned
+house freely milling about in large numbers. The air inside is cold matching
+the outside, dark shadows stand tall daring someone to explore further. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2827
+D2
+~
+boards~
+1 0 2821
+D3
+~
+~
+0 0 2826
+M 25 H 25
+S
+#2826
+An abandoned house~
+Lonely shadows dart across the dimly lit house, heavy dust and
+cobwebs are all that remain to the naked eye. Large gossamer spiders
+spin frost covered webs everywhere content to furnish the abandoned house
+to their liking. A loose floorboard creaks loudly underfoot echoing sharply
+in the quiet room.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2825
+M 25 H 25
+S
+#2827
+An abandoned house~
+A broken set of steps lead downwards into inky darkness presumably to a
+cellar or storage area. Recent footprints on the dusty floor lead up to the
+steps tweaking your curosity. Perhaps something of value lies in some
+forgotten corner beneath the abandoned house. A particularly large spider
+scurries past your feet and descends downwards into the darkness. 
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 2825
+D5
+~
+~
+0 0 2828
+M 25 H 25
+S
+#2828
+Beneath the abandoned house~
+After a precarious entry, an inky darkness covers the large area beneath the
+house. Dim shadows stalk across scattered rotting barrels and piles of moldering
+firewood. Large spiders roam freely in the darkness contently spinning their
+gossamer webs. A glimmer of light emanates to the north from an obscured light
+source.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2829
+D4
+~
+~
+0 0 2827
+M 25 H 25
+S
+#2829
+Beneath the abandoned house~
+The rear of the house has been cleared of debris, a new looking wooden bench
+sits against the far wall. A series of beakers bubble atop the bench filled with
+a curious viscous liquid. Someone has setup alchemical equipment here to conduct
+their experiments in secrecy. A dusty leatherbound book lies open atop the table
+next to a tall burning wax candle.
+~
+0 1028 0
+0
+1
+2
+E
+book~
+A glimpse at the open book reveals elaborate calculations concerning the mixture
+of a particularly potent potion. Precise care and measurement is needed to design
+the potion to exact specifications. Without the proper skill in alchemy the book
+would be useless to someone unskilled in the craft.
+~
+D2
+~
+~
+0 0 2828
+M 25 H 25
+S
+#2830
+Hamlet of Irland~
+Smoke drifts from the north where a small scattering of homes are
+sheltered amidst the tree growth. A stiff steady breeze from the east
+stirs the fallen snow carrying a distinct bite with it. The frozen snow
+ahead glitters atop the soft rolling contours of the Irland Plains ahead.
+~
+0 0 19
+0
+1
+2
+D1
+~
+~
+0 0 2831
+D3
+~
+~
+0 0 2815
+M 30 H 30
+S
+#2831
+Outskirts of a tiny hamlet~
+A tiny hamlet ahead offers a warm respite from the relentless
+cold of the Irland Plains. Established by a few hardy or perhaps
+foolhardy folk over the years, the hamlet is tucked away in the
+protective grasp of copse of elm trees. Far to the east the unknown
+awaits amidst the glittering frozen wastes of the Irland Plains.
+~
+0 4 19
+0
+1
+2
+D1
+~
+~
+0 0 2832
+D3
+~
+~
+0 0 2830
+M 30 H 30
+S
+#2832
+Arctic Plains~
+Glittering snow and ice cover the Irland Plains, tall gnarled trees grasp
+in vain towards the sky. A stiff steady eastern breeze stirs fallen snow
+carryiny the hint of frostbite to it for the unprepared. Not far to the
+west, a small hamlet awaits offering some meager food and shelter from the
+unrelenting cold. 
+~
+0 0 19
+0
+1
+2
+D1
+~
+~
+0 0 2833
+D3
+~
+~
+0 0 2831
+M 75 H 75
+S
+#2833
+Arctic Plains~
+A harsh biting wind stirs the snow covered trail with unrelenting force.
+Gnarled frozen trees line the trail, their frozen limbs encased in sheets of
+thick ice. With poor visibility, the animal predators of the plains roam
+hungry for their next meal. Travel through the Irland Plains is something
+done quickly and to be avoided if at all possible. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2834
+D3
+~
+~
+0 0 2832
+M 25 H 25
+S
+#2834
+Arctic Plains~
+Frozen trees and drifts of wind driven snow cover the narrow trail
+through the Irland Plains. Refracted light from all the ice creates an
+unpleasant glare coupled with a fierce biting wind. Nomadic packs of animal
+predators roam the plains making travel a hazardous proposition at best.
+Twin elms bouyed by the heavy snow hang over the trail ahead making travel
+even more tedious. 
+~
+0 0 19
+0
+1
+2
+D2
+~
+~
+0 0 2833
+D4
+~
+~
+0 0 2835
+M 75 H 75
+S
+#2835
+Arctic Plains~
+Frozen treelimbs make a slippery climb over the icy surface ahead a
+precarious necessity. A biting wind stirs the fallen snow driving its icy
+fingers deep into exposed flesh. The glittering frozen expanse of the Irland
+Plains stretches off for miles ahead around a narrow snow strewn trail.
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2836
+D5
+~
+~
+0 0 2834
+M 80 H 80
+S
+#2836
+Clinging to a frozen tree-limb~
+The frozen surface of the elm is difficult to maintain a sturdy grasp
+apon. A short distance below a narrow trail winds past snow mounds and
+fallen trees through the depths of the Irland Plains. A dim stream of smoke
+some miles to the west hopefully indicates some sort of settlement. Perhaps
+continuing in that direction would be the better course of valor. 
+~
+0 0 19
+0
+1
+2
+D2
+~
+~
+0 0 2835
+D5
+~
+~
+0 0 2837
+M 25 H 25
+S
+#2837
+Arctic Plains~
+Twin elms bowed by heavy snow block the trail ahead making a slippery
+climb over them a necessity. A snow strewn trail leads away from fallen tree
+limbs into the depths of the frozen Irland Plains. A plaintitive howl is
+carried by the wind from somewhere off the trail ahead. 
+~
+0 0 19
+0
+1
+2
+D1
+~
+~
+0 0 2838
+D4
+~
+~
+0 0 2836
+M 80 H 90
+S
+#2838
+A trail through the arctic plains~
+The snow strewn trail meanders past ice covered trees and frozen snow
+through the unforgiving Irland Plains. Predatory animals prowl the outskirts
+of the trail daring the foolhardy to leave the unsure safety of the trail.
+Nomadic hunters, hardened by years on the plains are an infrequent sight
+forever plying their lonely trade. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2839
+D3
+~
+~
+0 0 2837
+M 80 H 80
+S
+#2839
+A trail through the arctic plains~
+Errant howls from the fields around the trail are carried by the driving
+easterly wind. Predatory animals are close at hand, exactly where is another
+story. Frozen snow and ice make the travel conditions barely tolerable, an
+unprepared traveller would not last long in these harsh environs. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2840
+D2
+~
+~
+0 0 2838
+M 80 H 80
+S
+#2840
+A trail through the arctic plains~
+Wild animal sounds come from all directions around the trail borne by the
+unseen easterly wind. Ice and snow hamper any hopes of fast travel through
+the increasingly dangerous Irland Plains. Something heavy crashes through
+the frozen underbrush ahead as it moves about the frozen plains. 
+~
+0 0 19
+0
+1
+2
+D1
+~
+~
+0 0 2841
+D2
+~
+~
+0 0 2839
+M 85 H 85
+S
+#2841
+A trail through the arctic plains~
+The snow covered trail winds past icy grass and fallen trees. A driving
+icy blast from the east makes travel along the trail a chore. Predatory
+animals dart across the trail ever in search of their next meal. Tracks in
+the snow indicate someone has travelled fairly recently along this route.
+Hopefully there is a safe place to rest and warm up from the cold nearby. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2842
+D3
+~
+~
+0 0 2840
+M 25 H 25
+S
+#2842
+An icy intersection~
+An icy intersection offers a choice of travel to the discerning
+traveller. Not far to the west, twin stone columns rise high on the horizon
+over a stone keep. To the south a narrow trail winds southwards through the
+icy Irland Plains. To the north the trail begins a steep climb towards the
+frozen peaks of Mount Renaig, home to the storm giants of Irland. 
+~
+0 0 0
+0
+1
+2
+D2
+~
+~
+0 0 2841
+D3
+~
+~
+0 0 2843
+M 25 H 25
+S
+#2843
+An icy grim trail~
+A dark icy trail forges its way through ice covered trees and mounds
+of dirty snow. Heavy foot travel in the freshly fallen snow has marred its
+ivory white surface turning it into brown mush. Twin columns of bleak stone
+loom high on the northern horizon flanking a squat stone keep beneath it. A
+tingle in the air indicates the release of powerful magicks ahead. Caution
+would probably be advisable from this point forward.
+~
+0 4 19
+0
+1
+2
+D0
+~
+~
+0 0 2844
+D1
+~
+~
+0 0 2842
+M 80 H 80
+S
+#2844
+An icy grim trail~
+Dirty slush covers the hard frozen ground marred by numerous footprints. The
+trail begins a steep incline to the north leading towards an ominous looking
+keep. Twin stone turrets flank the keep thrusting high to the heavens above
+the keep. The villagers of the nearby hamlet avoid the keep with a passion and
+probably good reason.
+~
+0 0 19
+0
+1
+2
+D2
+~
+~
+0 0 2843
+D4
+~
+~
+0 0 2845
+M 25 H 25
+S
+#2845
+Approaching the keep~
+A grim icy trail trails up a steep incline terminating before the
+ominous looking keep ahead. The frozen grey dirt of the trail shows
+the marks of heavy travel, someone has been using this path frequently as
+of late. The air hangs heavy tingling slightly with the release of potent
+magical energies near at hand.
+~
+0 0 19
+0
+1
+2
+D4
+~
+~
+0 0 2846
+D5
+~
+~
+0 0 2844
+M 25 H 25
+S
+#2846
+An icy wind swept plateau~
+A sizable plateau covers this sector of the plains dominated by a
+formidable looking keep to the near north. Twin columns of grey stone form
+large turrets flanking the large keep beneath it. The frozen ground is
+marred by heavy foot traffic leading towards the keep. Large deposits of
+coal glitter in the ground frozen in thick ice. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2851
+D3
+~
+~
+0 0 2847
+D5
+~
+~
+0 0 2845
+M 25 H 25
+S
+#2847
+An icy wind swept plateau~
+A stiff icy wind stirs the plateau, a massive shadow overhangs the area
+cast by the nearby keep. Dirty piles of snow and ice dot the plateau, thick
+deposits of coal glittering brightly in the frozen dirt. Stunted elms line
+the edge of the plateau leaning precariously over the craggy perimeter of
+the plateau. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2850
+D1
+~
+~
+0 0 2846
+D3
+~
+~
+0 0 2848
+M 25 H 25
+S
+#2848
+An icy wind swept plateau~
+Grimy ice and snow dot the hard dirt of the wind swept plateau. Glittering
+icy deposits of natural coal glitter in the dim light. A large stone keep is
+near at hand flanked by twin turrets of callous grey stone. Armed guards patrol
+the perimeter of the keep intent on maintaining the security of the keep. A few
+plumes of grey smoke filter upwards above a tiny hamlet not far to the west.
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2849
+D1
+~
+~
+0 0 2847
+M 25 H 25
+S
+#2849
+An icy wind swept plateau~
+A stiff northerly breeze blasts the icy plateau stirring dirty snow and
+ice. An immense shadow overhangs the plateau cast by the stone keep.
+Dangerous armed guards patrol the plateau intent on eliminating trespassers
+before they can reach the keep. Glittering deposits of natural coal shine
+brightly in the dim light coated in thick sheets of slippery ice. 
+~
+0 0 19
+0
+1
+2
+D1
+~
+~
+0 0 2850
+D2
+~
+~
+0 0 2848
+M 25 H 25
+S
+#2850
+An icy wind swept plateau~
+Dirty snow and ice cover the surface of the wind swept plateau before an
+immense stone keep ahead. Armed guards roam the plateau determined to
+eliminate any outside threat to the keep. This close to the keep the
+palpable release of ethereal magical energy is heightened, exposed flesh
+tingles unpleasantly from its unseen caress. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2852
+D1
+~
+~
+0 0 2851
+D2
+~
+~
+0 0 2847
+D3
+~
+~
+0 0 2849
+M 25 H 25
+S
+#2851
+An icy wind swept plateau~
+Ice and dirty snow fly across the wind swept plateau carried by a
+punishing northerly wind. Ominous uncaring stone stands tall ahead
+comprising a formidable looking keep. Tall twin turrets stab high to the sky
+above dwarfing the keep they flank. Grim armed guards patrol the perimeter
+of the keep intent on eliminating all who trespass on the grounds of the
+keep ahead. 
+~
+0 0 19
+0
+1
+2
+D2
+~
+~
+0 0 2846
+D3
+~
+~
+0 0 2850
+M 25 H 25
+S
+#2852
+Before an impressive stone keep~
+An impressive stone keep lies dead ahead, injured guards lie strewn about
+the icy ground like kindling. A short distance to the north a conflict
+continues between a lone figure and a pair of armed keep guards. Someone is
+apparently trying to breach the security of the keep with impressive
+results. The discharge of magical energies flood the air with their potent
+waves of destructive power. 
+~
+0 4 19
+0
+1
+2
+D0
+~
+~
+0 0 2853
+D2
+~
+~
+0 0 2850
+M 25 H 25
+S
+#2853
+Scene of a battle~
+Pools of {Rblood{x coat the icy ground cast off by dead and dying keep
+guards. Twin iron doors twice the height of a normal man hang blasted off
+their hinges to the keep. The air crackles from the release of potent
+magical energies making your exposed flesh tingle. A dying guard grasps your
+ankle before gasping his last breath. 
+~
+0 0 19
+0
+1
+2
+D0
+~
+~
+0 0 2854
+D2
+~
+~
+0 0 2852
+M 25 H 25
+S
+#2854
+Inside the keep~
+The inside of the keep is spartan by design, the grim stone wall coated
+with fresh {Rblood{x. Sounds of furious battle ahead ring loudly as steel
+crashes on steel. Loud thumps are heard as several bodies crash to the
+ground echoing loudly. The battle appears to be raging onward as the
+invading force penetrates the keep's defenses. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2855
+D2
+~
+~
+0 0 2853
+M 25 H 25
+S
+#2855
+Corridor of the Keep~
+Battered pieces of armor and broken weapons are strewn about the floor
+underfoot. The corpse of a drow guard quietly burns against one wall,
+his face frozen in a horrific deathmask. Loud curses are heard down the
+corridor ahead as the frantic guard attempt futiley to repel the invaders
+from the keep. Booted footsteps clang against the cold stone paving of the
+keep as reinforcements flood the area being attacked.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2856
+D2
+~
+~
+0 0 2854
+M 50 H 50
+S
+#2856
+Corridor of the Keep~
+Broken equipment lies amidst piles of dead and dying keep guards
+along the corridor. Wooden torches cast flickering shadows along the
+walls bathing the area in a surreal glow. Frantic guards dash past
+stopping briefly to check on fallen comrades before proceeding deeper
+into the heart of the keep. An iron door to the west appears unscathed
+amidst the chaos.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2858
+D2
+~
+~
+0 0 2855
+D3
+~
+iron~
+1 0 2857
+M 50 H 50
+S
+#2857
+Keep Storage~
+The large room is filled with crates and barrels bearing various
+foodstuffs as well as casks of wine. Linked sausages hang from hooks
+along the far wall awaiting preparation. Sounds of the battle for the
+keep are diminished here, probably a good sign. This may be a good spot
+to catch a breath and heal from injuries before proceeding further into
+the keep.
+~
+0 1036 0
+0
+1
+2
+D1
+~
+iron~
+1 0 2856
+M 30 H 30
+S
+#2858
+Corridor of the Keep~
+The sounds of the ensuing battle for the keep echo loudly down the
+cold stone corridor. Directly ahead a large foyer signifies the heart
+of the keep. A group of guards appear to have established a rally point
+there to repel the invaders. Perhaps some answers can be found there if
+conflict can be avoided.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2859
+D2
+~
+~
+0 0 2856
+M 50 H 50
+S
+#2859
+Central foyer of the keep~
+A circular shaped foyer is centered on the ground floor allowing access
+to other areas of the keep. Wide stone steps lead to the upper reaches of
+the keep directly ahead. Similar looking stone corridors lead through the
+bowels of the keep off the foyer. A ramshackle barrier blocks access to the
+upper regions of the keep manned by the desperate forces of the keep.
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2866
+D2
+~
+~
+0 0 2858
+D3
+~
+~
+0 0 2860
+M 25 H 25
+S
+#2860
+A corridor through the keep~
+Cold stone walls comprise the corridor, its drab interior highlighted
+by wooden torches along its walls. Footsteps sound in the distance as
+the keep's defenders strive to repel the invaders. Broken and battered
+equipment lie underfoot victim of the furious battles waged here. A foyer
+to the east leads to other portions of the besieged keep.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2859
+D3
+~
+~
+0 0 2861
+M 25 H 25
+S
+#2861
+A corridor through the keep~
+Cold unfeeling stone walls traverse the length of the keep lit by
+guttering wooden torches. The coarse stone paving underfoot is slick from
+spilled blood and broken discarded equipment. Sporadic fighting between the
+two forces makes travel through the keep a slow dangerous affair.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2860
+D3
+~
+~
+0 0 2862
+M 50 H 50
+S
+#2862
+A corridor through the keep~
+A broken and bloodied shield lies propped against the far wall,
+its owner lies in a bloodied defeated heap next to it. The young
+man appears to be a drow, his dark complexion almost a milky white
+frozen by death's embrace. His lifeless hand grasps his now useless
+weapon in a final defiant act of futility.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2861
+D3
+~
+~
+0 0 2863
+M 50 H 50
+S
+#2863
+A turn in the corridor~
+The corridor through the keep hits the rough stone outer wall of the keep
+here. The corridor ends before a large steel door directly to the north. The
+sounds of battle have diminished considerably in this corner of the keep. A
+chill draft wafts in through cracks in the stone wall stirring the dusty stone
+floor.
+~
+0 0 0
+0
+1
+2
+E
+walls~
+The mortar along several blocks of the stone wall has been replaced
+recently. One large stone juts out slightly from the others begging for a
+closer look. A crisp cold breeze wafts in through cracks in the mortar
+around the stone. 
+~
+E
+stone~
+What seemed to be cracks in the stone are actually a not too cleverly
+consealed keyhole! The shoddy workmanship around the stone has resulted in
+several cracks allowing the cold outside air access through the seemingly
+solid outer wall of the keep.
+~
+D0
+~
+~
+0 0 2864
+D1
+~
+~
+0 0 2862
+D3
+~
+stone~
+10 0 2870
+M 25 H 25
+S
+#2864
+A quiet corner of the keep~
+A thick steel door bars entrance to the room ahead. The sturdy door is
+firmly embedded in the thick stone of the keep. Twin torches highlight a
+single empty copper chamberpot placed at the ready beside the door. A glance
+at the door reveals any attempts at force on the door would be a wasted
+effort. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+steel~
+2 0 2865
+D2
+~
+~
+0 0 2863
+M 75 H 75
+S
+#2865
+~
+~
+0 0 0
+0
+1
+2
+D2
+~
+~
+2 0 2864
+M 25 H 25
+S
+#2866
+A corridor through the keep~
+Grim stone walls are lit by guttering wooden torches placed along
+its sides. The rough paving underfoot is littered with discarded and
+broken equipment. The sounds of furious battle rage throughout the keep
+as the defenders struggle to maintain order amidst the chaos. A foyer to
+the west is centered in the heart of the keep.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2867
+D3
+~
+~
+0 0 2859
+M 50 H 50
+S
+#2867
+A corridor through the keep~
+Slippery pools of drying {Rblood{x coat the rough stone floor of
+the corridor. The brains of one unfortunate fellow are sprayed all
+over the far wall here. The now quite dead man appears to be of the
+drow race, his dark skin turning a matching shade of grey like the
+stone wall he's slumped apon.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2868
+D3
+~
+~
+0 0 2866
+M 50 H 50
+S
+#2868
+A corridor through the keep~
+The grey stone walls of the keep echo with furious battle, steel on
+steel crashes loudly as the two forces collide for control of the keep.
+Drow guards struggle vainly to repel a seemingly endless onslaught by
+the invading force. An injured drow mystic wanders by cupping his side,
+his armor soaked in his own {rcrimson{x fluids.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2869
+D3
+~
+~
+0 0 2867
+M 50 H 50
+S
+#2869
+An apparent deadend~
+A fiery blaze has been set alit here, stone steps leading upwards
+into the keep are completely engulfed. Several corpses have been set
+afire amidst a hastily contrived barricade of wooden furniture and
+various flamable materials. Any further progress along this route will
+have to be after the fire has died down.
+~
+0 0 0
+0
+1
+2
+D3
+~
+~
+0 0 2868
+M 25 H 25
+S
+#2870
+A hidden passageway~
+A narrow passageway leads upward at a slight angle through the walls of
+the keep. A crisp cold breeze blasts in through several large holes in the
+foundation of the keep. Glittering frost covers the surfaces of the dusty
+passageway sparkling dimly in the lighting. A rounded stone serves as a
+somewhat clever exit out of the passageway to the east. 
+~
+0 2056 0
+0
+1
+2
+D1
+~
+~
+10 0 2863
+D4
+~
+~
+0 0 2871
+M 50 H 50
+S
+#2871
+A hidden passageway~
+A narrow dusty passageway leads upwards through the walls of the keep. A
+chilling breeze blasts upwards from below curtesy of cracks in the keeps'
+foundations below. Dust and cobwebs covered with frost line the cramped
+passageway. Light outlines a large stone block on the eastern wall of
+the passageway here.
+~
+0 2056 0
+0
+1
+2
+D1
+~
+stone~
+9 0 2872
+D5
+~
+~
+0 0 2870
+M 50 H 50
+S
+#2872
+A smoke filled hallway~
+The smell of burning wood and flesh hang heavy in the air fueled by
+several fires. Broken furniture lies piled along the length of the corridor
+set ablaze by the keep's defenders. The clash of steel on steel rings loudly
+as the battle rages onward. 
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2873
+D3
+~
+stone~
+9 0 2871
+M 25 H 25
+S
+#2873
+A smoke filled hallway~
+Thick black smoke fills the air fueled by burning fires set by the keeps'
+defenders. Armored figures struggle for control of the keep, piles of bodies
+mount along the way as the defeated surrender to death's everlasting
+embrace. The bodycount continues to mount as the battle nears its fruition
+towards the center of the keep. 
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2874
+D3
+~
+stone~
+0 0 2872
+M 25 H 25
+S
+#2874
+Center of the Keep~
+The center of the keep is a rounded oval room, bare walls have been
+stripped of all decoration. Fires blaze fed by broken furniture and
+mutilated corpses of the fallen. The air is alive with the release of
+ethereal magical energies from recent battle. A sundered iron door to the
+north has been ripped from its hinges and lies in a heap before it. Perhaps
+something of great importance lays in the great hall of the keep ahead. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2875
+D3
+~
+~
+0 0 2873
+M 25 H 25
+S
+#2875
+Grand Hall of the Keep~
+A once elegant {Rcrimson{x rug lies ruined apon the stone floor of the
+hall. Dead and dying fighters struggle vainly in heaps along the length of
+the great hall which extends northwards to the rear of the keep. Elaborate
+bronze braziers bathe the hall in a flickering embrace revealing the death
+throes of the fallen. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2876
+D2
+~
+~
+0 0 2874
+M 25 H 25
+S
+#2876
+Grand Hall of the Keep~
+Flickering bronze braziers display the death throes of the fallen leading
+towards the rear of the keep. A huddled group of figures appears to be close
+at hand to the north. An impressive metallic throne looms high ahead easily
+the size of three men. The seat of power of the keep must be the final stop
+in the battle for dominance of the keep. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2877
+D2
+~
+~
+0 0 2875
+M 25 H 25
+S
+#2877
+Throne of Gratzul~
+An ornately designed metallic throne towers high over the scene of
+carnage. Bodies of fallen drow defenders lie heaped high intermixed with
+those of the invaders. The scent of burnt sulphur over the seared flesh of
+the fallen makes senses reel. A large eight sided pentagram {Yglows{x on the
+body strewn ground where some of the corpses have been strategically placed.
+The metallic throne vibrates with {Menergy{x emitting an off pitch irritating
+hum.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 2876
+M 25 H 25
+S
+#2878
+Snow Covered Field~
+~
+0 0 20
+0
+0
+0
+D2
+~
+~
+0 0 2879
+D3
+~
+~
+0 0 2821
+M 25 H 25
+S
+#2879
+A Vast Expanse of Snow~
+~
+0 0 20
+0
+0
+0
+D0
+~
+~
+0 0 2878
+D2
+~
+~
+0 0 2880
+M 25 H 25
+S
+#2880
+A Vast Expanse of Snow~
+~
+0 0 20
+0
+0
+0
+D0
+~
+~
+0 0 2879
+D3
+~
+~
+0 0 2822
+M 25 H 25
+S
+#2881
+~
+~
+0 4 0
+0
+0
+0
+M 25 H 25
+S
+#2899
+Arctic Plains~
+The arctic plains of Irland stretch off far into the horizon, a
+glittering frozen wasteland of ice and snow. Heavy drifts of newly
+fallen snow cover a nondescript trail that heads off in a northerly
+direction. Gnarled elm trees line the trail encased in heavy frozen sheets
+of ice.
+~
+0 4 19
+0
+1
+2
+M 30 H 30
+S
+#0
+
+
+
+#SPECIALS
+M 2809 spec_cast_cleric
+M 2812 spec_repair
+M 2817 spec_cast_cleric
+M 2825 spec_cast_mage
+M 2899 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 2804 0 1
+D 0 2805 2 1
+D 0 2807 2 1
+D 0 2808 0 1
+D 0 2811 1 1
+D 0 2814 3 1
+D 0 2817 1 1
+D 0 2819 1 1
+D 0 2821 0 1
+D 0 2823 3 1
+D 0 2824 3 1
+D 0 2825 2 1
+D 0 2856 3 1
+D 0 2857 1 1
+D 0 2863 3 2
+D 0 2864 0 2
+D 0 2865 2 2
+D 0 2870 1 2
+D 0 2871 1 1
+D 0 2872 3 1
+M 0 2800 10 2800 2 Load a small {Wwh{Bi{Wte{x fox
+M 0 2801 10 2802 2 Load a brown mottled owlbear
+M 0 2800 10 2804 2 Load a small {Wwh{Bi{Wte{x fox
+M 0 2810 1 2804 1 Load Eli Tobogan
+O 0 2800 0 2805 A simple stone fireplace loaded to Inside a cozy dwelling
+M 0 2800 10 2806 2 Load a small {Wwh{Bi{Wte{x fox
+M 0 2800 10 2807 2 Load a small {Wwh{Bi{Wte{x fox
+O 0 2800 0 2808 A simple stone fireplace loaded to A warm dwelling
+O 0 2800 0 2809 A simple stone fireplace loaded to An empty dwelling
+P 0 2839 1 2800 1 A rotting piece of kindling put inside a rotting piece of kindling
+O 0 2802 0 2810 A circular stone fountain loaded to Hamlet of Irland
+M 0 2811 1 2812 1 Load Ellen, the mercantile owner
+G 0 2810 0 A swirling red vial is given to Ellen, the mercantile owner
+G 0 2812 0 A gold flecked potion is given to Ellen, the mercantile owner
+G 0 2813 0 A burnished bronze lamp is given to Ellen, the mercantile owner
+G 0 2814 0 A hefty copper flask is given to Ellen, the mercantile owner
+G 0 2815 0 A small bag of dried fox jerky is given to Ellen, the mercantile owner
+G 0 2805 0 A thick woolen bandage is given to Ellen, the mercantile owner
+O 0 2817 0 2813 The glowing forge of irland loaded to The Irland Smithery
+O 0 2816 0 2813 The impressive anvil of irland loaded to The Irland Smithery
+M 0 2812 1 2813 1 Load Bernak, the master smith of Irland
+G 0 2806 0 A rune covered mining pick is given to Bernak, the master smith of Irland
+O 0 2818 0 2814 An intricate wooden loom loaded to Irland Tailorshop
+M 0 2813 1 2814 1 Load Lucinda, the tailor of Irland
+G 0 2822 0 A thick fur overcoat is given to Lucinda, the tailor of Irland
+G 0 2823 0 Thick fur pants is given to Lucinda, the tailor of Irland
+G 0 2821 0 A thick wool cap is given to Lucinda, the tailor of Irland
+G 0 2807 0 A silver lined p{we{xa{wr{xl cloak is given to Lucinda, the tailor of Irland
+M 0 2803 15 2817 3 Load a wooly sheep
+M 0 2814 12 2819 2 Load a burly lumberjack
+E 0 2823 0 7 Thick fur pants is loaded on the legs of a burly lumberjack
+E 0 2822 0 5 A thick fur overcoat is loaded on the body of a burly lumberjack
+E 0 2821 0 6 A thick wool cap is loaded over the head of a burly lumberjack
+E 0 2820 0 15 A hand crafted woodaxe is loaded wielded of a burly lumberjack
+M 0 2814 12 2821 2 Load a burly lumberjack
+E 0 2820 0 15 A hand crafted woodaxe is loaded wielded of a burly lumberjack
+E 0 2821 0 6 A thick wool cap is loaded over the head of a burly lumberjack
+E 0 2822 0 5 A thick fur overcoat is loaded on the body of a burly lumberjack
+E 0 2823 0 7 Thick fur pants is loaded on the legs of a burly lumberjack
+M 0 2802 15 2821 2 Load a bright {Wwh{Bi{Wte{B sp{Wid{Ber{x
+M 0 2803 15 2821 2 Load a wooly sheep
+M 0 2805 15 2821 2 Load a long-horned ram
+M 0 2802 15 2822 2 Load a bright {Wwh{Bi{Wte{B sp{Wid{Ber{x
+M 0 2800 15 2822 2 Load a small {Wwh{Bi{Wte{x fox
+M 0 2803 15 2822 2 Load a wooly sheep
+M 0 2805 15 2822 2 Load a long-horned ram
+M 0 2804 1 2822 1 Load a long haired dog
+M 0 2807 1 2823 1 Load an elderly elven male
+E 0 2825 0 11 A {wwh{bi{wte{x fur blanket is loaded about the shoulders of an elderly elven male
+E 0 2823 0 7 Thick fur pants is loaded on the legs of an elderly elven male
+M 0 2802 15 2825 3 Load a bright {Wwh{Bi{Wte{B sp{Wid{Ber{x
+M 0 2802 15 2828 3 Load a bright {Wwh{Bi{Wte{B sp{Wid{Ber{x
+O 0 2895 0 2829 An elaborate alchemical apparatus loaded to Beneath the abandoned house
+M 0 2816 1 2829 1 Load Albart, the master alchemist
+M 0 2801 15 2832 2 Load a brown mottled owlbear
+M 0 2806 15 2833 2 Load a feral snowcat
+M 0 2806 15 2835 2 Load a feral snowcat
+M 0 2801 15 2837 2 Load a brown mottled owlbear
+M 0 2806 15 2837 2 Load a feral snowcat
+M 0 2806 15 2842 2 Load a feral snowcat
+M 0 2808 15 2846 2 Load a surly frost giant guard
+E 0 2830 0 5 A reinforced chain shirt is loaded on the body of a surly frost giant guard
+E 0 2831 0 7 A set of reinforced chain leggings is loaded on the legs of a surly frost giant guard
+E 0 2832 0 15 A serrated short sword is loaded wielded of a surly frost giant guard
+M 0 2809 1 2850 1 Load a frost giant shaman
+E 0 2833 0 11 A glowing satin robe adorned with strange symbols is loaded about the shoulders of a frost giant shaman
+E 0 2834 0 18 A burnt oak shortstaff is loaded held in the hands of a frost giant shaman
+M 0 2808 15 2851 2 Load a surly frost giant guard
+E 0 2830 0 5 A reinforced chain shirt is loaded on the body of a surly frost giant guard
+E 0 2831 0 7 A set of reinforced chain leggings is loaded on the legs of a surly frost giant guard
+E 0 2832 0 15 A serrated short sword is loaded wielded of a surly frost giant guard
+M 0 2820 15 2852 2 Load a frantic frost giant guard
+E 0 2835 0 5 Ebony half-plate is loaded on the body of a frantic frost giant guard
+E 0 2837 0 7 A pair of slightly dented a{dd{xa{dm{xa{dn{xt{di{xt{de{x greaves is loaded on the legs of a frantic frost giant guard
+E 0 2838 0 15 A flanged crossbow is loaded wielded of a frantic frost giant guard
+M 0 2820 15 2853 2 Load a frantic frost giant guard
+E 0 2835 0 5 Ebony half-plate is loaded on the body of a frantic frost giant guard
+E 0 2836 0 16 A very large, circular shield is loaded as a shield of a frantic frost giant guard
+E 0 2837 0 7 A pair of slightly dented a{dd{xa{dm{xa{dn{xt{di{xt{de{x greaves is loaded on the legs of a frantic frost giant guard
+E 0 2832 0 15 A serrated short sword is loaded wielded of a frantic frost giant guard
+M 0 2820 15 2854 6 Load a frantic frost giant guard
+E 0 2840 0 15 A curved a{dd{xa{dm{xa{dn{xt{di{xt{d{xe scimitar is loaded wielded of a frantic frost giant guard
+E 0 2835 0 5 Ebony half-plate is loaded on the body of a frantic frost giant guard
+M 0 2821 15 2855 3 Load a stoic frost giant invader
+E 0 2841 0 5 A noticeably enchanted chain mail shirt is loaded on the body of a stoic frost giant invader
+E 0 2842 0 6 A gothic style iron helm is loaded over the head of a stoic frost giant invader
+M 0 2820 15 2856 4 Load a frantic frost giant guard
+E 0 2835 0 5 Ebony half-plate is loaded on the body of a frantic frost giant guard
+E 0 2832 0 15 A serrated short sword is loaded wielded of a frantic frost giant guard
+O 0 2850 0 2857 A stout oak barrel loaded to Keep Storage
+P 0 2814 1 2850 1 A hefty copper flask put inside a hefty copper flask
+P 0 2815 1 2850 1 A small bag of dried fox jerky put inside a small bag of dried fox jerky
+M 0 2817 1 2863 3 Load a seasoned frost giant shaman
+E 0 2835 0 5 Ebony half-plate is loaded on the body of a seasoned frost giant shaman
+E 0 2840 0 15 A curved a{dd{xa{dm{xa{dn{xt{di{xt{d{xe scimitar is loaded wielded of a seasoned frost giant shaman
+E 0 2851 0 12 A girdle of containment is loaded around the waist of a seasoned frost giant shaman
+G 0 2852 0 A small steel key is given to a seasoned frost giant shaman
+M 0 2822 15 2875 3 Load an {Dundead{x frost giant marauder
+M 0 2821 15 2876 2 Load a stoic frost giant invader
+E 0 2841 0 5 A noticeably enchanted chain mail shirt is loaded on the body of a stoic frost giant invader
+E 0 2842 0 6 A gothic style iron helm is loaded over the head of a stoic frost giant invader
+O 0 2897 0 2877 A bloody mutilated corpse loaded to Throne of Gratzul
+O 0 2897 0 2877 A bloody mutilated corpse loaded to Throne of Gratzul
+M 0 2825 1 2877 1 Load Gratzul, the undead lichgiant
+E 0 2855 0 5 A billowing black robe is loaded on the body of Gratzul, the undead lichgiant
+E 0 2856 0 18 A long ashen staff is loaded held in the hands of Gratzul, the undead lichgiant
+M 0 2899 1 2877 1 Load the {Rdemonic{x throne of Gratzul
+M 0 2815 1 2899 1 Load Paul, the master lumberjack
+E 0 2899 0 15 {rs{ro{ru{rl{x {yc{yl{ye{ya{yv{ye{x is loaded wielded of Paul, the master lumberjack
+S
+
+
+
+#SHOPS
+2811 10 19 0 17 1 100 100 0 23
+0
+2812 0 9 5 0 0 100 100 0 23
+0
+2813 9 0 0 0 0 100 100 0 23
+0
+0
+
+
+
+#MOBPROGS
+#2800
+if ispc $n
+mob echoat $n The lumberjack collapses in a pool of blood!
+mob goto 2899
+mob transfer Paul 2800
+endif
+~
+#2801
+if carries $n 2801
+mob echoat $n A crooked smile cracks Eli's weathered face.
+mob echoat $n Eli accepts the hide with a nod of gratitude.
+mob echoat $n You return Eli's knife to him.
+mob remove $n 2898
+mob remove $n 2801
+mob junk hide
+mob junk knife
+mob echoat $n Eli gives you a calculating look..
+Say Here you may have this for your efforts.
+mob oload 2824 1 none
+give wristlet $n
+else
+if ispc $n
+mob echoat $n The elderly man nods in greeting at you.
+mob echoat $n The elderly man affixes you with a shrewd gaze.
+shrug
+emote mutters something under his breath.
+endif
+~
+#2802
+if ispc $n
+say Hello young one.
+mob echoat $n The elderly man introduces himself as Eli Tobogan.
+mob echoat $n After a brief conversation Eli mentions a few topics of interest.
+mob echoat $n {R[ Available Area Quests ]{x
+mob echoat $n {G(1) White Fox Menace{x
+mob echoat $n {G(2) Serious Spiders{x
+mob echoat $n {R(3) ???{x
+endif
+~
+#2803
+if ispc $n
+mob echoat $n The elderly man peers at you with curiosity.
+emote clears his throat loudly.
+say Why have you come here?
+endif
+~
+#2810
+if ispc $n
+mob echoat $n A slightly tattered feather drifts off the owlbear's corpse.
+mob oload 2803 1 Room
+endif
+~
+#2811
+if ispc $n
+mob echo {CA curious orb of energy emerges from the snowcat's corpse.{x
+mob oload 2890 1 Room
+endif
+~
+#2812
+if carries $n 2898
+mob echoat $n You grasp Eli's skinning knife in one hand..
+mob echoat $n With a few vicious strokes you retrieve a tattered piece of fox hide..
+mob oload 2801 1 Room
+mob force $n get hide
+else
+if ispc $n
+mob echoat $n A useless patch of fox hide drifts to the ground.
+endif
+endif
+~
+#2815
+if carries $n 2898
+say You have your task.
+say Bring me the hide of the white snow fox.
+emote grumbles something about simple minded adventurers.
+else
+if ispc $n
+mob echoat $n {R[Area Quest] {x{G(1) White Fox Menace{x
+mob echoat $n Eli blushes a bit and clears his throat..
+mob echoat $n Eli say's to you..
+mob echoat $n {CThe white foxes while not a nuisance to most...
+mob echoat $n Can be somewhat troublesome..
+mob echoat $n One particular one nipped me for no reason the other day.
+grimace
+mob echoat $n For its insolence, I'd like you get me some payback!
+mob echoat $n Simply bring me its hide!{x
+mob echoat $n With a flurish Eli stabs his trusty skinning knife into the ground!
+mob echoat $n {CWhen the time is right, use this knife.{x
+mob oload 2898 1 Room
+mob force $n get knife
+laugh
+endif
+endif
+~
+#2816
+if level $n > 12
+mob echoat $n {R[Area Quest]{x {G(2) Serious Spiders{x
+mob echoat $n Eli clears his throat loudly...
+mob echoat $n Eli say's
+mob echoat $n "I've recently come across a certain item."
+mob oload 2811 1 none
+give vial $n
+mob echoat $n "An old friend of mine has set up his lab nearby."
+mob echoat $n "He values his privacy but will do me this favor."
+mob echoat $n "Bring this vial to him and see if he has any use for it."
+else
+say I'm sorry your not strong enough for that quest.
+endif
+~
+#2820
+if carries $n 2811
+mob echoat $n The strange man appears startled at your entrance.
+mob echoat $n You hand the man the odd red vial given to you by Eli.
+mob remove $n 2811
+mob junk 2811
+mob echoat $n The man peers with interest at the red vial.
+mob echoat $n After a moment of perusing the vial..
+mob echoat $n The man pours the vial into the alchemical apparatus...
+mob echoat $n After a few moments of awkward silence...
+mob echoat $n The man takes the finished product and pours it into an empty vial..
+mob oload 2819 1 none
+say Here you go.. this should prove interesting I think.
+chuckle
+give cloudy $n
+else
+if ispc $n
+mob echoat $n The strange man appears startled by your entrance.
+sigh
+emote affixes you with a piercing glare.
+say Exactly why are you disturbing my work?
+endif
+endif
+~
+#2825
+~
+#2890
+if hpcnt $i < 80
+mob echoat $n Gratzul points a bony finger at the corpse by his feet.
+say Rise my undead minion!
+mob echoat $n An ethereal bolt of energy stabs into the corpse at his feet!
+mob echoat $n An undead drow marauder rises from the corpse!
+mob mload 2822
+mob purge mutilated
+else
+say You can't defeat me!
+endif
+~
+#2898
+if mobhere 2825
+mob echoat $n The demonic throne emits a loud piercing shriek!
+mob echoat $n A beam of {Re{Gn{Be{Rr{Gg{By{x blasts you from the throne!
+mob damage $n 100
+mob cast heal Gratzul
+mob cast acid blast $n
+endif
+~
+#2899
+if ispc $n
+open girdle
+put key girdle
+close girdle
+endif
+~
+#0
+
+#OBJPROGS
+#2899
+if ispc $n
+mob addgp $n 5
+endif
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

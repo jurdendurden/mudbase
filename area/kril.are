@@ -1,0 +1,1532 @@
+#AREADATA
+Name Krilantis'~
+Builders Krilantis~
+VNUMs 2100 2199
+Levels 0 0
+Credits Krilantis~
+Climate 0
+Security 9
+Flags 0
+End
+
+
+
+#MOBILES
+#2100
+An elite orc guard~
+An elite orc guard~
+A large orc with red and black armor on lumbers here
+~
+Standing here is a rather large orc that is wearing heavy red and black
+armor.  
+~
+goblin~
+AGT BC Jc 0 0
+10 8 10d8+20 10d8+100 30d4+5 slash
+-15 -15 -15 -15
+CDEFHK 0 Q C
+stand stand none 50
+AHMV ABCDEFGHIJK medium
+ unknown
+#2101
+goblin slave~
+A goblin slave~
+A goblin runs around working
+~
+The goblin runs around working for his master, the orcs.
+~
+goblin~
+AGS B J 0 0
+9 0 9d8+18 9d8+100 30d1+2 scratch
+-15 -15 -15 -15
+0 0 Q C
+stand stand none 20
+AHMV ABCDEFGHIJK medium
+ unknown
+#2102
+A human slave~
+A human slave~
+A human slave is here looking very sick
+~
+A human slave is sitting here looking very sick and pale.
+~
+human~
+AG C 0 1000 0
+9 0 9d8+18 9d8+100 20d1+2 punch
+-15 -15 -15 -15
+0 0 0 0
+stand stand male 20
+AHMV ABCDEFGHIJK medium
+ unknown
+#2103
+A troll berserker~
+A troll berserker~
+A troll with bloody-spiked armor lumbers here.
+~
+This is a rather large troll that has armor with many spikes all of it
+and most of the spikes are covered in blood and rust.  The troll seems to be
+partroling the cleared forest round this area.  
+~
+troll~
+AGTW CD FJVac -1000 0
+13 35 13d8+26 13d8+100 25d5+2 claw
+-20 -20 -20 -20
+CFKO 0 BE HK
+stand stand none 50
+ABHMV ABCDEFGHIJKUV large
+ unknown
+F off D
+#0
+
+
+
+#OBJECTS
+#2100
+A potion of better health~
+a dark red potion~
+A dark red potion~
+mithril~
+potion ABI CD A
+40 'wrath of the ancients' 'tribute to gnomish ingenuity' 'aggressive staccato' 'hymn to the fallen'
+6 1 40000 P
+#2101
+A long sword of slaying~
+a sword~
+A long sword of slaying~
+mithril~
+weapon ABIY 0 AN
+sword 13 1 slash DEF
+5 0 0 P
+#0
+
+
+
+#ROOMS
+#2100
+A landing~
+A shallow landing on to a rocky shoreline.  To the north can be seen a
+trail leading into a forested area.  
+~
+0 0 13
+D0
+~
+~
+0 0 2101
+M 10 H 10
+S
+#2101
+a trail leading north~
+This is a light forest path the leads north and south, some plants can be
+seen growing over the path here and there.  
+~
+0 0 3
+D0
+~
+~
+0 0 2102
+D2
+~
+~
+0 0 2100
+M 10 H 10
+S
+#2102
+A 4-way road~
+This road goes 4-ways from here.  To the north looks to be some kind of
+keep.  To the east and west it looks as if the forest has been cleared a
+little and somthing is being build.  
+~
+0 0 3
+D0
+~
+~
+0 0 2124
+D1
+~
+~
+0 0 2123
+D2
+~
+~
+0 0 2101
+D3
+~
+~
+0 0 2103
+M 10 H 10
+S
+#2103
+A path of cleared forest~
+This is a path that leads east and west, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D1
+~
+~
+0 0 2102
+D3
+~
+~
+0 0 2104
+M 10 H 10
+S
+#2104
+A path of cleared forest~
+This is a path that leads east and west, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D1
+~
+~
+0 0 2103
+D3
+~
+~
+0 0 2105
+M 10 H 10
+S
+#2105
+A path of cleared forest~
+This is a path that leads east and north, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D0
+~
+~
+0 0 2106
+D1
+~
+~
+0 0 2104
+M 10 H 10
+S
+#2106
+A path of cleared forest~
+This is a path that leads south and north, it has been cleared of most
+its trees so a row of orcs could march side by side.  
+~
+0 0 3
+D0
+~
+~
+0 0 2107
+D2
+~
+~
+0 0 2105
+M 10 H 10
+S
+#2107
+A path of cleared forest~
+This is a path that leads south and north, it has been cleared of most
+its trees so a row of orcs could march side by side.  
+~
+0 0 3
+D0
+~
+~
+0 0 2108
+D2
+~
+~
+0 0 2106
+M 10 H 10
+S
+#2108
+A path of cleared forest~
+This is a path that leads south and north, it has been cleared of most
+its trees so a row of orcs could march side by side.  
+~
+0 0 3
+D0
+~
+~
+0 0 2109
+D2
+~
+~
+0 0 2107
+M 10 H 10
+S
+#2109
+A path of cleared forest~
+This is a path that leads south and east, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D1
+~
+~
+0 0 2110
+D2
+~
+~
+0 0 2108
+M 10 H 10
+S
+#2110
+A path of cleared forest~
+This is a path that leads east and west, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D1
+~
+~
+0 0 2111
+D3
+~
+~
+0 0 2109
+M 10 H 10
+S
+#2111
+A path of cleared forest~
+This is a path that leads east and west, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D1
+~
+~
+0 0 2112
+D3
+~
+~
+0 0 2110
+M 10 H 10
+S
+#2112
+A path of cleared forest~
+This is a path that leads east and west, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D1
+~
+~
+0 0 2114
+D3
+~
+~
+0 0 2111
+M 10 H 10
+S
+#2113
+~
+~
+0 0 0
+D3
+~
+~
+0 0 2112
+M 10 H 10
+S
+#2114
+A path of cleared forest~
+This is a path that leads east and west, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D1
+~
+~
+0 0 2115
+D3
+~
+~
+0 0 2112
+M 10 H 10
+S
+#2115
+A path of cleared forest~
+This is a path that leads east and west, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D1
+~
+~
+0 0 2116
+D3
+~
+~
+0 0 2114
+M 10 H 10
+S
+#2116
+A path of cleared forest~
+This is a path that leads west and south, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D2
+~
+~
+0 0 2117
+D3
+~
+~
+0 0 2115
+M 10 H 10
+S
+#2117
+A path of cleared forest~
+This is a path that leads north and south, it has been cleared of most
+its trees so a row of orcs could march side by side.  
+~
+0 0 3
+D0
+~
+~
+0 0 2116
+D2
+~
+~
+0 0 2118
+M 10 H 10
+S
+#2118
+A path of cleared forest~
+This is a path that leads north and south, it has been cleared of most
+its trees so a row of orcs could march side by side.  
+~
+0 0 3
+D0
+~
+~
+0 0 2117
+D2
+~
+~
+0 0 2119
+M 10 H 10
+S
+#2119
+A path of cleared forest~
+This is a path that leads north and south, it has been cleared of most
+its trees so a row of orcs could march side by side.  
+~
+0 0 3
+D0
+~
+~
+0 0 2118
+D2
+~
+~
+0 0 2120
+M 10 H 10
+S
+#2120
+A path of cleared forest~
+This is a path that leads north and south, it has been cleared of most
+its trees so a row of orcs could march side by side.  
+~
+0 0 3
+D0
+~
+~
+0 0 2119
+D2
+~
+~
+0 0 2121
+M 10 H 10
+S
+#2121
+A path of cleared forest~
+This is a path that leads west and north, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D0
+~
+~
+0 0 2120
+D3
+~
+~
+0 0 2122
+M 10 H 10
+S
+#2122
+A path of cleared forest~
+This is a path that leads west and east, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D1
+~
+~
+0 0 2121
+D3
+~
+~
+0 0 2123
+M 10 H 10
+S
+#2123
+A path of cleared forest~
+This is a path that leads west and east, it has been cleared of most its
+trees so a row of orcs could march side by side.  
+~
+0 0 3
+D1
+~
+~
+0 0 2122
+D3
+~
+~
+0 0 2102
+M 10 H 10
+S
+#2124
+A wooden gate~
+There is a large gate made from lumber Standing here.
+~
+0 0 3
+D0
+~
+lumber~
+1 0 2125
+D2
+~
+~
+0 0 2102
+M 10 H 10
+S
+#2125
+Front of the Orc base~
+To the north the center of the orc's forest base can be seen.  The trees
+have been cut down and turned into a spiked fence that is guarding the base.
+~
+0 0 5
+D0
+~
+~
+0 0 2126
+D2
+~
+~
+1 0 2124
+M 10 H 10
+S
+#2126
+Center of the Orc's base~
+This room look to be the center of this orc base.  Many of the beast can
+be seen walking from room to room carry stuff.  Some can even be seen
+carrying stuff down the stairs.  
+~
+0 0 0
+D0
+~
+~
+0 0 2127
+D1
+~
+~
+0 0 2128
+D2
+~
+~
+0 0 2125
+D3
+~
+~
+0 0 2129
+D5
+~
+~
+0 0 2130
+M 10 H 10
+S
+#2127
+Store room~
+Creates of good are piled all along the walls and floors of this room.
+~
+0 0 0
+D2
+~
+~
+0 0 2126
+M 10 H 10
+S
+#2128
+Store room~
+Creates of good are piled all along the walls and floors of this room.
+~
+0 0 0
+D3
+~
+~
+0 0 2126
+M 10 H 10
+S
+#2129
+Store room~
+Creates of good are piled all along the walls and floors of this room.  
+~
+0 0 0
+D1
+~
+~
+0 0 2126
+M 10 H 10
+S
+#2130
+Center of the goblin slave lines~
+You stand in the center of the goblins slave lines.  Looking all around
+you can see goblin slaves working away.  
+~
+0 0 0
+D0
+~
+~
+0 0 2132
+D1
+~
+~
+0 0 2134
+D2
+~
+~
+0 0 2138
+D3
+~
+~
+0 0 2136
+D4
+~
+~
+0 0 2126
+D5
+~
+~
+0 0 2131
+M 10 H 10
+S
+#2131
+Center of the jail~
+You are standing in the center of the jail of the Orc base.  Cells can be
+seen all around.
+~
+0 0 0
+D0
+~
+~
+0 0 2166
+D1
+~
+~
+0 0 2140
+D2
+~
+~
+0 0 2149
+D3
+~
+~
+0 0 2158
+D4
+~
+~
+0 0 2130
+M 10 H 10
+S
+#2132
+Goblin slave line~
+Goblins are here working on reinforcing the walls and digging tunnles.
+~
+0 0 0
+D0
+~
+~
+0 0 2133
+D2
+~
+~
+0 0 2130
+M 10 H 10
+S
+#2133
+Goblin slave line~
+Goblins are here working on reinforcing the walls and digging tunnles.
+~
+0 0 0
+D2
+~
+~
+0 0 2132
+M 10 H 10
+S
+#2134
+Goblin slave line~
+Goblins are here working on reinforcing the walls and digging tunnles.
+~
+0 0 0
+D1
+~
+~
+0 0 2135
+D3
+~
+~
+0 0 2130
+M 10 H 10
+S
+#2135
+Goblin slave line~
+Goblins are here working on reinforcing the walls and digging tunnles.
+~
+0 0 0
+D3
+~
+~
+0 0 2134
+M 10 H 10
+S
+#2136
+Goblin slave line~
+Goblins are here working on reinforcing the walls and digging tunnles.
+~
+0 0 0
+D1
+~
+~
+0 0 2130
+D3
+~
+~
+0 0 2137
+M 10 H 10
+S
+#2137
+Goblin slave line~
+Goblins are here working on reinforcing the walls and digging tunnles.
+~
+0 0 0
+D1
+~
+~
+0 0 2136
+M 10 H 10
+S
+#2138
+Goblin slave line~
+Goblins are here working on reinforcing the walls and digging tunnles.
+~
+0 0 0
+D0
+~
+~
+0 0 2130
+D2
+~
+~
+0 0 2139
+M 10 H 10
+S
+#2139
+Goblin slave line~
+Goblins are here working on reinforcing the walls and digging tunnles.
+~
+0 0 0
+D0
+~
+~
+0 0 2138
+M 10 H 10
+S
+#2140
+Center of the cells~
+There are cells to the north and south
+~
+0 0 0
+D0
+~
+~
+1 0 2147
+D1
+~
+~
+0 0 2141
+D2
+~
+~
+1 0 2148
+D3
+~
+~
+0 0 2131
+M 10 H 10
+S
+#2141
+Center of the cells~
+There are cells to the north and south
+~
+0 0 0
+D0
+~
+~
+1 0 2146
+D1
+~
+~
+0 0 2142
+D2
+~
+~
+1 0 2145
+D3
+~
+~
+0 0 2140
+M 10 H 10
+S
+#2142
+Center of the cells~
+There are cells to the north and south
+~
+0 0 0
+D0
+~
+~
+1 0 2143
+D2
+~
+~
+1 0 2144
+D3
+~
+~
+0 0 2141
+M 10 H 10
+S
+#2143
+A jail cell~
+~
+0 0 0
+D2
+~
+~
+1 0 2142
+M 10 H 10
+S
+#2144
+A jail cell~
+~
+0 0 0
+D0
+~
+~
+1 0 2142
+M 10 H 10
+S
+#2145
+A jail cell~
+~
+0 0 0
+D0
+~
+~
+1 0 2141
+M 10 H 10
+S
+#2146
+A jail cell~
+~
+0 0 0
+D2
+~
+~
+1 0 2141
+M 10 H 10
+S
+#2147
+A jail cell~
+~
+0 0 0
+D2
+~
+~
+1 0 2140
+M 10 H 10
+S
+#2148
+A jail cell~
+~
+0 0 0
+D0
+~
+~
+1 0 2140
+M 10 H 10
+S
+#2149
+Center of the cells~
+~
+0 0 0
+D0
+~
+~
+0 0 2131
+D1
+~
+~
+1 0 2156
+D2
+~
+~
+0 0 2150
+D3
+~
+~
+1 0 2157
+M 10 H 10
+S
+#2150
+Center of the cells~
+~
+0 0 0
+D0
+~
+~
+0 0 2149
+D1
+~
+~
+1 0 2155
+D2
+~
+~
+0 0 2151
+D3
+~
+~
+1 0 2154
+M 10 H 10
+S
+#2151
+Center of the cells~
+~
+0 0 0
+D0
+~
+~
+0 0 2150
+D1
+~
+~
+1 0 2152
+D3
+~
+~
+1 0 2153
+M 10 H 10
+S
+#2152
+A jail cell~
+~
+0 0 0
+D3
+~
+~
+1 0 2151
+M 10 H 10
+S
+#2153
+A jail cell~
+~
+0 0 0
+D1
+~
+~
+1 0 2151
+M 10 H 10
+S
+#2154
+A jail cell~
+~
+0 0 0
+D1
+~
+~
+1 0 2150
+M 10 H 10
+S
+#2155
+A jail cell~
+~
+0 0 0
+D3
+~
+~
+1 0 2150
+M 10 H 10
+S
+#2156
+A jail cell~
+~
+0 0 0
+D3
+~
+~
+1 0 2149
+M 10 H 10
+S
+#2157
+A jail cell~
+~
+0 0 0
+D1
+~
+~
+1 0 2149
+M 10 H 10
+S
+#2158
+Center of the cells~
+There are cells to the north and south with human slaves in them.
+~
+0 0 0
+D0
+~
+~
+1 0 2165
+D1
+~
+~
+0 0 2131
+D2
+~
+~
+1 0 2165
+D3
+~
+~
+0 0 2159
+M 10 H 10
+S
+#2159
+Center of the cells~
+There are cells to the north and south with human slaves in them.
+~
+0 0 0
+D0
+~
+~
+1 0 2164
+D1
+~
+~
+0 0 2158
+D2
+~
+~
+1 0 2163
+D3
+~
+~
+0 0 2160
+M 10 H 10
+S
+#2160
+Center of the cells~
+There are cells to the north and south with human slaves in them.  
+~
+0 0 0
+D0
+~
+~
+1 0 2161
+D1
+~
+~
+0 0 2159
+D2
+~
+~
+1 0 2162
+M 10 H 10
+S
+#2161
+A jail cell~
+~
+0 0 0
+D2
+~
+~
+1 0 2160
+M 10 H 10
+S
+#2162
+A jail cell~
+~
+0 0 0
+D0
+~
+~
+1 0 2160
+M 10 H 10
+S
+#2163
+A jail cell~
+~
+0 0 0
+D0
+~
+~
+1 0 2159
+M 10 H 10
+S
+#2164
+A jail cell~
+~
+0 0 0
+D2
+~
+~
+1 0 2159
+M 10 H 10
+S
+#2165
+A jail cell~
+~
+0 0 0
+D0
+~
+~
+1 0 2158
+D2
+~
+~
+1 0 2158
+M 10 H 10
+S
+#2166
+Center of the cells~
+~
+0 0 0
+D0
+~
+~
+0 0 2167
+D1
+~
+~
+1 0 2173
+D2
+~
+~
+0 0 2131
+D3
+~
+~
+1 0 2174
+M 10 H 10
+S
+#2167
+Center of the cells~
+~
+0 0 0
+D0
+~
+~
+0 0 2168
+D1
+~
+~
+1 0 2171
+D2
+~
+~
+0 0 2166
+D3
+~
+~
+1 0 2172
+M 10 H 10
+S
+#2168
+Center of the cells~
+~
+0 0 0
+D1
+~
+~
+1 0 2170
+D2
+~
+~
+0 0 2167
+D3
+~
+~
+1 0 2175
+M 10 H 10
+S
+#2169
+~
+~
+0 0 0
+D3
+~
+~
+0 0 2168
+M 10 H 10
+S
+#2170
+~
+~
+0 0 0
+D3
+~
+~
+1 0 2168
+M 10 H 10
+S
+#2171
+~
+~
+0 0 0
+D3
+~
+~
+1 0 2167
+M 10 H 10
+S
+#2172
+~
+~
+0 0 0
+D1
+~
+~
+1 0 2167
+M 10 H 10
+S
+#2173
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2166
+D3
+~
+~
+1 0 2166
+M 10 H 10
+S
+#2174
+~
+~
+0 0 0
+D1
+~
+~
+1 0 2166
+M 10 H 10
+S
+#2175
+~
+~
+0 0 0
+D1
+~
+~
+1 0 2168
+M 10 H 10
+S
+#0
+
+
+
+#SPECIALS
+M 2100 spec_guard
+S
+
+
+
+#RESETS
+D 0 2124 0 1
+D 0 2125 2 1
+D 0 2140 0 1
+D 0 2140 2 1
+D 0 2141 0 1
+D 0 2141 2 1
+D 0 2142 0 1
+D 0 2142 2 1
+D 0 2143 2 1
+D 0 2144 0 1
+D 0 2145 0 1
+D 0 2146 2 1
+D 0 2147 2 1
+D 0 2148 0 1
+D 0 2149 1 1
+D 0 2149 3 1
+D 0 2150 1 1
+D 0 2150 3 1
+D 0 2151 1 1
+D 0 2151 3 1
+D 0 2152 3 1
+D 0 2153 1 1
+D 0 2154 1 1
+D 0 2155 3 1
+D 0 2156 3 1
+D 0 2157 1 1
+D 0 2158 0 1
+D 0 2158 2 1
+D 0 2159 0 1
+D 0 2159 2 1
+D 0 2160 0 1
+D 0 2160 2 1
+D 0 2161 2 1
+D 0 2162 0 1
+D 0 2163 0 1
+D 0 2164 2 1
+D 0 2165 0 1
+D 0 2165 2 1
+D 0 2166 1 1
+D 0 2166 3 1
+D 0 2167 1 1
+D 0 2167 3 1
+D 0 2168 1 1
+D 0 2168 3 1
+D 0 2170 3 1
+D 0 2171 3 1
+D 0 2172 1 1
+D 0 2173 3 1
+D 0 2174 1 1
+D 0 2175 1 1
+M 0 2103 17 2104 3 Load A troll berserker
+E 0 18 0 15 (no short description) is loaded wielded of A troll berserker
+O 0 27 0 2104 Tracks loaded to A path of cleared forest
+O 0 27 0 2104 Tracks loaded to A path of cleared forest
+O 0 27 0 2104 Tracks loaded to A path of cleared forest
+O 0 27 0 2104 Tracks loaded to A path of cleared forest
+O 0 27 0 2104 Tracks loaded to A path of cleared forest
+M 0 2103 16 2105 3 Load A troll berserker
+E 0 18 0 9 (no short description) is loaded on the hands of A troll berserker
+O 0 27 0 2105 Tracks loaded to A path of cleared forest
+O 0 27 0 2105 Tracks loaded to A path of cleared forest
+O 0 27 0 2105 Tracks loaded to A path of cleared forest
+M 0 2103 16 2106 3 Load A troll berserker
+O 0 27 0 2106 Tracks loaded to A path of cleared forest
+O 0 27 0 2106 Tracks loaded to A path of cleared forest
+M 0 2103 16 2107 3 Load A troll berserker
+E 0 18 0 3 (no short description) is loaded around the neck (1) of A troll berserker
+O 0 27 0 2107 Tracks loaded to A path of cleared forest
+O 0 27 0 2107 Tracks loaded to A path of cleared forest
+M 0 2103 16 2109 3 Load A troll berserker
+E 0 18 0 15 (no short description) is loaded wielded of A troll berserker
+E 0 18 0 5 (no short description) is loaded on the body of A troll berserker
+O 0 27 0 2109 Tracks loaded to A path of cleared forest
+O 0 27 0 2109 Tracks loaded to A path of cleared forest
+M 0 2103 16 2110 3 Load A troll berserker
+O 0 27 0 2110 Tracks loaded to A path of cleared forest
+O 0 27 0 2110 Tracks loaded to A path of cleared forest
+O 0 27 0 2110 Tracks loaded to A path of cleared forest
+M 0 2103 16 2111 3 Load A troll berserker
+E 0 18 0 15 (no short description) is loaded wielded of A troll berserker
+O 0 27 0 2111 Tracks loaded to A path of cleared forest
+O 0 27 0 2111 Tracks loaded to A path of cleared forest
+O 0 27 0 2111 Tracks loaded to A path of cleared forest
+M 0 2103 16 2112 3 Load A troll berserker
+O 0 27 0 2112 Tracks loaded to A path of cleared forest
+O 0 27 0 2112 Tracks loaded to A path of cleared forest
+M 0 2103 16 2114 3 Load A troll berserker
+G 0 18 0 (no short description) is given to A troll berserker
+G 0 18 0 (no short description) is given to A troll berserker
+O 0 27 0 2114 Tracks loaded to A path of cleared forest
+O 0 27 0 2114 Tracks loaded to A path of cleared forest
+O 0 27 0 2114 Tracks loaded to A path of cleared forest
+M 0 2103 16 2116 3 Load A troll berserker
+O 0 27 0 2116 Tracks loaded to A path of cleared forest
+O 0 27 0 2116 Tracks loaded to A path of cleared forest
+M 0 2103 16 2117 3 Load A troll berserker
+G 0 18 0 (no short description) is given to A troll berserker
+O 0 27 0 2117 Tracks loaded to A path of cleared forest
+O 0 27 0 2117 Tracks loaded to A path of cleared forest
+M 0 2103 16 2118 3 Load A troll berserker
+E 0 18 0 15 (no short description) is loaded wielded of A troll berserker
+G 0 18 0 (no short description) is given to A troll berserker
+O 0 27 0 2118 Tracks loaded to A path of cleared forest
+O 0 27 0 2118 Tracks loaded to A path of cleared forest
+O 0 27 0 2118 Tracks loaded to A path of cleared forest
+M 0 2103 16 2119 3 Load A troll berserker
+O 0 27 0 2119 Tracks loaded to A path of cleared forest
+O 0 27 0 2119 Tracks loaded to A path of cleared forest
+O 0 27 0 2119 Tracks loaded to A path of cleared forest
+M 0 2103 16 2120 3 Load A troll berserker
+G 0 18 0 (no short description) is given to A troll berserker
+O 0 27 0 2120 Tracks loaded to A path of cleared forest
+O 0 27 0 2120 Tracks loaded to A path of cleared forest
+M 0 2103 16 2121 3 Load A troll berserker
+E 0 18 0 15 (no short description) is loaded wielded of A troll berserker
+E 0 18 0 9 (no short description) is loaded on the hands of A troll berserker
+M 0 2103 16 2121 3 Load A troll berserker
+E 0 18 0 10 (no short description) is loaded on the arms of A troll berserker
+O 0 27 0 2121 Tracks loaded to A path of cleared forest
+O 0 27 0 2121 Tracks loaded to A path of cleared forest
+O 0 27 0 2121 Tracks loaded to A path of cleared forest
+M 0 2103 16 2123 3 Load A troll berserker
+O 0 27 0 2123 Tracks loaded to A path of cleared forest
+O 0 27 0 2123 Tracks loaded to A path of cleared forest
+O 0 27 0 2123 Tracks loaded to A path of cleared forest
+M 0 2100 9 2126 3 Load An elite orc guard
+E 0 18 0 10 (no short description) is loaded on the arms of An elite orc guard
+E 0 18 0 16 (no short description) is loaded as a shield of An elite orc guard
+G 0 18 0 (no short description) is given to An elite orc guard
+M 0 2100 6 2127 3 Load An elite orc guard
+E 0 18 0 3 (no short description) is loaded around the neck (1) of An elite orc guard
+G 0 18 0 (no short description) is given to An elite orc guard
+M 0 2100 6 2127 3 Load An elite orc guard
+G 0 18 0 (no short description) is given to An elite orc guard
+E 0 18 0 5 (no short description) is loaded on the body of An elite orc guard
+M 0 2100 6 2127 3 Load An elite orc guard
+G 0 18 0 (no short description) is given to An elite orc guard
+E 0 18 0 15 (no short description) is loaded wielded of An elite orc guard
+M 0 2100 8 2128 3 Load An elite orc guard
+E 0 18 0 16 (no short description) is loaded as a shield of An elite orc guard
+E 0 18 0 8 (no short description) is loaded on the feet of An elite orc guard
+E 0 18 0 15 (no short description) is loaded wielded of An elite orc guard
+M 0 2100 8 2128 3 Load An elite orc guard
+E 0 18 0 9 (no short description) is loaded on the hands of An elite orc guard
+E 0 18 0 3 (no short description) is loaded around the neck (1) of An elite orc guard
+E 0 18 0 15 (no short description) is loaded wielded of An elite orc guard
+M 0 2100 4 2129 3 Load An elite orc guard
+E 0 18 0 15 (no short description) is loaded wielded of An elite orc guard
+E 0 18 0 6 (no short description) is loaded over the head of An elite orc guard
+E 0 18 0 8 (no short description) is loaded on the feet of An elite orc guard
+M 0 2100 4 2129 3 Load An elite orc guard
+E 0 18 0 10 (no short description) is loaded on the arms of An elite orc guard
+E 0 18 0 13 (no short description) is loaded on the left wrist of An elite orc guard
+M 0 2100 1 2130 1 Load An elite orc guard
+M 0 2100 2 2131 3 Load An elite orc guard
+E 0 18 0 15 (no short description) is loaded wielded of An elite orc guard
+G 0 18 0 (no short description) is given to An elite orc guard
+E 0 18 0 12 (no short description) is loaded around the waist of An elite orc guard
+M 0 2101 24 2132 3 Load A goblin slave
+M 0 2101 24 2132 3 Load A goblin slave
+M 0 2101 24 2132 3 Load A goblin slave
+M 0 2101 24 2133 3 Load A goblin slave
+M 0 2101 24 2133 3 Load A goblin slave
+E 0 18 0 15 (no short description) is loaded wielded of A goblin slave
+M 0 2101 24 2133 3 Load A goblin slave
+M 0 2101 15 2134 3 Load A goblin slave
+M 0 2101 15 2134 3 Load A goblin slave
+M 0 2101 15 2134 3 Load A goblin slave
+M 0 2101 18 2135 3 Load A goblin slave
+M 0 2101 18 2135 3 Load A goblin slave
+M 0 2101 18 2135 3 Load A goblin slave
+M 0 2101 24 2136 3 Load A goblin slave
+M 0 2101 24 2136 3 Load A goblin slave
+M 0 2101 24 2136 3 Load A goblin slave
+M 0 2101 24 2137 3 Load A goblin slave
+M 0 2101 24 2137 3 Load A goblin slave
+M 0 2101 24 2137 3 Load A goblin slave
+M 0 2101 21 2138 3 Load A goblin slave
+M 0 2101 21 2138 3 Load A goblin slave
+M 0 2101 21 2138 3 Load A goblin slave
+M 0 2101 24 2139 3 Load A goblin slave
+M 0 2101 24 2139 3 Load A goblin slave
+E 0 18 0 19 (no short description) is loaded floating nearby of A goblin slave
+M 0 2101 24 2139 3 Load A goblin slave
+M 0 2102 66 2143 3 Load A human slave
+M 0 2102 66 2143 3 Load A human slave
+M 0 2102 66 2143 3 Load A human slave
+M 0 2102 64 2144 3 Load A human slave
+M 0 2102 64 2144 3 Load A human slave
+M 0 2102 64 2144 3 Load A human slave
+M 0 2102 21 2145 3 Load A human slave
+M 0 2102 21 2145 3 Load A human slave
+M 0 2102 21 2145 3 Load A human slave
+M 0 2102 23 2146 3 Load A human slave
+M 0 2102 23 2146 3 Load A human slave
+M 0 2102 23 2146 3 Load A human slave
+M 0 2102 16 2147 3 Load A human slave
+M 0 2102 16 2147 3 Load A human slave
+M 0 2102 16 2147 3 Load A human slave
+M 0 2102 19 2148 3 Load A human slave
+M 0 2102 19 2148 3 Load A human slave
+M 0 2102 19 2148 3 Load A human slave
+M 0 2102 63 2152 3 Load A human slave
+M 0 2102 63 2152 3 Load A human slave
+M 0 2102 63 2152 3 Load A human slave
+M 0 2102 63 2153 3 Load A human slave
+M 0 2102 63 2153 3 Load A human slave
+M 0 2102 63 2153 3 Load A human slave
+M 0 2102 63 2154 3 Load A human slave
+M 0 2102 63 2154 3 Load A human slave
+M 0 2102 63 2154 3 Load A human slave
+M 0 2102 63 2155 3 Load A human slave
+M 0 2102 63 2155 3 Load A human slave
+M 0 2102 63 2155 3 Load A human slave
+M 0 2102 63 2156 3 Load A human slave
+M 0 2102 63 2156 3 Load A human slave
+M 0 2102 63 2156 3 Load A human slave
+M 0 2102 63 2157 3 Load A human slave
+M 0 2102 63 2157 3 Load A human slave
+M 0 2102 63 2157 3 Load A human slave
+M 0 2102 63 2161 3 Load A human slave
+M 0 2102 63 2161 3 Load A human slave
+M 0 2102 63 2161 3 Load A human slave
+M 0 2102 63 2162 3 Load A human slave
+M 0 2102 63 2162 3 Load A human slave
+M 0 2102 63 2162 3 Load A human slave
+M 0 2102 63 2163 3 Load A human slave
+M 0 2102 63 2163 3 Load A human slave
+M 0 2102 63 2163 3 Load A human slave
+M 0 2102 63 2164 3 Load A human slave
+M 0 2102 63 2164 3 Load A human slave
+M 0 2102 63 2164 3 Load A human slave
+M 0 2102 13 2165 3 Load A human slave
+M 0 2102 13 2165 3 Load A human slave
+M 0 2102 13 2165 3 Load A human slave
+M 0 2102 35 2170 3 Load A human slave
+M 0 2102 35 2170 3 Load A human slave
+M 0 2102 35 2170 3 Load A human slave
+M 0 2102 38 2171 3 Load A human slave
+M 0 2102 38 2171 3 Load A human slave
+M 0 2102 38 2171 3 Load A human slave
+M 0 2102 29 2172 3 Load A human slave
+M 0 2102 29 2172 3 Load A human slave
+M 0 2102 29 2172 3 Load A human slave
+M 0 2102 4 2173 4 Load A human slave
+M 0 2102 26 2174 3 Load A human slave
+M 0 2102 26 2174 3 Load A human slave
+M 0 2102 26 2174 3 Load A human slave
+M 0 2102 32 2175 3 Load A human slave
+M 0 2102 32 2175 3 Load A human slave
+M 0 2102 32 2175 3 Load A human slave
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#QUESTS
+#0
+
+
+
+#$

@@ -1,0 +1,2633 @@
+#AREADATA
+Name Golthek~
+Builders Jhyps Upro Griznak~
+VNUMs 2500 2599
+Levels 5 15
+Credits (null)~
+Climate 1
+PrimaryResource hide~
+Security 6
+Flags 3
+Faction golthek~
+History (null) The half-orc town of Golthek was founded by a mysterious hero, known
+to the half-orcs as Griznak. Shortly after erecting the Golthek Arena and
+organizing the town's mercenary army, Griznak mysteriously vanished. The town
+survives to this day off of it's arena, the money gained from it's Bison Barons
+and by selling the swords of it's mercenary forces to the highest bidder. A
+religious organization, known as the Church of War has taken an interest in
+Golthek and keeps a strong presence in the village. They seem especially
+interested in it's Arena, which is known for it's extremely violent death
+matches. 
+~
+End
+
+
+
+#MOBILES
+#2500
+disgruntled goblin poo scraper~
+a goblin poo scraper~
+A disgruntled goblin poo scraper is slowly cleaning up town.
+~
+~
+~
+goblin~
+ACG 0 J 0 0
+2 0 2d8+4 2d8+100 0d0+0 none
+0 0 0 0
+R 0 Q C
+stand stand none 2
+AHMV ABCDEFGHIJK small
+ unknown
+#2501
+enforcer half-orc ~
+a half-orc enforcer~
+A half-orc enforcer of the chief is looking for someone to bully.
+~
+~
+A half-orc enforcer is standing here, looking for some one to bully
+~
+half orc~
+ABGT 0 J 0 0
+6 1 2d3+18 6d4+74 1d2+2 digestion
+5 5 5 4
+CIKNPRT 0 IQ BPS
+stand stand none 20
+AHMV ABCDEFGHIJK medium
+ unknown
+M GRALL 2501 100~
+#2506
+gorek orc shopkeeper cunning~
+an orc fugger~
+A cunning orc shopkeeper appaises all that comes his way.
+~
+1110°	~
+This orcs keeps his senses tuned to the most notable merchandise that comes into his shop.
+~
+orc~
+ABCG CD FJ 0 0
+35 23 22d31+2075 3d52+468 11d2+22 frbite
+-18 -18 -18 -13
+E AB CDQ S
+stand stand none 56
+AHMV ABCDEFGHIJK medium
+ unknown
+#2507
+grunthet old half-orc woman eyepatch~
+Grunthet the Hag~
+An old half-orc woman with an eyepatch mumbles to herself.
+~
+~
+~
+human~
+ACG C 0 0 0
+30 22 10d28+869 24d4+349 12d1+24 digestion
+-14 -14 -14 -11
+FK AB CD 0
+stand stand female 30
+AHMV ABCDEFGHIJK medium
+ unknown
+#2508
+snuk old githzerai~
+Snuk ~
+An old githzerai tries his best to make himself look busy.
+~
+~
+~
+githzerai~
+ABCGS CD DFJ 0 0
+35 13 8d76+1830 20d8+496 3d4+14 shbite
+-16 -16 -16 -12
+BEINS AB CL NS
+stand stand male 65
+AHMV ABCDEFGHIJK medium
+ unknown
+#2509
+kriggat mage goblin wild-eyed~
+Kriggat the Shaman~
+A wild-eyed goblin mage chants in a forgotten tongue.
+~
+~
+~
+goblin~
+ABGR CD J 0 0
+35 18 32d19+1834 13d12+492 8d1+16 cleave
+-15 -15 -15 -11
+0 AB CDQ 0
+stand stand male 70
+AHMV ABCDEFGHIJK medium
+ unknown
+F vul C
+#2510
+bloody half-ogre butcher~
+the butcher~
+A bloody half-ogre butcher eyes everything that moves.
+~
+~
+~
+ogre~
+ABG 0 J 0 0
+40 18 5d176+2658 26d4+408 2d10+22 beating
+-26 -26 -26 -19
+DOPVW AB EQ P
+stand stand male 159
+AHMV ABCDEFGHIJK large
+ unknown
+F vul B
+#2512
+half-orc sub-chief chief~
+a half-orc sub-chief~
+A half-orc Sub-Chief is here to offer his lance to Golthek.
+~
+~
+~
+half orc~
+ABGT CD 0 0 0
+15 4 11d3+124 5d11+182 2d2+6 none
+1 1 1 1
+CIK 0 I BP
+stand stand none 37
+AHMV ABCDEFGHIJK medium
+ unknown
+#2514
+orcish bodyguard~
+an orcish bodyguard~
+An orcish bodyguard awaits orders from the High Chief.
+~
+~
+~
+orc~
+ABG CD J 0 0
+9 4 4d3+37 4d5+72 2d1+2 chop
+5 5 5 3
+CIK 0 Q S
+stand stand none 32
+AHMV ABCDEFGHIJK medium
+ unknown
+#2515
+high chief golthek half-orc~
+The High Chief~
+The High Chief of Golthek ponders the fate of the village.
+~
+~
+~
+half orc~
+ABG CE 0 0 0
+17 6 10d7+222 17d3+201 6d1+6 pound
+-2 -2 -2 -1
+CDEFIN 0 I BP
+stand stand none 66
+AHMV ABCDEFGHIJK medium
+ unknown
+#2517
+mistress head half-orc~
+the head mistress~
+The Head Mistress of the High Chief is here.
+~
+~
+~
+half orc~
+ABG 0 0 0 0
+5 1 3d1+13 4d4+60 2d1+2 slap
+7 7 7 5
+F 0 I BP
+stand stand female 25
+AHMV ABCDEFGHIJK medium
+ unknown
+#2522
+disgruntled assistant poo-scraper goblin~
+an assistant poo-scraper~
+A disgruntled assistant poo-scraper trains for a new life.
+~
+~
+~
+goblin~
+ABGT C J -250 0
+3 -1 2d1+10 1d12+36 1d1+1 none
+8 8 8 6
+J 0 Q C
+stand stand none 7
+AHMV ABCDEFGHIJK medium
+ unknown
+#2524
+young half-orc gladiator~
+a young half-orc gladiator~
+A young half-orc gladiator trains for the Golthek Gauntlet.
+~
+~
+~
+half orc~
+ABGT C 0 0 0
+6 1 5d1+21 2d11+68 2d1+2 pound
+6 6 6 4
+CN 0 I BP
+stand stand male 4
+AHMV ABCDEFGHIJK medium
+ unknown
+#2526
+young golthek gothek scout thief half orc~
+a half-orc scout~
+A young Gothek Mercenary Scout awaits the next challenger.
+~
+~
+~
+half orc~
+ABFGS 0 PQ 0 0
+5 0 5d1+20 5d3+57 2d1+2 stab
+7 7 7 5
+BFN 0 I BP
+stand stand female 25
+AHMV ABCDEFGHIJK medium
+ unknown
+#2527
+half-orc mage golthek mercenary field~
+a half-orc mage~
+A Golthek Mercenary field mage awaits the next challenger.
+~
+~
+~
+half orc~
+ABFGR 0 0 0 0
+5 0 3d1+18 2d8+50 1d2+2 slice
+7 7 7 5
+0 0 I BP
+stand stand female 35
+AHMV ABCDEFGHIJK medium
+ unknown
+#2528
+golthek mercenary fighting monk half-orc~
+a half-orc monk~
+A Golthek mercenary fighting monk awaits the next challenger.
+~
+~
+~
+half orc~
+ABFGQ 0 0 0 0
+5 0 1d5+15 2d9+59 2d1+2 crush
+7 7 7 5
+FIN 0 I BP
+stand stand male 7
+AHMV ABCDEFGHIJK medium
+ unknown
+#2529
+veteran officer half-orc mercenary~
+a half-orc merc~
+A veteran officer of the Golthek Mercenaries awaits challengers.
+~
+~
+~
+half orc~
+ABFGT 0 0 0 0
+6 2 6d1+23 4d7+84 1d1+1 thwack
+6 6 6 4
+CFIK 0 I BP
+stand stand male 50
+AHMV ABCDEFGHIJK medium
+ unknown
+#2530
+half-orc mercenary church war thief missionary~
+a half-orc missionary~
+A half-orc missionary of the Church of War is here, grinning.
+~
+~
+~
+half orc~
+ABFGS CD FPQ 0 0
+6 1 2d3+18 2d10+61 2d1+2 stab
+5 5 5 4
+BFIN 0 I BP
+stand stand female 80
+AHMV ABCDEFGHIJK medium
+ unknown
+#2531
+inquisitor human mage~
+an inquisitor~
+An inquisitor, from the Church of War, awaits infidels.
+~
+~
+~
+human~
+ABFGR CD 0 0 0
+6 2 3d3+27 5d5+93 3d1+2 blast
+5 5 5 4
+0 0 0 0
+stand stand none 66
+AHMV ABCDEFGHIJK medium
+ unknown
+#2532
+human priest war young~
+a young priest~
+A young priest of war is here, testing his worth.
+~
+~
+~
+human~
+ABFGQ CD 0 0 0
+6 2 1d6+18 1d20+60 3d1+2 acbite
+6 6 6 4
+F 0 0 0
+stand stand male 70
+AHMV ABCDEFGHIJK medium
+ unknown
+#2533
+half-orc fighter church war~
+a half-orc fighter~
+A half-orc fighter is here from the Church of War.
+~
+~
+~
+half orc~
+ABFGT CD 0 0 0
+6 2 3d2+26 2d13+79 2d2+4 drain
+5 5 5 3
+0 0 I BP
+stand stand none 12
+AHMV ABCDEFGHIJK medium
+ unknown
+#2534
+half-orc duelist infamous local ~
+a half-orc duelist~
+An infamous local duelist wants another notch..
+~
+~
+~
+half orc~
+ABFGS CD 0 0 0
+7 3 7d1+37 6d4+80 3d1+7 stab
+5 5 5 4
+BIN 0 I BP
+stand stand male 35
+AHMV ABCDEFGHIJK medium
+ unknown
+#2535
+dr doc doctor death ~
+a murderous doctor~
+This is Doctor Death, he wanted for several murders.
+~
+~
+~
+human~
+ABFGR CD 0 0 0
+7 2 1d11+33 4d5+73 2d2+6 slice
+5 5 5 3
+FN 0 LP 0
+stand stand male 28
+AHMV ABCDEFGHIJK medium
+ unknown
+#2536
+clown elf blood-covered psychotic~
+a psychotic clown~
+A blood-covered elf is here, dressed-up like a clown.
+~
+~
+~
+elf~
+ABFGS CD J 0 0
+7 2 4d2+36 2d11+66 3d1+3 cleave
+5 5 5 3
+0 0 B Z
+stand stand male 9
+AHMV ABCDEFGHIJK medium
+ unknown
+#2537
+giantess ~
+a giantess~
+A giantess is here, waiting patiently for someone to pound on.
+~
+~
+~
+titan~
+ABFGT 0 J 0 0
+8 4 7d1+46 5d6+99 1d3+3 pound
+3 3 3 2
+CIJO 0 E Bb
+stand stand female 90
+AHMV ABCDEFGHIJKY medium
+ unknown
+#2538
+ogress priestess church war champion~
+an ogress priestess~
+An Ogress priestess is here, championing the Church of War.
+~
+~
+~
+ogre~
+ABFGQ CD J 0 0
+8 4 8d8+76 3d7+71 2d4+6 none
+4 4 4 3
+CFINO 0 EQ BP
+stand stand none 200
+AHMV ABCDEFGHIJK medium
+ unknown
+#2541
+rowdy half-orc arena hooligan~
+a half-orc hooligan~
+One of the arena's many rowdy half-orc hooligans is here, looking for trouble.
+~
+2:44:29 2010 :: Log Upro: force all save
+~
+~
+orc~
+AGY 0 J 0 0
+3 0 2d1+11 1d11+35 1d1+1 suction
+8 8 8 6
+CIKR 0 Q S
+stand stand none 4
+AHMV ABCDEFGHIJK medium
+ unknown
+M GRALL 2500 100~
+#2543
+foreign priest church war~
+a priest of War~
+A foreign preist from the Church of War is here visiting.
+~
+°‘1	D’1	8‰¥¿NŒw·°‘1	yØ~
+~
+orc~
+ABGQ 0 JZ 0 0
+8 4 4d3+36 8d2+64 1d2+2 pound
+5 5 5 3
+C 0 Q S
+stand stand none 26
+AHMV ABCDEFGHIJK medium
+ unknown
+#2547
+bison bull fearless~
+a bison bull~
+A bison bull stands fearless in the field, grazing on grass.
+~
+~
+~
+goat~
+ABG 0 Z 0 0
+7 1 5d1+32 7d4+92 2d1+2 scratch
+6 6 6 4
+CI 0 EI 0
+stand stand none 0
+AGV ACDEFJKQV large
+ unknown
+F off F
+#2548
+no name~
+a young bison~
+A young bison is grazing here.
+~
+~
+~
+goat~
+ABG 0 Z 0 0
+4 0 1d4+12 4d3+48 2d1+2 charge
+7 7 7 5
+CFIR 0 E 0
+stand stand none 0
+AGV ACDEFJKQVW large
+ unknown
+#2549
+well-dressed cattle baron half-orc~
+a cattle baron~
+A well-dressed half-orc called The Cattle Baron, lounges here chewing on a weed.
+~
+~
+~
+orc~
+ABG 0 J 0 0
+35 12 19d25+1469 18d6+350 11d1+25 flame
+-17 -17 -17 -12
+PRT AB Q S
+stand stand none 41
+AHMV ABCDEFGHIJK large
+ unknown
+#2551
+half-orc mercenary golthek~
+a half-orc mercenary~
+A half-orc mercenary from Golthek is here on leave.
+~
+~
+~
+half orc~
+AGT AC 0 0 0
+4 0 3d1+15 2d7+43 1d1+1 divine
+7 7 7 5
+0 0 I BP
+stand stand none 9
+AHMV ABCDEFGHIJK medium
+ unknown
+#2552
+half-orc priestess war ~
+a priestess of War~
+A half-orc priestess of War, tends to her duties.
+~
+~
+~
+half orc~
+ABGQa C 0 0 0
+6 0 6d1+22 1d30+92 3d1+4 sting
+5 5 5 4
+IK 0 I BP
+stand stand female 22
+AHMV ABCDEFGHIJK medium
+ unknown
+#2553
+very fat half-orc grub~
+a very fat half-orc~
+A very fat half-orc is busy preparing some grub.
+~
+~
+~
+half orc~
+ABG C 0 0 0
+3 0 2d1+11 2d5+35 1d1+1 bite
+8 8 8 6
+C 0 EI BP
+stand stand male 2
+AHMV ABCDEFGHIJK large
+ unknown
+#2554
+broker half-orc old ~
+an old half-orc broker~
+An old half-orc broker carries herself, like she owns the place.
+~
+~
+~
+half orc~
+ABGSe CE 0 -300 0
+45 31 13d149+5811 25d8+600 14d2+30 slice
+-41 -41 -41 -31
+BEIJKN AB CDI BP
+stand stand female 91
+AHMV ABCDEFGHIJK medium
+ unknown
+#2556
+rat huge golthek sewer ~
+a sewer rat~
+A huge Golthek sewer rat is here, looking nasty.
+~
+~
+~
+rat~
+ABCFG 0 X 0 0
+3 -1 2d1+7 2d4+30 1d1+1 bite
+7 7 7 5
+P 0 0 0
+stand stand none 0
+AGV ACDEFHJK small
+ unknown
+F off F
+#2558
+bored half-orc guard~
+a bored half-orc guard~
+A bored half-orc guard is looking for a rat to club.
+~
+~
+~
+half orc~
+ABGT C 0 0 0
+8 2 5d2+36 2d11+70 2d1+2 stab
+5 5 5 3
+0 0 I BP
+stand stand none 19
+AHMV ABCDEFGHIJK medium
+ unknown
+#2561
+half-orc arena master~
+the Arena Master~
+A half-orc Arena Master is here enjoying life and death.
+~
+~
+~
+half orc~
+ABGJT CD 0 0 0
+13 6 11d2+96 11d3+111 1d6+6 cleave
+1 1 1 1
+CEIJN 0 I BP
+stand stand male 18
+AHMV ABCDEFGHIJK medium
+ unknown
+#2597
+half-orc widow woman~
+a half-orc widow~
+A half-orc widow is out looking for food to feed the whelps.
+~
+~
+She is left to fend for herself and provide what she can, for her offspring.
+~
+half orc~
+ACGHS C 0 0 0
+3 -1 3d1+9 3d2+27 1d1+0 claw
+8 8 8 6
+0 0 I BP
+stand stand female 4
+AHMV ABCDEFGHIJK medium
+ unknown
+#2598
+testmob2 test mob~
+a test mob~
+A test mob
+~
+~
+~
+half elf~
+AGI 0 J 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#2599
+test mob~
+test mob~
+Test mob
+~
+~
+~
+half elf~
+ABGI 0 J 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 BI BPZ
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M GRALL 2599 100~
+#0
+
+
+
+#OBJECTS
+#2500
+large green glowing crystal floating~
+a large green glowing crystal~
+A large green glowing crystal is floating in the center of the room here.~
+stone~
+0
+protect ACe E AO
+0 0 0 0 0
+42 0 0 P
+A
+2 5
+A
+26 5
+A
+5 5
+A
+4 5
+A
+14 100
+A
+12 100
+A
+13 100
+#2501
+water bucket~
+a water bucket~
+A bucket of water sits here waiting for a thirsty traveler.~
+wood~
+0
+drink P 0 AO
+5 5 'water' 0 0
+1 2 0 A
+#2502
+prostitute~
+a dead prostitute~
+A limp prostitute lies sprawled here.~
+flesh~
+0
+furniture 0 0 0
+B DEGJ EHKNP BCDGHIJKLMNOPQRSTUVWXYZabcdef A
+2 200 0 P
+#2503
+bison leather pants~
+some bison leather pants~
+A pair of bison leather pants has been discarded here.~
+hide~
+0
+armor 0 0 AF
+0 A 0 0 1
+3 5 28 P
+#2504
+bison leather gloves~
+a pair of bison leather gloves~
+A pair of bison leather gloves lie here.~
+hide~
+0
+armor 0 0 AH
+0 0 A 0 1
+4 2 32 P
+#2505
+hat bison leather wide-brim~
+a wide-brim bison leather hat~
+A wide-brim bison leather hat lies here.~
+leather~
+0
+armor 0 0 AE
+0 A 0 0 1
+3 3 50 P
+#2506
+over-sized bison leather bandanna~
+an over-sized bison leather bandanna~
+An over-sized bison leather bandanna lies here.~
+hide~
+0
+armor 0 0 ACE
+0 0 A 0 1
+3 2 27 P
+#2507
+bison leather tunic~
+a bison hide armor~
+A bison hide armor lies here.~
+hide~
+0
+armor 0 0 AD
+0 0 0 A 2
+3 15 90 P
+#2508
+pair bison leather boots~
+a pair of bison leather boots~
+A pair of bison leather boots were left here.~
+hide~
+0
+armor 0 0 AG
+A 0 0 0 1
+3 10 20 P
+#2509
+painfully crude tattoos orcish~
+painfully crude orcish tattoos~
+Some crude tattoo patterns have been left here.~
+unknown~
+0
+trash AHM 0 BCDEFGHIJKLM
+0 0 0 0 0
+1 0 0 P
+#2510
+trenchcoat bison leather orcish enforcer's design~
+a bison leather trenchcoat~
+A bison leather trench, of orcish design, lies here.~
+leather~
+0
+armor 0 0 AD
+0 A A 0 1
+5 15 250 P
+#2512
+orcish iron warlance~
+an orcish iron warlance~
+An Iron warlance of orcish make, lies here.~
+iron~
+0
+weapon 0 0 NO
+exotic 2 5 stab F
+13 12 0 P
+#2515
+high chief's old maul orcish~
+the High Chief's Maul~
+An old maul of orcish make is laying here.~
+iron~
+0
+weapon 0 0 ANO
+exotic 3 6 pound F
+15 16 730 P
+#2516
+regal black iron chainmail mail shirt~
+a regal black iron chainmail shirt~
+A suit of regal black iron chainmail lies here.~
+iron~
+0
+armor AI 0 ADO
+A A A A 2
+9 75 750 P
+#2517
+bison leather skirt~
+a bison leather skirt~
+A bison leather skirt has been left here.~
+leather~
+0
+armor 0 0 ALO
+0 0 0 A 1
+4 4 130 P
+#2518
+no name~
+(no short description)~
+(no description)~
+unknown~
+0
+furniture e 0 0
+0 0 0 0 0
+0 0 0 P
+#2526
+dark-brown wooly cloak~
+a dark-brown wooly cloak~
+A dark-brown wooly cloak has been discarded here.~
+wool~
+0
+armor 0 0 AC
+A A A 0 0
+5 5 60 P
+#2527
+wooly robe dark-brown~
+a dark-brown wooly robe~
+A dark brown wooly robe lies here.~
+wool~
+0
+armor 0 0 AD
+A A A 0 1
+5 10 420 P
+#2529
+black iron flail~
+a black iron flail~
+A black iron flail has been left here.~
+iron~
+0
+weapon 0 0 ANO
+exotic 2 4 pound 0
+5 13 350 P
+#2530
+black iron stiletto dagger~
+a black iron stiletto~
+A black iron stiletto dagger, with a green tint, awaits idle hands..~
+iron~
+0
+weapon A 0 ANO
+dagger 1 5 stab H
+5 4 666 P
+#2531
+iron-framed oil lamp~
+an iron-framed oil lamp~
+An iron-framed oil lamp has been left here.~
+iron~
+0
+light 0 0 AO
+0 A CD 0 0
+1 3 50 P
+#2532
+roll wooly bandages~
+a wooly bandage~
+A roll wooly bandages lies here.~
+wool~
+0
+bandage 0 0 AO
+0 0 0 0 0
+1 1 15 P
+#2533
+fringed bison-leather purse~
+a fringed bison-leather purse~
+A fringed bison-leather purse has been discarded here.~
+leather~
+0
+container 0 0 AO
+10 C 0 20 5
+0 5 75 P
+#2534
+fringed leather corset~
+a fringed leather corset~
+A fringed leather corset lies here.~
+leather~
+0
+armor 0 0 AD
+A A A 0 1
+6 8 665 P
+#2535
+thick wooly frock bison's wool~
+a thick wooly frock~
+A thick frock made of bison's wool lies here.~
+wool~
+0
+armor 0 0 AD
+0 A 0 0 0
+3 10 220 P
+#2542
+signet ring Church of War~
+a signet ring of The Church of War~
+A signet ring from a church was left here.~
+iron~
+0
+jewelry 0 0 AB
+0 0 0 0 0
+4 0 69 P
+#2543
+bundle blood-dyed fabric robe war priest's~
+a War Priest's blood-dyed robe~
+A bundle of blood-dyed fabric lies in a heap.~
+wool~
+0
+armor AI 0 AD
+A A A A 0
+8 5 850 P
+#2549
+no name~
+a furlined vest of bison leather~
+A studded leather vest lined with fur is here.~
+leather~
+0
+armor 0 0 D
+A A 0 0 1
+7 0 0 P
+#2551
+no name~
+an iron shield from Golthek's Merc Company-1~
+An iron shield from Golthek's Merc Company-1 lies here.~
+iron~
+0
+armor 0 0 AJ
+0 A A 0 5
+3 50 97 P
+#2552
+no name~
+a black iron axe~
+A black iron axe of orcish make, rests here.~
+iron~
+0
+weapon BI 0 NO
+exotic 2 5 cleave 0
+6 11 350 P
+#2553
+large cooking pot~
+a large cooking pot~
+A large cooking pot has been left here.~
+iron~
+0
+armor 0 0 AEO
+0 A 0 0 0
+3 5 20 P
+#2568
+tahtewin orcish needle old blackiron~
+an orcish tahttewin needle~
+An old blackiron tahtewin needle has been left here.~
+iron~
+0
+pen 0 0 AO
+0 0 0 0 0
+0 1 35 P
+#2569
+leather-tied roll bisonskin scroll~
+a bisonskin scroll~
+A leather-tied roll of bisonskin has been discarded here.~
+leather~
+0
+parchment 0 0 AO
+0 0 0 0 0
+0 1 25 P
+#2570
+githzerai necklace design picks lockpicks iron~
+an iron githzerai necklace~
+An iron necklace of githzerai design, is here.~
+iron~
+0
+thieves_tools 0 0 ACO
+AB AB 0 0 0
+3 1 117 P
+#2571
+black iron mining-pick~
+a black iron mining-pick~
+A black iron mining-pick has been left here.~
+iron~
+0
+mining_tool 0 0 ANO
+AB 0 0 0 0
+4 10 235 P
+#2572
+coffee goblin putrid flask~
+a flask of goblin coffee~
+A putrid flask of goblin coffee lies here.~
+liquid~
+0
+potion 0 0 AO
+10 'frenzy' 'audible intoxication' 'reserved' 'reserved'
+10 1 420 P
+#2595
+obsidian meat cleaver huge~
+a huge obsidian meat cleaver~
+A huge meat cleaver made of obsidian lies here.~
+obsidian~
+0
+weapon AEJS 0 AN
+exotic 6 7 cleave 0
+25 14 4200 P
+#2596
+orcish club blood-stained~
+a blood-stained orcish club~
+A blood-stained orcish club has been left here.~
+black oak~
+0
+weapon 0 0 AN
+exotic 2 4 pound 0
+2 7 25 P
+#2597
+orcish iron shortsword~
+an orcish iron shortsword~
+An orcish iron shortsword has been left here.~
+iron~
+0
+weapon 0 0 AN
+exotic 2 5 stab 0
+4 10 44 P
+#2598
+heavy iron pike orcish~
+a heavy iron pike ~
+A iron pike of orcish make has been left here.~
+iron~
+0
+weapon 0 0 AN
+exotic 2 8 pierce 0
+5 13 130 P
+#2599
+orcish mace iron golthek~
+an orcish iron mace~
+A iron mace of orcish make lies here.~
+iron~
+0
+weapon 0 0 AN
+mace 2 6 pound 0
+3 12 52 P
+#0
+
+
+
+#ROOMS
+#2500
+Golthek Village Square~
+A crude yet sturdy looking well has been placed in the center of the
+square. It is frequently used by the many travelers and villagers that pass
+by here. The ground has been mostly covered with large flat rocks that
+provide a sort of cobblestone effect. A plaque has been placed into one of
+the rocks underfoot. Dirt roads lead north, east, south, and west. 
+~
+0 0 1
+0
+1
+2
+E
+plaque~
+This area is under construction. The plaque will be changed to say
+something besides this at a later point. 
+~
+E
+crude~
+Heavy stone blocks have been stacked in an oblong circle formation to
+provide the wall of the well. A big wooden bucket can be lowered down via
+the crank system. Outsiders will notice an off smell and color to the water
+here. The locals respond by saying "thats just the minerals." 
+~
+D0
+~
+~
+0 0 2501
+D2
+~
+~
+0 0 2511
+D3
+~
+~
+0 0 2520
+S
+#2501
+A Wide Dirt Road~
+Adobe dwellings tower over each side of this wide dirt road here. There
+are occasional puddles and gravel in the russet colored dirt. To the south,
+the road widens at a square with a well. Northwards the road continues
+through the village, and a side street runs along the east and west. 
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 2504
+D2
+~
+~
+0 0 2500
+D3
+~
+~
+0 0 2502
+M 25 H 25
+S
+#2502
+Traders Row~
+This narrow side street of hard compacted russet earth, zigzags under
+adobe buildings. The shade here is refreshing during the day when the
+oppresive sun heats the village. To the north, the hammer of a blacksmith
+echoes. To the south is a door with a crudely carved word which will have to
+be read more closely. The road zigzags west, and east leads to the main dirt
+road. 
+~
+0 0 1
+0
+1
+2
+E
+word~
+The words GrUnThEtS GoOdS can be read if stared at long enough. 
+~
+D0
+~
+~
+1 0 2506
+D1
+~
+~
+0 0 2501
+D2
+~
+~
+1 0 2507
+D3
+~
+~
+0 0 2503
+M 25 H 25
+S
+#2503
+Traders Row~
+The side street straightens out and widens a little at this dead end in
+front of two shops and the village wall. To the north a wide wooden door
+bears a sign reading "Snuk's Trades". The strong aroma of mixed herbs is
+coming from a shop to the south. The side street stops here, but starts to
+zigzag east. 
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+1 0 2508
+D1
+~
+~
+0 0 2502
+D2
+~
+~
+1 0 2509
+M 25 H 25
+S
+#2504
+A Small Dirt Road~
+The main dirt road narrows to a smaller side road here. Short yet sturdy
+looking adobe buildings flank the road as it continues east. West leads to
+the main dirt road. 
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 2505
+D3
+~
+~
+0 0 2501
+M 25 H 25
+S
+#2505
+A Small Dirt Road~
+The dirt road continues its east-west trek through some of the villagers
+adobe homes. To the north is a farmers market where produce is sold. The
+road disappears to the east into several narrow trails into adobe dwellings.
+The small dirt road continues to the east into a strip and west to the main road.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 2510
+D1
+~
+~
+0 0 2551
+D3
+~
+~
+0 0 2504
+M 25 H 25
+S
+#2506
+Goreks Weapons & Armor~
+This large room is lit by many sconces along each wall, and by the forge
+near an anvil in the back. Several suits of armor are on display in the
+middle of the room, and a few weapon racks against the walls as well. 
+~
+0 262144 0
+0
+1
+2
+D2
+~
+~
+1 0 2502
+M 25 H 25
+S
+#2507
+Grunthets Goods~
+Rows of tables illuminated by lanterns fill the room here. Various odds
+and ends litter the surface of each table, from dolls to bags to fish hooks.
+There is no rhyme or reason to anything here, and most of the customers seem
+to be large half-orc women with thier unruly children. 
+~
+0 262144 0
+0
+1
+2
+D0
+~
+~
+1 0 2502
+M 25 H 25
+S
+#2508
+Snuks Trades~
+Several magic globes provide light to this shop. There are racks along
+each wall displaying an assortment of craft supplies for various trades.
+There is also a bookshelf filled with some how-to manuals on differen't
+subjects. 
+~
+0 262144 0
+0
+1
+2
+D2
+~
+~
+1 0 2503
+M 25 H 25
+S
+#2509
+Kriggat's Alchemy Shop~
+This room is covered on all sides with shelves of jars containing every
+herb, stone, and liquid that can be found in the valley around Golthek. Some
+is even brought from other lands and command a heftier price. The smell of
+herbs is strong, perhaps to cover up some of the more unfriendly smelling
+items sold here. 
+~
+0 262144 0
+0
+1
+2
+D0
+~
+~
+1 0 2503
+M 25 H 25
+S
+#2510
+Golthek Market~
+This open air market is filled with carts and barrels filled with locally
+grown fruits and vegetables. There is also a cart of smoked bison meat which
+fills the air with a delicious aroma. 
+~
+0 0 1
+0
+1
+2
+D2
+~
+~
+0 0 2505
+D3
+~
+~
+0 0 2554
+M 25 H 25
+S
+#2511
+A Rocky Street~
+This street is littered with many brown rocks of differen't sizes. Some
+spots of gravel crunch underfoot as travelers and villagers traverse this
+way. There are large thick steps to the south which lead up the largest
+building in the village. Round windows dot its walls between support logs
+poking out of the walls. It looks to be about three stories high and is
+perhaps where the local chieftan lives. The street continues north to the
+village square, and bends west to a well trod area in front of a domed
+building. To the east, the rocky street gives way to a bumpy footpath
+leading into a field. 
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 2500
+D1
+~
+~
+0 0 2546
+D3
+~
+~
+0 0 2519
+D4
+~
+~
+0 0 2512
+M 25 H 25
+S
+#2512
+Before The High Chiefs Doors~
+A set of large reinforced double doors loom against the wall of the
+fortress-like adobe building. The entire village and beyond can be seen from
+this point. Rolling hills of sand, stone, and thick patches of grass
+surround the village. The horizon is dominated by a tall spire shaped
+mountains which carry little to no snow. A steep thick set of stairs leads
+down into the village from here. The large doors lead south into the halls
+of the high chief. 
+~
+0 0 1
+0
+1
+2
+D2
+~
+~
+1 0 2513
+D5
+~
+~
+0 0 2511
+M 25 H 25
+S
+#2513
+Hall Of The High Chief~
+Many sconces light up this hall. Its ceiling is high and it is evident
+that master half-orc architects spent much time and care here. There are
+rough gothic style designs in the clay walls depicting intricate columns and
+false archways. The hall continues south. Large reinforced double doors lead
+outside to the north. 
+~
+0 262144 0
+0
+1
+2
+D0
+~
+~
+1 0 2512
+D2
+~
+~
+0 0 2514
+M 25 H 25
+S
+#2514
+Hall Of The High Chief~
+Many sconces light up this hall. Its ceiling is high and it is evident
+that master half-orc architects spent much time and care here. There are
+rough gothic style designs in the clay walls depicting intricate columns and
+false archways. The hall opens up to a large circular room where a large
+throne commands. 
+~
+0 262144 0
+0
+1
+2
+D0
+~
+~
+0 0 2513
+D2
+~
+~
+0 0 2515
+M 25 H 25
+S
+#2515
+High Chieftains Throne Room~
+This round room is lit by several tall torches that flicker along the
+wall. A large throne is surrounded by animal furs near the back. Smaller
+seats are set back along the wall between the torches for meetings. A
+stairwell winds down on the righthand side of the room. South leads to a
+great hall. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2514
+D5
+~
+~
+0 0 2516
+M 25 H 25
+S
+#2516
+A Stairwell~
+These stairs curve downwards to a dimly lit room. There is brighter light
+coming in from the throne room above, making it possible to see the steps
+here. 
+~
+0 0 0
+0
+1
+2
+D4
+~
+~
+0 0 2515
+D5
+~
+~
+0 0 2517
+M 25 H 25
+S
+#2517
+Chieftans Chambers.~
+This lavish room is lit by many candles that sit upon alcloves built into
+the walls. Exotic furs serve as soft carpets completely covering the floor.
+A large round bed is placed at the east end of the room and is covered with
+more furs. There is a polished ornate desk placed at the west end of the
+room. It is covered in vellums and ink bottles which will be used to make
+scrolls and official documents. There is a small archway leading to another
+room north of here, and a stairwell against the south wall leading up. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2518
+D4
+~
+~
+0 0 2516
+M 25 H 25
+S
+#2518
+The High Chiefs Washroom~
+This room is relatively bare and unremarkable. A large tub takes up most
+of the space here. Servants will fill it with buckets of hot water so that
+High Chief Golthek can soak his stress away, usually with one or two of his
+mistresses. A small archway leads out into the chieftans room. 
+~
+0 0 25
+0
+1
+2
+D2
+~
+~
+0 0 2517
+M 25 H 25
+S
+#2519
+Outside The Golthek Arena~
+This is the biggest building of the whole village. A dome ceiling
+partially covers the top, and has a hole in its center to provide extra
+light. Statues of Phytar have been placed all around the outside, holding
+differen't weapons. A huge half orc stands at the spectator entrance
+accepting tokens for admission. A well trod path leads to the north and
+another to the east. The spectator entrance is through a large half orc to
+the west, and a stairway leading down for those foolish or brave enough to
+participate in the games. 
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 2520
+D1
+~
+~
+0 0 2511
+D3
+~
+~
+1 0 2539
+D5
+~
+~
+0 0 2521
+M 25 H 25
+S
+#2520
+The Golthek Gallows~
+A stage made out of wooden planks has been built here. Sitting in the
+center is a large stone block with several chop marks on it. Those found
+guilty of the most horrible crimes are executed here for the public to
+watch. Or they are sent to the arena. A large domed building is to the
+south and the village square is to the east. Set into the ground is a blood-soaked drain.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 2500
+D2
+~
+~
+0 0 2519
+D5
+~
+~
+1 0 2524
+M 25 H 25
+S
+#2521
+Under The Arena~
+This dimly lit area is cluttered with used weapons and armor. Gladiators
+hone their skills on wooden dummies and spar with eachothers teammates. The
+sounds of clashing metal and grunting voices echoes throughout. 
+~
+0 4 0
+0
+1
+2
+D0
+~
+~
+0 0 2524
+D3
+~
+~
+0 0 2522
+D4
+~
+~
+0 0 2519
+M 25 H 25
+S
+#2522
+Under The Arena~
+This dimly lit area is cluttered with used weapons and armor. Gladiators
+hone their skills on wooden dummies and spar with eachothers teammates. The
+sounds of clashing metal and grunting voices echoes throughout. 
+~
+0 4 0
+0
+1
+2
+D0
+~
+~
+0 0 2523
+D1
+~
+~
+0 0 2521
+M 25 H 25
+S
+#2523
+Under The Arena~
+This dimly lit area is cluttered with used weapons and armor. Gladiators
+hone their skills on wooden dummies and spar with eachothers teammates. The
+sounds of clashing metal and grunting voices echoes throughout. A gate can
+be seen to the west. 
+~
+0 4 0
+0
+1
+2
+D1
+~
+~
+0 0 2524
+D2
+~
+~
+0 0 2522
+D3
+~
+~
+0 0 2525
+M 25 H 25
+S
+#2524
+Under The Arena~
+This dimly lit area is cluttered with used weapons and armor. Gladiators
+hone their skills on wooden dummies and spar with eachothers teammates. The
+sounds of clashing metal and grunting voices echoes throughout. 
+~
+0 4 0
+0
+1
+2
+D1
+~
+~
+0 0 2559
+D2
+~
+~
+0 0 2521
+D3
+~
+~
+0 0 2523
+D4
+~
+~
+1 0 2520
+M 25 H 25
+S
+#2525
+Gladiators Gate~
+A huge wrought-iron gate stands ominously here. Beyond it is only death
+for many, and glory for a lucky few. 
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2523
+D3
+~
+~
+1 0 2526
+M 25 H 25
+S
+#2526
+The First Chamber~
+Four tall walls enclose this small open air room. Above crowds cheer with
+excitement and bloodlust in their eyes as they look down at the action. The
+ground is covered in thick sand, slowing movement and hiding blood and bone.
+~
+0 0 23
+0
+1
+2
+D0
+~
+~
+1 0 2527
+D1
+~
+~
+1 0 2525
+M 25 H 25
+S
+#2527
+The Second Chamber~
+Four tall walls enclose this small open air room. Above crowds cheer with
+excitement and bloodlust in their eyes as they look down at the action. The
+ground is covered in thick sand, slowing movement and hiding blood and bone.
+~
+0 0 23
+0
+1
+2
+D0
+~
+~
+1 0 2528
+D2
+~
+~
+1 0 2526
+M 25 H 25
+S
+#2528
+The Third Chamber~
+Four tall walls enclose this small open air room. Above crowds cheer with
+excitement and bloodlust in their eyes as they look down at the action. The
+ground is covered in thick sand, slowing movement and hiding blood and bone.
+~
+0 0 23
+0
+1
+2
+D0
+~
+~
+1 0 2529
+D2
+~
+~
+1 0 2527
+M 25 H 25
+S
+#2529
+The Fourth Chamber~
+Four tall walls enclose this small open air room. Above crowds cheer with
+excitement and bloodlust in their eyes as they look down at the action. The
+ground is covered in thick sand, slowing movement and hiding blood and bone.
+~
+0 0 23
+0
+1
+2
+D2
+~
+~
+1 0 2528
+D3
+~
+~
+1 0 2530
+M 25 H 25
+S
+#2530
+The Fifth Chamber~
+Four tall walls enclose this small open air room. Above crowds cheer with
+excitement and bloodlust in their eyes as they look down at the action. The
+ground is covered in thick sand, slowing movement and hiding blood and bone.
+~
+0 0 23
+0
+1
+2
+D1
+~
+~
+1 0 2529
+D2
+~
+~
+1 0 2531
+M 25 H 25
+S
+#2531
+The Sixth Chamber~
+Four tall walls enclose this small open air room. Above crowds cheer with
+excitement and bloodlust in their eyes as they look down at the action. The
+ground is covered in thick sand, slowing movement and hiding blood and bone.
+~
+0 0 23
+0
+1
+2
+D0
+~
+~
+1 0 2530
+D2
+~
+~
+1 0 2532
+M 25 H 25
+S
+#2532
+The Seventh Chamber~
+Four tall walls enclose this small open air room. Above crowds cheer with
+excitement and bloodlust in their eyes as they look down at the action. The
+ground is covered in thick sand, slowing movement and hiding blood and bone.
+~
+0 0 23
+0
+1
+2
+D0
+~
+~
+1 0 2531
+D3
+~
+~
+1 0 2533
+M 25 H 25
+S
+#2533
+The Eighth Chamber~
+Four tall walls enclose this small open air room. Above crowds cheer with
+excitement and bloodlust in their eyes as they look down at the action. The
+ground is covered in thick sand, slowing movement and hiding blood and bone.
+~
+0 0 23
+0
+1
+2
+D0
+~
+~
+1 0 2534
+D1
+~
+~
+1 0 2532
+M 25 H 25
+S
+#2534
+The Ninth Chamber~
+Four tall walls enclose this small open air room. Above crowds cheer with
+excitement and bloodlust in their eyes as they look down at the action. The
+ground is covered in thick sand, slowing movement and hiding blood and bone.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+1 0 2535
+D2
+~
+~
+1 0 2533
+M 25 H 25
+S
+#2535
+The Tenth Chamber~
+Four tall walls enclose this small open air room. Above crowds cheer with
+excitement and bloodlust in their eyes as they look down at the action. The
+ground is covered in thick sand, slowing movement and hiding blood and bone.
+~
+0 0 23
+0
+1
+2
+D2
+~
+~
+1 0 2534
+D3
+~
+~
+1 0 2536
+M 25 H 25
+S
+#2536
+The Eleventh Chamber~
+Four tall walls enclose this small open air room. Above crowds cheer with
+excitement and bloodlust in their eyes as they look down at the action. The
+ground is covered in thick sand, slowing movement and hiding blood and bone.
+~
+0 0 23
+0
+1
+2
+D1
+~
+~
+1 0 2535
+D2
+~
+~
+1 0 2537
+M 25 H 25
+S
+#2537
+The Twelfth Chamber~
+Four tall walls enclose this small open air room. Above crowds cheer with
+excitement and bloodlust in their eyes as they look down at the action. The
+ground is covered in thick sand, slowing movement and hiding blood and bone.
+~
+0 0 23
+0
+1
+2
+D0
+~
+~
+1 0 2536
+D3
+~
+~
+1 0 2538
+M 25 H 25
+S
+#2538
+The Champions Chamber~
+The crowd cheers and tosses flowers and coins down into this elevated
+chamber. One who reaches this last chamber has won the games, and earns the
+respect of the whole village and to the surrounding settlements. The only
+way out from here is back through the previous chambers. 
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+1 0 2537
+M 25 H 25
+S
+#2539
+Arena Gathering Area~
+Crowds of people flock here before and after an event in the arena. A
+food cart is nearby selling questionable meat on a stick among other things.
+Stone benches flank a brick walkway that leads north and south to the
+seating areas. The arena exit is east. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2545
+D1
+~
+~
+1 0 2519
+D2
+~
+~
+0 0 2540
+M 25 H 25
+S
+#2540
+Arena Seats~
+Rows of built in benches cascade the length of the arena in a u-shape
+around a series of roofless chambers. The action is clearly visable as
+spectators look down into each chamber to see how far the contestants can
+get. There is frenzied betting, drinking, and even fighting. The half-orcs
+let their natural bloodlust loose here in a contained area, which helps keep
+the peace in the rest of the village. The seating areas continue west. North
+leads to a open air gathering area where the smell of food lingers. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2539
+D3
+~
+~
+0 0 2541
+M 25 H 25
+S
+#2541
+Arena Seats~
+Rows of built in benches cascade the length of the arena in a u-shape
+around a series of roofless chambers. The action is clearly visable as
+spectators look down into each chamber to see how far the contestants can
+get. There is frenzied betting, drinking, and even fighting. The half-orcs
+let their natural bloodlust loose here in a contained area, which helps keep
+the peace in the rest of the village. The seating areas continue east and
+west. 
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2540
+D3
+~
+~
+0 0 2542
+M 25 H 25
+S
+#2542
+Arena Seats~
+Rows of built in benches cascade the length of the arena in a u-shape
+around a series of roofless chambers. The action is clearly visable as
+spectators look down into each chamber to see how far the contestants can
+get. There is frenzied betting, drinking, and even fighting. The half-orcs
+let their natural bloodlust loose here in a contained area, which helps keep
+the peace in the rest of the village. The seating areas continue north and
+east. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2543
+D1
+~
+~
+0 0 2541
+M 25 H 25
+S
+#2543
+Reserved Arena Seats.~
+This section of the seating areas is made for the High Chieftan and his
+selected guests. A large stone chair provides the best view of the action.
+Smaller chairs flank it, all within an enclosed archway to prevent unwanted
+attention by other spectators. East and south lead to the normal seating
+areas. 
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2544
+D2
+~
+~
+0 0 2542
+M 25 H 25
+S
+#2544
+Arena Seats~
+Rows of built in benches cascade the length of the arena in a u-shape
+around a series of roofless chambers. The action is clearly visable as
+spectators look down into each chamber to see how far the contestants can
+get. There is frenzied betting, drinking, and even fighting. The half-orcs
+let their natural bloodlust loose here in a contained area, which helps keep
+the peace in the rest of the village. The seating areas continue east and
+west. 
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2545
+D3
+~
+~
+0 0 2543
+M 25 H 25
+S
+#2545
+Arena Seats~
+Rows of built in benches cascade the length of the arena in a u-shape
+around a series of roofless chambers. The action is clearly visable as
+spectators look down into each chamber to see how far the contestants can
+get. There is frenzied betting, drinking, and even fighting. The half-orcs
+let their natural bloodlust loose here in a contained area, which helps keep
+the peace in the rest of the village. The seating areas continue to the west
+and the gathering area is to the south, where the smell of cooked meat
+lingers. 
+~
+0 0 0
+0
+1
+2
+D2
+~
+~
+0 0 2539
+D3
+~
+~
+0 0 2544
+M 25 H 25
+S
+#2546
+A Bumpy Footpath~
+This is a rough path running west to south over jagged stone. Little
+vegetation grows around it and trash from the village to the west litters the
+trail. To the south is a large field and what appears to be a quarry in the
+hills. 
+~
+0 0 23
+0
+1
+2
+D2
+~
+~
+0 0 2547
+D3
+~
+~
+0 0 2511
+M 25 H 25
+S
+#2547
+A Trampled Field~
+This is the western side of a large field that continues to the east of
+here. Further to the northeast is a large, sturdy building. A worn path
+continues south to the edge of a quarry and winds north up a rocky path. It
+appears that herds use this range for grazing, as most of the road apples are
+quite large. 
+~
+0 0 23
+0
+1
+2
+D0
+~
+~
+0 0 2546
+D1
+~
+~
+0 0 2548
+D2
+~
+~
+0 0 2550
+M 25 H 25
+S
+#2548
+A Trampled Field~
+This is the eastern side of a large field. The grassy field continues to the
+west, towards a village. A path leads north to a large stable made of split
+timber. 
+~
+0 0 23
+0
+1
+2
+D0
+~
+~
+0 0 2549
+D3
+~
+~
+0 0 2547
+M 25 H 25
+S
+#2549
+Bison Stables~
+This large open stable is used to house the bison who roam the fields.
+Though there are signs of other creatures at one time or another, the bison
+appear to be the primary livestock kept in the stables. The building itself is
+made of huge timber, in a log cabin style and very resistant to the elements. 
+~
+0 4096 0
+0
+1
+2
+D2
+~
+~
+0 0 2548
+M 25 H 25
+S
+#2550
+Overlooking an old Quarry~
+A rocky path from the north ends here at an old flooded quarry. The deep
+murky water of the quarry stretches out in all directions south. It appears
+this is an excellent spot for fishing and relaxing away from the village to the
+north. There are signs small campfires from others who have set up camp at the
+water's edge. 
+~
+0 0 12
+0
+1
+2
+D0
+~
+~
+0 0 2547
+D5
+~
+~
+0 0 2555
+M 25 H 25
+S
+#2551
+The Cul-de-Sac~
+The dirt road ends here at some village homes. The adobe structures form a
+cul-de-sac and some have apparently fallen into disrepair. The dirt road
+continues west towns the square and further west to the arena. 
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 2552
+D2
+~
+~
+0 0 2553
+D3
+~
+~
+0 0 2505
+M 25 H 25
+S
+#2552
+A Small War Shrine~
+This small open building has been converted to a shrine. It serves as a
+branch of the Church of War and has been built with permission of the High
+Chief of Grothlek. The interior is mostly adobe with small trophies of war
+decorating the room. An iron altar sits at the northern end and an exit is to
+the south leading into the streets. 
+~
+0 0 0
+0
+1
+2
+D2
+~
+~
+0 0 2551
+M 25 H 25
+S
+#2553
+Golthek Mercenary Barracks~
+The floor plan of this building is quite simple, it is basically one room,
+with an open floor. It serves as a barracks for the mostly half-orcish
+mercenaries employed by Golthek. Troops tend to make their bedding on the floor
+and often eat where they sleep. Golthek mercs are not known for their
+organization, nor manners, so their quarters are often much like
+campsites. The goblin poo scrapers tend to avoid this place hoping that it
+somehow cleans itself or catches fire. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2551
+M 25 H 25
+S
+#2554
+The Stock Market in Golthek~
+Newcomers often mistake the Golthek Stock Market for the arena, as the
+"businessmen" here are known to be a particularly violent lot. Curses and
+numbers are shouted in several tongues, throughout the building. Several boards
+go up and down on the walls, being modified and sometimes smashed, just
+soon as they are hung-up. 
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2510
+M 25 H 25
+S
+#2555
+A Ledge Overlooking a Flooded Quarry~
+A rocky path from a ledge, winds up the stone quarry wall to the north. The
+deep water of the quarry comes nearly to the ledge. Sewer water trickles down
+into the pool below, from a metal grate set into the stonewall. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+1 0 2556
+D4
+~
+~
+0 0 2550
+M 25 H 25
+S
+#2556
+The Southern Sewer Entrance~
+A steady stream trickles through the middle of a stone tunnel and then
+falls through a large opening to the south, into a large body of water. The
+sound of liquid echoes through the stone tunnel to the north. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2557
+D2
+~
+~
+1 0 2555
+M 25 H 25
+S
+#2557
+An Old Golthek Sewer Tunnel~
+A wide tunnel runs under Golthek and ends at a sewer entrance near the 
+south. There is sewer water trickling from holes in the celing andf flowing through the middle of the tunnel running towards the southern entrance.
+~
+0 0 18
+0
+1
+2
+D0
+~
+~
+0 0 2558
+D2
+~
+~
+0 0 2556
+M 25 H 25
+S
+#2558
+A Small Chamber Under Golthek~
+This chamber seems to connect the underground tunnels from the arena with
+the sewers of Golthek. There is a tunnel leading west towards the arena and
+south through the sewers. An opening to the east leads to the Arena Master's
+Chamber. A holding cell has been built to the north that surely reeks of
+sewage. 
+~
+0 0 18
+0
+1
+2
+D0
+~
+~
+1 0 2560
+D1
+~
+~
+1 0 2561
+D2
+~
+~
+0 0 2557
+D3
+~
+~
+0 0 2559
+M 25 H 25
+S
+#2559
+An Underground Tunnel~
+This underground tunnel appears to be well travelled and is slightly tainted
+with sewage and blood. This passage runs east and west under the city of
+Golthek. There appears to be a lesser known arena entrance to the west and a
+small underground chamber to the east. 
+~
+0 0 18
+0
+1
+2
+D1
+~
+~
+0 0 2558
+D3
+~
+~
+0 0 2524
+M 25 H 25
+S
+#2560
+A Holding Cell Underneath Golthek~
+This filthy holding cell sits underneath Golthek's Town Square. It lies
+inbetween the sewer and the arena tunnels, Sewer water pours through the center
+of the cell and flows out of the room to the south. 
+~
+0 0 0
+0
+1
+2
+D2
+~
+~
+1 0 2558
+M 25 H 25
+S
+#2561
+The Arena Master's Chamber~
+This chamber is where alot of the arena business takes place before it hits
+the sand. The Arena Master's Quarters appear rather plain and barbaric. Much
+like an underground hunting lodge. 
+~
+0 0 18
+0
+1
+2
+D3
+~
+~
+1 0 2558
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+M 2538 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 2502 0 1
+D 0 2502 2 1
+D 0 2503 0 1
+D 0 2503 2 1
+D 0 2506 2 1
+D 0 2507 0 1
+D 0 2508 2 1
+D 0 2509 0 1
+D 0 2512 2 1
+D 0 2513 0 1
+D 0 2519 3 2
+D 0 2520 5 2
+D 0 2524 4 2
+D 0 2525 3 1
+D 0 2526 0 2
+D 0 2526 1 1
+D 0 2527 0 2
+D 0 2527 2 2
+D 0 2528 0 2
+D 0 2528 2 2
+D 0 2529 2 2
+D 0 2529 3 2
+D 0 2530 1 2
+D 0 2530 2 2
+D 0 2531 0 2
+D 0 2531 2 2
+D 0 2532 0 2
+D 0 2532 3 2
+D 0 2533 0 2
+D 0 2533 1 2
+D 0 2534 0 2
+D 0 2534 2 2
+D 0 2535 2 2
+D 0 2535 3 2
+D 0 2536 1 2
+D 0 2536 2 2
+D 0 2537 0 2
+D 0 2537 3 2
+D 0 2538 1 2
+D 0 2539 1 2
+D 0 2555 0 1
+D 0 2556 2 1
+D 0 2558 0 2
+D 0 2558 1 1
+D 0 2560 2 2
+D 0 2561 3 1
+M 0 2501 2 2500 2 Load a half-orc enforcer
+E 0 2505 0 6 A wide-brim bison leather hat is loaded over the head of a half-orc enforcer
+E 0 2510 0 5 A bison leather trenchcoat is loaded on the body of a half-orc enforcer
+E 0 2597 0 15 An orcish iron shortsword is loaded wielded of a half-orc enforcer
+M 0 2500 4 2505 4 Load a goblin poo scraper
+E 0 2501 0 9 A water bucket is loaded on the hands of a goblin poo scraper
+M 0 2506 1 2506 1 Load an orc fugger
+G 0 2503 0 Some bison leather pants is given to an orc fugger
+G 0 2504 0 A pair of bison leather gloves is given to an orc fugger
+G 0 2505 0 A wide-brim bison leather hat is given to an orc fugger
+G 0 2507 0 A bison hide armor is given to an orc fugger
+G 0 2508 0 A pair of bison leather boots is given to an orc fugger
+G 0 2517 0 A bison leather skirt is given to an orc fugger
+G 0 2535 0 A thick wooly frock is given to an orc fugger
+G 0 2534 0 A fringed leather corset is given to an orc fugger
+G 0 2599 0 An orcish iron mace is given to an orc fugger
+G 0 2598 0 A heavy iron pike  is given to an orc fugger
+G 0 2597 0 An orcish iron shortsword is given to an orc fugger
+E 0 2516 0 5 A regal black iron chainmail shirt is loaded on the body of an orc fugger
+G 0 2529 0 A black iron flail is given to an orc fugger
+G 0 2552 0 A black iron axe is given to an orc fugger
+M 0 2507 1 2507 1 Load Grunthet the Hag
+G 0 2531 0 An iron-framed oil lamp is given to Grunthet the Hag
+G 0 2532 0 A wooly bandage is given to Grunthet the Hag
+G 0 2533 0 A fringed bison-leather purse is given to Grunthet the Hag
+E 0 2517 0 12 A bison leather skirt is loaded around the waist of Grunthet the Hag
+E 0 2534 0 5 A fringed leather corset is loaded on the body of Grunthet the Hag
+M 0 2508 1 2508 1 Load Snuk 
+G 0 2570 0 An iron githzerai necklace is given to Snuk 
+G 0 2571 0 A black iron mining-pick is given to Snuk 
+E 0 2508 0 8 A pair of bison leather boots is loaded on the feet of Snuk 
+E 0 2510 0 5 A bison leather trenchcoat is loaded on the body of Snuk 
+E 0 2503 0 7 Some bison leather pants is loaded on the legs of Snuk 
+M 0 2509 1 2509 1 Load Kriggat the Shaman
+G 0 2569 0 A bisonskin scroll is given to Kriggat the Shaman
+G 0 2568 0 An orcish tahttewin needle is given to Kriggat the Shaman
+E 0 2526 0 5 A dark-brown wooly cloak is loaded on the body of Kriggat the Shaman
+M 0 2597 2 2510 1 Load a half-orc widow
+E 0 2517 0 12 A bison leather skirt is loaded around the waist of a half-orc widow
+E 0 2535 0 5 A thick wooly frock is loaded on the body of a half-orc widow
+M 0 2512 1 2512 1 Load a half-orc sub-chief
+E 0 2512 0 15 An orcish iron warlance is loaded wielded of a half-orc sub-chief
+M 0 2514 2 2514 2 Load an orcish bodyguard
+M 0 2515 1 2515 1 Load The High Chief
+E 0 2515 0 15 The high chief's maul is loaded wielded of The High Chief
+E 0 2516 0 5 A regal black iron chainmail shirt is loaded on the body of The High Chief
+M 0 2517 1 2517 1 Load the head mistress
+E 0 2517 0 12 A bison leather skirt is loaded around the waist of the head mistress
+M 0 2522 2 2522 2 Load an assistant poo-scraper
+E 0 2596 0 15 A blood-stained orcish club is loaded wielded of an assistant poo-scraper
+M 0 2524 2 2524 2 Load a young half-orc gladiator
+E 0 2599 0 15 An orcish iron mace is loaded wielded of a young half-orc gladiator
+E 0 2503 0 7 Some bison leather pants is loaded on the legs of a young half-orc gladiator
+M 0 2526 1 2526 1 Load a half-orc scout
+E 0 2507 0 5 A bison hide armor is loaded on the body of a half-orc scout
+E 0 2503 0 7 Some bison leather pants is loaded on the legs of a half-orc scout
+E 0 2597 0 15 An orcish iron shortsword is loaded wielded of a half-orc scout
+E 0 2526 0 3 A dark-brown wooly cloak is loaded around the neck (1) of a half-orc scout
+M 0 2527 1 2527 1 Load a half-orc mage
+E 0 2527 0 5 A dark-brown wooly robe is loaded on the body of a half-orc mage
+E 0 2527 0 5 A dark-brown wooly robe is loaded on the body of a half-orc mage
+M 0 2528 1 2528 1 Load a half-orc monk
+M 0 2529 1 2529 1 Load a half-orc merc
+E 0 2503 0 7 Some bison leather pants is loaded on the legs of a half-orc merc
+E 0 2504 0 9 A pair of bison leather gloves is loaded on the hands of a half-orc merc
+E 0 2551 0 16 An iron shield from golthek's merc company-1 is loaded as a shield of a half-orc merc
+E 0 2549 0 5 A furlined vest of bison leather is loaded on the body of a half-orc merc
+E 0 2505 0 6 A wide-brim bison leather hat is loaded over the head of a half-orc merc
+E 0 2529 0 15 A black iron flail is loaded wielded of a half-orc merc
+M 0 2530 1 2530 1 Load a half-orc missionary
+E 0 2530 0 15 A black iron stiletto is loaded wielded of a half-orc missionary
+M 0 2531 1 2531 1 Load an inquisitor
+M 0 2532 1 2532 1 Load a young priest
+M 0 2533 1 2533 1 Load a half-orc fighter
+M 0 2534 1 2534 1 Load a half-orc duelist
+M 0 2535 1 2535 1 Load a murderous doctor
+M 0 2536 1 2536 1 Load a psychotic clown
+M 0 2537 1 2537 1 Load a giantess
+M 0 2538 1 2538 1 Load an ogress priestess
+M 0 2510 1 2539 1 Load the butcher
+E 0 2595 0 15 A huge obsidian meat cleaver is loaded wielded of the butcher
+M 0 2541 2 2541 1 Load a half-orc hooligan
+E 0 2506 0 3 An over-sized bison leather bandanna is loaded around the neck (1) of a half-orc hooligan
+E 0 2596 0 15 A blood-stained orcish club is loaded wielded of a half-orc hooligan
+M 0 2543 1 2543 1 Load a priest of War
+E 0 2543 0 5 A war priest's blood-dyed robe is loaded on the body of a priest of War
+E 0 2542 0 2 A signet ring of the church of war is loaded on the right finger of a priest of War
+M 0 2541 2 2544 1 Load a half-orc hooligan
+E 0 2506 0 6 An over-sized bison leather bandanna is loaded over the head of a half-orc hooligan
+E 0 2596 0 15 A blood-stained orcish club is loaded wielded of a half-orc hooligan
+M 0 2547 2 2547 2 Load a bison bull
+M 0 2548 3 2548 3 Load a young bison
+M 0 2549 1 2549 1 Load a cattle baron
+E 0 2505 0 6 A wide-brim bison leather hat is loaded over the head of a cattle baron
+E 0 2506 0 3 An over-sized bison leather bandanna is loaded around the neck (1) of a cattle baron
+E 0 2549 0 5 A furlined vest of bison leather is loaded on the body of a cattle baron
+E 0 2504 0 9 A pair of bison leather gloves is loaded on the hands of a cattle baron
+M 0 2551 3 2551 1 Load a half-orc mercenary
+E 0 2551 0 16 An iron shield from golthek's merc company-1 is loaded as a shield of a half-orc mercenary
+E 0 2507 0 5 A bison hide armor is loaded on the body of a half-orc mercenary
+E 0 2599 0 15 An orcish iron mace is loaded wielded of a half-orc mercenary
+E 0 2508 0 8 A pair of bison leather boots is loaded on the feet of a half-orc mercenary
+M 0 2552 1 2552 1 Load a priestess of War
+E 0 2542 0 1 A signet ring of the church of war is loaded on the left finger of a priestess of War
+E 0 2543 0 5 A war priest's blood-dyed robe is loaded on the body of a priestess of War
+E 0 2526 0 5 A dark-brown wooly cloak is loaded on the body of a priestess of War
+E 0 2552 0 15 A black iron axe is loaded wielded of a priestess of War
+M 0 2553 1 2553 1 Load a very fat half-orc
+E 0 2553 0 6 A large cooking pot is loaded over the head of a very fat half-orc
+M 0 2554 1 2554 1 Load an old half-orc broker
+M 0 2556 2 2556 2 Load a sewer rat
+M 0 2558 1 2558 1 Load a bored half-orc guard
+E 0 2599 0 15 An orcish iron mace is loaded wielded of a bored half-orc guard
+M 0 2561 1 2561 1 Load the Arena Master
+E 0 2516 0 5 A regal black iron chainmail shirt is loaded on the body of the Arena Master
+E 0 2552 0 15 A black iron axe is loaded wielded of the Arena Master
+S
+
+
+
+#SHOPS
+2506 0 9 5 0 0 110 40 6 24
+1
+2507 33 1 13 15 40 110 25 15 7
+1
+2508 39 43 59 60 61 110 30 6 23
+0
+2509 35 10 36 2 46 150 55 1 22
+0
+2510 0 63 19 44 17 100 50 6 18
+0
+0
+
+
+
+#MOBPROGS
+#2500
+say Hey $n...get lost!
+~
+#2501
+~
+#2599
+if RACE $n half orc
+say half orc
+else
+say not a half orc
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#QUESTS
+#0
+
+
+
+#$

@@ -1,0 +1,66 @@
+#AREADATA
+Deprecated 0
+Name Corandul~
+Builders None~
+VNUMs 5000 5249
+Levels 1 40
+Credits (null)~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 1
+Flags 2
+Faction (null)~
+History Corandul's history is a long and winded one, beginning multiple millennia
+ago when the elves first migrated from the forests, seeking more defendable
+housing. They founded Corandul and built powerful ivory walls surrounding it,
+enhanced with old elven magic. This city has grown over the centuries, and this
+was foreseen by the founders. Their enchantment allows the magically enhanced
+ivory walls surrounding the city to be manipulated in size and shape, allowing
+the city to expand without worry of destroying the powerful and ancient wards
+placed on their barriers to outside foes. 
+~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

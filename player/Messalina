@@ -1,0 +1,831 @@
+#PLAYER
+Name Messalina~
+Id   1579832227
+LogO 1581311830
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race aarakocra~
+Clan loner~
+Clan_Rank 0
+Clan_Points 0
+Sex  2
+Cla  2
+God	3
+Favored 0
+GuildRnk  1
+GuildPts  233
+Levl 12
+Sec  0
+Plyd 53425
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 1145
+HMV  85 85 193 167 208 208
+Bleed -1
+Talent 0
+PP 0 0
+Gold 501
+Silv 4421
+BAcct 0
+Bank 0
+Exp  1027733
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 390
+Eyes 64
+Hair 16
+Haircut 64
+Age 20
+Account Roguegrl~
+Recall 1010
+Act  CDEFGHKQT
+AfBy HJTV
+Comm NOP
+Pos  8
+Prac 34
+Trai 1
+Save  4
+Alig  -250
+Hit   12
+Dam   8
+ACs -29 -24 -31 -21
+Wimp  25
+Attr 18 11 16 22 18 13
+AMod 4 3 1 4 1 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	0
+EqCond 1
+Beeptells 0
+Pnts 0
+TSex 2
+LLev 12
+HMVP 78 164 196
+Cnd  0 0 618 368 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 637
+127 917504
+281 256
+36 -1625293313
+31 -63743
+40 120832
+38 -524287
+39 -1
+37 8323078
+43 6
+41 -536813567
+42 -1610612737
+74 16777213
+20 -131043
+18 -1090519039
+72 -1107821105
+71 -268173823
+19 1073741818
+21 30
+73 268435454
+32 150994942
+34 503738496
+35 -1573119
+33 12
+62 458752
+63 1891130431
+64 16352
+815 -1048575
+817 -16989322
+816 -7937
+818 12
+68 -16777215
+69 67108862
+70 64
+79 7864320
+90 -1074790399
+91 -536804737
+92 246
+128 -267387039
+129 8388510
+124 1
+125 -33554433
+75 15358
+76 -32768
+77 510
+126 2046
+-1 -1
+Alias 1 backstab~
+Alias 2 band self~
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 27 'detect traps'
+Sk 83 'dagger'
+Sk 27 'short sword'
+Sk 27 'crossbow'
+Sk 24 'backstab'
+Sk 35 'dodge'
+Sk 1 'lay trap'
+Sk 14 'remove trap'
+Sk 76 'first aid'
+Sk 1 'fast healing'
+Sk 37 'lore'
+Sk 30 'peek'
+Sk 27 'pick lock'
+Sk 29 'sneak'
+Sk 27 'steal'
+Sk 25 'scrolls'
+Sk 27 'wands'
+Sk 2 'recall'
+Sk 27 'detect secret'
+Gr 'rom basics'
+Gr 'thief basics'
+Affc 'enlarge person'   0  52  12   1   0          0
+Affc 'resistance'   0  52  25  -1  20          0
+Affc 'fly'   0  53  55   0   0     524288
+Affc 'bless'   0  52  58   6  24          0
+Affc 'bless'   0  53  58   6  18          0
+Affc 'sanctuary'   0  53   7   0   0        128
+Affc 'motivation'   0  53   9   4  19          0
+Affc 'motivation'   0  53   9   4  18          0
+Affc 'cacophonic shield'   0  52  22 -40  17          0
+Affc 'vocal shield'   0  53  19 -30  17          0
+Affc 'shield'   0  52  59 -20  17          0
+Affc 'armor'   0  53  23 -20  17          0
+Affc 'haste'   0  52  12   4   2    2097152
+Affc 'giant strength'   0  53  52   4  19          0
+Affc 'giant strength'   0  53  52   4   1          0
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 606
+Nest 0
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear 10
+Cost 72
+End
+
+#O
+Vnum 615
+Nest 0
+Wear 18
+Cost 1140
+End
+
+#O
+Vnum 2320
+Nest 0
+Wear 3
+Cost 25
+End
+
+#O
+Vnum 1027
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1027
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1027
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1027
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1068
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 38
+Nest 0
+Name a scarlet velvet backpack~
+ShD  a scarlet velvet backpack~
+Desc a scarlet velvet backpack~
+ExtF 64
+WeaF 1025
+Wt   4
+Material velvet~
+Wear -1
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   2   1          0
+End
+
+#O
+Vnum 28
+Nest 1
+Name a opaque, cloudy potion of shocking grasp~
+ShD  a opaque, cloudy potion of shocking grasp~
+Desc a opaque, cloudy potion of shocking grasp~
+ExtF 64
+Wear -1
+Lev  5
+Cost 751
+Val  6 82 0 0 0
+Spell 1 'shocking grasp'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a variegated, vaporous potion of transfer life~
+ShD  a variegated, vaporous potion of transfer life~
+Desc a variegated, vaporous potion of transfer life~
+ExtF 64
+Wear -1
+Lev  7
+Time 631
+Cost 1049
+Val  7 218 0 0 0
+Spell 1 'transfer life'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a luminous, fuming potion of fear~
+ShD  a luminous, fuming potion of fear~
+Desc a luminous, fuming potion of fear~
+ExtF 64
+Wear -1
+Lev  9
+Time 462
+Cost 1349
+Val  9 103 0 0 0
+Spell 1 'fear'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Time 617
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Time 691
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Time 682
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Time 743
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 2331
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2202
+Nest 1
+Wear -1
+Time 536
+Cost 20
+Spell 1 'cure light'
+Spell 2 'cure poison'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 2202
+Nest 1
+Wear -1
+Time 651
+Cost 20
+Spell 1 'cure light'
+Spell 2 'cure poison'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 1081
+Nest 1
+Cond 97
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 35
+Nest 1
+Name a floating sphere of obscure object~
+ShD  a floating sphere of obscure object~
+Desc a floating sphere of obscure object~
+ExtF 64
+WeaF 65537
+Wear -1
+Lev  9
+Cost 2250
+Val  10 15 8 167 0
+Spell 3 'obscure object'
+End
+
+#O
+Vnum 18
+Nest 0
+Name the breeches of striding~
+ShD  the breeches of striding~
+Desc the breeches of striding~
+ExtF 64
+WeaF 33
+Ityp 9
+Wt   4
+Material silk~
+Wear 7
+Lev  9
+Cost 2450
+Val  1 1 2 1 0
+Affc 'reserved'   0   0  -1  -1  17          0
+Affc 'reserved'   0   0  -1   8  14          0
+End
+
+#O
+Vnum 1113
+Nest 0
+Cond 91
+Wear 15
+Cost 110
+End
+
+#O
+Vnum 35
+Nest 0
+Name the gloves of shadow bolt~
+ShD  the gloves of shadow bolt~
+Desc the gloves of shadow bolt~
+ExtF 16777280
+Extra2Flags 131072
+WeaF 129
+Wear 9
+Lev  11
+Cost 3000
+Val  11 17 11 91 0
+Spell 3 'shadow bolt'
+End
+
+#O
+Vnum 1099
+Nest 0
+Cond 72
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 18
+Nest 0
+Name a stone of deflection~
+ShD  a stone of deflection~
+Desc a stone of deflection~
+ExtF 64
+WeaF 65537
+Ityp 9
+Wt   4
+Material onyx~
+Wear 19
+Lev  7
+Cost 3270
+Val  2 1 1 1 0
+Affc 'reserved'   0   0  -1  -2  17          0
+Affc 'reserved'   0   0  -1  -1  24          0
+End
+
+#O
+Vnum 38
+Nest 0
+Name a copper colored silk wrist pouch~
+ShD  a copper colored silk wrist pouch~
+Desc a copper colored silk wrist pouch~
+ExtF 64
+WeaF 4097
+Wt   2
+Material silk~
+Wear 13
+Cost 10
+Affc 'reserved'   0   0  -1   4  14          0
+Affc 'reserved'   0   0  -1  -2  17          0
+End
+
+#O
+Vnum 5
+Nest 1
+ShD  1 silver coins and 1 gold coins~
+Wt   0
+Cond 60
+Wear -1
+Cost 101
+Val  1 1 0 0 0
+End
+
+#O
+Vnum 199
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 38
+Nest 0
+Name a white hide belt pouch~
+ShD  a white hide belt pouch~
+Desc a white hide belt pouch~
+ExtF 64
+WeaF 2049
+Wt   4
+Material hide~
+Wear 12
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   1   3          0
+Affc 'reserved'   0   0  -1  -2  17          0
+End
+
+#O
+Vnum 1125
+Nest 0
+Wear 11
+Cost 700
+End
+
+#O
+Vnum 1127
+Nest 0
+ShD  a flamboyant {Rs{Wi{Rl{Wk{x dress shirt~
+Wear 5
+Cost 700
+End
+
+#O
+Vnum 1130
+Nest 0
+ShD  a pill of {Gr{ge{Gn{ge{Gw{ga{Gl{x~
+Wear -1
+Cost 500
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'cure light'
+End
+
+#O
+Vnum 1130
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'cure light'
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1039
+Nest 0
+Cond 49
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Cond 65
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Cond 73
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 18
+Nest 0
+Name an axe of ultimate augury~
+ShD  an axe of ultimate augury~
+Desc an axe of ultimate augury~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   11
+Cond 94
+Material platinum~
+Wear -1
+Lev  4
+Cost 2550
+Val  5 2 5 3 0
+Affc 'reserved'   0   0  -1   2  12          0
+Affc 'reserved'   0   0  -1   2  19          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name an adze of defense~
+ShD  an adze of defense~
+Desc an adze of defense~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   11
+Cond 98
+Material brass~
+Wear -1
+Lev  8
+Cost 1580
+Val  5 2 4 3 0
+Affc 'reserved'   0   0  -1  -1  17          0
+End
+
+#END

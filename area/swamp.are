@@ -1,0 +1,2811 @@
+#AREADATA
+Deprecated 0
+Name Urukga Swamp~
+Builders Weiland~
+VNUMs 2400 2499
+Levels 10 25
+Credits Weiland~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 9
+Flags 34
+Faction (null)~
+History ~
+End
+
+
+
+#MOBILES
+#2400
+fellow travelling tall Ernest~
+Ernest, the travelling scholar~
+A tall scholarly looking fellow stares into the fire.
+~
+(null)~
+A tall scholarly looking fellow seems to be deep in thought here.
+His hazel eyes are somewhat squinty accentuated by a rather large
+pointy nose. His wiry frame is quite tall, but he doesn't appear to
+be physically intimidating. His eyes gleam with a deep intelligence
+unusual for these dreary surroundings and his voice is firm and
+has a melodic quality when he speaks.
+~
+human~
+AG B 0 300 0
+30 30 30d8+60 30d8+100 0d0+0 punch
+3 3 3 3
+0 CDZ 0 0
+sit sit male 5000
+AHMV ABCDEFGHIJK medium
+ unknown
+M ACT 2411 greet~
+#2401
+alligator pygmy~
+a {gpygmy{x{w alligator~
+A {gpygmy{x{w alligator waddles through the muck.
+~
+(null)~
+A roughly four foot long pygmy alligator moves about through
+the muck. Its scaly hide is a dark {ggreen{x{w in color allowing it
+to blend in quite well with its swampy surroundings. Its eyes
+gleam with a certain feral intelligence as its toothy jaws open
+and close slowly.
+~
+alligator~
+AG 0 0 200 0
+10 10 10d8+100 10d8+100 3d5+10 bite
+2 2 2 2
+U 0 ELQ FI
+stand stand male 0
+ABGHMVXc ABCDEFGHIJKQUV medium
+ unknown
+M DEATH 2401 70~
+M DEATH 2403 15~
+#2402
+heron grey~
+a grey heron~
+A grey heron flies about the swamp.
+~
+(null)~
+A small grey heron flies about the swamp searching for food.
+The heron is a distant cousin to the obnoxious black crow, they
+are a common sight along the shorelines and the swampy areas of
+the lands. Omnivores, they subsist off small weaker animal life
+and meagre plant life amidst the stagnant water. Hunters say their
+flesh is oily with a gamy flavor that is definitely an acquired
+taste.
+~
+water fowl~
+AG 0 Tb 100 0
+12 12 12d8+24 12d8+100 2d8+2 peck
+1 1 1 1
+HR 0 R 0
+stand stand male 0
+AGW ACDEFHKP medium
+ unknown
+#2403
+beaver buck toothed~
+a buck toothed beaver~
+A buck toothed beaver ambles past.
+~
+(null)~
+A buck toothed beaver ambles by looking for some suitable
+wood for its endeavours. Typical of their race, their mindless
+devotion to constructing beaver dams drives their existence. The
+beaver's wide flat tail thumps gently behind him as he goes about
+his daily affairs.
+~
+animal~
+AG 0 0 200 0
+10 10 10d8+20 10d8+100 2d5+10 bite
+1 1 1 1
+0 0 0 0
+stand stand male 0
+AGV ABCDEFHJKUV medium
+ unknown
+#2405
+scout kuo-tuo swamp native~
+a kuo-toa scout~
+An odd swamp native sticks to the shadows.
+~
+(null)~
+An odd swamp native attempts to blend into its surroundings.
+Its head is a curious fish like abomination, the fellow is a
+native kuo-tua. Their language is an indecipherable series of
+clicks and screeches as it notices your approach. Apparently
+on the lookout for unwanted visitors, the scout draws its weapon
+and attacks!
+~
+kuo-toa~
+AFT 0 J -200 0
+12 12 12d8+24 12d8+100 3d5+2 none
+0 0 0 0
+0 0 R H
+stand stand none 80
+AHMV ABCDEFGHIJK medium
+ unknown
+#2406
+kuo-toa warrior~
+a kuo-toa warrior~
+A kuo-toa warrior stands firm here.
+~
+(null)~
+A kuo-toa warrior stands firmly here guarding the village.
+It's odd fish shaped head is difficult to look at, its large fishy
+eyes gleam with a deep intelligence. Its burly humanoid figure is
+clad in armor designed by the villages' craftsmen. The kuo-toa speaks
+in an odd indecipherable series of clicks and grunts as it readies its
+weapon.
+~
+kuo-toa~
+AG 0 J -200 0
+15 5 11d4+134 3d16+144 1d4+4 divine
+2 2 2 1
+0 0 R H
+stand stand none 40
+AHMV ABCDEFGHIJK medium
+ unknown
+#2407
+sentry kuo-toa~
+a kuo-toa sentry~
+A kuo-toa sentry stands firmly here.
+~
+(null)~
+A burly kuo-toa sentry stands firmly here staring stocially about.
+Its difficult to read its expression due to its odd features but chances
+are its not too friendly to unwanted visitors. It fingers its drawn weapon
+and keeps a watchful eye on the path leading to the gate behind him.
+~
+kuo-toa~
+ABFGT CD DFJ -200 0
+15 15 15d8+100 15d8+100 3d5+12 punch
+1 1 1 1
+FH AB R 0
+stand stand male 120
+AHMV ABCDEFGHIJK medium
+ unknown
+F vul H
+#2408
+woman priestess kuo-toa~
+a kuo-toa priestess~
+A tall shapely kuo-toa woman moves about the village.
+~
+(null)~
+The tall woman is clad in an elaborately beaded robe that accentuates
+her lithe full frame. She is probably considered quite appealing among
+the kuo-toa, her age difficult to judge to those not of her race. Her
+eyes are a deep grey with green irises quite unlike the muddy brown of
+the majority of her race.
+~
+kuo-toa~
+AFG 0 J -200 0
+18 18 18d8+100 18d8+100 3d5+10 blast
+1 1 1 1
+G ABH CR H
+stand stand female 200
+AHMV ABCDEFGHIJK medium
+ unknown
+#2409
+guard elite kuo-toa~
+an elite kuo-toa guard~
+An elite kuo-toa guard stands ready.
+~
+(null)~
+The elite of the kuo-toa guard are chosen for their superior breeding
+and combat knowledge. Few if any of the kuo-toa tribe have managed to
+survive the rigorous training perhaps one of the reasons the village is
+so sparsely populated. Those that do reach the rank of elite are battle
+hardened veterans and are to be avoided at all costs.
+~
+kuo-toa~
+AFGT CD DFJ -300 0
+20 15 8d14+1500 2d37+223 3d4+14 acbite
+-6 -6 -6 -4
+FKNV 0 R H
+stand stand none 63
+AHMV ABCDEFGHIJK medium
+ unknown
+#2410
+emissary drow~
+a drow emissary~
+A drow emissary argues loudly here.
+~
+(null)~
+A tall overbearing drow male argues loudly here his pale
+face flushed with frustration. Dressed in fine silk robes and
+gaudy jewelery he is apparently some foreign dignitary of some
+sort. Glancing up at your arrival his frustration rapidly turns
+to outrage at your uninvited appearance.
+~
+drow~
+AG 0 J -300 0
+20 20 20d8+300 20d8+100 10d4+15 punch
+2 2 2 2
+0 0 BCL NST
+stand stand male 300
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 2405 100~
+#2411
+chieftain kuo-toa~
+the kuo-toa chieftain~
+The kuo-toa chieftain stands proudly here.
+~
+(null)~
+A giant of a man, the kuo-toa chieftain is built like horse,
+his expansive chest ripples with coiled muscles like a snake.
+His impressive arms bulge with powerful muscles as he moves about
+with a sinewy grace despite his great size. His curious kuo-toa eyes
+are blackest night with no hint of iris. The chieftain is an mighty
+specimen of the kuo-toa race and not to be dealt with lightly.
+~
+kuo-toa~
+ABFT CE J -400 0
+25 25 25d8+300 25d8+100 0d0+0 punch
+2 2 2 2
+0 0 R H
+stand stand male 1000
+AHMV ABCDEFGHIJK medium
+ unknown
+M DEATH 2402 20~
+#2412
+troll swamp~
+a swamp troll~
+A howling swamp troll shambles forward!
+~
+(null)~
+The swamp troll howls in a gutteral rage as it readies its attack. Well
+over six feet in height, the swamp troll is an intimidating presence. The
+green behemoth's long sinewy paws curl into lethal claws eager for tender
+flesh. It's malevolent eyes narrow in feral fury as it moves forward with
+alarming speed.
+~
+troll~
+AG 0 FJc -300 0
+15 15 15d8+30 15d8+100 3d5+12 claw
+1 1 1 1
+D 0 BE HK
+stand stand male 0
+ABHMV ABCDEFGHIJKUV medium
+ unknown
+#2413
+bat cave~
+a cave bat~
+A cave bat flits about the area.
+~
+(null)~
+A large cave bat flies out the darkness of the cave.
+Its leathery wings beating about, it releases a constant
+irritating shriek as it travels through the air. The shrieking
+serves as its guidance, its near blind eyes milky white in color.
+The acoustics of the cave amplify the shrill shrieking allowing it
+near perfect guidance through the darkness.
+~
+bat~
+AG 0 TZ 100 0
+15 15 15d8+30 15d8+100 3d5+10 bite
+0 0 0 0
+HR 0 0 S
+stand stand female 0
+AGV ACDEFHJKP medium
+ unknown
+F off F
+#2414
+troll cave~
+a rampaging cave troll~
+A rampaging cave troll charges!
+~
+(null)~
+A black as night cave troll charges across the cavern towards
+you! It long frame ripples with muscles as it moves with an
+uncanny speed across the cavern. Round eyes inset around a prominent
+beak of a nose frame a mouth full of jagged brown teeth. Its massive
+fists terminate in long talon like claws that serve as its primary
+weapon of choice. Eager for fresh blood, the rampaging troll readies
+its assault!
+~
+troll~
+AFG D FJc -300 0
+20 20 20d8+100 20d8+100 4d5+15 claw
+1 1 1 1
+CFH 0 BE HK
+stand stand male 70
+ABHMV ABCDEFGHIJKUV medium
+ unknown
+F off D
+#2420
+crocodile giant~
+a giant enraged crocodile~
+A giant enraged crocodile raises its toothy snout in defiance.
+~
+(null)~
+A giant enraged crocodile storms through the muddy puddles of
+the swamp. Enflamed over the slaying of its kinfolk, the giant
+crocodile has sworn vengeance on those slaying its smaller
+kinfolk!
+~
+unique~
+AFG D J 500 0
+20 20 20d8+400 20d8+100 4d5+10 bite
+0 0 0 0
+HV 0 J B
+stand stand female 0
+AGHMV ABCDEFGHIJKUVY medium
+ unknown
+#2425
+drow secretive~
+a secretive drow~
+A secretive drow slinks towards the hatch.
+~
+(null)~
+A familiar looking drow hovers over the hatch as if attempting to
+open it. His eyebrows shoot up in disbelief as he spies you enter
+behind him. With a snarl of disgust, the drow draws his weapon and
+attacks!
+~
+drow~
+AFG CE J -500 0
+20 20 20d8+240 20d8+100 4d5+12 blast
+0 0 0 0
+AGHK 0 BCL NST
+stand stand male 200
+AHMV ABCDEFGHIJK medium
+ unknown
+#2490
+Secretguy~
+Secretguy~
+Secretguy.. you can't see me!
+~
+(null)~
+~
+human~
+ABG GH 0 0 0
+50 0 50d8+100 50d8+100 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 2410 100~
+#2498
+stallion black~
+a black stallion~
+A proud black stallion awaits your command.
+~
+(null)~
+~
+horse~
+AGI 0 Z 0 0
+1 30 1d8+2 1d8+100 30d10+20 bite
+3 3 3 3
+FH 0 0 0
+stand stand male 0
+AGV ACDEFJKQV medium
+ unknown
+#2499
+Petguy~
+Petguy~
+Petguy the test petshop guy is here.
+~
+(null)~
+~
+human~
+AG 0 0 0 0
+40 0 40d8+80 40d8+100 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#0
+
+
+
+#OBJECTS
+#2400
+fire small~
+a small fire~
+{rA small fire burns merrily here.{x{w~
+wood~
+0
+fire 0 0 0
+0 0 0 0 0
+0 0 0 P
+#2405
+spear bamboo~
+a sharpened bamboo spear~
+A short bamboo spear was dropped here.~
+wood~
+0
+weapon 0 0 AN
+staff 3 7 pierce 0
+10 4 60 P
+#2406
+breastplate bamboo~
+a well-fitted bamboo breastplate~
+A well fitted bamboo breastplate lies here.~
+wood~
+0
+armor 0 0 AD
+C AB AB B 2
+10 4 70 G
+#2407
+bamboo sandals~
+a pair of bamboo sandals~
+A pair of bamboo sandals have been left here.~
+wood~
+0
+armor 0 0 AG
+AB B B B 2
+8 2 20 G
+#2408
+alligator tooth bracelet~
+an alligator {Wtooth{x{w bracelet~
+A jagged tooth bracelet lies here.~
+bone~
+0
+jewelry 0 0 AM
+0 0 0 0 0
+6 1 80 P
+A
+1 1
+A
+13 5
+#2409
+buckler bamboo~
+a hardened bamboo buckler~
+A round bamboo buckler lies forgotten here.~
+wood~
+0
+armor 0 0 AJ
+C AB AB B 2
+8 3 40 G
+#2410
+cloak alligator hide~
+an alligator hide cloak~
+An alligator hide cloak lies crumpled here.~
+hide~
+0
+armor 0 0 AK
+AB B B B 1
+10 3 100 G
+A
+13 5
+#2411
+short sword corroded copper~
+a corroded copper short sword~
+A corroded shortsword was dropped here.~
+copper~
+0
+weapon 0 0 AN
+short_sword 3 5 slash 0
+8 4 50 A
+#2412
+halberd copper corroded~
+a corroded copper halberd~
+A heavily corroded copper halberd lies here.~
+copper~
+0
+weapon 0 0 AN
+polearm 4 4 slash 0
+15 4 70 G
+#2413
+key corroded~
+a corroded {rc{Ro{rp{Rp{re{Rr{x{w key{x~
+A corroded copper key lies here.~
+copper~
+0
+key U 0 AO
+0 0 0 0 0
+15 1 0 G
+#2414
+necklace alligator tooth~
+an alligator tooth necklace~
+A necklace of alligator teeth lies here.~
+bone~
+0
+jewelry 0 0 AC
+0 0 0 0 0
+10 1 100 P
+A
+3 1
+A
+12 15
+#2415
+mace copper~
+a corroded copper mace~
+A corroded copper mace lies here.~
+copper~
+0
+weapon 0 0 AN
+mace 3 5 crush 0
+10 3 0 G
+#2416
+crystal curious~
+a curious glowing crystal~
+A curious glowing crystal illuminates the area.~
+energy~
+0
+light 0 0 AO
+0 A ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+10 1 50 P
+A
+13 10
+A
+26 2
+A
+19 2
+#2417
+robe beaded swamp gods~
+robe of the swamp gods~
+An elaborately beaded robe was discarded here.~
+skin~
+0
+armor 0 0 AK
+AB B AB B 1
+15 4 120 P
+A
+28 10
+A
+12 15
+A
+4 2
+#2418
+staff minor Kuz'rn~
+minor staff of Kuz'rn~
+(no description)~
+wood~
+0
+staff 0 0 AO
+8 5 3 'sanctuary' 0
+15 5 300 G
+#2419
+skirt woven reed~
+a long woven reed skirt~
+A long woven reed skirt lies here.~
+hide~
+0
+armor 0 0 AF
+AB B AB AB 1
+8 3 70 P
+#2420
+wand ivory ~
+an ivory wand of Kuz'rn~
+A long ivory wand lies abandoned here.~
+ivory~
+0
+wand 0 0 AO
+10 5 4 'magic missile' 0
+10 1 100 P
+#2421
+hide lord crocodile~
+hide of the lord {gcrocodile{x~
+A giant crocodile hide lies here.~
+hide~
+0
+armor 0 0 AD
+AC AC AC AC 2
+25 20 1200 P
+A
+1 2
+A
+5 1
+A
+13 25
+#2422
+choker crocodile tooth~
+a golden {gcrocodile{x tooth choker~
+A garish golden choker lies here.~
+gold~
+0
+jewelry 0 0 AC
+0 0 0 0 0
+20 2 1200 P
+A
+2 1
+A
+18 3
+#2423
+bamboo reinforced bodyarmor~
+reinforced bamboo bodyarmor~
+A reinforced bamboo bodyarmor lies here.~
+hide~
+0
+armor 0 0 AD
+AC C AC C 2
+20 5 200 G
+A
+1 1
+#2424
+crocodile hide bracer~
+a {gcrocodile{x hide bracer~
+A crocodile hide bracer lies abandoned here.~
+hide~
+0
+armor 0 0 AM
+AB B AB AB 2
+16 4 300 G
+#2425
+polearm barbed~
+a long-handled barbed polearm~
+A long-handled barbed polarm lies here.~
+copper~
+0
+weapon 0 0 AN
+polearm 3 6 thrust FG
+15 8 200 G
+#2426
+mat reed~
+a reed mat~
+A simple reed mat lies here.~
+wood~
+0
+furniture 0 0 AO
+A DGH DEGHJK ADE ADE
+5 3 20 P
+#2427
+lamp exquisite~
+an exquisite brass lamp~
+An exquisite brass lamp lies here.~
+brass~
+0
+light 0 0 AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 2 100 P
+#2471
+chest treasure~
+{Ca stout treasure chest{x~
+A stout treasure chest awaits here.~
+wood~
+0
+container U 0 AO
+15 A 0 30 5
+1 1 0 P
+#2472
+coins pile~
+a pile of gold coins~
+A tidy pile of gold coins awaits here.~
+gold~
+0
+money 0 0 A
+CFG 0 0 0 0
+1 1 0 P
+#2490
+alligator hide~
+{C[Q]{x{w a patch of alligator hide~
+A bloodied patch of alligator hide lies here.~
+unknown~
+0
+skin 0 0 A
+0 0 0 0 0
+5 2 20 P
+E
+hide~
+The bloodied strip of hide has been removed from the corpse
+of a pygmy alligator of the Urukga Swamp.
+~
+#2491
+Gwen~
+the magic Pixie, Gwen~
+A petite magical pixie awaits here.~
+magic~
+0
+armor 0 0 AQ
+AB AB AB AB 1
+0 0 0 P
+O ACT 2400 get~
+#2492
+sphere crystaline~
+a crystaline sphere~
+A round crystaline sphere lies here.~
+glass~
+0
+treasure 0 0 AO
+0 0 0 0 0
+1 1 0 P
+#2498
+document official~
+{C[Q]{x{w an offical looking document{x~
+An official looking document lies here.~
+paper~
+0
+parchment 0 0 AO
+0 0 0 0 0
+10 1 0 P
+E
+document~
+The document is written in fine cursive and dense legislative
+legalese. Foreign seals of state are affixed to the bottom of
+the document that are an unknown origin to your untrained eye.
+Someone with knowledge of international legalese will have to
+decipher this for you.
+~
+#2499
+Ring Alpha Tester~
+the Ring of the Alpha Tester~
+A wide golden ring lies here.~
+gold~
+0
+treasure 0 0 AB
+0 0 0 0 0
+1 1 100 P
+A
+13 10
+A
+12 10
+E
+ring~
+The ring is inscribed with the following:
+Given for unwavering devotion in finding and testing
+during the alpha phase of construction! Our thanks to
+you!
+~
+#0
+
+
+
+#ROOMS
+#2400
+Along the river~
+A muddy riverbank follows a meandering route along the rushing
+River Sienne. The rapid movement of the river has been swelled by
+recent rains making any attempts at crossing futile. Directly to the
+east a ramshackle bridge manages to cross the river to the northern
+side. Large trout can be seen moving along with the current of the
+river just under its surface.
+~
+0 4 13
+0
+1
+2
+D1
+~
+~
+0 0 2359
+D3
+~
+~
+0 0 2401
+M 10 H 10
+S
+#2401
+Along the river~
+The tall trees of the Ebonshear Forest loom tall to the north
+bordering the River Sienne. The muddy bank of the river is fairly
+wide and not too difficult to traverse. The river flows by at a rapid
+pace swelled by recent rains. The river encounters a log-jam not far
+to the west curtesy of busy beavers in the area.
+~
+0 0 13
+0
+1
+2
+D1
+~
+~
+0 0 2400
+D3
+~
+~
+0 0 2402
+M 10 H 10
+S
+#2402
+Along the river~
+A large conglomeration of logs and mud have been erected to the
+west of here. An impressive structure constructed by busy beavers in
+the area, the log-jam effectively blocks the flow of the swelling River
+Sienne. The overflow along the banks has created a constant swampy mess
+past the dam that the locals call the Urukga Swamp. An odd humanoid
+tribe is rumored to be hidden deep within its muddy depths.
+~
+0 0 13
+0
+1
+2
+D1
+~
+~
+0 0 2401
+D3
+~
+~
+0 0 2403
+M 10 H 10
+S
+#2403
+Before the beaver dam~
+A large dangerous looking jumble of logs and mud block the flow
+of the surging River Sienne. A busy population of beavers have worked
+this dam for generations effectively creating the swampy mess of the
+Urukga Swamp beyond it. Locals have given up on removing the dam, as
+soon as any attempt is made to remove it, the beavers rebuild seemingly
+overnight.
+~
+0 0 13
+0
+1
+2
+D1
+~
+~
+0 0 2402
+D4
+~
+~
+0 0 2404
+M 10 H 10
+S
+#2404
+Atop the beaver dam~
+Perched precariously atop the dam, the view beyond the dam is
+dismal. A boggy barely visible path meanders into the bowels of
+the Urukga Swamp. With some effort to remain on the path travel
+appears to be possible if one wished to explore further into the
+mysterious swamp. Perhaps the rumors of the tribe deep within the
+swamp are worth investigating after all.
+~
+0 0 4
+0
+1
+2
+D2
+~
+~
+0 0 2405
+D5
+~
+~
+0 0 2403
+M 10 H 10
+S
+#2405
+Atop the beaver dam~
+A barely visible path appears to wind through much encrusted
+trees and debris to the north. With a little care one can climb
+down this side of the beaver dam to more stable ground. The dam
+moves and sways slightly underfoot but appears to be remarkably
+stable. The beavers are quite the engineers apparently, the dam
+will probably stand for generations to come barring any major
+catastrophe.
+~
+0 0 4
+0
+1
+2
+D0
+~
+~
+0 0 2404
+D5
+~
+~
+0 0 2406
+M 10 H 10
+S
+#2406
+Beside the beaver dam~
+A barely visible path winds its way beyond the beaver dam towards
+the north. The shadow of the beaver dam looms high overhead, with
+a little effort the top of the dam could be reached. There appears
+to be no other way except for the path ahead. Wide beaver tracks
+mar the ground where the busy animals must travel in their upkeep of
+the beaver dam.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2407
+D4
+~
+~
+0 0 2405
+M 10 H 10
+S
+#2407
+A muddy path~
+Moss covered cypress trees line the muddy path wandering off deeper
+into the swamp. The mud is thick underfoot making an unpleasant squishing
+sound. The trees of the swamp bear the tell-tale marks of the beaver's
+handiwork, some have been gnawed down to rotting stubs. The air is damp
+and thick with miniscule mosquitoes.
+~
+0 0 17
+0
+1
+2
+D2
+~
+~
+0 0 2406
+D3
+~
+~
+0 0 2408
+M 10 H 10
+S
+#2408
+A muddy path~
+The air is heavy and damp bearing the smell of tree rot and
+swamp gas. Moss covered cypress trees dangle their wet branches
+over the path brushing against your neck. The path seems to lead
+deeper into the swamp with no real design or direction. The squeal
+of an animal is heard in the distance as it encounters something not
+to its liking. Apparently there are bigger creatures about more lethal
+then the placid beavers.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2409
+D1
+~
+~
+0 0 2407
+D3
+~
+~
+0 0 2411
+M 10 H 10
+S
+#2409
+Deeper into the swamp~
+Moss covered cypress trees droop over the path, the heavy
+wet moss almost touching the muddy ground. The smell of smoke
+wafts in from a small clearing to the east. The dim glimmer of
+a fire can be seen from this vantage point. A mud filled path
+leads out of the swamp to the south while a similar one leads
+deeper into the swamp to the west.
+~
+0 0 17
+0
+1
+2
+D1
+~
+~
+0 0 2410
+D2
+~
+~
+0 0 2408
+M 10 H 10
+S
+#2410
+A small clearing~
+A small fire burns merrily in the center of the clearing
+ringed by several stones. A large cypress has collapsed from
+old age and rot forming a natural barrier on the far side of
+the clearing. This seems to be a safe spot to set up camp and
+decide on a future course of action.
+~
+0 1074791436 0
+0
+1
+2
+D3
+~
+~
+0 0 2409
+M 20 H 20
+S
+#2411
+A muddy path~
+A thin wist of smoke wafts through the air carried by a soft
+northern breeze. The damp moss hangs heavy on the nearby cypress
+trees giving the area a dejected forlorn appearance. The squishy
+mud underfoot is unpleasant to travel throught but not too much of
+a hindrance. The path seems to meander on for miles with no real
+focus or direction guiding it.
+~
+0 0 17
+0
+1
+2
+D1
+~
+~
+0 0 2408
+D3
+~
+~
+0 0 2412
+M 10 H 10
+S
+#2412
+A muddy path~
+Mud and water are the dominant features of the swamp, populated by
+a divergent collection of native life. A myriad of animal tracks lead
+off through the mud in all directions. Mostly reptilian in nature, the
+animal life in the swamp have adapted over the generations to the damp
+wet climate. Few have penetrated the inner depths of the swamp, those
+who have speak of a tribal village of lizard people.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2413
+D1
+~
+~
+0 0 2411
+M 30 H 40
+S
+#2413
+A muddy path~
+The muddy path meanders past mossy cypress trees and stagnant mud
+filled pools of water. Swamp creatures native to the area move about
+with ease through the knee-high muck. Pygmy alligators abound, their
+toothy snouts riding high above the mucky water. A bright {Wwhite{x{w
+heron circles high overhead and heads off deeper into the swamp.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2447
+D2
+~
+~
+0 0 2412
+D3
+~
+~
+0 0 2414
+M 10 H 10
+S
+#2414
+A somewhat dry clearing~
+A somewhat dry clearing is a relief after the water logged
+dirt path leading into the swamp. Ancient moss covered trees
+lean over the clearing marking similar paths leading off into
+the depths of the swamp. Without any real landmarks to guide 
+someone in their journeys, the swamp can be a very confusing
+area to navigate in. A large {Wwhite{x heron flies high overhead
+and swoops off at a rapid pace towards the northern part of the
+swamp.
+~
+0 0 17
+0
+1
+2
+D1
+~
+~
+0 0 2413
+D2
+~
+~
+0 0 2415
+M 10 H 10
+S
+#2415
+A dry path through the swamp~
+A wide dirt path leads off through mossy cypress trees and
+tufts of wildly growing reeds. Stagnant water collects along
+the side of the path that begins a gentle climb upwards towards
+higher ground. Stout bamboo reeds grow profusely along the path
+thristily drinking up the moisture from the soggy dirt. An open
+clearing to the north leads towards the damper portion of the
+Urukga Swamp.
+~
+0 4 17
+0
+1
+2
+D0
+~
+~
+0 0 2414
+D4
+~
+~
+0 0 2416
+M 10 H 10
+S
+#2416
+A dry path through the swamp~
+A relatively dry path winds past tall bamboo growth and mossy
+cypress trees at a gentle incline. A slight breeze sends a siblant
+murmur through the bamboo stirring their stout stalks. The bamboo
+thrives throughout the swamp nurtured by the damp climate. Bamboo
+is very resilient and useful in many crafting applications.
+~
+0 0 17
+0
+1
+2
+D2
+~
+~
+0 0 2417
+D5
+~
+~
+0 0 2415
+M 10 H 10
+S
+#2417
+A dry path through the swamp~
+Tall bamboo rustles slightly stirred by the caress of a
+light northern breeze. The dry path continues upwards towards
+a small plateau overlooking the damp swamp. The ground is a lot
+firmer underfoot then the muddy mess encountered elsewhere in
+the wetter portions of the swamp. The slight incline of the path
+has allowed the rampant rainfall to trickle downwards to the
+lower portion of the swamp.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2416
+D4
+~
+~
+0 0 2418
+M 10 H 10
+S
+#2418
+A wind swept plateau~
+The dirt path peaks at a wide plateau ringed by several
+moss covered boulders and heavy bamboo growth. The higher
+elevation allows a better view of the immediate area around
+the plateau. What appears to be a series of huts are barely
+visible a good distance to the north of here. The plateau
+extends outwards towards a heavy growth of bamboo and
+trees to the south.
+~
+0 0 4
+0
+1
+2
+D2
+~
+~
+0 0 2419
+D5
+~
+~
+0 0 2417
+M 10 H 10
+S
+#2419
+A wind swept plateau~
+Heavy bamboo growth encircles the plateau nurtured by
+the damp climate. A few mossy covered boulders and rotting
+cypress trees are the only noteworthy things in the area.
+A small path leads away from the plateau towards the inner
+wetter swamp. The main feature of the plateau is the view
+afforded over the swamp, a careful observer could learn much
+from this vantage point.
+~
+0 0 17
+0
+1
+2
+E
+bamboo~
+A portion of the bamboo looks like its been cut and
+carefully put back into place. Perhaps it could be
+opened with a little ingenuity.
+~
+E
+north~
+A fair distance to the north the swamp enters some rolling hills
+that appear to leave to a cave entrance.
+~
+E
+east~
+The view to the east consists of cypress trees and a
+muddy path leading out of the swamp. There is little of
+real interest in that direction unless looking for a way
+out of the swamp.
+~
+D0
+~
+~
+0 0 2418
+D2
+~
+bamboo~
+9 0 2420
+M 10 H 10
+S
+#2420
+Hidden in the bamboo~
+Heavy bamboo growth has been cleared to create a hidden path
+that descends from the plateau above. The ground is dry and
+appears to be well-travelled. The bamboo creates a natural wall
+above the path effectively absorbing the heavy rains in the
+area. Footsteps sound ahead as something is milling about further
+down the path.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+9 0 2419
+D5
+~
+~
+0 0 2421
+M 10 H 10
+S
+#2421
+Hidden in the bamboo~
+A narrow hidden path leads downward sheltered from view
+by heavy bamboo growth. The dry ground underfoot is hard
+packed and cracked from much foot travel. This appears to be
+a heavy access route from the swamp towards an unknown location.
+The secretive nature of the path may be cause for some stealthy
+investigation.
+~
+0 8 0
+0
+1
+2
+D4
+~
+~
+0 0 2420
+D5
+~
+~
+0 0 2422
+M 10 H 10
+S
+#2422
+Hidden in the bamboo~
+The path ends below in a bamboo covered path through the
+swamp. Above the bamboo covers a hidden path that acends upwards
+at a slight angle. The need for such a path indicates something of
+value maybe be hidden along the path. Footsteps can be heard in the
+distance ahead perhaps by whoever is maintaining the hidden path.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 2423
+D4
+~
+~
+0 0 2421
+M 10 H 10
+S
+#2423
+A hidden path through the bamboo~
+Heavy bamboo growth creates a natural canopy sheltering the
+narrow path beneath it. The path forges through the bamboo which
+has been cut to allow passage through its sturdy stalks. The bamboo
+rustles slightly as you pass by it but is surprisingly resilient. The
+path will have to followed to its end, the bamboo is too difficult to
+penetrate without a lot of tedious cutting involved.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2422
+D3
+~
+~
+0 0 2424
+M 10 H 10
+S
+#2424
+A hidden path through the bamboo~
+A narrow dirt path leads through the heavy bamboo growth
+deeper into the depths of the Urukga Swamp. An occasional
+footstep is heard in the distance as whoever has built the
+secret path moves about nearby. A slight breeze sends a dry
+murmur through the bamboo otherwise things are relatively
+tranquil along the path.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2423
+D2
+~
+~
+0 0 2425
+M 10 H 10
+S
+#2425
+A hidden path through the bamboo~
+Heavy bamboo growth along the path sways quietly stirred
+by a gentle passing breeze. The tracks in the dirt below are somewhat
+odd, they don't appear to be conventional humanoid footprints. The
+path takes a sharp turn to the west and widens considerably. The path
+leads off to the north through the bamboo towards a nearby plateau.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2424
+D3
+~
+~
+0 0 2426
+M 10 H 10
+S
+#2426
+Before a wooden gate~
+A tall wooden gate blends in nicely with the heavy bamboo growth
+of the swamp. The gate is centered in a crude wooden fence topped with
+sharpened stakes. A peek through cracks in the fence reveal a series of
+primitive reed huts enclosed within the fence's perimeter.
+~
+0 4 17
+0
+1
+2
+D0
+~
+gate~
+2 2413 2427
+D1
+~
+~
+0 0 2425
+M 30 H 60
+S
+#2427
+A muddy path amidst reed huts~
+A muddy dirt path leads past reed huts held together with mud and clay.
+Tall crude wooden walls encircle the huts to provide a buffer between the
+outer swamp environs. The huts comprise a small settlement of the secretive
+kuo-toa, who are not overly welcoming to uninvited guests. Some discretion
+may be in order to investigate the village without drawing undue attention.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2428
+D2
+~
+~
+2 0 2426
+M 10 H 10
+S
+#2428
+A muddy path amidst reed huts~
+A muddy path leads past small crude reed huts housing a small
+village of kuo-toa. The huts are fashioned of reed and bamboo, held
+together with swamp mud and ingenuity. The muddy path is covered with
+the odd tracks of the kuo-toa who inhabit the small village. The odd
+race is not known to welcome those not of their own and little is known
+about their culture.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2430
+D2
+~
+~
+0 0 2427
+D3
+~
+~
+0 0 2429
+M 10 H 10
+S
+#2429
+Within a reed hut~
+The tiny reed hut is spartan with a few reed mats and clay jugs its
+only furnishings. An odd crystal glows slightly on the far wall providing
+illumination. A circular reed mat covers the otherwise bare dirt floor. A
+cold bowl of some local stew lies abandoned on a reed mat in the center of
+the hut.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2428
+M 10 H 10
+S
+#2430
+A muddy path amidst reed huts~
+A muddy dirt path runs a northerly route past reed huts of mud
+and clay. The small village is virtually empty, the few inhabitants are
+heavily armed kuo-toa who are not overly welcoming to outsiders. Little is
+known about the secretive race to the outside world. Perhaps their strange
+language which is virtually indecipherable to humanoid standards has led
+to misunderstanding between the races of the area.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2432
+D1
+~
+~
+0 0 2431
+D2
+~
+~
+0 0 2428
+M 10 H 10
+S
+#2431
+Within a reed hut~
+Mud walls of bamboo and reed are bound together fashioning this
+crude hut. The floor is bare except for a few reed mats and exceptionally
+crafted clay jugs. A set of clay bowls are lined neatly along the far wall
+used for whatever the strange race consumes for food. An odd crystal on the
+western wall provides a dim steady illumination to the tiny hut.
+~
+0 8 0
+0
+1
+2
+D3
+~
+~
+0 0 2430
+M 10 H 10
+S
+#2432
+A muddy path amidst reed huts~
+Reed huts built along the muddy path are all of uniform size and
+relatively crude design. The few villagers in sight all appear to
+be heavily armed as if expecting the worst at any moment. Not known
+for their open hospitality, the kuo-toa protect their secret society
+with a fierce determination. A circular intersection to the north leads
+up to a much larger hut at its apex ahead.
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2435
+D1
+~
+~
+0 0 2434
+D2
+~
+~
+0 0 2430
+D3
+~
+~
+0 0 2433
+M 10 H 10
+S
+#2433
+Within a reed hut~
+The reed walls are comprised of mud and clay interwoven with
+the stout bamboo of the swamp. Clay jugs and a few reed mats are
+all that comprise the tiny hut's contents. A woven reed and bamboo
+doll, perhaps a childs toy lies abandoned on a small reed mat in the
+far corner of the hut.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2432
+M 10 H 10
+S
+#2434
+Within a reed hut~
+The bare floor of the hut is covered with a well woven reed
+mat. The walls of the hut are comprised of interwoven reed and
+bamboo held together with clay and mud. A curious crystal on the
+far wall bathes the tiny hut with a dim illumination. The crystal
+is cool to the touch, obviously the amphibian kuo-toa avoid fire and
+heat at all costs.
+~
+0 8 0
+0
+1
+2
+D3
+~
+~
+0 0 2432
+M 10 H 10
+S
+#2435
+A muddy path amidst reed huts~
+An elaborate reed and bamboo hut stands atop a small hill to the
+north. Much smaller huts flank the larger one on each side. Many
+tracks lead to the large hut indicating it is probably a central
+meeting place for the small community. The general absence of any
+civilians or children indicates something may be amiss in the kuo-toa
+village.
+~
+0 0 17
+0
+1
+2
+D1
+~
+~
+0 0 2438
+D2
+~
+~
+0 0 2432
+D3
+~
+~
+0 0 2436
+D4
+~
+~
+0 0 2440
+M 10 H 10
+S
+#2436
+A muddy path amidst reed huts~
+The crude wooden walls around the small village enclose around the
+huts ending the muddy path here. A small hut to the north sits next
+to a much larger one atop a small hill. The wooden walls around the
+village are topped with sharpened wooden stakes to prevent access over
+the walls.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2437
+D1
+~
+~
+0 0 2435
+M 10 H 10
+S
+#2437
+Inside a reed hut~
+A few woven reed mats are lined up neatly apon the bare
+dirt floor. A few jugs of clay hold fresh clean water along
+with some badly corroded copper weapons. The hut appears to be
+a resting place for the local kuo-toa who have been patrolling
+the village. A curious crystal on the far wall bathes the hut
+in a soft glow of illumination.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 2436
+M 10 H 10
+S
+#2438
+A muddy path amidst reed huts~
+The muddy path ends before a small hut flanking a much larger one
+atop a small hill. The crude walls around the village protect this
+side of the village from the outer swamp. The elaborate hut atop the
+hill nearby perhaps serves as a central meeting place for the village.
+The open doorway of the hut to the north is bathed in a dim light from
+within beckoning further investigation.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2439
+D3
+~
+~
+0 0 2435
+M 10 H 10
+S
+#2439
+Within a reed hut~
+A curious crystal on the far wall bathes the small hut in a cool
+dim light. The bare dirt floor is covered with a few woven reed mats
+and clay water jugs. A ceramic bowl atop a mat bears an unappetizing cold
+gruel of unknown origin. A meagre pile of corroded weapons bears little of
+real value in the opposite corner.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 2438
+M 10 H 10
+S
+#2440
+Before the Chieftain's hut~
+An impressive reed and bamboo hut sits atop a small hilltop
+overlooking the village below. Much care has been given in the
+construction of the hut which dwarves the much cruder ones of the
+village. A beaded curtain obscures the interior of the hut where
+the murmur of kuo-toa conversing loudly can be heard.
+~
+0 0 17
+0
+1
+2
+E
+curtain~
+A series of colorful beads are woven together with long thin
+reeds to comprise the curtain. The beads tinkle softly when
+touched, an oddly delicate sound to be heard in this primitive
+setting.
+~
+D0
+~
+curtain~
+1 0 2441
+D5
+~
+~
+0 0 2435
+M 10 H 10
+S
+#2441
+Within the Chieftain's hut~
+The interior of the reed hut is quite spacious, several of the
+village's huts could fit within it. The woven reed walls of the
+hut are festooned with numerous crafted items given in homage to
+their chieftain. Several open doorways lead off the main room of
+the hut while a beaded curtain to the north leads to the rear of
+the hut.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2444
+D1
+~
+~
+0 0 2442
+D2
+~
+~
+1 0 2440
+D3
+~
+~
+0 0 2443
+M 10 H 10
+S
+#2442
+A cluttered resting area~
+Clay jugs and ceramic bowls litter the room beside several
+woven reed mats. The room serves as the resting area for those
+chosen to guard the safety of the village chieftain. A curious
+glowing crystal on the far wall bathes the interior of the room
+in a soft aura of illumination. A few corroded weapons have been
+piled in a heap by the entrance of the room.
+~
+0 8 0
+0
+1
+2
+D3
+~
+~
+0 0 2441
+M 10 H 10
+S
+#2443
+A cluttered resting area~
+Scattered crude weapons lie beside woven reed mats and
+ceramic bowls bearing cold food. The cluttered room serves as
+a resting area for those chosen to guard the privacy of the village
+chieftain. The room is bathed in a soft illumination by a glowing
+crystal affixed to the far wall of the room.
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2441
+M 10 H 10
+S
+#2444
+Within the Chieftain's hut~
+The interior of the spacious hut is flanked by several rooms
+leading off of it. A colorful beaded curtain blocks access to
+the rear of the hut. The walls are decorated with numerous crafted
+items given to the chieftain in homage by the villagers. A loud
+murmur of conversation emanates from behind the curtain to the
+north.
+~
+0 8 0
+0
+1
+2
+D0
+~
+beaded~
+9 0 2445
+D2
+~
+~
+0 0 2441
+M 10 H 10
+S
+#2445
+Within the Chieftain's hut~
+The rear of the hut is bathed in light by several glowing crystals
+affixed to the opposite walls. The bare floor of the hut is covered
+with a series of reed mats around a large elaborately carved table.
+Several chairs flank the table which bears piles of papers bearing
+foreign seals. An obscenely large head of a swamp crocodile glares
+from the wall behind the table.
+~
+0 8 0
+0
+1
+2
+D0
+~
+curtain~
+9 0 2446
+D2
+~
+beaded~
+9 0 2444
+M 10 H 10
+S
+#2446
+Within the Chieftain's hut~
+The rear of the hut is cluttered with numerous clay jugs and dirty
+ceramic dishes. A large woven reed rat at the far wall serves as a bed
+for the chieftain. The walls are decorated with numerous crafted items
+from the village given to him in homage. A curious crystal on the far
+wall provides a dim illumination to the room.
+~
+0 12 0
+0
+1
+2
+D2
+~
+beaded~
+9 0 2445
+M 10 H 10
+S
+#2447
+A muddy path~
+A muddy path meanders past mossy cypress trees and squalid pools
+of stagnant water. The mud of the path sucks at your feet creating
+an unpleasant squishing sound from your footsteps. The damp moss from
+the trees drip moisture apon your neck sending a quick shiver up your
+spine.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2448
+D2
+~
+~
+0 0 2413
+M 10 H 10
+S
+#2448
+A muddy path~
+Mud and moss are the distinguishing features of the swamp,
+inhabited by various reptilian creatures that call the muddy
+recesses of the swamp home. The moss on the trees drip constantly
+from the damp climate sending slight ripples from a pool of brackish
+water by your feet.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2450
+D2
+~
+~
+0 0 2447
+D3
+~
+~
+0 0 2449
+M 10 H 10
+S
+#2449
+Beside a rotten tree stump~
+A long dead cypress tree has fallen victim here to the
+damp decay of the swamp. A large rotten tree stump festers
+here alive with damp green moss and a rather large nest of
+spiders. An impressive white heron circles high over ahead and
+darts off across the sky towards the north.
+~
+0 0 17
+0
+1
+2
+D1
+~
+~
+0 0 2448
+M 10 H 10
+S
+#2450
+A muddy path~
+The muddy path soldiers onward through the swamp, a large
+rotting tree stump not far from here is covered with rampant
+green moss growth. Brackish pools of mud feed the evergrowing
+muddy morass under your feet. The constant rainfall of the area
+nurtures the reptilian swamp creatures of the swamp that move 
+about freely in the area.
+~
+0 0 17
+0
+1
+2
+D0
+~
+~
+0 0 2451
+D2
+~
+~
+0 0 2448
+M 10 H 10
+S
+#2451
+A muddy path~
+The path begins a slight climb here ascending gently towards
+drier ground ahead. The pitch of the land appears to lead towards a
+craggy series of hilltops that border the northern perimeter of the
+swamp. The distant top of a rounded plateau peeks above the cypress
+trees a fair distance to the south of here.
+~
+0 0 17
+0
+1
+2
+D2
+~
+~
+0 0 2450
+D4
+~
+~
+0 0 2452
+M 10 H 10
+S
+#2452
+A dry path through the swamp~
+The ground begins to dry out considerably now as the path
+leads up towards the craggy hilltops atop the northern perimeter
+of the swamp. The large silhouette of a white heron can be seen
+circling above as it journeys northward towards higher ground. An
+odd gutteral bellowing can be heard on the path above then silence
+once more.
+~
+0 4 17
+0
+1
+2
+D4
+~
+~
+0 0 2453
+D5
+~
+~
+0 0 2451
+M 10 H 10
+S
+#2453
+A dry path through the swamp~
+The path hugs the contours of the land, the ground underfoot much
+firmer then the pudding like swamp below. The path follows a series of
+rocky hilltops terminating before a seemingly impassable mountain that
+borders the northern perimeter of the swamp. Odd gutteral howls in the
+distance ahead hints at potential danger looming for the unwary.
+~
+0 0 4
+0
+1
+2
+D0
+~
+~
+0 0 2454
+D5
+~
+~
+0 0 2452
+M 10 H 10
+S
+#2454
+A dry path through the swamp~
+A thin growth of cypress trees line the path as it takes another
+upward turn ahead. Rustling in the tree line along the path indicates
+there may be something lurking along the way. A thin wisp of smoke drifts
+upward from a remote campfire a good distance to the southeast of here.
+The odd howling sounds sharply again, this time much closer at hand.
+~
+0 0 4
+0
+1
+2
+D0
+~
+~
+0 0 2455
+D2
+~
+~
+0 0 2453
+M 10 H 10
+S
+#2455
+A dry path through the swamp~
+The path climbs upward once again this time at a more steep angle.
+A rough mountain top looms on the northern horizon, a dim cave
+opening at its peak. Sparse cypress trees grow haphazardly along
+the path along with tufts of wild grass. The appearance of rampaging
+trolls does not bode well for further travels ahead.
+~
+0 0 4
+0
+1
+2
+D2
+~
+~
+0 0 2454
+D4
+~
+~
+0 0 2456
+M 10 H 10
+S
+#2456
+A steep path towards the mountain~
+A craggy mountaintop high over head forms a rocky barrier
+around the northern hemisphere of the Urukga Swamp. The path
+ascends at a steep incline dotted with leaning cypress trees and
+the occasional tuft of wild grass. The dirt path underfoot is firm
+littered with small rocks and deep holes. A person would be at a
+distinct disadvantage if something hostile would decide to attack
+from above.
+~
+0 0 0
+0
+1
+2
+D4
+~
+~
+0 0 2457
+D5
+~
+~
+0 0 2455
+M 10 H 10
+S
+#2457
+Climbing towards the mountain~
+A rock strewn dirt path ascends at a steep incline towards the
+rapidly approaching mountain top. Loose gravel and debris underfoot
+makes travel upwards an increasingly hazardous route to take. At this
+angle what appears to be a cluster of huts are visible to the far south.
+Tall bamboo growth hides the huts which is enclosed by a wooden fence
+at ground level.
+~
+0 0 4
+0
+1
+2
+D4
+~
+~
+0 0 2458
+D5
+~
+~
+0 0 2456
+M 10 H 10
+S
+#2458
+Climbing towards the mountain~
+The steep rock strewn path ends abruptly ahead before a dark cave
+opening in the face of the mountain. The air at this elevation is thin
+and difficult to draw a decent breath from. A foul rank odor wafts down
+the path borne apon the back of a crisp northernly breeze.
+~
+0 0 4
+0
+1
+2
+D0
+~
+~
+0 0 2459
+D5
+~
+~
+0 0 2457
+M 10 H 10
+S
+#2459
+Before a dark cave~
+A wide dark cave opening beckons ahead set dead center in the
+face of the mountain top. Seemingly insurmountable climbing surfaces
+surround the face of the mountain. Any further travel ahead will have
+to lead through the mountain itself apparently. An uninviting rank odor
+wafts out of the cave warning perhaps of more trolls or something worse
+to come.
+~
+0 12 5
+0
+1
+2
+D0
+~
+~
+0 0 2460
+D2
+~
+~
+0 0 2458
+M 10 H 10
+S
+#2460
+Within a dark cave~
+A rank dark cave stretches out ahead into inky darkness bored
+through the heart of the mountain. Dim light from the cave opening
+does little to reveal what lies ahead. A light source will be direly
+needed apparently for any further investigation of the cave. A rank
+foul odor grips the cave tightly in it's invisible steely grasp.
+~
+0 8 5
+0
+1
+2
+D0
+~
+~
+0 0 2465
+D2
+~
+~
+0 0 2459
+D3
+~
+~
+0 0 2461
+M 10 H 10
+S
+#2461
+Within a dark cave~
+Scattered rocks and loose debris scatter underfoot across
+the floor of the cave. The interior roof of the cave is craggy
+featuring numerous misshapen outgrowths high overhead. Bat guano
+covers the gritty surfaces of the wall produced by a heavy infestation
+of the cave bats. The unpleasant rank odor is probably a byproduct of
+the guano coating everything.
+~
+0 8 5
+0
+1
+2
+D0
+~
+~
+0 0 2462
+D1
+~
+~
+0 0 2460
+M 10 H 10
+S
+#2462
+Within a dark cave~
+Darkness accentuated by the shriek of cave bats everywhere
+serves to unsettle already tense nerves. Loose gravel stirs
+underfoot by your careless travel. Bat guano covers the surfaces
+of the cave releasing an unpleasant rank odor. The air inside the
+cave leaves a chalky feeling on your tastebuds making you reach
+for your waterskin.
+~
+0 8 5
+0
+1
+2
+D0
+~
+~
+0 0 2463
+D1
+~
+~
+0 0 2465
+D2
+~
+~
+0 0 2461
+M 10 H 10
+S
+#2463
+Within a dark cave~
+Irregular rock formations sprout through the cave floor covered in
+bat guano. The air is dry within the cave and foul with the scent of
+the bat droppings. The incessant shrill shrieking of the cave bats
+echoes off the walls intensified by the acoustics of the cave. Dried
+bones are scattered on the ground here bearing tatters of old leather
+equipment.
+~
+0 8 5
+0
+1
+2
+D0
+~
+~
+0 0 2464
+D2
+~
+~
+0 0 2462
+M 10 H 25
+S
+#2464
+An apparent dead end~
+This corner of the cave dead ends, a portion of the cave
+ceiling has begun to collapse under the weight of the mountain.
+Fallen debris and scattered rocks about the floor are all that
+are of interest here. However a dim glimmer of light spears through
+a crevice ahead, there is visible light somewhere beyond these rocky
+walls.
+~
+0 8 5
+0
+1
+2
+D2
+~
+~
+0 0 2463
+M 10 H 10
+S
+#2465
+Within a dark cave~
+The floor of the cave pitches downward here, irregular rock
+formations erupt from the floor at awkward angles. The leathery
+flap of the cave bats flight stir the dust in the cave. A heavy
+coating of bat guano everywhere releases a pungent foul odor that
+permeates the dry air of the cave. The roof to the cave has begun
+to collapse to the north, further travel along this path will be
+futile.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2466
+D2
+~
+~
+0 0 2460
+D3
+~
+~
+0 0 2462
+M 10 H 10
+S
+#2466
+Within a dark cave~
+Darkness and dust bear the shrill shrieks of the cave bats, the
+ground underfoot littered with rocky debris. The ceiling of the
+cave pitches downward dramatically here threatening to drop the
+weight of the entire mountain down apon you. Large cracks have
+formed along the load bearing walls of the cave, the natural
+evolution of bearing tons of weight for many years.
+~
+0 8 5
+0
+1
+2
+D0
+~
+~
+0 0 2467
+D2
+~
+~
+0 0 2465
+M 10 H 10
+S
+#2467
+Within a dark cave~
+The cave narrows here forming a tight tunnel through the
+heavy heart of the mountain. Rocks scatter underfoot coated
+with the guano of the cave bats. The gradual cave in of the tunnels
+have collapsed the western portion of the cave preventing access to
+the west. Now may be a good time to turn back, the rapid decay of the
+cave will only make further travel more hazardous.
+~
+0 8 5
+0
+1
+2
+D1
+~
+~
+0 0 2468
+D2
+~
+~
+0 0 2466
+M 10 H 30
+S
+#2468
+A narrow tunnel through the mountain~
+A tight narrow tunnel winds through the heart of the
+mountain towards the unknown. Scattered rocky debris rattles
+underfoot disturbed by your footsteps. An occasional shriek
+filters in from the cave behind cast by the cave bats. Large
+stress fractures along the tunnel walls almost seem to moan
+from the heavy burden of the mountain.
+~
+0 8 5
+0
+1
+2
+D1
+~
+~
+0 0 2469
+D3
+~
+~
+0 0 2467
+M 10 H 10
+S
+#2469
+A narrow tunnel through the mountain~
+Sharp rock stabs through the tunnel walls eager to tear at
+the careless exposed flesh of the intrepid explorer. The tightness
+of the tunnel makes travel a tedious chore, you must contort your body
+to squeeze through its narrow expanse. Directly ahead the tunnel opens
+up and actual light appears to glimmer within. Perhaps the end of the
+cave is near and the fetid darkness will be left behind.
+~
+0 12 5
+0
+1
+2
+D0
+~
+~
+0 0 2470
+D3
+~
+~
+0 0 2468
+M 10 H 10
+S
+#2470
+The heart of the mountain~
+A large naturally formed cavern occupies the heart of the
+mountain. Large crystalized rock formations along the cavern
+walls illuminate the cavern in a ethereal glow. The rock formations
+resemble those that the kuo-toa use as light sources. This may be
+where they mine the odd crystals from. The bright light is intense
+and glaring after the inky darkness of the cave and tunnel beyond.
+~
+0 0 5
+0
+1
+2
+D0
+~
+~
+0 0 2471
+D2
+~
+~
+0 0 2469
+M 10 H 10
+S
+#2471
+The heart of the mountain~
+Curious glowing crystal formations cover the rocky floor of the
+cavern bathing its interior with a glaring ethereal radiance. The
+crystal is cool to the touch and diamond like in appearance. The
+walls of the cavern are lined with innumerable stress fractures from
+bearing the immense weight of the mountain over the years.
+~
+0 8 5
+0
+1
+2
+D0
+~
+~
+0 0 2475
+D1
+~
+~
+0 0 2473
+D2
+~
+~
+0 0 2470
+D3
+~
+~
+0 0 2472
+M 10 H 10
+S
+#2472
+The heart of the mountain~
+The cavern is bathed in intense glaring light emitted from
+curious crystal formations along the cavern floor. Scattered
+mining tools lie abandoned everywhere where someone has attempted
+to extract the durable crystal. The cool light emitted by the
+crystal would provide an ideal light source for the crafty individual.
+~
+0 8 14
+0
+1
+2
+D0
+~
+~
+0 0 2474
+D1
+~
+~
+0 0 2471
+M 10 H 10
+S
+#2473
+An abandoned mining site~
+Scattered rusty mining tools dot this corner of the
+cavern. Several of the glowing crystals show apparent signs
+of mining or at least attempts at it. The dense quality of the
+crystal was too much for the meager tools of the miners, several
+lie broken and discarded along the cavern floor. Tiny useless
+crystal chips glow faintly amidst the discarded debris.
+~
+0 8 14
+0
+1
+2
+D3
+~
+~
+0 0 2471
+M 10 H 10
+S
+#2474
+The heart of the mountain~
+The craggy surface of the cavern walls bear innumerable stress
+fractures from bearing the immense weight of the mountain. The
+glaring intensity of the light from the crystal formations is
+almost unbearable after the inky darkness of the preceding cave.
+A thick band of foreign metal is encased in the cracking rock of
+the cavern forming a seam that extends upwards to the cavern
+ceiling.
+~
+0 8 14
+0
+1
+2
+D1
+~
+~
+0 0 2475
+D2
+~
+~
+0 0 2472
+M 10 H 10
+S
+#2475
+Before a large sealed door~
+A heavy metal door is inset into the craggy facade of the
+cavern wall here. A series of intricate drowish runic symbols
+line the door which has a large niche dead center of the door.
+There is no discernable means of actually opening the door from
+this side. A closer glimpse of the niche of the door reveals a
+a small chamber within the niche, perhaps a locking mechanism of
+some sort.
+~
+0 12 14
+0
+1
+2
+D2
+~
+~
+0 0 2471
+D3
+~
+~
+0 0 2474
+M 10 H 10
+R ACT 2400 has~
+S
+#2476
+A dusty chamber~
+A thick dust fills the chamber, dry and chalky on your lungs. The
+walls of the chamber are smooth as glass, a great heat has fused the
+solid rock to a crystal-like substance. A wide tunnel leads away towards
+the north, the entrance behind you has completely vanished. A familiar
+niche is the only thing of interest on the southern wall.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2477
+M 10 H 10
+S
+#2477
+Before a sealed hatch~
+A heavily pitted iron hatch is set dead
+center of the chamber easily the size of three
+grown men.  The walls of the chamber are a
+glass like substance that reflect your
+shadow's movement like a prism.  There appears
+to be no visible way to open the giant hatch. 
+It would take someone of great strength to
+lift the hatch unaided.  {x
+{x~
+0 0 0
+0
+0
+0
+D2
+~
+~
+0 0 2476
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+M 2408 spec_cast_mage
+M 2425 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 2419 2 1
+D 0 2420 0 1
+D 0 2426 0 2
+D 0 2427 2 2
+D 0 2440 0 1
+D 0 2441 2 1
+D 0 2444 0 1
+D 0 2445 0 1
+D 0 2445 2 1
+D 0 2446 2 1
+M 0 2403 25 2402 2 Load a buck toothed beaver
+M 0 2403 15 2404 5 Load a buck toothed beaver
+M 0 2403 15 2406 5 Load a buck toothed beaver
+M 0 2401 20 2408 2 Load a {gpygmy{x{w alligator
+M 0 2403 15 2409 5 Load a buck toothed beaver
+O 0 2400 0 2410 A small fire loaded to A small clearing
+M 0 2400 1 2410 3 Load Ernest, the travelling scholar
+E 0 2427 0 18 An exquisite brass lamp is loaded held in the hands of Ernest, the travelling scholar
+M 0 2402 15 2416 2 Load a grey heron
+M 0 2401 15 2416 3 Load a {gpygmy{x{w alligator
+M 0 2405 20 2419 1 Load a kuo-toa scout
+E 0 2405 0 15 A sharpened bamboo spear is loaded wielded of a kuo-toa scout
+E 0 2406 0 5 A well-fitted bamboo breastplate is loaded on the body of a kuo-toa scout
+E 0 2407 0 8 A pair of bamboo sandals is loaded on the feet of a kuo-toa scout
+M 0 2405 15 2420 2 Load a kuo-toa scout
+E 0 2405 0 15 A sharpened bamboo spear is loaded wielded of a kuo-toa scout
+E 0 2409 0 16 A hardened bamboo buckler is loaded as a shield of a kuo-toa scout
+E 0 2408 0 13 An alligator {wtooth{x{w bracelet is loaded on the left wrist of a kuo-toa scout
+M 0 2405 15 2423 2 Load a kuo-toa scout
+E 0 2411 0 15 A corroded copper short sword is loaded wielded of a kuo-toa scout
+E 0 2410 0 11 An alligator hide cloak is loaded about the shoulders of a kuo-toa scout
+E 0 2406 0 5 A well-fitted bamboo breastplate is loaded on the body of a kuo-toa scout
+M 0 2407 15 2426 2 Load a kuo-toa sentry
+E 0 2413 0 18 A corroded {rc{ro{rp{rp{re{rr{x{w key{x is loaded held in the hands of a kuo-toa sentry
+E 0 2406 0 5 A well-fitted bamboo breastplate is loaded on the body of a kuo-toa sentry
+E 0 2412 0 15 A corroded copper halberd is loaded wielded of a kuo-toa sentry
+E 0 2407 0 8 A pair of bamboo sandals is loaded on the feet of a kuo-toa sentry
+E 0 2414 0 3 An alligator tooth necklace is loaded around the neck (1) of a kuo-toa sentry
+E 0 2409 0 16 A hardened bamboo buckler is loaded as a shield of a kuo-toa sentry
+M 0 2406 30 2429 2 Load a kuo-toa warrior
+M 0 2406 30 2434 3 Load a kuo-toa warrior
+E 0 2424 0 13 A {gcrocodile{x hide bracer is loaded on the left wrist of a kuo-toa warrior
+G 0 2426 0 A reed mat is given to a kuo-toa warrior
+E 0 2409 0 16 A hardened bamboo buckler is loaded as a shield of a kuo-toa warrior
+E 0 2412 0 15 A corroded copper halberd is loaded wielded of a kuo-toa warrior
+M 0 2406 30 2436 2 Load a kuo-toa warrior
+E 0 2406 0 5 A well-fitted bamboo breastplate is loaded on the body of a kuo-toa warrior
+E 0 2409 0 16 A hardened bamboo buckler is loaded as a shield of a kuo-toa warrior
+E 0 2415 0 15 A corroded copper mace is loaded wielded of a kuo-toa warrior
+E 0 2416 0 0 A curious glowing crystal is loaded as a light of a kuo-toa warrior
+O 0 2426 0 2437 A reed mat loaded to Inside a reed hut
+M 0 2408 10 2437 1 Load a kuo-toa priestess
+E 0 2420 0 18 An ivory wand of kuz'rn is loaded held in the hands of a kuo-toa priestess
+E 0 2419 0 7 A long woven reed skirt is loaded on the legs of a kuo-toa priestess
+E 0 2417 0 11 Robe of the swamp gods is loaded about the shoulders of a kuo-toa priestess
+M 0 2406 30 2438 2 Load a kuo-toa warrior
+E 0 2406 0 5 A well-fitted bamboo breastplate is loaded on the body of a kuo-toa warrior
+E 0 2410 0 11 An alligator hide cloak is loaded about the shoulders of a kuo-toa warrior
+E 0 2412 0 15 A corroded copper halberd is loaded wielded of a kuo-toa warrior
+O 0 2426 0 2439 A reed mat loaded to Within a reed hut
+M 0 2408 10 2439 1 Load a kuo-toa priestess
+E 0 2419 0 7 A long woven reed skirt is loaded on the legs of a kuo-toa priestess
+E 0 2418 0 18 Minor staff of kuz'rn is loaded held in the hands of a kuo-toa priestess
+E 0 2417 0 11 Robe of the swamp gods is loaded about the shoulders of a kuo-toa priestess
+O 0 2426 0 2442 A reed mat loaded to A cluttered resting area
+O 0 2426 0 2443 A reed mat loaded to A cluttered resting area
+M 0 2406 30 2444 4 Load a kuo-toa warrior
+E 0 2414 0 3 An alligator tooth necklace is loaded around the neck (1) of a kuo-toa warrior
+E 0 2412 0 15 A corroded copper halberd is loaded wielded of a kuo-toa warrior
+E 0 2407 0 8 A pair of bamboo sandals is loaded on the feet of a kuo-toa warrior
+M 0 2410 1 2445 1 Load a drow emissary
+M 0 2411 1 2445 1 Load the kuo-toa chieftain
+E 0 2421 0 5 Hide of the lord {gcrocodile{x is loaded on the body of the kuo-toa chieftain
+M 0 2409 10 2445 2 Load an elite kuo-toa guard
+E 0 2423 0 5 Reinforced bamboo bodyarmor is loaded on the body of an elite kuo-toa guard
+E 0 2424 0 13 A {gcrocodile{x hide bracer is loaded on the left wrist of an elite kuo-toa guard
+E 0 2425 0 15 A long-handled barbed polearm is loaded wielded of an elite kuo-toa guard
+M 0 2402 15 2449 3 Load a grey heron
+M 0 2412 10 2450 1 Load a swamp troll
+M 0 2412 10 2453 1 Load a swamp troll
+M 0 2412 10 2454 1 Load a swamp troll
+M 0 2412 20 2456 2 Load a swamp troll
+M 0 2412 15 2461 2 Load a swamp troll
+M 0 2413 15 2461 2 Load a cave bat
+M 0 2414 10 2471 2 Load a rampaging cave troll
+M 0 2414 10 2472 2 Load a rampaging cave troll
+M 0 2414 10 2473 2 Load a rampaging cave troll
+M 0 2490 1 2475 1 Load Secretguy
+E 0 2416 0 18 A curious glowing crystal is loaded held in the hands of Secretguy
+S
+
+
+
+#SHOPS
+2499 23 0 0 0 0 100 100 0 23
+0
+0
+
+
+
+#MOBPROGS
+#2400
+if ispc $n
+emote looks up from the fire.
+emote studies you intently.
+endif
+~
+#2401
+mob echoat $n A bloodied strip of alligator hide flies through the air.
+mob echoat $n The hide hits the ground at your feet.
+mobechoaround $n A bloodied strip of alligator hide lands at $n's feet.
+mob oload 2490 5 room
+~
+#2402
+if ispc $n
+mob echoat $n The chieftain hits the ground with a dull thud!
+mob echoaround $n The chieftain hits the ground with a dull thud!
+mob goto 2499
+mob oload 2472 1 none
+mob oload 2471 1 none
+put coins chest
+close chest
+mob goto 2446
+mob oload 2498 1 Room
+endif
+~
+#2403
+mob zecho A deep gutteral howl sounds in the distance!
+mob zecho A giant crocodile has been unleashed!
+mob zecho The giant crocodile seeks vengeance for the slaying of its kinfolk!
+mob mload 2420 20 Room
+~
+#2405
+if ispc $n
+mob echoat $n The drow emissary stops in midsentence and blinks at you in disbelief.
+mob echoaround $n The drow blinks in disbelief at your entrance.
+say Who in bloody hell is this?
+say Enough of this foolishness.
+mob echoat $n The drow grabs a pile of documents off the table.
+mob echoaround $n The emissary grabs some documents off the table.
+say You can't even handle your own security!
+say Never mind that of Druza!
+mob echoat $n The kuo-toa chieftain hastily grabs a document from the emissary.
+mob echoaround $n The kuo-toa chieftain grabs a document from the emissary!
+mob echoaround $n The emissary glares at you!
+mob echoat $n The emissary glares in your direction.
+say Bah I have no time for the likes of you. See that this fool is disposed of!
+mob echoat $n The emissary brushes past you and makes his escape.
+mob echoaround $n The emissary brushes past you and makes his escape.
+mob echoaround $n The chieftain shouts to his guards and ducks to the rear of the hut.
+mob echoat $n The chieftain shouts at his guards and ducks to the rear of the hut.
+mob transfer chieftain 2446
+mob goto 2499
+mob purge emissary
+endif
+~
+#2410
+if carries $n 2492
+mob echoat $n Approaching the sealed door, you notice the niche in the center.
+mob echoat $n The crystaline sphere glows sofly emitting a soft hum.
+mob echoat $n The sphere begins to heat up the closer you get to the sealed door.
+mob echoat $n You insert the sphere into the niche.
+mob echoat You insert the sphere into the niche.
+mob echoaround $n $N inserts the sphere into the niche.
+mob echoat $n The drowish runes around the sealed door begin to hum...
+mob echoaround $n The drowish runes around the door begin to hum...
+mob echoat $n With a loud bang, you blink and find yourself drawn through the door!
+mob echoaround $n With a loud bang you find yourself drawn through the door!
+mob remove $n 2492
+mob junk 2492
+mob gtransfer $n 2476
+else
+if ispc $n
+mob echoat $n Your eyes are drawn to a small niche on the northern wall.
+endif
+endif
+~
+#2411
+if carries $n 2498
+mob echoat $n You decide to show the document to the travelling scholar.
+Say Excellent job finding this.
+mob remove $n 2498
+mob junk 2498
+mob echoat $n Ernest examines the document a worried look crossing his smooth features.
+mob echoat $n {C"This appears to be a treaty between the kuo-toa and the drow."
+mob echoat $n {x{wYou explain how you came about finding the document.
+mob echoat $n {C"This could be dire news for Renfall indeed."{x
+mob echoat $n {C"I know of a sealed entrance within the troll cave."
+mob echoat $n {C"Perhaps the drow is headed towards that?"{x{w
+mob oload 2492 1 none
+give sphere $n
+mob echoat $n {C"This may help you in tracking the drow."{x
+else
+if ispc $n
+or isimmort $n
+say Greetings.
+mob echoat $n The tall man stands and introduces himself.
+mob echoat $n {Y| Ernest's Story
+mob echoat $n {Y| The man is known as Ernest, and he is a travelling scholar |{x
+mob echoat $n {Y| from the city of Renfall. He had heard of a hidden |{x
+mob echoat $n {Y| tribe within the Urukga Swamp. Eager to investigate, he was |{x
+mob echoat $n {Y| quickly ambushed from the shadows. Fleeing he has made camp |{x
+mob echoat $n {Y| here to tend his wounds. |{x
+mob echoat $n Ernest sighs heavily.
+mob echoat $n {C"Clearly I lack the fortitude to continue now."
+mob echoat $n{x{w Ernest pauses and studies you briefly.
+mob echoat $n {C"If you come across any information on the tribe, please
+mob echoat $n let me know."
+mob echoat $n "Oh, you might want to avoid the cave to the north."
+mob echoat $n "Unless you fancy wrestling with trolls?"
+{x{wmob echoat $n Ernest chuckles softly to himself.
+mob echoat $n {x{wErnest turns and sits down next to the fire.
+endif
+endif
+~
+#2499
+if isdelay $i
+mob echoat $n Ernest looks up from the fire.
+stand
+sit
+else
+mob remember $n
+mob delay 20
+endif
+~
+#0
+
+#OBJPROGS
+#2400
+if ispc $n
+mob echoat $n You feel safer with Gwen by your side.
+endif
+~
+#0
+
+#ROOMPROGS
+#2400
+if carries $n 2492
+mob echoat $n You insert the crystaline sphere into the niche.
+mob transfer $n 2476
+endif
+~
+#0
+
+#$

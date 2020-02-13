@@ -1,0 +1,654 @@
+#PLAYER
+Name Poppaea~
+Id   1579834674
+LogO 1581568952
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race elf~
+Clan loner~
+Clan_Rank 0
+Clan_Points 0
+Sex  2
+Cla  4
+God	8
+Favored 0
+GuildRnk  1
+GuildPts  244
+Levl 13
+Sec  0
+Plyd 79992
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 1138
+HMV  124 122 235 235 198 198
+Bleed 0
+Talent 0
+PP 0 0
+Gold 399
+Silv 6987
+BAcct 0
+Bank 0
+Exp  1536118
+NoExp1 0
+NoExp2 0
+Pkills 19
+Pdeath 0
+Mkills 453
+Eyes 2
+Hair 4
+Haircut 256
+Age 80
+Account Roguegrl~
+Recall 1010
+Act  CDEFGHKQTb
+AfBy J
+Comm NOP
+Pos  8
+Prac 24
+Trai 1
+Alig  500
+Hit   3
+Dam   3
+ACs 88 93 88 95
+Wimp  20
+Attr 12 17 20 16 16 19
+AMod 0 4 3 0 3 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 1
+Pnts 0
+TSex 2
+LLev 20
+HMVP 96 205 198
+Cnd  0 0 438 185 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 651
+76 8192
+127 16646144
+37 134152198
+36 -1895432191
+91 -536771969
+90 -1074790399
+126 1048574
+125 -33554433
+124 1
+129 2147483647
+128 -201326607
+35 254279424
+34 1041166464
+818 12
+816 -1
+817 -17301505
+815 -1048575
+64 16372
+63 -131073
+62 -65536
+72 -524849
+74 16777213
+73 134217726
+33 8356412
+32 150994942
+31 -41215
+71 -268403200
+18 -1090519039
+20 2097010
+19 -302055429
+21 30
+68 -16777215
+69 536870910
+75 1047038
+290 1048576
+42 4194302
+41 -536854527
+39 2097144
+92 25165810
+-1 -1
+Alias 1 c 'cure light'~
+Alias 2 c identify~
+Alias 3 c 'detect magic'~
+Alias 4 c armor~
+Alias 5 c bless~
+Boards       7 General 1579043652 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 15 'armor'
+Sk 68 'bless'
+Sk 90 'cure light'
+Sk 15 'detect magic'
+Sk 37 'identify'
+Sk 33 'protection evil'
+Sk 33 'resistance'
+Sk 27 'earth ward'
+Sk 100 'staff'
+Sk 93 'long sword'
+Sk 47 'forage'
+Sk 100 'herbalism'
+Sk 75 'first aid'
+Sk 1 'fast healing'
+Sk 33 'sneak'
+Sk 49 'scrolls'
+Sk 15 'wands'
+Sk 4 'recall'
+Gr 'rom basics'
+Gr 'druid basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 628
+Nest 0
+Wear -1
+Cost 65
+Val  10 10 10 0 0
+End
+
+#O
+Vnum 1027
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 610
+Nest 0
+Wear 10
+Cost 72
+End
+
+#O
+Vnum 18
+Nest 0
+Name a ball of astounding longevity~
+ShD  a ball of astounding longevity~
+Desc a ball of astounding longevity~
+ExtF 64
+WeaF 65537
+Ityp 9
+Wt   6
+Material ruby~
+Wear 19
+Lev  10
+Cost 4260
+Val  7 7 7 6 0
+Affc 'reserved'   0   0  -1   2  28          0
+Affc 'reserved'   0   0  -1   9  13          0
+Affc 'reserved'   0   0  -1   4  12          0
+End
+
+#O
+Vnum 1081
+Nest 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 1068
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 38
+Nest 0
+Name a light blue leather purse~
+ShD  a light blue leather purse~
+Desc a light blue leather purse~
+ExtF 64
+WeaF 16385
+Wt   3
+Material leather~
+Wear -1
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   1  30          0
+Affc 'reserved'   0   0  -1   4  14          0
+End
+
+#O
+Vnum 19
+Nest 1
+Name henbane herb~
+ShD  a bit of henbane~
+Wear -1
+Lev  4
+Cost 801
+End
+
+#O
+Vnum 19
+Nest 1
+Name henbane herb~
+ShD  a bit of henbane~
+Wear -1
+Lev  4
+Cost 800
+End
+
+#O
+Vnum 19
+Nest 1
+Name henbane herb~
+ShD  a bit of henbane~
+Wear -1
+Lev  4
+Cost 800
+End
+
+#O
+Vnum 19
+Nest 1
+Name daffodil herb~
+ShD  a bit of daffodil~
+Wear -1
+Lev  4
+Cost 801
+End
+
+#O
+Vnum 19
+Nest 1
+Name figwort herb~
+ShD  a bit of figwort~
+Wear -1
+Lev  4
+Cost 800
+End
+
+#O
+Vnum 19
+Nest 1
+Name catnip herb~
+ShD  a bit of catnip~
+Wear -1
+Lev  4
+Cost 799
+End
+
+#O
+Vnum 19
+Nest 1
+Name catnip herb~
+ShD  a bit of catnip~
+Wear -1
+Lev  4
+Cost 800
+End
+
+#O
+Vnum 2330
+Nest 1
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 19
+Nest 1
+Name saffron herb~
+ShD  a bit of saffron~
+Wear -1
+Lev  4
+Cost 799
+End
+
+#O
+Vnum 19
+Nest 1
+Name goldenrod herb~
+ShD  a bit of goldenrod~
+Wear -1
+Lev  4
+Cost 900
+End
+
+#O
+Vnum 19
+Nest 1
+Name calamint herb~
+ShD  a bit of calamint~
+Wear -1
+Lev  4
+Cost 901
+End
+
+#O
+Vnum 19
+Nest 1
+Name milkweed herb~
+ShD  a bit of milkweed~
+Wear -1
+Lev  4
+Cost 899
+End
+
+#O
+Vnum 2202
+Nest 1
+Wear -1
+Cost 20
+Spell 1 'cure light'
+Spell 2 'cure poison'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 2331
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2331
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2331
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 18
+Nest 1
+Name a beacon of longwalking~
+ShD  a beacon of longwalking~
+Desc a beacon of longwalking~
+ExtF 64
+WeaF 16385
+Ityp 1
+Material topaz~
+Wear -1
+Lev  6
+Cost 760
+Val  0 1 784 0 0
+Affc 'reserved'   0   0  -1   1  14          0
+End
+
+#O
+Vnum 28
+Nest 1
+Name a flecked, effervescent potion of sunbeam~
+ShD  a flecked, effervescent potion of sunbeam~
+Desc a flecked, effervescent potion of sunbeam~
+ExtF 16777280
+Extra2Flags 131072
+Wear -1
+Lev  8
+Time 635
+Cost 1200
+Val  8 133 0 0 0
+Spell 1 'sunbeam'
+End
+
+#O
+Vnum 18
+Nest 1
+Name a knout of paramount health~
+ShD  a knout of paramount health~
+Desc a knout of paramount health~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   4
+Cond 99
+Material adamantite~
+Wear -1
+Lev  9
+Cost 2120
+Val  7 2 5 3 0
+Affc 'reserved'   0   0  -1   1   4          0
+Affc 'reserved'   0   0  -1   2  13          0
+End
+
+#O
+Vnum 18
+Nest 1
+Name a surujin of stunning wizardry~
+ShD  a surujin of stunning wizardry~
+Desc a surujin of stunning wizardry~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   4
+Cond 98
+Material gold~
+Wear -1
+Lev  11
+Cost 2480
+Val  7 2 9 3 0
+Affc 'reserved'   0   0  -1   2  12          0
+Affc 'reserved'   0   0  -1  -1  17          0
+End
+
+#O
+Vnum 35
+Nest 1
+Name a sphere of negative plane protection~
+ShD  a sphere of negative plane protection~
+Desc a sphere of negative plane protection~
+ExtF 1090519105
+Extra2Flags 131072
+WeaF 16385
+Wear -1
+Lev  11
+Cost 2999
+Val  13 5 3 166 0
+Spell 3 'negative plane protection'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a moldy horizontal scroll of frost arrow~
+ShD  a moldy horizontal scroll of frost arrow~
+Desc a moldy horizontal scroll of frost arrow~
+ExtF 65
+Wear -1
+Lev  8
+Time 2324
+Cost 1601
+Val  8 124 0 0 0
+Spell 1 'frost arrow'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a ribboned, vaporous potion of commune nature~
+ShD  a ribboned, vaporous potion of commune nature~
+Desc a ribboned, vaporous potion of commune nature~
+ExtF 1073741890
+Cond 49
+Wear -1
+Lev  10
+Time 721
+Cost 1500
+Val  10 211 0 0 0
+Spell 1 'commune nature'
+End
+
+#O
+Vnum 1108
+Nest 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 199
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2320
+Nest 0
+Cond 98
+Wear 3
+Cost 25
+End
+
+#O
+Vnum 2210
+Nest 0
+Wear 5
+Cost 60
+End
+
+#O
+Vnum 615
+Nest 0
+Wear 18
+Cost 1140
+End
+
+#O
+Vnum 1218
+Nest 0
+Cond 76
+Wear 15
+Cost 5000
+End
+
+#O
+Vnum 2308
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2308
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2308
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2308
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2308
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2308
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2308
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2308
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2308
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2308
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2902
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a helmet of striking~
+ShD  a helmet of striking~
+Desc a helmet of striking~
+ExtF 64
+WeaF 17
+Ityp 9
+Wt   11
+Material brass~
+Wear 6
+Lev  5
+Cost 1500
+Val  1 1 1 1 2
+Affc 'reserved'   0   0  -1   1  18          0
+End
+
+#END

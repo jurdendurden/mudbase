@@ -1,0 +1,80 @@
+#AREADATA
+Name Kamael's area~
+Builders Kamael~
+VNUMs 3000 3099
+Levels 0 0
+Credits kamael~
+Climate 3
+PrimaryResource (null)~
+Security 1
+Flags 2
+Faction (null)~
+History (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#3000
+Space Command Centre~
+Wrecked computer panels fill the sides of the walls. Shattered glass
+fragments are strewn all over the floor. A small globe labelling half of this
+alien planet flickers lifelessly in the center of the room. Stains of dried
+blood deck the ceiling and palmprints dirty the ceiling. A broken signboard
+labelling the ship's {Dname {xhang from the corner of the ceiling. 
+~
+0 0 22
+0
+0
+0
+E
+sign~
+Star Trek USS Enterprise NX 01
+~
+R SPEECH 3000 upro~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#3000
+room echo Kamael da man!
+~
+#0
+
+
+
+
+#$

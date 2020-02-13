@@ -1,0 +1,415 @@
+#PLAYER
+Name Tamuj~
+Id   1580503957
+LogO 1581366498
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race loxodon~
+Sex  1
+Cla  1
+God	8
+Favored 0
+GuildRnk  1
+GuildPts  238
+Levl 7
+Sec  0
+Plyd 6372
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 1010
+HMV  72 72 153 153 158 158
+Bleed 0
+Talent 0
+PP 0 0
+Gold 127
+Silv 2072
+BAcct 0
+Bank 0
+Exp  62056
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 77
+Age 59
+Account Everclear~
+Recall 1010
+Act  CDEGKQT
+Comm NOP
+Pos  8
+Prac 7
+Alig  250
+Hit   11
+Dam   4
+ACs 77 76 76 85
+Attr 17 16 24 12 20 15
+AMod 0 4 1 0 1 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 1
+HMVP 54 145 158
+Cnd  0 0 86 66 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 143
+71 1879048192
+73 7340032
+68 16777216
+72 106497
+18 251658240
+20 -524515
+19 -1476985990
+31 1023148032
+62 983040
+63 8405055
+64 15872
+815 -1048575
+817 1056210662
+816 -268369935
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'bless'
+Sk 1 'create spring'
+Sk 1 'cure light'
+Sk 1 'cure poison'
+Sk 1 'detect poison'
+Sk 1 'refresh'
+Sk 13 'mace'
+Sk 75 'first aid'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Sk 1 'gore'
+Gr 'rom basics'
+Gr 'cleric basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 600
+Nest 0
+Wear 15
+Cost 250
+End
+
+#O
+Vnum 102
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 609
+Nest 0
+Wear 9
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear 10
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 615
+Nest 0
+Wear 18
+Cost 1140
+End
+
+#O
+Vnum 28
+Nest 0
+Name a layered, smoky potion of raise dead~
+ShD  a layered, smoky potion of raise dead~
+Desc a layered, smoky potion of raise dead~
+ExtF 16777281
+Wear -1
+Lev  4
+Cost 751
+Val  4 205 0 0 0
+Spell 1 'raise dead'
+End
+
+#O
+Vnum 608
+Nest 0
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 14
+Cost 48
+End
+
+#O
+Vnum 607
+Nest 0
+Wear 7
+Cost 72
+End
+
+#O
+Vnum 612
+Nest 0
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 6
+Nest 0
+Name a damp wrapped scroll of cure blindness~
+ShD  a damp wrapped scroll of cure blindness~
+Desc a damp wrapped scroll of cure blindness~
+ExtF 16777281
+Wear -1
+Lev  1
+Cost 199
+Val  1 23 0 0 0
+Spell 1 'cure blindness'
+End
+
+#O
+Vnum 6
+Nest 0
+Name a mysterious scroll of cure light~
+ShD  a mysterious scroll of cure light~
+Desc a mysterious scroll of cure light~
+ExtF 64
+Wear -1
+Lev  2
+Cost 201
+Val  1 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 28
+Nest 0
+Name a translucent, smoky potion of searing light~
+ShD  a translucent, smoky potion of searing light~
+Desc a translucent, smoky potion of searing light~
+ExtF 65
+Extra2Flags 131072
+Wear -1
+Lev  4
+Cost 449
+Val  3 176 0 0 0
+Spell 1 'searing light'
+End
+
+#O
+Vnum 18
+Nest 0
+Name a scarf of optimum augury~
+ShD  a scarf of optimum augury~
+Desc a scarf of optimum augury~
+ExtF 64
+WeaF 5
+Ityp 9
+Wt   4
+Material onyx~
+Wear -1
+Lev  8
+Cost 2500
+Val  7 6 7 6 0
+Affc 'reserved'   0   0  -1   9  12          0
+Affc 'reserved'   0   0  -1   1  19          0
+End
+
+#O
+Vnum 35
+Nest 0
+Name bracer of acid blast~
+ShD  bracer of acid blast~
+Desc bracer of acid blast~
+ExtF 65
+WeaF 4097
+Wear -1
+Lev  6
+Cost 1500
+Val  5 20 14 1 0
+Spell 3 'acid blast'
+End
+
+#O
+Vnum 38
+Nest 0
+Name an indigo denim wrist pouch~
+ShD  an indigo denim wrist pouch~
+Desc an indigo denim wrist pouch~
+ExtF 64
+WeaF 4097
+Wt   3
+Wear 13
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   8  12          0
+Affc 'reserved'   0   0  -1   3   3          0
+End
+
+#END

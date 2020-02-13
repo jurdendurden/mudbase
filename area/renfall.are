@@ -1,0 +1,4911 @@
+#AREADATA
+Deprecated 0
+Name Renfall~
+Builders Weiland~
+VNUMs 1000 1099
+Levels 1 40
+Credits Weiland~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 9
+Flags 32
+Faction (null)~
+History Renfall has long been the bustling center of economy and activity on this
+continent. It's exports cover a wide range of many useful items and materials,
+and many ethnic diversities can be found here. Renfall has a wide selection of
+useful gear for adventurers, and taverns are never more than a block away. This
+mercantile powerhouse acts almost as a central nervous system for trade
+throughout the region. 
+~
+End
+
+
+
+#MOBILES
+#1000
+Alissa~
+Alissa the Shopkeep~
+Alissa awaits your business here.
+~
+(null)~
+A lovely young lady clad in a form fitting black leather doublet and
+matching leather pants studies a large obscure tome.  Long blonde hair
+cascades softly down the length of her back sparkling softly in the dim
+lighting.  Clear hazel eyes peer over the tome behind large round spectacles
+as she spies you over the counter.  
+~
+human~
+ABG B Z 0 0
+20 0 5d40+200 20d10+100 4d5+10 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#1001
+Bendatto Guildmaster~
+Bendatto the Mage Guildmaster~
+Bendatto the Wizards' Guildmaster stands here.
+~
+(null)~
+A tall middle-aged man with grey short hair and a wispy beard stands
+quietly here.  Bendatto has been a guildmaster in Renfall for upwards of
+twenty years now and there is little he has not seen or encountered.  His
+face while not that of a young man is still flush with health and vigor,
+clear grey eyes frame an not unpleasant countenance.  Content in his ways he
+is nontheless vigilant in his job of recruiting and training new students in
+the ways of the arcane.  
+~
+human~
+ABGJKRb BF Z 0 0
+50 0 10d169+920 50d10+100 5d10+25 none
+3 0 0 0
+FHK ABH CDZ 0
+stand stand male 0
+M ADFGHJ medium
+ unknown
+F for AHV
+F par BCEIK
+M GREET 1010 100~
+#1002
+Marlitta~
+Marlitta the barmaid~
+Marlitta the barmaid bustles about the pub.
+~
+(null)~
+A pretty young woman with straight black hair clad in
+a Roaring Dragon Pub uniform bustles about the pub. Her
+hands are a bustle of activity as she balances a battered
+serving tray in one hand and a handful of drinks in the
+other. Marlitta as she is known to her friends has grown
+accustomed to the busy pub and is quite good at dancing
+around the numerous drunks that frequent the pub without
+spilling a drop.
+~
+elf~
+ABG BG JZ 0 0
+5 0 5d30+200 20d10+100 4d5+12 punch
+2 2 2 2
+HI AB BCb IZ
+stand stand female 100
+AHMV ABCDEFGHIJK medium
+ unknown
+M GRALL 1000 75~
+#1003
+McCarver~
+McCarver the LeatherSmith~
+McCarver the leatherworker plies his trade here.
+~
+(null)~
+McCarver is a tall stooped over man in his middle years.
+His large calloused hands are stained from working with the
+harsh reagents to cure and tan the leathers he works with. Bright
+blue beady eyes peer out from a tight rather pensive face as he
+stretches an animal hide tight over a stretching rack. McCarver has
+plied his trader here in Renfall for quite some time and is quite
+good at what he does.
+~
+human~
+AG B Z 0 0
+20 0 5d40+200 20d10+120 4d5+12 none
+2 2 2 2
+CEIN AB C 0
+stand stand male 50000
+M ADFGHJ medium
+ unknown
+F for AHV
+F par BCEIK
+#1004
+traveller tired~
+a tired traveller~
+A tired traveller relaxes after a long journey.
+~
+(null)~
+A tired traveller enjoys a cold drink after his long
+journey to Renfall. His clothes are still dusty from the
+road and his eyes are bleary from lack of sleep or alcohol.
+He has heard much of Renfall and looks forward to seeing what
+the city has to offer him. Now if that pretty barmaid could be
+persuaded to offer more then a drink his day would truly end
+on an enjoyable note.
+~
+halfling~
+ABG B Z 0 0
+6 4 1d18+12 0d0+0 2d3+3 none
+0 0 0 0
+0 AB LP BR
+stand stand male 200
+AHMV ABCDEFGHIJK medium
+ unknown
+#1005
+dwarf surly~
+a surly dwarf~
+A surly dwarf mumbles into his grog.
+~
+(null)~
+A surly dwarf sits by himself mumbling into his grog. His
+broad shoulders are slightly stooped as he contemplates his
+rapidly emptying mug. His ruddy complexion is even more flush
+then usual due no doubt to a few too many devils grogs. His
+arm's flail about as he recounts some past events to a friend.
+~
+dwarf~
+ABG B JZ 0 0
+6 0 1d18+44 0d0+0 2d3+4 punch
+0 0 0 0
+0 AB LQa R
+stand stand male 200
+AHMV ABCDEFGHIJK medium
+ unknown
+#1006
+George~
+George the barkeep~
+Old George keeps a watchful eye on his customers.
+~
+(null)~
+A towering bear of a man, Old George has tended bar at
+the Roaring Dragon for well over twenty years. A long scar
+creases his otherwise genial face down to his full jutting
+jawbone. Long wispy sideburns meld into a long full beard
+that drapes haphazardly down his chest. A well respected
+businessman in the community, Old George can still mix it up
+with the best of them when the customers get a little too rowdy
+at the pub.
+~
+human~
+ABG 0 0 0 0
+30 10 10d61+200 0d0+0 5d6+16 none
+0 0 0 0
+0 AB LQ R
+stand stand male 1500
+AHMV ABCDEFGHIJK medium
+ unknown
+#1007
+Terrence~
+Terrence the banker~
+Terrence awaits all your banking needs.
+~
+(null)~
+A stubby little bit of a gnome, Terrence is the head and
+only banker of the First Bank of Renfall. Cloudy hazel eyes
+peer across the counter as he awaits your banking needs. Special
+antiviolence wards protect his bank from any foolish threats so he
+is usually unconcerned about any funny business in his bank. His one
+wish would be to move the bank to a more suitable location away from
+the rowdy pub across the way but that is a matter for another time.
+~
+gnome~
+ABGde B Z 0 0
+40 0 10d61+450 0d0+0 5d6+20 none
+1 1 1 1
+0 AB LPQa R
+stand stand male 200000000
+AHMV ABCDEFGHIJK medium
+ unknown
+#1008
+Ferguson~
+Ferguson the Head Trainer~
+Ferguson the Head Trainer to the guild stands here.
+~
+(null)~
+Ferguson the Head Trainer of the Renfall Chapter of Fighters stands
+at the ready here. A stout dwarf of indeterminate age, this grizzled
+veteran has seen many a battle in his long years. Short of stature like
+the majority of his race, Ferguson is a veritable walking barrel of a man.
+A fiery red beard extends down his broad chest into two long extended braids.
+A genial smile crosses his crinkled mug of a face as he keeps a watchful eye
+on his new students.
+~
+dwarf~
+ABGJKb B JZ 0 0
+40 0 10d70+250 0d0+0 5d9+20 punch
+0 0 0 0
+0 AB LQa R
+stand stand male 2500
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 1010 100~
+#1009
+Gate Guard~
+A watchful gate guard~
+A watchful gate guard stands duty here.
+~
+(null)~
+A watchful elven gate guard stand duty stoically here. His job is
+to keep an eye on the travel into and out of the city. With the
+recent relative peace in the area, his job is tedious at best. The
+pay is decent however so he tolerates the long hours of boredom. He
+has been highly trained by the local chapter of fighters and does take
+his position quite seriously.
+~
+elf~
+ABGT BC JZ 0 0
+20 0 5d40+200 0d0+0 4d5+12 cleave
+0 0 0 0
+T 0 ABEb IZ
+stand stand male 1200
+AHMV ABCDEFGHIJK medium
+ unknown
+#1010
+Hildra woman~
+Hildra the Sword Maiden~
+A well-rounded dwarvish woman tends the weaponry counter.
+~
+(null)~
+A well-rounded dwarvish woman stands behind the weaponry counter with
+a mischeivous smile crossing her broad face. Hildra, the 'Sword Maiden
+of Renfall' as she is known, is the wife of Ferguson, the local master
+of the Fighter's Guild. Long blonde hair is tied back from her face into
+a no-nonsense ponytail. Hildra takes great pride in her wares and enjoys
+talking with her customers about all the potential havoc they may cause
+when used properly.
+~
+dwarf~
+ABGT B JZ 0 0
+26 20 5d35+200 0d0+0 5d4+10 punch
+0 0 0 0
+0 AB LQa R
+stand stand female 10000000
+AHMV ABCDEFGHIJK medium
+ unknown
+#1011
+chef bakery~
+a cheerful bakery chef~
+A cheerful bakery chef tends to the oven.
+~
+(null)~
+A cheerful gnomish fellow tends to the hot ovens of the Renfall
+Bakery. Covered in flour, the bakery chef is a blur of activity
+between the ovens and a series of mixing bowls along the sidecounter.
+Apparently business is booming and the bakery chef probably couldn't be
+happier.
+~
+gnome~
+ABG B Z 0 0
+15 0 5d30+150 0d0+0 4d5+12 pound
+0 0 0 0
+CFHI AB CPa R
+stand stand male 1000
+AHMV ABCDEFGHIJK medium
+ unknown
+#1012
+Elandra Guildmaster~
+Elandra the Ranger Guildmaster~
+Elandra the Ranger Guildmaster stands stoically here.
+~
+(null)~
+Tall and willowy, Elandra has just recently assumed the mantle
+of guildmaster in Renfall. A serious young woman, Elandra has
+been one of the brightest students in the ranger arts. Due to 
+recent events she has had the leadership role foisted apon her
+somewhat reluctant shoulders. Despite the circumstances she is
+determined to do the utmost to protect and serve the members of
+the guild.
+~
+elf~
+ABGJKb B JZ 0 0
+40 0 10d70+440 0d0+0 6d6+20 blast
+0 0 0 0
+0 AB Bb IZ
+stand stand female 2500
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 1010 100~
+#1013
+Yokal youth~
+Yokal~
+A local youth tends the counter.
+~
+(null)~
+A local youth by the name of Yokal tends the tiny shop
+today. Yokal has recently joined the guild and has been 
+given the job of running the shop in between his classes.
+A friendly enough man just barely into manhood, he has shown
+some potential so far and looks forward to the more advanced
+training as he progress through the ranks of the guild.
+~
+gnome~
+ABG C Z 200 0
+10 5 3d30+15 0d0+0 4d5+20 blast
+0 0 0 0
+0 ABK CPa R
+stand stand male 1000
+AHMV ABCDEFGHIJK medium
+ unknown
+#1014
+John Smith~
+John the master smith~
+John, the master smith of Renfall works the forge.
+~
+(null)~
+The brawny arms of John the master smith coil like snakes
+as he swings his hammer over the forge. A tall tree of a man,
+John is the definition of a walking muscle of a man. A stoic type,
+John prefers swinging his hammer over the forge then unnecessary 
+chit chat with the customers. The young women of the city like to
+stand by quietly and admire John as he works which of course he
+doesn't seem to mind at all.
+~
+human~
+ABGT B Z 0 0
+30 10 10d70+200 0d0+0 5d10+15 pound
+0 0 0 0
+CEFIK AB C 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium
+ unknown
+#1015
+alchemist Rianna woman~
+Rianna the Alchemist~
+A young black haired woman tends the counter.
+~
+(null)~
+A pretty young black haired woman stands here dressed in
+a simple dark tunic with matching pants. Her hair is long and
+silky held back from her eyes by a slender white-gold circlet
+around her forehead. Deep blue eyes peer from her attractive
+face giving her lovely features a somewhat pensive look. Rianna,
+as she is known to her friends is the registered city alchemist,
+a highly trained one at that despite her youth.
+~
+human~
+ABG 0 DFVc 300 0
+30 5 10d61+420 30d10+100 5d6+16 blast
+0 0 0 0
+FGH AB CD 0
+stand stand female 1500
+AHMV ABCDEFGHIJK medium
+ unknown
+#1016
+shopkeep elven Renfeld~
+Renfeld the shopkeep~
+A stooped elven shopkeep tends the counter here.
+~
+(null)~
+A stooped elven man putters about his shop tidying up the
+cluttered shelves. Renfeld has run his mercantile shop in
+Renfall for many years, his time on this mortal coil is 
+drawing to a close. A disturbing rattling cough has settled
+into his chest recently that he can't seem to shake. His
+watery grey eyes seem to show a sharp intellect and he is
+an unmitigated haggler when it comes down to it.
+~
+elf~
+ABGT 0 DFJ -300 0
+30 0 10d61+500 0d0+0 5d6+20 punch
+0 0 0 0
+FG AB BCDb IZ
+stand stand male 150000
+AHMV ABCDEFGHIJK medium
+ unknown
+#1017
+figure hooded~
+a hooded figure~
+A hooded figure sticks to the shadows.
+~
+(null)~
+A dark clad figure stands in the shadows here. A heavy cloak covers
+the person's face effectively obscuring their identity. Whoever the
+figure is, deep blue eyes peer about with malevolent intent. Without
+a sound the figure seems to merge seamlessly with the shadows. Great
+care would be advisable in dealing with this dark and secretive individual.
+~
+human~
+AG 0 PQ -200 0
+5 3 5d8+10 5d8+100 2d3+3 punch
+0 0 0 0
+0 0 0 0
+stand stand male 20
+AHMV ABCDEFGHIJK medium
+ unknown
+#1020
+citizen young~
+a citizen of Renfall~
+A citizen of Renfall strides by.
+~
+(null)~
+A nondescript man in his early twenties strides by intent
+on his own affairs. Dressed in the common clothes of the region,
+the man is a life long citizen of Renfall. His demeanour appears
+to be a friendly enough, hands in his pockets he keeps his head
+slightly pitched down as he makes his way down the street.
+~
+human~
+A C 0 200 0
+5 2 1d17+40 0d0+0 2d3+3 punch
+0 0 0 0
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium
+ unknown
+#1021
+Remy~
+Remy the apprentice~
+Remy the apprentice stands nonchalantly here.
+~
+(null)~
+A reed thin halfling, Remy is a new apprentice in the
+Thieves' Guild. Little more then a youth, his scruffy attempts
+at facial hair growth do little to cover his postpubescent acne
+scars. His slender pale hands twitch slightly like something is
+agitating him. His dull brown eyes are framed by a rather sour
+countenance with a slight cleft in his chin.
+~
+halfling~
+ABG 0 DF -300 0
+10 0 3d23+100 0d0+0 2d6+5 punch
+0 0 0 0
+FH AB LP R
+stand stand male 1200
+AHMV ABCDEFGHIJK medium
+ unknown
+F vul B
+#1022
+Rigaurd Master Thief~
+Rigaurd the Master Thief~
+Rigaurd, the Master Thief of Renfall stands here.
+~
+(null)~
+Long raven black hair frames the angular almost emaciated face of
+this serious looking elvish man. Hints of grey streak his sideburns 
+which extend down towards his long jutting jaw. Clad in comfortable
+black travel leathers, his piercing grey eyes are cold and calculating.
+A long silver dagger with a bejewelled hilt hangs at the ready from his hip,
+his right hand draped inches away from it.
+~
+elf~
+ABGJKb 0 DFJ -200 0
+40 0 10d100+400 0d0+0 5d9+20 pierce
+0 0 0 0
+BEFHK AB BCDb I
+stand stand male 2000
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 1010 100~
+#1023
+bard master~
+the Master Bard of Renfall~
+The Master Bard strums his mandolin peacefully here.
+~
+(null)~
+A long white scar creases the right side of this young man's face
+from his upper eyebrow down the length of his cheekbone. Dressed
+in simple clothing, a ready smile crosses his still handsome face.
+Long graceful fingers stroke his beloved mandolin as he quietly
+practices his trade in peaceful solitude. A man of great conviction,
+his musics have attempted to draw attention to the plight of the
+downtrodden in the blighted southern sector of Renfall. Unfortunately
+this has drawn the ire of those in power within the city, hence his
+less then stellar place in the community at the moment.
+~
+human~
+ABGJKb 0 DF 300 0
+30 0 10d70+500 40d10+120 5d8+22 blast
+0 0 0 0
+EFGH AB CD 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 1010 100~
+#1024
+rat brown~
+a plump brown rat~
+A plump brown rat scurries by.
+~
+(null)~
+Long whiskers protrude from the muzzle of this large brown
+rat. Roughly a foot in length, its rounded belly scrapes the
+ground as it scurries along on its way. A long hairless tail
+drags along behind it as its beady red eyes scan the area for
+edible morsels.
+~
+fido~
+AG B 0 100 0
+4 4 1d16+40 0d0+0 2d3+1 bite
+0 0 0 0
+FR 0 0 C
+stand stand male 0
+ABGV ACDEFHJKQV medium
+ unknown
+#1025
+vagrant elderly~
+an elderly vagrant~
+An elderly vagrant shuffles along here.
+~
+(null)~
+An elderly male in his latter years has definitely seen better
+days. Clad in filthy rags, his dirty unwashed hair peeks out from
+under a cotton cap placed apon his head. His hands are calloused
+and covered with sores, his face an unshaven valley of scars and
+human misery. Vacant empty eyes peer about nervously as if anticipating
+the next harsh word or bodily assault on his meager person.
+~
+human~
+A B 0 200 0
+4 5 1d6+40 0d0+0 2d4+2 punch
+0 0 0 0
+0 0 0 0
+stand stand male 15
+AHMV ABCDEFGHIJK medium
+ unknown
+#1026
+spider silk~
+a black silk spider~
+A black silk spider spins its web here.
+~
+(null)~
+A large silk spider spins its web busily, its hairy forearms moving
+with impressive speed. A common inhabitant of the region, the silk
+spiders' web or 'silk' is a highly sought after reagent by alchemists.
+This particular one is roughly the size of a human fist and has reached
+its maturity and full growth potential.
+~
+spider~
+AB 0 Z 100 0
+5 2 1d17+45 0d0+0 2d3+3 sting
+0 0 0 0
+0 0 FI EH
+stand stand none 0
+ABGO ACK medium
+ unknown
+#1027
+youth local~
+a local youth~
+A local youth strolls the streets.
+~
+(null)~
+A local youth walks the streets of Renfall looking for something to
+occupy his time. His thoughts have been on joining the local militia,
+the pay is decent and in recent times things have been relatively peaceful.
+The time will come soon when he will have to make a decision on what to do
+with his life. His pulse quickens slightly as he envisions grand adventures
+that could await and he sighs quietly to himself.
+~
+elf~
+A C J 300 0
+5 5 1d18+45 0d0+0 2d3+4 punch
+0 0 0 0
+0 0 Bb IZ
+stand stand male 35
+AHMV ABCDEFGHIJK medium
+ unknown
+#1028
+cat tabby~
+a plump tabby cat~
+A plump tabby cat slinks by.
+~
+A plump friendly tabby cat~
+A plump white and grey tabby cat slinks his well-fed
+body almost scraping the ground. With the wealth of rodents
+in the city, he spends his time roaming the streets looking
+for suitable things to eat. The cat pauses for a moment to
+rub a forepaw across its face then continues on his way.
+~
+cat~
+A 0 Z 100 0
+3 3 1d4+20 0d0+0 1d3+3 claw
+0 0 0 0
+FH 0 0 0
+stand stand male 0
+AGV ACDEFHJKQUV medium
+ unknown
+#1029
+lady citizen young female woman~
+a young lady~
+A young lady wanders the streets running errands.
+~
+A young female citizen of Renfall~
+A young woman goes about the city streets running errands.
+Of average size and build, the young woman's blonde hair is
+tied back from her face with a thin leather headband. Her
+clothing is inexpensive, she is still young afterall and
+unmarried. Perhaps someday soon she will find the right
+fellow to settle down with and begin raising a family.
+~
+human~
+A C 0 250 0
+5 5 1d17+43 0d0+0 2d3+3 punch
+0 0 0 0
+0 0 0 0
+stand stand female 26
+AHMV ABCDEFGHIJK medium
+ unknown
+#1030
+archer militia~
+a militia archer of Renfall~
+A broad shouldered archer paces along here.
+~
+(null)~
+A young broad-shouldered man paces off his patrol atop the upper
+ramparts of Renfall. His trusty city issued crossbow at the ready,
+the young man appears to be a worthy adversary. Clear blue eyes peer
+intently about him as he goes about his business. He takes his job
+quite seriously and will not hesitate to enforce order as he has been
+instructed.
+~
+human~
+AGT B D 200 0
+15 0 5d30+170 0d0+0 3d5+9 blast
+0 0 0 0
+EFT AB 0 0
+stand stand male 300
+AHMV ABCDEFGHIJK medium
+ unknown
+#1031
+recruit lowly~
+a lowly recruit~
+A lowly recruit practices his techniques.
+~
+(null)~
+A young local man tries to practice some of the techniques he has
+learned in the militia academy. His young face is flushed from exertion
+as he goes through the routines he has recently learned in training. A
+major exam is coming up soon and he can't quite seem to get the right
+techniques down to his satisfaction. He runs a sweaty palm across his 
+damp face and continues his training.
+~
+human~
+ABGT 0 0 200 0
+5 0 1d17+50 0d0+0 2d3+3 punch
+0 0 0 0
+0 B A 0
+stand stand male 25
+AHMV ABCDEFGHIJK medium
+ unknown
+#1032
+recruit aspiring~
+an aspiring recruit~
+An aspiring recruit practices her techniques here.
+~
+(null)~
+An average sized young woman works her way around the training
+room with her training dagger grasped tightly in hand. She has
+recently passed the Unarmed Combat class and has advanced to the
+Small Arms training. She blows a strand of loose hair out of her
+eyes and focuses her attention on a nearby training dummy.
+~
+elf~
+ABGT 0 J 200 0
+5 3 1d17+45 0d0+0 2d4+2 pierce
+0 0 0 0
+0 B ABb IZ
+stand stand female 35
+AHMV ABCDEFGHIJK medium
+ unknown
+#1033
+Justianna recruit woman~
+Justianna, the Recruiter of Renfall~
+A well-armormed woman recruits new militia members here.
+~
+(null)~
+A tall rather fierce looking woman stands here surveying the passerby's.
+Clad in full metal plate issued by the Renfall Militia, her job is to
+attract potential recruits to enlist in the militia. Justianna as she is
+known to her friends, is a little overzealous in her job oblivious to the
+fact that this area of Renfall sees little real foot traffic. Her superiors
+have assigned her this task to keep her out of trouble and the fact that she
+is fairly attractive does tend to attract the odd recruit on occasion. 
+~
+human~
+ABGT CD DF 1000 0
+15 12 5d30+1000 0d0+0 3d5+40 punch
+-5 -5 -5 -5
+EFH AB CD 0
+stand stand female 200
+AHMV ABCDEFGHIJK medium
+ unknown
+#1034
+dwarven militia member~
+a dwarven militia member~
+A dwarven militia member paces by on patrol.
+~
+(null)~
+A dwarven militia member paces by on his daily patrol. Dressed in
+copper armor, the young man is relatively new to the militia. His job
+for now is to patrol the area and keep an eye out for troublemakers.
+His round brown eyes scan the area as he continues on about his patrol.
+~
+dwarf~
+AGT C J 200 0
+10 10 3d22+100 0d0+0 2d5+6 punch
+1 1 1 1
+0 A BLQa R
+stand stand male 50
+AHMV ABCDEFGHIJK medium
+ unknown
+#1035
+elvish militia member~
+an elvish militia member~
+An elvish militia member scans the area.
+~
+A slender elvish militia member~
+A petite elvish militia member scans the area for potential
+troublemakers. Her intent hazel eyes peer about the area as she
+goes about her patrol through the city streets. A pleasant smile
+crosses her somewhat plain face as she nods to people she knows.
+She stifles a tired yawn eager to finish her shift and go home to
+a nice warm bed.
+~
+elf~
+AT C J 300 0
+6 3 1d17+43 0d0+0 2d3+3 punch
+0 0 0 0
+0 A Bb IZ
+stand stand female 45
+AHMV ABCDEFGHIJK medium
+ unknown
+#1036
+monk master guildmaster~
+the master monk of Renfall~
+The master monk of Renfall stands here quietly.
+~
+(null)~
+A massively built bald man stands quietly here. His impassive face
+is totally expresionless, his round brown eyes appear to be deep
+in thought. The master monk of Renfall is an impressive specimen.
+His large bald head is creased on the right side of his head with
+a large deep scar that hooks under his left ear to his lower jaw.
+His voice when he does speak is curiously low and he seems to
+measure each word equally before speaking.
+~
+human~
+ABGJKab 0 DF 600 0
+40 0 40d8+80 40d8+100 5d20+200 punch
+0 0 0 0
+0 CD 0 0
+stand stand male 1200
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 1010 100~
+#1037
+citizen~
+a dwarven citizen of Renfall~
+A dwarven citizen of Renfall walks past.
+~
+A stout barrel chested dwarven citizen~
+A citizen of Renfall walks past running errands as he goes
+about the city. The man appears to be of dwarven descent judging
+by his squat stature and broad frame. A jet-black well trimmed
+beard covers his strong jaw, greyish-blue eyes complement his
+somewhat craggy face. Contrary to popular opinion he does not
+appear to walk everywhere with a giant axe on his shoulder.
+~
+dwarf~
+AG C J 200 0
+5 5 5d8+10 5d8+100 2d3+3 punch
+0 0 0 0
+0 0 LQa R
+stand stand male 18
+AHMV ABCDEFGHIJK medium
+ unknown
+#1038
+noble haughty~
+a haughty noble~
+A haughty noble saunters by.
+~
+(null)~
+A haughty noble, his hair pulled back into a tight greasy
+bun saunters down the streets of the city. His polished features
+are spotless, his aloof demeanour one of casual arrogance. He is
+a man who seems to have the world at his fingertips and the wealth
+to do as he pleases. He keeps his head held high as he goes about
+his business virtually ignoring all those of lesser stature around
+him.
+~
+human~
+AG 0 0 -200 0
+8 8 8d8+16 8d8+100 2d5+4 punch
+0 0 0 0
+0 0 C 0
+stand stand male 120
+AHMV ABCDEFGHIJK medium
+ unknown
+#1039
+boy young~
+a young boy~
+A young boy runs errands for his mum.
+~
+An eager young boy{x~
+A young curly headed boy heads towards the nearby shops.
+His face is flush with the vigor of youth, his hair gleams
+nicely after a recent bath. His mum has promised him a sweet
+after he finishes running errands for her. With a smile on his
+innocent face he quickens his pace and hurries off to finish his
+errand.
+~
+human~
+AG 0 0 300 0
+3 3 3d8+6 3d8+100 1d3+3 punch
+0 0 0 0
+0 0 0 0
+stand stand male 6
+AHMV ABCDEFGHIJK medium
+ unknown
+#1040
+mage aspiring elven woman~
+an aspiring wizardess~
+An elven woman heads towards the wizards' tower.
+~
+an aspiring elven wizardess~
+A young elven woman with straight black hair strides down
+the street. The aspiring mage is headed towards the famed mages'
+tower of Renfall. There she hopes to continue her studies in the
+arcane arts. Her clear blue eyes glimmer with intelligence as she
+makes her way towards her destination. Her mind is alive with the
+the thrill of the studies ahead of her and the potential power that
+awaits her.
+~
+elf~
+AG C J 300 0
+8 8 8d8+16 8d8+100 2d4+2 punch
+0 0 0 0
+0 0 BCb IZ
+stand stand female 30
+AHMV ABCDEFGHIJK medium
+ unknown
+M DEATH 1008 15~
+M DEATH 1007 10~
+#1050
+bouncer Chuck~
+Chuck, the bouncer~
+A burly minotaur bouncer awaits trouble here.
+~
+à¬ò¿è>~
+A burly bouncer by the name of Chuck stands stoically here. An old friend
+of the owners, Chuck works at the pub as the resident bouncer. A strapping
+member of the minotaur race, Chuck is not one to be fooled with. He stands
+in one corner of the pub keeping a watchful eye on the riffraff that
+frequent the pub. He is not adverse to banging some heads together of those
+foolish enough to get out of line. 
+~
+minotaur~
+ABG CD J 400 0
+25 25 25d8+2500 25d8+100 5d10+200 punch
+-5 -5 -5 -5
+CEHNOV AB BCDJ P
+stand stand male 1000
+AHMV ABCDEFGHIJK medium
+ unknown
+F vul H
+#1051
+griffon henry balding pubowner~
+Henry Griffon, the pub owner~
+An overweight balding pubowner stands here.
+~
+à¬ò¿è>~
+An overweight balding pub owner stands here wiping the bar. Henry Griffon
+has tended pub here for many years wiping the same bar down. His bloodshot
+blue eyes have pretty much seen it all in the many years he's been in
+Renfall. If there's something fishy going on in Renfall he probably knows
+something about it. Henry is not adverse to bribes but that doesn't mean
+his information will always be the absolute truth about the matter. 
+~
+human~
+ABGT G DF 200 0
+20 50 20d8+40 20d8+100 5d10+20 punch
+-5 -5 -5 -5
+EGHK ABCD 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium
+ unknown
+#1090
+champion fighter braggart~
+a champion of Renfall~
+An impressive fighter swaggers down the street.
+~
+An overly muscular braggart~
+An impressive specimen of a man, he has recently won the local
+Champions tournament in the city. A skilled fighter he has swaggered
+about the city telling all who will listen about his exploits. If it
+weren't for his overbearing attitude he would be quite the local celebrity.
+Unfortunately his incessant bragging has led people to avoid him as much
+as possible.
+~
+human~
+AGT CE Vac 200 0
+40 40 40d8+10000 40d8+100 5d10+200 punch
+-10 -10 -10 -10
+CEIKVW 0 CD 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium
+ unknown
+#1091
+cleric high-ranking blonde elven woman~
+a high ranking cleric of Odoma~
+A high-ranking cleric of Odoma bustles past.
+~
+An attractive {yb{Yl{yo{Yn{yd{Ye{x elven woman~
+A high-ranking cleric of Odoma bustles past intent on her own affairs. An
+attractive young woman, her flowing {yb{Yl{yo{Yn{yd{Ye{X hair extends down her
+regal neck towards her thin tapered waist. Clad in a plush ermine cloak of
+valuable furs, she is the picture of regal elegance. Clear hazel eyes frame
+aristocratic elven features giving her an exotic sultry appearance. 
+~
+elf~
+AG CE DFHJ 1000 0
+30 24 23d14+10000 11d10+367 13d1+21 grep
+-17 -17 -17 -13
+FGHKVW 0 Bb IZ
+stand stand female 900
+AHMV ABCDEFGHIJK medium
+ unknown
+#0
+
+
+
+#OBJECTS
+#1000
+fountain~
+an obsidian fountain~
+An enormous {Dobsidian{x fountain burbles quietly here.~
+unknown~
+0
+fountain 0 0 0
+9999 9999 'milk' 0 0
+0 9999 0 P
+E
+fountain~
+The obsidian fountain of Renfall is one of the great artifacts in the
+known world.  A giant monstrosity of pure alabaster obsidian, the fountain
+is rumored to be fed by a large underground spring hidden deep beneath the
+city itself.  The copper piping that feeds the fountain itself is the
+product of the latest in modern technology, a technical marvel in itself.  
+~
+#1001
+uniform black~
+a tight black uniform~
+A black uniform was dropped here.~
+cloth~
+0
+armor 0 0 AD
+B A A B 1
+5 2 40 P
+A
+26 1
+E
+uniform~
+The colorful logo of the Roaring Dragon Pub
+is enblazoned on the back of this black cloth
+uniform. The front is rather low cut to enhance
+the tipping prospects of the female wearer.
+~
+#1002
+tray battered~
+a battered serving tray~
+A battered serving tray lies here.~
+tin~
+0
+weapon 0 0 ANO
+exotic 3 5 crush 0
+5 3 50 P
+#1003
+double-edged battleaxe~
+a double-edged battleaxe~
+An iron double-edged battleaxe was dropped here.~
+iron~
+0
+weapon 0 0 AN
+exotic 3 5 slash 0
+5 6 300 P
+#1004
+devils grog~
+the devils grog~
+A tall tankard of firebreather was left here.~
+tin~
+0
+drink 0 0 AO
+3 3 'firebreather' 0 0
+4 2 150 P
+E
+grog~
+The tankard is large with the bold insignia of
+the Roaring Dragon Pub of Renfall stamped on one
+tin side. It appears to contain 'the devils grog'
+a powerful local firebreather preferred by discerning
+dwarves in the area.
+~
+#1005
+elderberry wine~
+a glass of elderberry wine~
+A glass of elderberry wine was dropped here.~
+glass~
+0
+drink 0 0 AO
+2 2 'elvish wine' 0 0
+5 1 140 P
+#1006
+beef stew~
+a steaming bowl of beef stew~
+A steaming bowl of beef stew sits here.~
+beef~
+0
+food 0 0 AO
+ADE ADE 0 0 0
+0 1 50 P
+#1007
+bAttleArmor of the Master~
+{ybattle armor of the master{x~
+An elaborate steel breastplate lies here.~
+steel~
+0
+armor 0 0 AD
+BD BD BD BD 5
+35 15 10000 P
+#1008
+plate silver~
+{welaborate silver plate~
+Elaborately embossed plate armor lies here.~
+silver~
+0
+armor A 0 AD
+AC AC AC AC 3
+20 10 1200 P
+A
+13 25
+A
+17 10
+#1009
+helm silver~
+an elaborate silver helm~
+An elaborate silver helm was dropped here.~
+silver~
+0
+armor A 0 AE
+AB AB AB AB 3
+20 5 1000 P
+A
+1 1
+A
+13 5
+#1010
+leather doublet~
+a leather doublet~
+A leather doublet lies here.~
+leather~
+0
+armor 0 0 AD
+AB AB AB AB 1
+5 4 300 P
+A
+14 5
+A
+29 4
+A
+2 2
+#1011
+leather pants~
+leather pants~
+A pair of leather pants lies forgotten here.~
+leather~
+0
+armor 0 0 AF
+B A AB B 2
+5 3 200 P
+A
+18 2
+A
+14 10
+#1012
+birch wand~
+a birch wand~
+A slender birch wand was dropped here.~
+birch~
+0
+wand 0 0 AO
+5 5 5 'magic missile' 0
+5 2 500 P
+E
+birch~
+The slender wand is about six inches in length comprised of cheap local
+birch.  A minor enchantment has been place on the wand.  Closer inspection
+of the wand reveal a tiny inscription inscribed down the length of the wand.
+The inscription reads MAGIC MISSILE.  
+~
+#1013
+pine wand~
+a pine wand~
+A simple pine wand was left behind here.~
+pine~
+0
+wand 0 0 AO
+10 5 5 'armor' 0
+10 3 1000 P
+#1014
+silver ring~
+a silver ring~
+A light silver ring lies here.~
+silver~
+0
+armor 0 0 AB
+0 0 0 0 0
+3 1 250 P
+A
+12 10
+A
+3 1
+#1015
+platinum ring~
+a {wplatinum{x ring~
+A glowing platinum ring lies here.~
+platinum~
+0
+armor A 0 AB
+B B B B 0
+6 1 1200 P
+A
+3 1
+A
+12 15
+A
+17 -5
+#1016
+leather gloves~
+leather gloves~
+A pair of leather gloves were left behind here.~
+leather~
+0
+armor 0 0 AH
+B B C B 0
+5 2 300 P
+A
+14 10
+A
+18 2
+#1017
+leather boots~
+leather boots~
+A pair of leather boots lie here.~
+leather~
+0
+armor 0 0 AG
+AB AB AB AB 0
+5 3 300 P
+A
+14 10
+A
+18 2
+#1018
+leather cap~
+a leather cap~
+A cheap leather cap was dropped here.~
+leather~
+0
+armor 0 0 AE
+B B B B 1
+5 2 250 P
+A
+14 10
+A
+18 2
+#1019
+elaborate silver greaves~
+elaborate silver greaves~
+A pair of elaborate silver greaves gather dust here.~
+silver~
+0
+armor A 0 AF
+C C C C 0
+0 8 1000 P
+A
+13 20
+A
+2 -1
+E
+greaves~
+These stiff silver greaves are standard gear for the
+city of Renfall's elite guard forces. Many consider them
+more gaudy then useful due to their stiff nature but they
+are meant to make more of a grand first impression then to
+see actual use.
+~
+#1020
+silver polearm~
+an elaborate silver polearm~
+A long gaudy polearm was left behind here.~
+silver~
+0
+weapon B 0 AN
+polearm 4 5 pound 0
+20 10 800 P
+A
+1 1
+#1021
+longsword silver~
+an elaborate silver longsword~
+A long hilted silver longsword lies here.~
+silver~
+0
+weapon GY 0 AN
+long_sword 2 7 slash 0
+17 6 2800 P
+A
+2 1
+A
+18 3
+#1022
+double battle axe~
+a double edged battle axe~
+A double edged battle axe awaits devastation.~
+steel~
+0
+weapon 0 0 AN
+axe 3 3 cleave 0
+5 5 450 P
+E
+sorrow~
+The 'Axe of Sorrow' is a favorite of new adventurers
+easily purchased at the Renfall Weaponry Shop. When used
+properly the well balanced axe will cause much sorrow to
+its victims.
+~
+#1023
+cutlass~
+a steel cutlass~
+A long steel cutlass has been discarded.~
+steel~
+0
+weapon 0 0 AN
+long_sword 2 4 slash 0
+5 7 320 P
+E
+splendor~
+The 'Longsword of Splendor' is a favorite of
+new adventurers in the area. A well balanced
+weapon that is fairly inexpensive, the longsword
+can be obtained at the Renfall Weaponry Shop.
+~
+#1024
+chain whip~
+a long chain link whip~
+A long whip lies curled up here.~
+iron~
+0
+weapon 0 0 AN
+whip 1 8 whip 0
+5 10 350 P
+E
+frenzy~
+The 'Whip of Frenzy' is a favorite of new
+adventurers in the area. Guaranteed to whip
+your opponents into a frenzy of pain when
+used properly! Commonly found at the Renfall
+Weaponry Shop.
+~
+#1025
+oak leaf dagger~
+a tiny oakleaf dagger~
+A tiny dagger glints in the light here.~
+iron~
+0
+weapon 0 0 AN
+dagger 2 4 pierce 0
+5 2 280 P
+E
+domination~
+The 'Dagger of Domination' can dominate its opponent
+when used properly despite its small size. Easily found
+at the Renfall Weaponry Shop, the dagger is favored by
+new adventurers in the area.
+~
+#1026
+flanged mace~
+a flanged mace~
+A flanged mace waits to be used.~
+iron~
+0
+weapon 0 0 AN
+mace 3 3 pound 0
+5 10 400 P
+E
+clobber~
+The club simply known as 'Clobber' does exactly that
+when used in the right hands. A favorite of all new
+adventurers in the area, the club is easily found at
+the Renfall Weaponry Shop.
+~
+#1027
+leg roasted turkey~
+a leg of roasted turkey~
+A leg of roasted turkey.~
+unknown~
+0
+food 0 0 A
+ABCD ABCD 0 0 0
+1 1 30 P
+#1028
+appleberry pie~
+an appleberry pie~
+A steaming appleberry pie was dropped here.~
+unknown~
+0
+food 0 0 AO
+CD DE 0 0 0
+2 1 50 P
+#1029
+birthday cake~
+a three-tier birthday cake~
+An elaborately decorated birthday cake.~
+unknown~
+0
+food 0 0 A
+ABCD BEF 0 0 0
+3 20 250 P
+#1030
+shortbow bow yew~
+a yew shortbow~
+A stubby shortbow lies unused.~
+yew~
+0
+weapon 0 0 AN
+bow 2 5 blast 0
+11 5 250 P
+A
+29 6
+A
+18 2
+E
+sureshot~
+The shortbow, nicknamed 'SureShot' is a low 
+level weapon provided by the local ranger's
+guild in Renfall. Many young adventurer's like its
+ease of use and its uncanny accuracy.
+~
+#1031
+bow longbow yew~
+a yew longbow~
+A long handled yew longbow lies forgotten here.~
+yew~
+0
+weapon 0 0 AN
+bow 3 5 blast 0
+10 6 600 P
+A
+29 8
+A
+19 2
+E
+quickshot~
+The longbow known as 'QuickShot' is a common longbow
+readily available at the ranger's guild in Renfall.
+Favored for its quick reload, the longbow is a reliable
+standby until a better weapon can be found.
+~
+#1032
+armguards copper~
+plain copper armguards~
+A set of plain copper armguards lie forgotten here.~
+copper~
+0
+armor 0 0 AI
+B B B B 2
+5 2 200 P
+A
+13 3
+#1033
+vambraces copper~
+plain copper vambraces~
+A pair of plain copper vambraces were left behind here.~
+copper~
+0
+armor 0 0 AF
+B B B B 2
+5 3 300 P
+A
+13 4
+#1034
+plate copper~
+plain copper plate~
+A plain copper torso plate was left here.~
+copper~
+0
+armor 0 0 AD
+AB AB AB AB 2
+5 4 400 P
+A
+13 5
+A
+19 2
+A
+29 6
+#1035
+helm copper~
+a plain copper helm~
+A plain copper helm sits here.~
+copper~
+0
+armor 0 0 AE
+B B B B 2
+5 2 250 P
+A
+13 5
+A
+29 4
+#1036
+shield copper small~
+a small round copper shield~
+A small round copper shield.~
+copper~
+0
+armor 0 0 AJ
+B B B B 2
+5 3 300 P
+A
+13 5
+#1037
+potion sight~
+a potion of sight~
+An amber potion was dropped here.~
+glass~
+0
+potion 0 0 AO
+8 'detect invis' 'detect evil' 'detect good' 'detect secret'
+3 1 1000 P
+#1038
+potion flight~
+a potion of flight~
+A clear vial of liquid lies here.~
+glass~
+0
+potion 0 0 AO
+8 'fly' 'reserved' 'reserved' 'reserved'
+5 1 800 P
+#1039
+health minor potion~
+a minor health potion~
+A mint green potion was dropped here.~
+glass~
+0
+potion 0 0 AO
+20 'cure light' 'reserved' 'reserved' 'reserved'
+1 1 500 P
+#1040
+potion return~
+a potion of return~
+A curious brown potion was dropped here.~
+glass~
+0
+potion 0 0 AO
+5 'word of recall' 'reserved' 'reserved' 'reserved'
+5 1 1200 P
+#1041
+stealth ring~
+a tin ring of stealth~
+A cheap tin ring was dropped here.~
+tin~
+0
+armor 0 0 AB
+A A A A 0
+5 1 350 P
+A
+2 1
+#1042
+copper dagger~
+a wickedly pointed copper dagger~
+A long splinter of copper lies here.~
+copper~
+0
+weapon 0 0 AN
+dagger 2 4 pierce 0
+3 2 200 P
+A
+14 10
+A
+1 1
+A
+13 3
+E
+splinter~
+A long splinter of copper fashioned into a usuable
+dagger. Preferred by the cost conscious adventurer
+easily purchased at the Renfall Thieves' Guild.
+~
+#1043
+hood black~
+a sinister {Dblack{x hood~
+A sinister looking black hood was left here.~
+cotton~
+0
+armor 0 0 AE
+B B B B 1
+5 1 300 P
+A
+2 1
+A
+14 15
+A
+13 5
+E
+hood~
+This sinister looking black hood is actually just a 
+cheap cotton dyed a dark hue of black. Twin eye slots
+allow unhampered peripheral vision. A common item found
+at the Renfall Thieves' Guild.
+~
+#1044
+plate leather~
+leather militia plate~
+A stiff leather torso plate lies here.~
+leather~
+0
+armor 0 0 AD
+AB B AB B 2
+10 5 200 P
+E
+plate~
+Fashioned of still weather treated leather, the torso
+plate is designed for those of average size to fit over the
+upper body to the lower waist. Common issue gear to the Renfall
+militia forces.
+~
+#1045
+cask wooden~
+a wooden cask~
+A small wooden cask sits here.~
+wood~
+0
+drink 0 0 0
+50 50 'water' 0 0
+30 300 500 P
+#1046
+bag cloth~
+a cloth bag~
+A cloth bag was dropped here.~
+cloth~
+0
+container 0 0 A
+5 0 0 10 2
+3 1 50 P
+#1047
+knapsack leather~
+a leather knapsack~
+A small leather knapsack lies here.~
+leather~
+0
+container 0 0 AK
+10 A 0 30 3
+5 3 125 P
+#1048
+torch wooden~
+a wooden torch~
+A wooden torch was dropped here.~
+wood~
+0
+light 0 0 AO
+0 0 AE 0 0
+1 10 7 P
+#1049
+lantern tin~
+a tin lantern~
+A cheap tin lantern was set here.~
+unknown~
+0
+light 0 0 AO
+0 A ABF 0 0
+3 30 200 P
+#1050
+robe training~
+a training robe~
+A cloth robe lies here.~
+cloth~
+0
+armor 0 0 AD
+B A A A 0
+5 2 75 P
+#1051
+gloves training~
+training gloves~
+A pair of cloth gloves lie here.~
+cloth~
+0
+armor 0 0 AH
+A 0 A 0 1
+5 1 75 P
+A
+13 3
+#1052
+dummy training~
+a training dummy~
+A ragged training dummy was placed here.~
+cloth~
+0
+furniture 0 0 0
+0 0 0 0 0
+1 20 100 P
+#1053
+dagger wooden training~
+a wooden training dagger~
+A wooden training dagger was left here.~
+wood~
+0
+weapon 0 0 AN
+dagger 1 4 pierce 0
+5 1 15 G
+#1054
+sash white~
+a {Wwhite{x sash~
+A long white sash lies folded here.~
+cloth~
+0
+armor 0 0 AL
+A 0 A 0 1
+5 1 100 P
+A
+13 5
+A
+12 3
+#1055
+armor body iron~
+{Wiron{x militia body armor~
+Heavy iron body armor was left here.~
+iron~
+0
+armor 0 0 AD
+C AB C AB 5
+0 8 600 P
+A
+13 15
+#1056
+leggings iron militia~
+{Wiron{X militia plate leggings~
+A heavy set of iron leggings lie here.~
+iron~
+0
+armor 0 0 AF
+AB AB C AB 5
+15 8 400 P
+A
+2 -1
+A
+1 1
+#1057
+lance iron~
+an {Wiron{x militia lance~
+A long iron lance lies forgotten here.~
+iron~
+0
+weapon A 0 AN
+exotic 3 5 thrust 0
+12 10 560 G
+A
+1 1
+A
+2 -1
+A
+13 10
+#1058
+table round oak~
+round oak table~
+Rounded oak tables have been placed here.~
+wood~
+0
+furniture 0 0 0
+C EGHIJK D CFG CFG
+0 200 0 G
+E
+table~
+Rounded oak tables have been placed here. They can hold an
+average party of four comfortably at a time.
+~
+#1059
+signpost~
+a signpost~
+A signpost marked '{mdirections{x' in common.~
+wood~
+0
+furniture 0 0 0
+0 0 0 0 0
+0 0 0 P
+E
+signpost~
+Directions to the guilds of Renfall have been posted here.
+Wizards 3wU
+Thieves: 1s2w3n
+Clerics: 1n2u4nw
+Druids: 1n2u10n3e3s
+Bards: 2se2nw
+Rangers: nen
+Fighters: n4en
+Monks: Right here!
+All directions are from this very signpost!
+~
+#1060
+headband leather~
+a leather headband~
+A slight leather headband lies discarded here.~
+leather~
+0
+armor 0 0 AE
+A 0 A A 2
+4 1 100 P
+#1061
+cloak leather~
+a long leather cloak~
+A long leather cloak lies forgotten here.~
+leather~
+0
+armor 0 0 AK
+A B B A 2
+4 3 140 P
+#1062
+rod metal~
+a short metal rod~
+(no description)~
+copper~
+0
+weapon 0 0 AN
+exotic 0 0 none 0
+5 0 0 P
+#1063
+shroud darkness~
+a shroud of darkness~
+A magical shroud hovers in mid-air.~
+magic~
+0
+armor AU 0 AQ
+A A A A 1
+4 2 200 W
+E
+shroud~
+The shroud is a magical item, relatively common that
+is preferred by low level thieves and miscreants. The
+shroud is enchanted to provide a pool of darkness that
+works to obscure the activities of the wearer. It's
+physical protection is minimal at best, the enchantment
+of the item little more then a parlour trick compared to
+more elaborate magicks.
+~
+#1064
+cloak crimson~
+a well stitched {rcrimson{x cloak~
+A fancy crimson cloak lies here.~
+cotton~
+0
+armor 0 0 AC
+B A B 0 1
+6 2 200 P
+A
+20 -1
+A
+19 2
+A
+29 4
+#1065
+ring garnet large~
+a large {rgarnet{x ring~
+A gaudy jewelled ring lies here.~
+garnet~
+0
+treasure 0 0 AB
+0 0 0 0 0
+4 1 120 P
+A
+26 2
+A
+14 10
+#1066
+cane ivory~
+an ivory tipped walking cane~
+A fancy ivory tipped walking cane was dropped here.~
+ivory~
+0
+weapon 0 0 AN
+mace 2 5 smash 0
+5 5 200 P
+A
+19 2
+A
+29 6
+#1067
+blue cloak~
+a well stitched {bblue{x cloak~
+A well stitched {bblue{x cloak and hood.~
+velvet~
+0
+armor U 0 AC
+B A B A 0
+5 3 100 G
+A
+12 3
+A
+13 3
+A
+17 3
+#1068
+shovel~
+a shovel~
+A standard shovel~
+unknown~
+0
+shovel 0 0 AO
+11 1 4 500 P
+#1069
+blueberry muffin~
+a blueberry muffin~
+A rather moist looking blueberry muffin.~
+unknown~
+0
+food 0 0 A
+C CD 0 0 0
+0 1 12 P
+#1070
+travel log~
+{y*{Y* {yG{yu{Yi{yl{Yd{y I{Yt{ye{Ym{y *{Y*{x : {GT{gr{Ga{gv{Ge{gl {GL{go{Gg{x~
+A battered travel log lies here.~
+paper~
+0
+parchment M 0 A
+0 0 0 0 0
+1 1 0 P
+E
+log~
+A battered leather bound book, this will help you track recent
+events in your life. This book will serve to act as a tutorial
+of sorts to those new to the ways of life here. Simply examine
+the book as you travel around for helpful hints and simple quests
+that will make life much easier for you. Begin with page1 to become
+familiar with your surroundings.
+~
+E
+page1~
+The pages of the log will serve to familiarize you with some
+basic concepts of the world and basic hints to help make things
+easier for you. The first is travel and how to move about your
+enviroment. Everything works like a compass, simply moving in a
+direction will make you travel in that direction. Available exits
+are displayed usually in your room if they are not hidden or secret.
+If you are already familiar with the basic concepts of mudding and prefer
+to skip ahead a bit feel free to examine your first available quest on
+quest1.
+~
+E
+quest1~
+Your travel log will contain a few brief and hopefully easy
+quests to make your adventures here a little more interesting
+and to guide you about the areas that are available to you. Your
+first one is a simple one:
+{G1. {x{Y[ ]{x{G Meet your guildmaster.
+Your first quest will be to meet your guildmaster.
+Sounds simple right? Good luck.{x{w
+2. ???
+~
+#1071
+log book~
+{y*{Y* {yG{yu{Yi{yl{Yd{y I{Yt{ye{Ym{y *{Y*{x : {CT{cr{Ca{cv{Ce{cl {CL{co{Cg{x~
+A leather bound log book lies here.~
+paper~
+0
+parchment M F A
+0 0 0 0 0
+1 1 0 P
+E
+page1~
+The pages of the log will serve to familiarize you with some
+basic concepts of the world and basic hints to help make things
+easier for you. The first is travel and how to move about your
+enviroment. Everything works like a compass, simply moving in a
+direction will make you travel in that direction. Available exits
+are displayed usually in your room if they are not hidden or secret.
+If you are already familiar with the basic concepts of mudding and prefer
+to skip ahead a bit feel free to examine your first available quest on
+quest1.
+~
+E
+quest1~
+Your travel log will contain a few brief and hopefully easy
+quests to make your adventures here a little more interesting
+and to guide you about the areas that are available to you. Your
+first one is a simple one:
+{G[{RX{G] Meet your guildmaster.{x
+Your first quest will be to meet your guildmaster.
+{GQuest complete!{x
+2. {G[ ] Attain level 10.{x
+Attain level 10. Return here for your reward.
+3. ???
+4. {R???{x
+~
+E
+log~
+A battered leather bound book, this will help you track recent
+events in your life. This book will serve to act as a tutorial
+of sorts to those new to the ways of life here. Simply examine
+the book as you travel for helpful hints and simple quests that
+will make life easier for you. Begin with page1 to become familiar
+with how the log functions.
+~
+#1072
+benches polished oak~
+a polished wooden bench of oak~
+Comfortable oak benches circle the fountain here.~
+wood~
+0
+furniture 0 0 0
+D FJKLO EHK DGH DGH
+0 0 0 P
+E
+benches~
+Comfortable wooden benches comprised of oak circle the perimeter of
+the fountain here. Provided curtesy of the local chamber of commerce, the
+benches can comfortably seat approximately eight people at once. Many pause
+here to rest a moment before continuing onward about the city.
+~
+#1073
+girdle champions~
+the girdle of champions~
+A gaudy diamond studded girdle lies here.~
+diamond~
+0
+armor A C AL
+BC BC BC C 5
+25 10 4000 P
+A
+19 2
+A
+13 25
+A
+5 2
+A
+1 2
+E
+girdle~
+The prestigious 'Girdle of Champions' is a gaudy metallic affair
+awarded to winners of the regional Renfall Quest for Champions. A diamond
+studded monstrosity, it weighs over ten pounds and is quite cumbersome. This
+particular one has been imbued with some moderate enchantments by the local
+guild of wizards.
+~
+#1074
+iron rations~
+iron rations~
+A tightly bound package of rations.~
+unknown~
+0
+food 0 0 A
+DE CF 0 0 0
+5 5 500 P
+#1075
+spear stout~
+a stout spear~
+A stout spear is stuck in the ground here.~
+copper~
+0
+weapon 0 0 AN
+staff 3 5 thrust 0
+5 4 125 P
+#1076
+aura purity~
+{CA{cu{Cr{ca{x of {CP{cu{Cr{ci{Ct{cy{x~
+A {Cs{ch{Ci{cm{Cm{ce{Cr{ci{Cn{cg{x magical aura floats here.~
+magic~
+0
+armor A C AQ
+AC C AC A 1
+28 2 1000 P
+A
+12 25
+A
+4 2
+A
+3 2
+A
+30 4
+A
+28 10
+#1077
+flask cheap empty~
+a cheap empty glass flask~
+A cheaply made glass flask lies here.~
+glass~
+0
+flask 0 0 AO
+0 0 0 0 0
+5 1 40 P
+#1078
+tail spike~
+a simple tail spike~
+A tail spike with a leather attachment apparatus.~
+leather~
+0
+armor 0 0 AR
+B C AB AC 2
+1 5 200 P
+A
+19 2
+#1079
+leather bracer~
+a leather bracer~
+A simple leather bracer.~
+leather~
+0
+armor 0 0 AM
+0 0 0 0 1
+3 4 100 P
+A
+13 5
+#1080
+sash apprentice~
+{gs{Ga{gs{Gh{x of the {Ga{gp{Gp{gr{Ge{gn{Gt{gi{Gc{ge{x~
+A colorful sash lies forgotten here.~
+cotton~
+0
+armor 0 0 AL
+A A A A 1
+1 1 0 P
+A
+4 1
+A
+3 1
+A
+13 2
+A
+12 2
+#1081
+canteen leather~
+a canteen wrapped in leather~
+A leather wrapped canteen lies forgotten here.~
+copper~
+0
+drink 0 0 AO
+40 40 'water' 0 0
+3 2 15 P
+E
+canteen~
+The canteen is made of cheap copper and wrapped in
+coarse leather. A relatively cheap purchase for the
+economically minded adventurer.
+~
+#1082
+ring brass~
+a brass ring~
+A simple brass ring lies here~
+brass~
+0
+jewelry 0 0 AB
+0 0 0 0 0
+3 1 250 P
+A
+13 5
+A
+1 1
+#1083
+beer mug~
+a tall mug of beer~
+A tall mug of beer was left here.~
+glass~
+0
+drink 0 0 AO
+15 15 'beer' 0 0
+5 1 50 G
+#1084
+whiskey shot~
+a shot of whiskey~
+A shot glass of whiskey was left here.~
+glass~
+0
+drink 0 0 AO
+5 5 'whiskey' 0 0
+5 1 100 P
+#1085
+salve canister~
+a small canister of salve~
+A small canister of salve.~
+brass~
+0
+salve 0 0 A
+0 0 0 0 0
+1 1 100 P
+#1086
+studded leather vest~
+a studded leather vest~
+A reinforced studded leather vest.~
+leather~
+0
+armor 0 0 AD
+BC BC BC BC 1
+5 25 800 P
+A
+13 10
+A
+14 10
+#1087
+steel breastplate~
+a steel breastplate~
+A steel breastplate~
+steel~
+0
+armor 0 0 AD
+BD BD BD BD 4
+5 120 1200 P
+A
+13 12
+A
+18 1
+#1088
+spiked morning star~
+a spiked morning star~
+A spiked ball, attached to a handle via a small length of chain.~
+steel~
+0
+weapon 0 0 AN
+flail 2 5 blast 0
+5 30 300 P
+#1089
+bandage~
+a clean bandage~
+A clean bandage lies here.~
+cotton~
+0
+bandage 0 0 AO
+B A 0 0 0
+1 1 35 P
+#1090
+Golden Robes of the Mage~
+{yGolden Robes{x{w of the{x{b Mage{x{w~
+An elaborate silk robe lies here.~
+silk~
+0
+armor AB 0 AD
+ADE ABCD CE ABCD 1
+30 5 10000 P
+A
+3 3
+A
+4 3
+#1091
+portal entry~
+the portal to Greenrock Barrows~
+A shimmering portal beckons to the Greenrock Barrows.~
+unknown~
+0
+portal 0 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 BCDEFGHL 0
+0 0 0 P
+E
+portal~
+Renfall is now open for testing purposes. Please note
+any bugs/typos that you find. The mob range is between 3-16
+or so. Shopkeeps are higher and will for the most part fight
+back. Recall for now will return you to the mudschool. The
+north part of the city will be opened as its built so that
+something to look forward to in the next week or so.
+Thanks!
+~
+#1092
+scroll identify~
+a tightly bound scroll~
+A tightly bound scroll lies here.~
+paper~
+0
+scroll 0 0 AO
+5 'identify' 'reserved' 'reserved' 'reserved'
+5 1 100 P
+#1093
+loom dusty~
+a dusty loom~
+A dusty loom is here, awaiting use.~
+wood~
+0
+loom 0 0 0
+0 0 0 0 0
+10 0 0 P
+#1094
+portal academy~
+a shimmering portal~
+A {Cs{ch{Ci{cm{Cm{ce{Cr{ci{Cn{c{C{cg{x portal to the Adventurer's Academy.~
+unknown~
+0
+portal 0 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 DEGJ 0
+0 0 0 P
+#1095
+mining pick~
+a mining pick~
+A mining pick lies here.~
+wood~
+0
+mining_tool 0 0 AO
+B 0 0 0 0
+1 0 250 P
+#1096
+hammer blacksmith~
+a blacksmith hammer~
+A sturdy looking hammer is here.~
+unknown~
+0
+blacksmith_hammer 0 0 AN
+0 0 0 0 0
+1 5 1000 P
+#1097
+holder container~
+a silver scroll container~
+A cylindrical container lies here.~
+silver~
+0
+container Y 0 AO
+1 A 0 10 0
+5 2 200 P
+#1098
+potion invisibility~
+a potion of minor invisibility~
+A translucent, bubbling potion is here.~
+glass~
+0
+potion 0 0 A
+10 'invisibility' 'reserved' 'reserved' 'reserved'
+5 0 250 P
+#1099
+lock pick set~
+an ordinary set of lock picks~
+A small ring of oddly shaped metal objects lies here.~
+copper~
+0
+thieves_tools 0 0 A
+0 0 0 0 0
+3 2 500 P
+#0
+
+
+
+#ROOMS
+#1024
+Renfall Chapter of Fighters~
+The Renfall Chapter of Fighters is housed in a large warehouse type
+building, one large open area spreads out in all directions allowing plenty
+of room for those in training.  The ground is firmly packed earth, proper
+footing is always a prerequistie in any type of combat training.  The walls
+are adorned with many practice shields and weapons for those to use in their
+training.  The local trainer keeps a watchful eye over the students trying
+to prevent any accidental injury or death.  
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 1023
+M 20 H 20
+S
+#1025
+Gilded Road~
+The bell over the Renfall Weaponry Shop rings steadily as eager
+customers make their way into the building to the north. A colorful
+banner flaps quietly in the breeze over the local chapter of Fighters
+housed in a squat square building to the east. The rounded cobblestones
+of Gilded Way see a steady stream of traffic as the citizens of Renfall
+go about their daily affairs.
+~
+0 0 1
+0
+1
+2
+D0
+~
+frontdoor~
+1 0 1026
+D1
+~
+~
+0 0 1023
+D3
+~
+~
+0 0 1027
+M 20 H 20
+S
+#1026
+Renfall Weaponry Shop~
+The Renfall Weaponry Shop is a cluttered treasure trove of implements
+of destructive goodness. Highly polished weapons of all shapes and
+sizes adorn the four walls displayed with loving care. The proprietor
+of the shop take great pride in her weapons and her loving care is
+evident in the way the shop is arranged. Most of her weapons are custom
+made and highly coveted by the discening shoppers in the region.
+~
+0 8 0
+0
+1
+2
+D2
+~
+frontdoor~
+1 0 1025
+M 20 H 20
+S
+#1027
+Gilded Road~
+The rounded cobblestones of Gilded Road contrast nicely with the
+surrounding wood and mortar buildings. Small trimmed hedges have
+been planted outside the bakery to the south. Colorful flowers
+are intermingled with the hedges adding a nice splash of nature
+in the somewhat bland city landscape.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1025
+D2
+~
+~
+0 0 1028
+D3
+~
+~
+0 0 1029
+M 20 H 20
+S
+#1028
+Renfall Bakery~
+The pleasant aromas of freshly baked breads mix nicely with those
+of the numerous sugary confections the bakery specializes in. The
+shop is neat as a pin and just a little too bright to the eye. Sparkling
+clean glass display cases are loaded with all manner of sugary goodness.
+The Renfall Bakery is a favorite local stop in the city by young and old
+alike.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1027
+M 20 H 20
+S
+#1029
+Gilded Road~
+The aromatic aroma of freshly baked bread streams out of
+the bakery just to the east of here. The rounded cobblestones
+of Gilded Way intersect with the crossroads of the city a few
+steps to the west. An intricately carved wooden sign sways silently
+beside the open doors to the Ranger's Guild just off the road to
+the north of here.
+~
+0 0 1
+0
+1
+2
+E
+sign~
+The weathered sign simply reads:
+Renfall Ranger's Guild
+ 
+~
+D0
+~
+~
+0 0 1030
+D1
+~
+~
+0 0 1027
+D3
+~
+~
+0 0 1033
+M 20 H 20
+S
+#1030
+Foyer of the Ranger's Guild~
+The foyer of the Ranger's Guild is an austere affair with a
+few potted plants and some scenic oil landscapes along its otherwise
+plain walls. Oil lamps are mounted on the mortar walls in regular
+intervals bathing the foyer in a dim but comforting light. A small
+neatly written sign hangs at eye level on the near wall listing the
+services the guild has to offer.
+~
+0 12 0
+0
+1
+2
+D0
+~
+~
+0 0 1031
+D2
+~
+~
+0 0 1029
+D3
+~
+~
+0 0 1032
+M 20 H 20
+S
+#1031
+Office of the Guild~
+The office of the Guild matches that of the foyer, dim
+lighting with a few potted plants and oil lamps along the
+plain mortar walls. A large plush woven carpet covers the
+majority of the plain floor adding just the right touch of
+opulence to the spartan office. A battered wooden desk faces
+a large double-bay window to the west. A stuffed trophy of
+a giant stag hangs on the far wall staring into oblivion with
+frozen eyes.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 1030
+M 20 H 20
+S
+#1032
+Bows and Things~
+An assortment of bows large and small adorn the plain walls of
+the small shop, many antiquated and of little real use today. The
+few bows available here are provided to the guild members to help
+them along in their journeys as they set out on the path of the
+Ranger. A small glass counter is manned by young members of the
+guild who all take turns attending to the small shop.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 1030
+M 20 H 20
+S
+#1033
+Crossroads of Renfall~
+The wide oval crossroads of Renfall is the true heart of the
+city. Gilded Road passes through the crossroads running a straight
+path to the opposite city walls. A large stone ramp to the north leads
+upwards to the gleaming temple of the gods. The distinctive top of the
+wizard's tower juts above the surrounding buildings not far to the
+southwest. The reassuring burble of water in the fountain to the south
+leads into the less affluent section of the city.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1029
+D2
+~
+~
+0 0 1010
+D3
+~
+~
+0 0 1034
+D4
+~
+~
+0 0 1095
+M 20 H 20
+S
+#1034
+Gilded Road~
+The rounded cobblestones of Gilded Road progress through
+the heart of the city past tidy homes and small shops. The 
+forge glows brightly through the windows of the smithery to
+the north. The smokestack of the smithery releases large grey
+plumes of smoke into the open air above the building. The
+soot from the smithery covers the neighboring building with its
+constant release of grimy residue.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1035
+D1
+~
+~
+0 0 1033
+D3
+~
+~
+0 0 1036
+M 20 H 20
+S
+#1035
+Renfall Smithery~
+The forge of the smithery grows brightly, heavy smoke billowing up a
+copper stack into the stone fireplace of the building.  A grimy alkaline
+taste coats the air, another byproduct of the forging process.  Large racks
+hold the various armored wares the smithery has to offer at a quite
+affordable price for the cost conscious shopper.  Even in times of peace,
+any traveller in the area would be foolhardy to journey far without the
+proper protection.  
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 1034
+M 20 H 20
+S
+#1036
+Gilded Road~
+Puffy grey smoke billows from the smokestack atop the Renfall
+Smithery to the east. A sickly looking elm struggles to survive in
+its unfortunate proximity to the soot spewing smithery. A sticky soot
+covers the elm and the surrounding buildings. A passing breeze carries
+the soot off into the atmosphere furthering its ecological impact on
+the city.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1034
+D3
+~
+~
+0 0 1037
+M 20 H 20
+S
+#1037
+Gilded Way~
+Grimy soot from the nearby smithery coats the square windows of
+the shop to the south. The unpleasant mixture of sulphur and brimstone
+emanate sharply from a cracked window of the shop. No doubt this is the
+alchemical process at work in the creation of the potions the shop
+provides to the public. An odd feeling of static energy grips the area
+making ones hair stand on end.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1036
+D2
+~
+~
+0 0 1038
+D3
+~
+~
+0 0 1039
+M 20 H 20
+S
+#1038
+Renfall Alchemist Shop~
+Malevolent odors foul the air of the shop making breathing quite
+a chore. An open door at the back of the shop releases the pungent
+odors out into the main area of the shop. The walls of the shop are
+lined with numerous shelves bearing all manner of vials, philtres and
+other products of the alchemical process. Due to recent city ordinances
+however, most items of a magical nature are under strict control and
+distribution. The many guilds in the city are wary about free distribution
+to the untrained public, therefore only the most minor of magical items are
+sold outside the guilds.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1037
+M 20 H 20
+S
+#1039
+Gilded Road~
+The rounded cobblestones of Gilded Street run a straight path to
+the crossroads of the city. Small shops and nicely maintained homes
+line the street marking this as one of the more affluent sections of
+the city. Local guards mingle freely with the passing citizens keeping
+a watchful eye out for troublemakers even in this relatively peaceful
+sector of the city.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1037
+D3
+~
+~
+0 0 1040
+M 20 H 20
+S
+#1040
+Western Road~
+Western Road skirts the high perimeter wall surrounding the
+city streets of Renfall. Gilded Road embarks to the east towards
+the crossroads of the city just to the east. A short walk to the
+south leads towards Rove Street which runs a similar path as its
+neighboring street to the north. The western gatehouse leading out of
+the city stands just to the north of here in a squat stone structure.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1041
+D1
+~
+~
+0 0 1039
+D2
+~
+~
+0 0 1042
+M 20 H 20
+S
+#1041
+Western Gatehouse of Renfall~
+The western gatehouse of Renfall is a tall stone and wood
+structure that houses the large iron gate leading out of the
+city. A complicated series of large steel chains and enormous stone
+counterbalances occupies the majority of the gatehouse. In times of
+crisis, the mechanism that opens and closes the large gate can be
+activated at a moments notice. Currently the gate is kept open and
+access to the city is freely granted. One of the main roads through
+Renfall is clearly visible outside the gatehouse.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 1040
+D3
+~
+~
+0 0 2355
+M 20 H 20
+S
+#1042
+Western Road~
+Western Road follows the high stone perimeter wall protecting
+the city of Renfall. Comprised of broad stone blocks and weathered
+mortar, the outer walls have stood for generations through times of
+great turmoil as well as peace. The road is primarily an access route
+for the city and there is little of commercial or residential interest
+along it. Rove Avenue begins directly to the south of here running a
+straight path through the city to the eastern walls.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1040
+D2
+~
+~
+0 0 1043
+M 20 H 20
+S
+#1043
+Western Road~
+The high outer wall of Renfall casts a long shadow down upon
+the narrow Western Road. Rove Avenue leads off to the east running
+off the far eastern outer wall of the city. Primarily an access route,
+there is little of commerical or residential interest along its narrow
+stretch. The high rounded top of the wizard's tower is barely visible
+over the surrounding buildings on Rove Avenue from this angle.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1042
+D1
+~
+~
+0 0 1000
+D2
+~
+~
+0 0 1044
+M 20 H 20
+S
+#1044
+Western Road~
+The high outer stone wall of the city extends long shadows down
+apon the narrow route of Western Road. Little more than an access
+route through the city, there is little of real interest along its
+way. This section of the road begins to enter the less fortunate
+section of the city were crime is more prevalent and caution would be
+advisable.
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 1043
+D2
+~
+~
+0 0 1045
+M 100 H 1
+S
+#1045
+Western Road~
+The high profile of the outer stone walls of Renfall cast dark shadows
+down apon the narrow environs of Western Road.  Thralt Street begins to the
+east leading into the heart of the seedier side of Renfall.  The buildings
+facing Western Road are dingier and appear to be much older then those of
+the northern section of the city.  Thralt Street is one of the oldest
+streets in Renfall, once one of its main areas of commerce in the city.  
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 1044
+D1
+~
+~
+0 0 1046
+M 100 H 1
+S
+#1046
+Thralt Street~
+Thralt Street is lined with dilipidated buildings and raucous pubs that the
+more civilized are wise to avoid. Once a thriving center of commerce, the
+area has become a victim of the city's expansion and rebuilding process. Now
+forgotten and neglected, Thralt Street and the surrounding alleyways have
+become a haven for the criminally inclined.
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 1047
+D3
+~
+~
+0 0 1045
+M 100 H 1
+S
+#1047
+Thralt Street~
+Ramshackle houses and dingy pubs line the once prosperous street.  A few
+dead and dying trees along the seedy street cast their leaves down apon the
+crooked cobblestones underneath.  Piles of refuse are heaped high in front
+of the building to the north crawling with plump rodents.  The idea that
+someone might actually be living in such poor conditions is not the most
+heartening.  
+~
+0 0 0
+0
+1
+2
+D0
+~
+refuse~
+9 0 1048
+D1
+~
+~
+0 0 1051
+D2
+~
+boards~
+9 0 1050
+D3
+~
+~
+0 0 1046
+M 100 H 1
+S
+#1048
+An abandoned building~
+Piles of rubbage are piled high on the rotting floorboards of the room
+amidst broken glass and cobwebs. Whatever furniture was in the room lies
+scattered across it now like wreckage from a sinking ship. Dim light
+from the boarded up windows casts long daggers of illumination through
+the dusty darkness. Creaking floorboards sound in the distance ahead
+indicating that there may indeed be someone or something moving about
+in the darkness.
+~
+0 8 0
+0
+1
+2
+D0
+~
+closet~
+1 0 1049
+D2
+~
+refuse~
+9 0 1047
+M 100 H 0
+S
+#1049
+A dirty closet~
+The closet is cramped and dark festooned with thick sticky cobwebs.
+A foul odor lingers in the air of mortal decay and death. The warped
+floorboards underfoot creak ominously under your weight and an iminent
+sense of danger grips you tightly.
+~
+0 8 0
+0
+1
+2
+D2
+~
+closet~
+1 0 1048
+M 100 H 0
+S
+#1050
+A ramshackle house~
+Warped floorboards are littered with old trash and rotting debris.
+Rank bodyodor hangs heavy in the air, someone is using the old house
+as a shelter apparently. A pile of old rags and trash are gathered in
+one corner of the dark room. Empty wine bottles are scattered about
+glittering darkly in the dim lighting.
+~
+0 8 0
+0
+1
+2
+D0
+~
+boards~
+9 0 1047
+M 100 H 0
+S
+#1051
+Thralt Street~
+A steady stream of down on your luck characters parades into
+the busy pub to the north of here. The Griffon Pub is one of the
+old mainstays on the street dating back many years. One of the few
+buildings that are still relatively intact, the pub is one of the
+only flourishing businesses on the blighted street. The backrooms of
+the pub are rumored to be of particular interest to those of the less
+lawfully inclined.
+~
+0 0 0
+0
+1
+2
+D0
+~
+doors~
+1 0 1052
+D1
+~
+~
+0 0 1058
+D3
+~
+~
+0 0 1047
+M 100 H 1
+S
+#1052
+The Griffon Pub~
+Round oak tables are placed about the pub encircled by weathered chairs
+and stools. Oil lamps are hung from the faded pine walls providing pools of
+light in the otherwise dark atmosphere of the pub. Sawdust on the floor
+serves to soak up the errant spills from the careless patrons. Conversation
+is subdued in the pub as shady characters mingle with the less fortunate
+citizens of the city. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+doors~
+1 0 1053
+D2
+~
+~
+1 0 1051
+M 100 H 0
+S
+#1053
+A dim corridor~
+A dimly lit corridor leads towards the rear of the Griffon Pub. Weathered
+pine walls are grimy from age and countless dirty hands brushing against
+them over the years. A thin worn carpet runs down the center of the corridor
+leading towards a large oak door at the end. The dull murmurs of conversation
+leaks under the doors from the main room to the pub.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1054
+D2
+~
+doors~
+1 0 1052
+M 100 H 0
+S
+#1054
+Before the Oak Door~
+The dimly lit corridor ends abruptly before a large oak door blocking
+further access along the corridor. The narrow carpet underfoot is worn
+bare leading up to the door indicating heavy traffic over the years. A
+slight glimmer emits from the door suggesting some magick maybe in place
+around the door itself. Further caution may be in order if entry beyond 
+the door is desired.
+~
+0 8 0
+0
+1
+2
+E
+oak~
+The oak door is quite large, a large impressive carving is deeply ingrained
+in the wood of the door. The carving depicts a gloved fist clutching a long
+thin dagger.
+~
+D0
+~
+oak~
+1 0 1055
+D2
+~
+~
+0 0 1053
+M 100 H 0
+S
+#1055
+Foyer of the Thieves' Guild~
+A rounded oval of a room marks the foyer to the insular Thieves' Guild of
+Renfall. The location of the guild is a loosely known secret around the
+city. As long as proper discretion is used in their activites, the guild is
+usually not bothered by the authorities. A series of faded oil paintings
+line the otherwise plain room. A glass door to the north leads to the
+master's office while a curtain on the west wall allows entry to the guild
+shop. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+glass~
+1 0 1057
+D2
+~
+oak~
+1 0 1054
+D3
+~
+curtain~
+9 0 1056
+M 100 H 0
+S
+#1056
+Thieves' Guild Shop~
+A small oval-shaped room holds the tiny Thieves' Guild shop. A
+collection of well honed weapons line the walls of the room many
+dating back many years. The few items available at the shop are intended
+for those new to the guild to help them along in their journeys. A dirty
+window on the west wall shows a distorted view of the back alley behind
+the Griffon Pub.
+~
+0 8 0
+0
+1
+2
+D1
+~
+curtain~
+9 0 1055
+M 100 H 0
+S
+#1057
+Office of the Thief Guild~
+The office of the guild master is an exercise in extravagant opulence. An
+enormous black mahogany desk dwarfs the room covered with obscure texts,
+maps and piles of scrolls scattered about it. A plush velvet chair fit for a
+member of royalty is tucked behind the desk. A thick crimson colored rug of
+rare velveteen covers the wood floor. The walls are lined with glass cases
+filled with rare and exotic artifacts acquired throughout the existence of
+the guild. The rank of guild master apparently has its privileges indeed. 
+~
+0 8 0
+0
+1
+2
+D2
+~
+glass~
+1 0 1055
+M 100 H 0
+S
+#1058
+Thralt Street~
+A lot of foot traffic seems to be heading into the Griffon
+Pub not far to the west. The buildings along Thralt Street are all
+bleak and similar in nature, many have seen much better days in the
+past. The back alleys in the area are littered with trash and vagrants,
+many of the locals prefer to avoid this part of the city at all costs.
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 1059
+D3
+~
+~
+0 0 1051
+M 100 H 11
+S
+#1059
+Thralt Square~
+A cracked and broken ivory fountain stands forlornly at the center
+of Thralt Street. Once one of the main intersections of the city, time
+and civil expansion has left this section of the city neglected and
+forsaken. Trash and broken wine bottles now fill the once proud fountain,
+just another sad reminder of how far this section of the city has fallen.
+Many citizens tend to avoid this section of the city altogether preferring 
+the more upscale northern sector of Renfall.
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 1010
+D1
+~
+~
+0 0 1060
+D3
+~
+~
+0 0 1058
+M 100 H 1
+S
+#1060
+Thralt Street~
+A broken down ivory fountain beckons just to the west in
+Thralt Square. The rounded cobblestones underfoot are grey and
+cracked from wear and disrepair. The buildings along the street
+are all in poor condition, many boarded up and abandoned. Thralt
+Street follows a straight west to east route through the city past
+dark alleys and seedy pubs.
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 1061
+D3
+~
+~
+0 0 1059
+M 100 H 11
+S
+#1061
+Thralt Street~
+A large pile of trash blocks access to the dark alleyway to the
+north. Vagrants and mongrels sift through the trash scavenging in
+the piles of refuse. Many of the cobblestones here are broken or
+missing entirely. The high outer wall of the city rises prominently
+to the east. A brief burst of mandolin music erupts from the alley
+then abruptly fades away.
+~
+0 0 1
+0
+1
+2
+D0
+~
+trash~
+9 0 1062
+D1
+~
+~
+0 0 1065
+D3
+~
+~
+0 0 1060
+M 20 H 20
+S
+#1062
+Back Alley off Thralt Street~
+Large piles of trash infested with rodents line the dim sides of the
+alleyway.  The lilting sounds of mandolin play linger in the air, someone of
+great talent is playing relatively close.  The disparity of such eloquent
+music in this squalid setting is striking.  The path ahead in the alleyway
+appears to become less obstructed from this vantage point.  
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 1063
+D2
+~
+~
+9 0 1061
+M 100 H 1
+S
+#1063
+Before an odd shanty~
+An odd looking wooden shanty has been erected against the
+dead end of the alleyway here. The area has been cleaned of
+all debris around the shanty and even the rodents of the alleyway
+seem to respect this. Vibrant mandolin playing seems to be coming
+from the shanty filling the air with its eloquent mastery. Someone
+of great skill apparently has taken up residence in the shanty.
+~
+0 0 0
+0
+1
+2
+D2
+~
+~
+0 0 1062
+D3
+~
+shanty~
+9 0 1064
+M 100 H 1
+S
+#1064
+Within the shanty~
+The shanty is deceptively large considering its small outer shell.
+The walls which still lean at an odd angle are composed of old
+discarded boards from the nearby buildings cobbled together over time.
+The worn stone floor is neat and free of any debris except for some
+scattered papers. A feeling of wellness fills the shanty, almost one
+of hope and perhaps freedom amidst the squalor of the alleyway. The
+disgraced master bard of Renfall calls this place home.
+~
+0 8 0
+0
+1
+2
+D1
+~
+shanty~
+9 0 1063
+M 100 H 0
+S
+#1065
+Thralt Street~
+An abandoned building, its entrance heavily boarded is the only
+thing of interest in this part of the street. Two floors in height,
+the outer facade of the building is weathered by time and neglect.
+Several of the planks across the front entrance appear to be fairly
+new, the fresh wood of the planks standing out in contrast to the older
+ones. An empty wine bottle rolls out of a large trash pile to the west
+and off down the street.
+~
+0 0 1
+0
+1
+2
+D0
+~
+planks~
+5 0 1066
+D1
+~
+~
+0 0 1071
+D3
+~
+~
+0 0 1061
+M 20 H 20
+S
+#1066
+Inside the abandoned building~
+Dusty cobwebs and piles of discarded rags litter the open floor of
+the abandoned building. The air inside is heavy with the rot of decay
+and mildew. A few beaten scraps of furniture are scattered about in
+various states of disrepair. A series of open doorways lead off into
+other parts of the building.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1067
+D1
+~
+~
+0 0 1068
+D2
+~
+~
+5 0 1065
+D3
+~
+~
+0 0 1069
+M 20 H 20
+S
+#1067
+An empty room~
+At the rear of the building, a precarious looking set of stairs lead
+upwards to the top floor of the building.  Cobwebs and dust cover piles of
+rags that someone has been sleeping on recently.  Warped floorboards creak
+ominously under your weight echoing sharply through the otherwise silent
+building.  A large spiderweb covers the far wall across an empty picture
+frame capturing the ambient dust in its silky embrace.  
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 1066
+D4
+~
+~
+0 0 1070
+M 20 H 20
+S
+#1068
+A dusty kitchen~
+An old cast iron stove sits at the far end of the kitchen, its smokestack
+still attached to the outer wall of the building. The top of the stove has
+recent fire damage, someone has been using the servicable stove still. Rat
+droppings and dust are all that remain on the empty shelves beside the
+stove. A bundle of rags are set up in the opposite corner, a makeshift bed
+for whoever inhabits this sad place.
+~
+0 8 0
+0
+1
+2
+D3
+~
+~
+0 0 1066
+M 20 H 20
+S
+#1069
+An empty room~
+A lone window, its glass still intact allows a little light
+into the otherwise unremarkable room. Dust and cobwebs cover the
+surfaces of the room, its furniture lying in tattered ruins. A
+worn oval rug covers the center of the room, its color long since
+bleached out of it over time. Floorboards creak under your weight as
+a large rodent darts across the room and out the open doorway.
+~
+0 8 0
+0
+1
+2
+E
+window~
+The glass in the window is dirty smeared with numerous grubby
+handprints. The view from the window shows an odd looking shanty
+leaning against the side of the alleyway next to the building. A
+faint murmur of mandolin play can be heard through the window if
+someone listens carefully enough.
+~
+D1
+~
+~
+0 0 1066
+M 20 H 20
+S
+#1070
+Second Floor Landing~
+The landing of the second floor lists off the side of the buidling
+heading towards imminent collapse.  The upper floor of the building is a
+total death trap, large holes in the floor make any real exploration from
+this point impossible.  A large section of the roof has entirely collapsed
+indicating that the entire building will soon be following its demise.  
+~
+0 8 0
+0
+1
+2
+D5
+~
+~
+0 0 1067
+M 20 H 20
+S
+#1071
+Eastern Way~
+Eastern Way intersects Thralt Street leading towards the poorer
+section of the city. The high outer wall looms large not far to
+the east. Mainly an access road connecting the city, there is little
+of commerical development along its narrow route. The few citizens that
+pass this way hurry on about their affairs.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1018
+D2
+~
+~
+0 0 1072
+D3
+~
+~
+0 0 1065
+M 20 H 20
+S
+#1072
+Eastern Way~
+Eastern Way terminates here at the farthest eastern corner of the
+city. Bravue Street runs the southern perimeter of the city housing
+the city militia barracks and training faculties. Its close proximity
+to the poorer section of the city is no coincidence. This allows them
+to respond quickly to any problems that arise along its seedy streets.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1071
+D3
+~
+~
+0 0 1073
+M 20 H 20
+S
+#1073
+Bravue Street~
+Bravue Street is well worn, its rounded cobblestones showing signs
+of much travel. Still some effort has been made to maintain it, and
+it appears to be relatively clean and safe to travel along. The militia
+barracks and training faculties are visible not far to the west. A 
+large rounded stone turret beside the barracks provides restricted
+access to the upper city wall ramparts.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1072
+D3
+~
+~
+0 0 1074
+M 20 H 20
+S
+#1074
+Bravue Street~
+A large rounded stone turret juts out of the ground a short walk
+to the west. The turret climbs the southern outer wall of the city
+allowing restricted access to the outer city wall ramparts. A few
+dim silhouettes are visible at this angle as archers patrol on the
+ramparts around the walls. A large stone complex housing the city
+militia barracks and training faculties is beside the turret.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1073
+D3
+~
+~
+0 0 1075
+M 20 H 20
+S
+#1075
+Before the South Turret~
+A large stone rounded turret rises high into the air here. A stout 
+oak door in the base of the turret restricts access to the turret
+leading to the city wall ramparts. A large stone complex has been
+built beside the turret housing the city militia and its training
+faculties. Little curls of grey smoke puff out from the smokestack
+at the rear of the militia complex.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1074
+D2
+~
+oak~
+0 0 1076
+D3
+~
+~
+0 0 1086
+M 20 H 20
+S
+#1076
+South Turret Ground Floor~
+The ground floor of the southern turret is of hard packed dirt and cold
+stone and mortar walls. A wide set of steps climb the walls in a circular
+fashion towards the upper ramparts. A series of wooden torches have been
+attached to the walls in sconces to provide lighting after darkness.
+~
+0 8 0
+0
+1
+2
+D0
+~
+oak~
+0 0 1075
+D4
+~
+~
+0 0 1077
+M 20 H 20
+S
+#1077
+Climbing the Steps~
+The broad steps lead up to the open air ramparts along the
+outer south wall of Renfall. The cold stone walls of the turret
+have wooden torches at regular intervals to provide lighting after
+the sun sets for the day. The ramparts above allow the city militia
+to keep an eye on the surrounding countryside as well as the some of
+the inner streets of the city.
+~
+0 12 0
+0
+1
+2
+D4
+~
+~
+0 0 1078
+D5
+~
+~
+0 0 1076
+M 20 H 20
+S
+#1078
+South Ramparts of Renfall~
+The steps open up to the wide ramparts lining the outer south
+wall of the city. The upper walls are crenalatted, this allows the
+patrols some cover from outside the walls in case of enemy attacks
+from below. The view from this height easily dwarves those of the 
+building the next few streets away leading towards the inner city.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1079
+D3
+~
+~
+0 0 1083
+D5
+~
+~
+0 0 1077
+M 20 H 20
+S
+#1079
+South Ramparts of Renfall~
+The steps to the lower floor of the turret are accessed directly
+to the west of here. The wide southern stone ramparts of the city
+extend onwards down the length of the upper wall. The upper walls
+are crenallated providing cover to the patrolling militia in event of
+attack from outside the city walls. The view from this vantage point
+allows a good view of the streets in the inner city approaching the
+heart of the city.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1080
+D3
+~
+~
+0 0 1078
+M 20 H 20
+S
+#1080
+Along the South Ramparts~
+Several plumes of smoke hover over the city dispensed by
+local businesses hanging in the upper atmosphere over the city.
+The wide south ramparts are of cold stone and mortar, a few torches
+are attached at regular intervals along its crenallated walls. A large
+brazier of oil awaits those foolish enough to approach the outer walls
+at this position. With but a quick light of the torch, firey death can
+rain down below on the unsuspecting attackers.
+~
+0 0 1
+0
+1
+2
+E
+brazier~
+The brazier is round and quite large, it appears to be filled
+half way with a highly flammable clear oil. With but a dip of a
+lit torch, the flaming oil could be overturned over the wall to
+douse those beneath it in flaming death.
+~
+D1
+~
+~
+0 0 1081
+D3
+~
+~
+0 0 1079
+M 20 H 20
+S
+#1081
+South Ramparts of Renfall~
+The wide stone ramparts of Renfall allow a panoramic view of
+the surrounding countryside as well as that of the inner city.
+The oval top of the wizards' tower juts proudly off on the northern
+horizon deep within the city walls. The countryside outside the walls
+appears to be relatively peaceful with no immediate threats visible. A
+large brazier awaits to the west, another piece of the defense of the
+city walls.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1082
+D3
+~
+~
+0 0 1080
+M 20 H 20
+S
+#1082
+South Ramparts of Renfall~
+The ramparts end here running into a large crennelated section
+of the walls. A pair of wooden stools are set here to provide a 
+quick resting spot for patrolling militia. A wooden cask sits against
+the far wall to provide liquid refreshement to the patrols. A large
+open slot allows protective cover to those behind the crenel to attack
+from when necessary.
+~
+0 0 1
+0
+1
+2
+D3
+~
+~
+0 0 1081
+M 20 H 20
+S
+#1083
+South Ramparts of Renfall~
+The wide ramparts are of firm stone underfoot with no overhead
+cover. The steps to the ground floor are accessed through the turret
+steps to the east. The ramparts are usually patrolled by roving militia
+at regular intervals. Access is prohibited atop the ramparts to authorized
+personnel only. The view of the inner city at this vantage point allows a
+clear view of the next few surrounding streets leading towards the heart
+of the city.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1078
+D3
+~
+~
+0 0 1084
+M 20 H 20
+S
+#1084
+South Ramparts of Renfall~
+The wide southern ramparts of Renfall are of cold stone providing
+firm support underfoot. Armed militia patrol the ramparts keeping an
+eye on the surrounding country side outside the city walls. The patrols
+have been given the discretion to deal with any intruders apon the 
+ramparts. Punishment if caught up here would be most likely be swift and
+not of the gentle nature.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1083
+D3
+~
+~
+0 0 1085
+M 20 H 20
+S
+#1085
+South Ramparts of Renfall~
+The ramparts end here in a large section of wall that rises slightly
+above the lower portion of the wall. This is to provide cover in case
+of attack along this portion of the outer wall. A set of wooden stools
+have been placed here for the patrols to grab a quick break on in between
+their scheduled patrols. A small wooden cask set against the cold stone
+wall provides water when needed.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1084
+M 20 H 20
+S
+#1086
+Before the Militia Training Complex~
+A large stone complex squats along the far southern wall of the
+city. Recently erected to facilitate the training and education of
+local recruits, access is generally allowed to most areas within the
+complex. A large iron gate bars the main entrance to the south, a crimson
+and red banner with the city seal emblazoned apon it flaps above it.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1075
+D2
+~
+gate~
+9 0 1087
+M 20 H 20
+S
+#1087
+Renfall Militia Training Complex~
+A wide well-lit corridor stretches the length of the complex past
+various training centers. The centers have been designed to ease new
+recruits into their new professions within the city militia ranks. A
+steel gray carpet runs down the center of the corridor past several
+open doorways. The iron gate to Bravue Street is located directly to
+the north.
+~
+0 8 0
+0
+1
+2
+D0
+~
+gate~
+9 0 1086
+D2
+~
+~
+0 0 1088
+M 20 H 20
+S
+#1088
+Renfall Militia Training Complex~
+A steel grey carpet runs down the center of the well-lit corridor
+past various training rooms. The thumping of fist on flesh can be 
+heard to the east where hand to hand combat is being practiced. To
+the west a large open room beckons where recruits are allowed to
+practice with each other in relative safety.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1087
+D1
+~
+~
+0 0 1089
+D3
+~
+~
+0 0 1091
+M 20 H 20
+S
+#1089
+Unarmed Combat Training~
+This open padded area is designed for new recruits to try out various
+unarmed tactics apon each other in relative safety. The padded floor is
+somewhat slick from sweat, the area is windowless and very humid. The air
+is heavy with body odour and not all that pleasant to experience. Another
+open area extends outward through an open doorway to the east.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 1090
+D3
+~
+~
+0 0 1088
+M 20 H 20
+S
+#1090
+Unarmed Combat Training~
+The walls in this area are heavily padded as well as the floor.
+The area is large enough for several recruits to practice their
+newly acquired combat skills without bumping into each other. A
+rather rank aroma of body sweat hangs heavy in the air the result of
+the windowless humid atmosphere within the room.
+~
+0 8 0
+0
+1
+2
+D3
+~
+~
+0 0 1089
+M 20 H 20
+S
+#1091
+Small Arms Training~
+This large room has been designated for small arms training.
+Several rather ragged cloth dummies have been placed here for
+new militia recruits to practice their techniques apon. Actual
+armed combat is frowned apon in this room and is strictly punished
+if new recruits are found to be harming each other. A series of
+blunt training daggers have been placed in a weapon rack along the
+far wall for training purposes.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 1088
+M 20 H 20
+S
+#1095
+Stone Ramp to the Temple~
+A wide stone ramp leads upwards from the crossroads towards
+the temple of the gods. Comprised of sturdy bleached white stone,
+the ramp is designed to handle the heavy foot traffic from the
+pious citizens. The majority of the wealthy noblemen hold large
+estates in the temple district of the city far away from the
+bustle of the city life. Far off to the north the twin turrets of
+the castle rise on the distant horizon.
+~
+0 1028 0
+0
+1
+2
+D4
+~
+~
+0 0 1100
+D5
+~
+~
+0 0 1033
+M 20 H 20
+S
+#1097
+~
+~
+0 4 0
+0
+1
+2
+M 10 H 10
+S
+#1099
+~
+~
+0 4 0
+0
+1
+2
+M 100 H 0
+S
+#1000
+Rove Avenue~
+The rounded cobblestones of Rove Avenue end at Western Road a
+stones throw from here. Tidy shops and homes skirt the avenue leading
+to the far eastern wall of the city. This section of Renfall is
+calm and well maintained. Vigilant guards patrol at regular intervals
+enforcing the laws of the city. Crime is still a way of life in the city,
+one never knows what may lurk around the next corner.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1001
+D3
+~
+~
+0 0 1043
+M 20 H 20
+S
+#1001
+Rove Avenue~
+The rounded cobblestones of Rove Avenue are lined with small tidy shops
+and scattered houses.  A large oak door stands ajar to the north leading
+into the Renfall Mercantile.  Directly opposite the mercantile a narrow set
+of stairs lead up towards an oval shaped tower.  An odd emanation of magical
+energy seems to encase the tower in its unseen grasp.  
+~
+0 0 1
+0
+1
+2
+E
+tower~
+A tall almost oval shaped tower casts a long shadow over Rove Avenue.  An
+unseen aura of magical energy seems to emanate from the glossy white stone
+of the tower.  
+~
+D0
+~
+~
+0 0 1002
+D1
+~
+~
+0 0 1008
+D3
+~
+~
+0 0 1000
+D4
+~
+~
+0 0 1003
+M 20 H 20
+S
+#1002
+Renfall Mercantile~
+The interior of the Renfall Mercantile is a cramped affair cluttered with
+towering heaps of merchandise and assorted junk. The walls are a dreary oak
+lined with drooping shelves covered with items of interest. Most of their items
+are of low quality but the occasional bargain has been known to show up from
+time to time. A fat calico cat slinks down a shelf on the western wall and
+disappears into the shadows at the back of the mercantile. 
+~
+0 0 0
+0
+1
+2
+D2
+~
+~
+0 0 1001
+M 30 H 30
+S
+#1003
+Before the Tower of Sorcery~
+A giant stone door leads into the slightly unnerving Tower of Sorcery. 
+Home to all aspiring mages those of other walks of life are not welcomed
+within its secretive environs.  The guildmaster of the tower has set up
+magical wards to prevent those deemed unworthy of its knowledge any further
+entrance from this point.  
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+1 0 1004
+D5
+~
+~
+0 0 1001
+M 20 H 20
+S
+#1004
+The foyer of the tower~
+The foyer of the tower is a large oval area encompassing the first floor
+of the tower.  An ethereal orb floats at eye level depicting the services
+the tower provides to it students.  A quick glimpse at the orb will provide
+directions to the newly initiated.  A somber silence grips the foyer broken
+by the discharge of errant magical energies from the floor below.  A cast
+iron staircase winds down to the ground floor of the tower set apon the far
+western wall.  An open doorway lies directly to the north and a similar
+staircase climbs upward on the eastern wall.  
+~
+0 1073741832 0
+0
+1
+2
+E
+orb~
+North <--- The Mage Emporioum
+Downstairs <--- Magical Sparring
+Upstairs <--- Guildmaster Office
+ 
+~
+D0
+~
+~
+0 0 1006
+D2
+~
+~
+1 0 1003
+D4
+~
+~
+0 0 1007
+D5
+~
+~
+0 0 1005
+M 20 H 20
+S
+#1005
+Magical Sparring~
+A large open area occupies the ground level of the tower set aside for
+the training of the new students of the magical arts.  It is here a new
+student can train their new cantrips on suitable opponents with little real
+risk of injury.  This is also to prevent the uneducated eye from studying
+the combat maneuveurs of the students thus learning the inner workings of
+the arcane arts.  
+~
+0 1073741832 0
+0
+1
+2
+D4
+~
+~
+0 0 1004
+M 20 H 20
+S
+#1006
+The Mage's Refuge~
+A long wooden counter fills the southern edge of the room flanked by
+towering bookcases.  Colorful vials and potions fill the numerous shelves
+encircling the store.  The mage emporium is open to all mages in good
+standing for the guild catering in the mundane and the esoteric.  Most items
+are minorly enchanted, little more then simple parlour tricks.  The prices
+are fairly affordable however for that budding magic' user's budget.  
+~
+0 1073741832 0
+0
+1
+2
+D2
+~
+~
+0 0 1004
+M 20 H 20
+S
+#1007
+Office of The Guildmaster~
+An enormous oak desk dominates an otherwise spartan office enviroment.  A
+plush leather seat sits askew behind the desk pushed against the far wall. 
+A wide lone window allows sunlight into the room depending on the time and
+weather showing a panoramic view of Renfall below.  A stack of paperwork
+threatens to topple off one end of the desk strategically placed oddly
+enough above a large metal can.  A battered paper map on the western wall of
+the office seems to have seen much use over the years.  
+~
+0 1073741832 0
+0
+1
+2
+E
+desk~
+The enormous oak desk appears to be quite old and has seen much abuse. 
+The once glossy surface of the desk is marred by numerous scorch marks and
+careless rings from beverages hot and cold.  Large lumps of candlewax from
+uneven blobs across its once proud exterior.  A stack of paperwork threatens
+to leap off the edge of the desk into a large metal trash can placed beside
+the desk.  
+~
+E
+map~
+The map appears to be of the nearby region surrounding the city of
+Renfall.  Several concentric red circles have been placed about the map
+perhaps pointing to areas of interest or concern for the guild.  Perhaps
+some discreet inquiries about the map with the guildmaster may be in order. 
+
+~
+D5
+~
+~
+0 0 1004
+M 30 H 30
+S
+#1008
+Rove Avenue~
+Rounded cobblestones neatly swept and maintained wind their way past trim
+houses and tidy shops.  A large oval tower sends a long shadow down apon the
+street just off to the west.  The gentle burble of a nearby fountain sounds
+softly to the east.  A slight breeze stirs the limbs of a nearby tree
+sending a soft cascade of leafy debris down to the ground below.  
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1009
+D3
+~
+~
+0 0 1001
+M 20 H 20
+S
+#1009
+Rove Avenue~
+Trim houses and tiny shops line the cobbled lane leading towards the
+center of Renfall.  The long rounded shadow of a tall marble tower lies not
+far to the west.  Directly to the east a tall obsidian fountain burbles
+quietly in the central square of the city.  The overall vibe of the city is
+one of prosperity and general safety at least in this section of Renfall.  
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1010
+D3
+~
+~
+0 0 1008
+M 20 H 20
+S
+#1010
+Renfall City Square~
+A large gleaming fountain of pure obsidian dominates the center of the
+city here. Gleaming copper pipes feed the fountain providing fresh
+clear water for all to partake. Polished wooden benches circle the
+perimeter of the fountain provided by the local chamber of commerce. A
+stream of mixed races filter past the fountain dealing with their daily
+affairs. Many pause briefly to fill their containers from the fountain
+before continuing onward about their business.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1033
+D1
+~
+~
+0 0 1011
+D2
+~
+~
+0 0 1059
+D3
+~
+~
+0 0 1009
+D4
+~
+~
+0 0 600
+M 75 H 75
+S
+#1011
+Grabel Street~
+Rounded cobblestones line the wide expanses of Grabel Street leading
+towards the eastern half of the city.  A large obsidian fountain towers
+directly to the west in the center of Renfall.  Uniformly built houses and
+shops line the tidy street in close proximity to their neighbors.  The acrid
+scent of tanning reagents filter down the street from the local leathershop.
+
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1012
+D3
+~
+~
+0 0 1010
+M 20 H 20
+S
+#1012
+Grabel Street~
+A two story wooden and stone building lists to the side off of Grabel
+Street housing the local leathershop.  The acrid odors of tanning reagents
+fouls the air around the shop.  A grimy leather sign has been bolted to one
+side of the open doorway looking like it has seen much better days.  The
+wooden facade of the building is pitted and corroded attesting to the
+acidity of the reagents used within the shop.  
+~
+0 0 1
+0
+1
+2
+E
+sign~
+The leather sign is shrunken and pitted from age
+and the weather. It simply reads
+ 
+McCarvers Leathers
+ 
+~
+D1
+~
+~
+0 0 1014
+D2
+~
+~
+0 0 1013
+D3
+~
+~
+0 0 1011
+M 20 H 20
+S
+#1013
+McCarvers Leathers~
+The grimy shop is cluttered with various mannequins clad in the different
+leather outfits available for sale.  A tall wooden counter tucked towards
+the back of the store is flanked by several stretching racks.  A large mound
+of fresh hides are piled on the floor next to the racks awaiting curing and
+stretching.  The air is foul inside the shop and difficult to breathe.  The
+tanning reagents used to treat and cure the animal hides is no doubt toxic
+and probably harmful to ones' health over a long period of time.  
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 1012
+M 20 H 20
+S
+#1014
+Grabel Street~
+The rounded cobblestones of Grabel Street stretch off in an west to east
+route through the heart of Renfall.  Tidy homes and quaint shops line the
+street catering to all the needs of the citizens of the city.  Far off to
+the west a large oval tower rises higher then the buildings around it
+casting a dark shadow over its smaller neighbors.  A scraggly alley cat
+slinks by and darts off down the street.  
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1015
+D3
+~
+~
+0 0 1012
+M 20 H 20
+S
+#1015
+Grabel Street~
+The sounds of revelery and clinking glasses spills out from the open
+windows of the Roaring Dragon to the north. In sharp contrast to this
+its neighbor across the street is an squat austere building housing the
+local bank. Local law enforcers have been known to frequent this area
+due to the local troublemakers spilling out of the bar and off into the
+neighborhood. The high stone wall just a short walk away marks the eastern
+perimeter of Renfall.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1016
+D1
+~
+~
+0 0 1018
+D2
+~
+~
+0 0 1017
+D3
+~
+~
+0 0 1014
+M 20 H 20
+S
+#1016
+The Roaring Dragon Pub~
+A large hearthstone fireplace dominates the far end of the pub chasing
+away the chill on a cold winters' night.  The greasy oaken walls are lined
+with animal trophies and other unmentionable stains.  The warped flooring
+underfoot is covered with a fine straw to absorb the numerous spilled ales
+as well as bodily fluids no doubt.  Many a brawl has been broken up in the
+pub and no doubt there will be many more to follow.  
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 1015
+M 20 H 20
+R EXALL 1010 100~
+R SPEECH 1010 test~
+S
+#1017
+First Bank of Renfall~
+A wide expansive room with simply paneled walls and tasteful paintings,
+the First Bank of Renfall is a simple affair suitable for most banking
+needs.  The bank is protected by mystic wards that prevent any violence so
+there are no guards visible.  A wide low wooden counter stands against the
+far wall manned by the banker on duty.  If you have the gold opening an
+account here will keep it safe from loss or theft.  
+~
+0 1049608 0
+0
+1
+2
+D0
+~
+~
+0 0 1015
+M 20 H 20
+S
+#1018
+Eastern Way~
+Eastern Way hugs the high stone wall that skirts the eastern perimeter
+around the city.  A long narrow north to south route, Eastern Way is mainly
+used by city forces for troop movements to different parts of the city.  The
+route is heavily patrolled and there is little of commercial or residential
+interest along it.  
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1019
+D2
+~
+~
+0 0 1071
+D3
+~
+~
+0 0 1015
+M 20 H 20
+S
+#1019
+Eastern Way~
+The high stone and mortar wall of the city casts its
+long shadow down Eastern Way. Fairly narrow, Eastern Way
+is heavily patrolled by city forces and sees little use in
+times of peace. Most citizens of the city use it for quick
+access to their favorite shop or pub. The main road through
+the city is a stones throw away to the north.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1020
+D2
+~
+~
+0 0 1018
+M 20 H 20
+S
+#1020
+Gilded Road~
+Gilded Road runs a leisurely route past shops and guild houses that
+inhabit the city. The atmosphere in this part of Renfall is one of
+prosperity and well being. The working class citizenry mingle freely
+will well-heeled nobles with little visibile acrimony. The division of
+wealth in the city seems to be fairly balanced. The squat gatehouse for
+the eastern gate rises directly to the north.
+~
+0 0 1
+0
+1
+2
+D0
+~
+~
+0 0 1021
+D2
+~
+~
+0 0 1019
+D3
+~
+~
+0 0 1022
+M 20 H 20
+S
+#1021
+Eastern Gatehouse of Renfall~
+The eastern gatehouse of Renfall is a tall stone and wood
+structure that houses the large iron gate leading out of the
+city. A complicated series of large steel chains and enormous stone
+counterbalances occupies the majority of the gatehouse. In times of
+crisis, the mechanism that opens and closes the large gate can be
+activated at a moments notice. Currently the gate is kept open and
+access to the city is freely granted. One of the main roads through
+Renfall is clearly visible outside the gatehouse.
+~
+0 12 0
+0
+1
+2
+D1
+~
+~
+1 0 2000
+D2
+~
+~
+0 0 1020
+M 20 H 20
+S
+#1022
+Gilded Road~
+A large stone and wood building housing the eastern gatehouse
+looms high overhead slightly to the east of here. Affluent nobles
+mingle freely with those of the working class going about their
+daily affairs. The road is of well rounded cobblestones, neatly
+maintained and kept clean by the city. To the west the distinctive
+banner of the local guild of swordsmen flies high in front of their
+guild quarters.
+~
+0 0 1
+0
+1
+2
+D1
+~
+~
+0 0 1020
+D3
+~
+~
+0 0 1023
+M 20 H 20
+S
+#1023
+Gilded Road~
+The distinct sounds of steel on steel echo faintly from the tall
+building housing the local guild of fighters. The colorful banner of
+the guild hangs proudly over the entrance to the guild hall. A steady
+stream of youthful entrants steadily make their journey into the guild
+hall eager to learn the way of the blade. Many prefer the use of honest
+metal over that of the stealthy thief or the more piously inclined paladins.
+~
+0 0 1
+0
+1
+2
+E
+banner~
+The colorful banner proudly proclaims the presence of
+the Renfall Chapter of Fighters. A proud tradition of
+passing along melee skills and prowness in armed combat,
+the guildhouse attracts much attention from those seeking
+further knowledge in the combat arts.
+~
+D0
+~
+~
+0 0 1024
+D1
+~
+~
+0 0 1022
+D3
+~
+~
+0 0 1025
+M 20 H 20
+S
+#0
+
+
+
+#SPECIALS
+M 1034 spec_guard
+M 1035 spec_guard
+M 1040 spec_cast_mage
+M 1091 spec_cast_cleric
+M 1009 spec_guard
+M 1014 spec_repair
+M 1015 spec_cast_mage
+M 1017 spec_thief
+S
+
+
+
+#RESETS
+D 0 1025 0 1
+D 0 1026 2 1
+D 0 1047 0 1
+D 0 1047 2 1
+D 0 1048 0 1
+D 0 1048 2 1
+D 0 1049 2 1
+D 0 1050 0 1
+D 0 1051 0 1
+D 0 1052 0 1
+D 0 1052 2 1
+D 0 1053 2 1
+D 0 1054 0 1
+D 0 1055 0 1
+D 0 1055 2 1
+D 0 1055 3 1
+D 0 1056 1 1
+D 0 1057 2 1
+D 0 1061 0 1
+D 0 1062 2 1
+D 0 1063 3 1
+D 0 1064 1 1
+D 0 1065 0 1
+D 0 1066 2 1
+D 0 1086 2 1
+D 0 1087 0 1
+D 0 1003 0 1
+D 0 1004 2 1
+D 0 1021 1 1
+M 0 1008 1 1024 3 Load Ferguson the Head Trainer
+E 0 1007 0 5 {ybattle armor of the master{x is loaded on the body of Ferguson the Head Trainer
+M 0 1010 1 1026 3 Load Hildra the Sword Maiden
+G 0 1022 0 A double edged battle axe is given to Hildra the Sword Maiden
+G 0 1023 0 A steel cutlass is given to Hildra the Sword Maiden
+G 0 1024 0 A long chain link whip is given to Hildra the Sword Maiden
+G 0 1025 0 A tiny oakleaf dagger is given to Hildra the Sword Maiden
+G 0 1026 0 A flanged mace is given to Hildra the Sword Maiden
+G 0 1088 0 A spiked morning star is given to Hildra the Sword Maiden
+M 0 1011 1 1028 3 Load a cheerful bakery chef
+G 0 1029 0 A three-tier birthday cake is given to a cheerful bakery chef
+G 0 1028 0 An appleberry pie is given to a cheerful bakery chef
+G 0 1069 0 A blueberry muffin is given to a cheerful bakery chef
+M 0 1012 1 1031 3 Load Elandra the Ranger Guildmaster
+M 0 1013 1 1032 3 Load Yokal
+G 0 1030 0 A yew shortbow is given to Yokal
+G 0 1031 0 A yew longbow is given to Yokal
+M 0 1034 10 1033 3 Load a dwarven militia member
+E 0 1033 0 7 Plain copper vambraces is loaded on the legs of a dwarven militia member
+E 0 1034 0 5 Plain copper plate is loaded on the body of a dwarven militia member
+E 0 1049 0 18 A tin lantern is loaded held in the hands of a dwarven militia member
+E 0 1003 0 15 A double-edged battleaxe is loaded wielded of a dwarven militia member
+M 0 1014 1 1035 3 Load John the master smith
+G 0 1032 0 Plain copper armguards is given to John the master smith
+G 0 1033 0 Plain copper vambraces is given to John the master smith
+G 0 1034 0 Plain copper plate is given to John the master smith
+G 0 1035 0 A plain copper helm is given to John the master smith
+G 0 1036 0 A small round copper shield is given to John the master smith
+G 0 1095 0 A mining pick is given to John the master smith
+G 0 1087 0 A steel breastplate is given to John the master smith
+M 0 1034 10 1037 2 Load a dwarven militia member
+E 0 1032 0 10 Plain copper armguards is loaded on the arms of a dwarven militia member
+E 0 1034 0 5 Plain copper plate is loaded on the body of a dwarven militia member
+E 0 1022 0 15 A double edged battle axe is loaded wielded of a dwarven militia member
+M 0 1015 1 1038 1 Load Rianna the Alchemist
+G 0 1037 0 A potion of sight is given to Rianna the Alchemist
+G 0 1038 0 A potion of flight is given to Rianna the Alchemist
+G 0 1039 0 A minor health potion is given to Rianna the Alchemist
+G 0 1040 0 A potion of return is given to Rianna the Alchemist
+G 0 1098 0 A potion of minor invisibility is given to Rianna the Alchemist
+G 0 198 0 A spellup potion is given to Rianna the Alchemist
+O 0 1123 0 1038 A makeshift alchemy lab loaded to Renfall Alchemist Shop
+M 0 1020 1 1039 1 Load a citizen of Renfall
+M 0 1009 10 1041 2 Load A watchful gate guard
+E 0 1009 0 6 An elaborate silver helm is loaded over the head of A watchful gate guard
+E 0 1008 0 5 {welaborate silver plate is loaded on the body of A watchful gate guard
+E 0 1020 0 15 An elaborate silver polearm is loaded wielded of A watchful gate guard
+M 0 1090 1 1044 1 Load a champion of Renfall
+E 0 1073 0 12 The girdle of champions is loaded around the waist of a champion of Renfall
+M 0 1017 10 1046 2 Load a hooded figure
+E 0 1043 0 6 A sinister {dblack{x hood is loaded over the head of a hooded figure
+E 0 1062 0 15 A short metal rod is loaded wielded of a hooded figure
+E 0 1063 0 19 A shroud of darkness is loaded floating nearby of a hooded figure
+M 0 1017 10 1051 2 Load a hooded figure
+E 0 1043 0 6 A sinister {dblack{x hood is loaded over the head of a hooded figure
+E 0 1062 0 15 A short metal rod is loaded wielded of a hooded figure
+E 0 1063 0 11 A shroud of darkness is loaded about the shoulders of a hooded figure
+M 0 1029 10 1051 2 Load a young lady
+G 0 1039 0 A minor health potion is given to a young lady
+E 0 1049 0 18 A tin lantern is loaded held in the hands of a young lady
+E 0 1060 0 6 A leather headband is loaded over the head of a young lady
+O 0 1058 0 1052 Round oak table loaded to The Griffon Pub
+O 0 1058 0 1052 Round oak table loaded to The Griffon Pub
+M 0 1050 1 1052 1 Load Chuck, the bouncer
+M 0 1051 1 1052 1 Load Henry Griffon, the pub owner
+G 0 1083 0 A tall mug of beer is given to Henry Griffon, the pub owner
+G 0 1084 0 A shot of whiskey is given to Henry Griffon, the pub owner
+G 0 198 0 A spellup potion is given to Henry Griffon, the pub owner
+M 0 1021 1 1056 3 Load Remy the apprentice
+G 0 1043 0 A sinister {dblack{x hood is given to Remy the apprentice
+G 0 1042 0 A wickedly pointed copper dagger is given to Remy the apprentice
+G 0 1041 0 A tin ring of stealth is given to Remy the apprentice
+G 0 1099 0 An ordinary set of lock picks is given to Remy the apprentice
+M 0 1022 1 1057 3 Load Rigaurd the Master Thief
+M 0 1091 1 1058 1 Load a high ranking cleric of Odoma
+E 0 1076 0 19 {ca{cu{cr{ca{x of {cp{cu{cr{ci{ct{cy{x is loaded floating nearby of a high ranking cleric of Odoma
+M 0 1029 12 1059 2 Load a young lady
+G 0 1046 0 A cloth bag is given to a young lady
+P 0 1048 1 1046 1 A wooden torch put inside a wooden torch
+P 0 1040 1 1046 1 A potion of return put inside a potion of return
+M 0 1028 12 1060 2 Load a plump tabby cat
+M 0 1024 12 1060 2 Load a plump brown rat
+M 0 1024 10 1062 10 Load a plump brown rat
+M 0 1024 10 1063 10 Load a plump brown rat
+M 0 1023 1 1064 3 Load the Master Bard of Renfall
+M 0 1025 12 1065 2 Load an elderly vagrant
+G 0 1048 0 A wooden torch is given to an elderly vagrant
+M 0 1024 6 1066 6 Load a plump brown rat
+M 0 1025 5 1066 2 Load an elderly vagrant
+M 0 1026 1 1067 3 Load a black silk spider
+M 0 1024 2 1069 2 Load a plump brown rat
+M 0 1025 2 1069 2 Load an elderly vagrant
+M 0 1027 15 1071 5 Load a local youth
+E 0 1016 0 9 Leather gloves is loaded on the hands of a local youth
+E 0 1017 0 8 Leather boots is loaded on the feet of a local youth
+G 0 1046 0 A cloth bag is given to a local youth
+P 0 1039 10 1046 10 A minor health potion put inside a minor health potion
+M 0 1028 10 1072 4 Load a plump tabby cat
+M 0 1027 15 1074 15 Load a local youth
+E 0 1018 0 6 A leather cap is loaded over the head of a local youth
+E 0 1010 0 5 A leather doublet is loaded on the body of a local youth
+G 0 1039 0 A minor health potion is given to a local youth
+M 0 1030 6 1078 2 Load a militia archer of Renfall
+E 0 1031 0 15 A yew longbow is loaded wielded of a militia archer of Renfall
+E 0 1044 0 5 Leather militia plate is loaded on the body of a militia archer of Renfall
+G 0 1039 0 A minor health potion is given to a militia archer of Renfall
+M 0 1030 4 1082 2 Load a militia archer of Renfall
+E 0 1044 0 5 Leather militia plate is loaded on the body of a militia archer of Renfall
+E 0 1030 0 15 A yew shortbow is loaded wielded of a militia archer of Renfall
+O 0 1045 0 1085 A wooden cask loaded to South Ramparts of Renfall
+M 0 1030 4 1085 2 Load a militia archer of Renfall
+E 0 1044 0 5 Leather militia plate is loaded on the body of a militia archer of Renfall
+E 0 1030 0 15 A yew shortbow is loaded wielded of a militia archer of Renfall
+M 0 1033 1 1086 1 Load Justianna, the Recruiter of Renfall
+E 0 1055 0 5 {wiron{x militia body armor is loaded on the body of Justianna, the Recruiter of Renfall
+E 0 1056 0 7 {wiron{x militia plate leggings is loaded on the legs of Justianna, the Recruiter of Renfall
+E 0 1057 0 15 An {wiron{x militia lance is loaded wielded of Justianna, the Recruiter of Renfall
+M 0 1031 2 1089 4 Load a lowly recruit
+E 0 1050 0 5 A training robe is loaded on the body of a lowly recruit
+E 0 1051 0 9 Training gloves is loaded on the hands of a lowly recruit
+M 0 1031 4 1090 2 Load a lowly recruit
+E 0 1051 0 9 Training gloves is loaded on the hands of a lowly recruit
+E 0 1050 0 5 A training robe is loaded on the body of a lowly recruit
+O 0 1052 0 1091 A training dummy loaded to Small Arms Training
+M 0 1032 2 1091 4 Load an aspiring recruit
+E 0 1050 0 5 A training robe is loaded on the body of an aspiring recruit
+E 0 1053 0 15 A wooden training dagger is loaded wielded of an aspiring recruit
+E 0 1054 0 12 A {wwhite{x sash is loaded around the waist of an aspiring recruit
+M 0 1016 1 1002 1 Load Renfeld the shopkeep
+G 0 1046 0 A cloth bag is given to Renfeld the shopkeep
+G 0 1047 0 A leather knapsack is given to Renfeld the shopkeep
+G 0 1048 0 A wooden torch is given to Renfeld the shopkeep
+G 0 1049 0 A tin lantern is given to Renfeld the shopkeep
+G 0 1081 0 A canteen wrapped in leather is given to Renfeld the shopkeep
+G 0 1077 0 A cheap empty glass flask is given to Renfeld the shopkeep
+G 0 1074 0 Iron rations is given to Renfeld the shopkeep
+G 0 1068 0 A shovel is given to Renfeld the shopkeep
+M 0 1000 1 1006 1 Load Alissa the Shopkeep
+G 0 1012 0 A birch wand is given to Alissa the Shopkeep
+G 0 1013 0 A pine wand is given to Alissa the Shopkeep
+G 0 1014 0 A silver ring is given to Alissa the Shopkeep
+G 0 1015 0 A {wplatinum{x ring is given to Alissa the Shopkeep
+M 0 1001 1 1007 1 Load Bendatto the Mage Guildmaster
+E 0 1090 0 5 {ygolden robes{x{w of the{x{b mage{x{w is loaded on the body of Bendatto the Mage Guildmaster
+M 0 1038 10 1008 2 Load a haughty noble
+E 0 1065 0 2 A large {rgarnet{x ring is loaded on the right finger of a haughty noble
+E 0 1066 0 18 An ivory tipped walking cane is loaded held in the hands of a haughty noble
+E 0 1064 0 11 A well stitched {rcrimson{x cloak is loaded about the shoulders of a haughty noble
+M 0 1039 10 1009 2 Load a young boy
+M 0 1040 10 1009 2 Load an aspiring wizardess
+E 0 1067 0 11 A well stitched {bblue{x cloak is loaded about the shoulders of an aspiring wizardess
+E 0 1012 0 18 A birch wand is loaded held in the hands of an aspiring wizardess
+O 0 1072 0 1010 A polished wooden bench of oak loaded to Renfall City Square
+O 0 1000 0 1010 An obsidian fountain loaded to Renfall City Square
+O 0 1059 0 1010 A signpost loaded to Renfall City Square
+O 0 1094 0 1010 A shimmering portal loaded to Renfall City Square
+M 0 1036 1 1010 1 Load the master monk of Renfall
+M 0 1037 12 1012 2 Load a dwarven citizen of Renfall
+E 0 1049 0 0 A tin lantern is loaded as a light of a dwarven citizen of Renfall
+E 0 1010 0 5 A leather doublet is loaded on the body of a dwarven citizen of Renfall
+E 0 1011 0 7 Leather pants is loaded on the legs of a dwarven citizen of Renfall
+O 0 1093 0 1013 A dusty loom loaded to McCarvers Leathers
+M 0 1003 1 1013 1 Load McCarver the LeatherSmith
+G 0 1011 0 Leather pants is given to McCarver the LeatherSmith
+G 0 1010 0 A leather doublet is given to McCarver the LeatherSmith
+G 0 1016 0 Leather gloves is given to McCarver the LeatherSmith
+G 0 1017 0 Leather boots is given to McCarver the LeatherSmith
+G 0 1018 0 A leather cap is given to McCarver the LeatherSmith
+G 0 1089 0 A clean bandage is given to McCarver the LeatherSmith
+G 0 1078 0 A simple tail spike is given to McCarver the LeatherSmith
+G 0 1079 0 A leather bracer is given to McCarver the LeatherSmith
+G 0 1086 0 A studded leather vest is given to McCarver the LeatherSmith
+G 0 1109 0 A leather belt is given to McCarver the LeatherSmith
+M 0 1035 10 1015 2 Load an elvish militia member
+E 0 1034 0 5 Plain copper plate is loaded on the body of an elvish militia member
+E 0 1035 0 6 A plain copper helm is loaded over the head of an elvish militia member
+E 0 1036 0 16 A small round copper shield is loaded as a shield of an elvish militia member
+E 0 1023 0 15 A steel cutlass is loaded wielded of an elvish militia member
+M 0 1006 1 1016 1 Load George the barkeep
+G 0 1004 0 The devils grog is given to George the barkeep
+G 0 1005 0 A glass of elderberry wine is given to George the barkeep
+G 0 1006 0 A steaming bowl of beef stew is given to George the barkeep
+M 0 1002 1 1016 1 Load Marlitta the barmaid
+E 0 1001 0 5 A tight black uniform is loaded on the body of Marlitta the barmaid
+E 0 1002 0 18 A battered serving tray is loaded held in the hands of Marlitta the barmaid
+M 0 1004 2 1016 2 Load a tired traveller
+M 0 1005 2 1016 2 Load a surly dwarf
+E 0 1003 0 15 A double-edged battleaxe is loaded wielded of a surly dwarf
+M 0 1007 1 1017 3 Load Terrence the banker
+M 0 1027 15 1020 15 Load a local youth
+E 0 1010 0 5 A leather doublet is loaded on the body of a local youth
+G 0 1048 0 A wooden torch is given to a local youth
+M 0 1020 4 1020 4 Load a citizen of Renfall
+E 0 1016 0 9 Leather gloves is loaded on the hands of a citizen of Renfall
+E 0 1018 0 6 A leather cap is loaded over the head of a citizen of Renfall
+G 0 1039 0 A minor health potion is given to a citizen of Renfall
+M 0 1009 10 1021 2 Load A watchful gate guard
+E 0 1008 0 5 {welaborate silver plate is loaded on the body of A watchful gate guard
+E 0 1009 0 6 An elaborate silver helm is loaded over the head of A watchful gate guard
+E 0 1019 0 7 Elaborate silver greaves is loaded on the legs of A watchful gate guard
+E 0 1021 0 15 An elaborate silver longsword is loaded wielded of A watchful gate guard
+S
+
+
+
+#SHOPS
+1051 17 19 0 0 0 100 100 0 23
+0
+1000 3 2 10 33 0 110 60 1 23
+0
+1003 9 37 0 0 0 100 80 1 23
+0
+1006 17 19 0 0 0 60 120 1 21
+0
+1007 32 33 0 0 0 150 75 4 22
+0
+1010 5 0 0 0 0 120 60 1 23
+0
+1011 19 0 0 0 0 100 100 0 23
+0
+1013 5 0 0 0 0 100 100 0 23
+0
+1014 5 9 0 0 0 100 80 0 23
+0
+1015 10 10 41 2 2 120 100 0 23
+1
+1016 1 9 5 15 0 100 100 0 23
+1
+1021 5 9 0 8 0 100 100 0 23
+0
+0
+
+
+
+#MOBPROGS
+#1000
+mob echoat $n {gMarlitta sweeps across the room clearing tables.{x
+{gnod $n{x
+~
+#1001
+mob echo A surly dwarf belches loudly.
+~
+#1002
+mob echoat $n Ferguson eyes you over carefully.
+mob echoat $n Ferguson say's "You look like you need some training."
+mob echoat $n Ferguson say's "Maybe I can help you GAIN some new tricks."
+laugh
+~
+#1005
+if carries $n 1024 2
+say Wow you scored 2 whips?
+grin $n
+endif
+~
+#1006
+if carries $n 1025 2
+say Wow you have 2 on you!
+endif
+~
+#1007
+if ispc $n
+mob echoat $n Somethings glitters faintly in the corpse of the dead woman.
+mob oload 1097 1 none
+endif
+~
+#1008
+if ispc $n
+mob echoat $n A tightly bound scroll tumbles out of the dead woman's corpse.
+mob oload 1092 1 Room
+endif
+ 
+~
+#1010
+if carries $n 1070
+mob echoat $n The guildmaster studies you carefully.
+say Greetings and Welcome young one.
+say I see you our new to our guild. If I may?
+mob echoat $n Your guildmaster takes your travel log and updates it for you.
+mob addgp $n 10
+mob echoat $n You have completed {RRenfall Guild Quest1: {GMeet your guildmaster.{x
+mob remove $n 1070
+mob junk 1070
+mob oload 1071 1 Room
+mob force $n get log
+mob oload 1080 1 none
+give sash $n
+else
+if ispc $n
+mob echoat $n The guildmaster nods at you in greeting.
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#1000
+echo A leather doublet crashes to the ground!
+~
+#0
+
+#ROOMPROGS
+#1000
+RECHO A cool breeze stirs the fallen leaves.
+~
+#1001
+ECHO A thunderous boom shatters the silence!
+~
+#1010
+room echo a cool breeze makes you feel, well, cool.
+~
+#0
+
+#$

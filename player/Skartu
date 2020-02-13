@@ -1,0 +1,1019 @@
+#PLAYER
+Name Skartu~
+Id   1580056100
+LogO 1581384320
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%t) [ %b ] ~
+Race bugbear~
+Clan d'aerthe~
+Clan_Rank 3
+Clan_Points 0
+Sex  1
+Cla  2
+God	1
+Favored 0
+GuildRnk  2
+GuildPts  1428
+mClass 1
+Class2 0
+Level2 15
+Exp2   2153348
+Levl 25
+Sec  0
+Plyd 137104
+Email (null)~
+Citizen Renfall~
+Scro 98
+Room 1010
+HMV  477 477 436 434 454 454
+Bleed 0
+Talent 0
+PP 0 0
+Gold 785
+Silv 18447
+BAcct 1
+Bank 1110
+Exp  6705630
+NoExp1 0
+NoExp2 1
+Pkills 0
+Pdeath 0
+Mkills 761
+Eyes 16
+Hair 2
+Haircut 8
+Facial 4
+Age 17
+Account Everclear~
+Recall 1010
+Act  CDEFGHKT
+AfBy HTV
+Comm NOPb
+Pos  8
+Trai 4
+Save  4
+Alig  -500
+Hit   11
+Dam   15
+ACs -74 -71 -73 -58
+Attr 20 16 16 20 21 10
+AMod 11 6 2 16 2 0
+Pass ~
+Titl , grumbles and growls~
+PreT ~
+Cond	1
+EqCond 1
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 33
+HMVP 363 419 432
+Cnd  0 0 344 64 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 809
+130 6
+0 2
+501 6
+500 -1
+499 1
+67 126
+43 16775216
+38 14
+92 25165810
+71 -268173824
+18 251658240
+31 -63744
+20 1974552
+19 -536937957
+32 436207230
+72 537001033
+73 134217726
+74 16777213
+62 458752
+63 -206013377
+64 16354
+815 -1048575
+33 32892
+817 -16908426
+816 -1
+818 12
+128 -31
+34 159872
+68 -16777215
+69 -1
+90 -1074790399
+91 -129
+70 67108862
+42 2147483646
+41 -520077311
+37 -65535
+39 -8191
+40 6144
+75 2147483647
+76 -1025
+77 1022
+129 2147483647
+124 1
+125 -1
+126 -1
+127 268435454
+65 -1048575
+66 -1
+287 65536
+79 1572864
+3 16
+-1 -1
+Alias 1 c 'magic missile'~
+Boards       7 General 0 Changes 1579991183 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 20 'armor'
+Sk 1 'chill touch'
+Sk 20 'detect invis'
+Sk 20 'detect magic'
+Sk 1 'giant strength'
+Sk 20 'invisibility'
+Sk 59 'magic missile'
+Sk 20 'protection evil'
+Sk 20 'protection good'
+Sk 39 'sanctuary'
+Sk 20 'shield'
+Sk 20 'slow'
+Sk 1 'knock'
+Sk 1 'enlarge person'
+Sk 20 'detect traps'
+Sk 55 'cone of shadow'
+Sk 55 'cone of sound'
+Sk 37 'frost forge'
+Sk 1 'shocking runes'
+Sk 1 'animate weapon'
+Sk 100 'dagger'
+Sk 44 'mace'
+Sk 97 'polearm'
+Sk 1 'staff'
+Sk 50 'long sword'
+Sk 1 'crossbow'
+Sk 55 'backstab'
+Sk 50 'bash'
+Sk 46 'throw'
+Sk 84 'dodge'
+Sk 100 'enhanced damage'
+Sk 37 'envenom'
+Sk 19 'lay trap'
+Sk 19 'remove trap'
+Sk 20 'repair'
+Sk 76 'first aid'
+Sk 89 'parry'
+Sk 1 'blind fighting'
+Sk 10 'riposte'
+Sk 20 'hide'
+Sk 61 'lore'
+Sk 23 'peek'
+Sk 20 'pick lock'
+Sk 20 'sneak'
+Sk 37 'steal'
+Sk 51 'scrolls'
+Sk 50 'wands'
+Sk 25 'recall'
+Sk 18 'dual wield'
+Sk 19 'detect secret'
+Sk 20 'gore'
+Gr 'rom basics'
+Gr 'wizard basics'
+Gr 'thief basics'
+Affc 'giant strength'   0  50  44   4   1          0
+Affc 'giant strength'   0  49  44   4  19          0
+Affc 'haste'   0  51   5   4   2    2097152
+Affc 'armor'   0  50  16 -20  17          0
+Affc 'shield'   0  50  53 -20  17          0
+Affc 'vocal shield'   0  52  12 -30  17          0
+Affc 'cacophonic shield'   0  51  10 -40  17          0
+Affc 'motivation'   0  48   2   4  18          0
+Affc 'motivation'   0  50   2   4  19          0
+Affc 'sanctuary'   0  51   0   0   0        128
+Affc 'bless'   0  51  50   6  18          0
+Affc 'bless'   0  49  50   6  24          0
+Affc 'fly'   0  49  47   0   0     524288
+Affc 'resistance'   0  52  18  -1  20          0
+Affc 'enlarge person'   0  50   5   1   0          0
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 18
+Nest 0
+Name an extraordinary flamberge of awesome protection~
+ShD  an extraordinary flamberge of awesome protection~
+Desc an extraordinary flamberge of awesome protection~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   9
+Material silver~
+Wear -1
+Lev  35
+Cost 27960
+Val  12 4 9 3 0
+Affc 'reserved'   0   0  -1  -5  17          0
+Affc 'reserved'   0   0  -1   4  26          0
+Affc 'reserved'   0   0  -1   4   3          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the mocassins of strength~
+ShD  the mocassins of strength~
+Desc the mocassins of strength~
+ExtF 64
+WeaF 65
+Ityp 9
+Wt   6
+Material hide~
+Wear 8
+Lev  12
+Cost 3910
+Val  9 9 8 6 1
+Affc 'reserved'   0   0  -1  -1  17          0
+Affc 'reserved'   0   0  -1   2   1          0
+End
+
+#O
+Vnum 197
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 28
+Nest 1
+Name a clear, viscous potion of gaseous form~
+ShD  a clear, viscous potion of gaseous form~
+Desc a clear, viscous potion of gaseous form~
+ExtF 64
+Wear -1
+Lev  14
+Cost 1949
+Val  13 148 0 0 0
+Spell 1 'gaseous form'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a luminous, oily potion of fire seeds~
+ShD  a luminous, oily potion of fire seeds~
+Desc a luminous, oily potion of fire seeds~
+ExtF 1073741889
+Wear -1
+Lev  11
+Cost 1651
+Val  11 134 0 0 0
+Spell 1 'fire seeds'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a flecked, effervescent potion of chill touch~
+ShD  a flecked, effervescent potion of chill touch~
+Desc a flecked, effervescent potion of chill touch~
+ExtF 66
+Wear -1
+Lev  2
+Cost 301
+Val  2 15 0 0 0
+Spell 1 'chill touch'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a clear, bubbling potion of shocking web~
+ShD  a clear, bubbling potion of shocking web~
+Desc a clear, bubbling potion of shocking web~
+ExtF 65
+Wear -1
+Lev  12
+Cost 1800
+Val  11 196 0 0 0
+Spell 1 'shocking web'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a layered, syrupy potion of pass without trace~
+ShD  a layered, syrupy potion of pass without trace~
+Desc a layered, syrupy potion of pass without trace~
+ExtF 65
+Wear -1
+Lev  19
+Cost 2849
+Val  19 175 0 0 0
+Spell 1 'pass without trace'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a flecked, effervescent potion of commune nature~
+ShD  a flecked, effervescent potion of commune nature~
+Desc a flecked, effervescent potion of commune nature~
+ExtF 67
+Wear -1
+Lev  19
+Cost 2849
+Val  19 211 0 0 0
+Spell 1 'commune nature'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a translucent, smoky potion of cure critical~
+ShD  a translucent, smoky potion of cure critical~
+Desc a translucent, smoky potion of cure critical~
+ExtF 64
+Wear -1
+Lev  17
+Cost 2700
+Val  19 24 0 0 0
+Spell 1 'cure critical'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a luminous, fuming potion of flamestrike~
+ShD  a luminous, fuming potion of flamestrike~
+Desc a luminous, fuming potion of flamestrike~
+ExtF 65
+Wear -1
+Lev  11
+Cost 1801
+Val  12 49 0 0 0
+Spell 1 'flamestrike'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a clear, oily potion of cure serious~
+ShD  a clear, oily potion of cure serious~
+Desc a clear, oily potion of cure serious~
+ExtF 16777280
+Wear -1
+Lev  14
+Cost 2100
+Val  15 28 0 0 0
+Spell 1 'cure serious'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a mysterious scroll of cure blindness~
+ShD  a mysterious scroll of cure blindness~
+Desc a mysterious scroll of cure blindness~
+ExtF 64
+Wear -1
+Lev  5
+Cost 800
+Val  4 23 0 0 0
+Spell 1 'cure blindness'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a damp scripted scroll of bleeding touch~
+ShD  a damp scripted scroll of bleeding touch~
+Desc a damp scripted scroll of bleeding touch~
+ExtF 64
+Wear -1
+Lev  9
+Time 158
+Cost 1801
+Val  9 223 0 0 0
+Spell 1 'bleeding touch'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a mystic scroll of create spring~
+ShD  a mystic scroll of create spring~
+Desc a mystic scroll of create spring~
+ExtF 16777281
+Wear -1
+Lev  20
+Cost 3799
+Val  19 21 0 0 0
+Spell 1 'create spring'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a papyrus scroll of detect plants~
+ShD  a papyrus scroll of detect plants~
+Desc a papyrus scroll of detect plants~
+ExtF 65
+Wear -1
+Lev  15
+Cost 2999
+Val  15 131 0 0 0
+Spell 1 'detect plants'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a damp faded scroll of commune nature~
+ShD  a damp faded scroll of commune nature~
+Desc a damp faded scroll of commune nature~
+ExtF 16777281
+Wear -1
+Lev  21
+Cost 4200
+Val  21 211 0 0 0
+Spell 1 'commune nature'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a sealed scroll of geyser~
+ShD  a sealed scroll of geyser~
+Desc a sealed scroll of geyser~
+ExtF 64
+Wear -1
+Lev  11
+Cost 2201
+Val  11 197 0 0 0
+Spell 1 'geyser'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a fishy worn scroll of acid blast~
+ShD  a fishy worn scroll of acid blast~
+Desc a fishy worn scroll of acid blast~
+ExtF 64
+Wear -1
+Lev  18
+Cost 3601
+Val  18 1 0 0 0
+Spell 1 'acid blast'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a papyrus scroll of earthquake~
+ShD  a papyrus scroll of earthquake~
+Desc a papyrus scroll of earthquake~
+ExtF 64
+Wear -1
+Lev  13
+Cost 2600
+Val  12 40 0 0 0
+Spell 1 'earthquake'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a scripted scroll of dimensional anchor~
+ShD  a scripted scroll of dimensional anchor~
+Desc a scripted scroll of dimensional anchor~
+ExtF 64
+Wear -1
+Lev  11
+Cost 2400
+Val  12 220 0 0 0
+Spell 1 'dimensional anchor'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a damp scripted scroll of identify~
+ShD  a damp scripted scroll of identify~
+Desc a damp scripted scroll of identify~
+ExtF 1073741888
+Wear -1
+Lev  15
+Cost 2999
+Val  15 60 0 0 0
+Spell 1 'identify'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a flecked, watery potion of create spring~
+ShD  a flecked, watery potion of create spring~
+Desc a flecked, watery potion of create spring~
+ExtF 16777280
+Wear -1
+Lev  23
+Time 428
+Cost 3450
+Val  24 21 0 0 0
+Spell 1 'create spring'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a ribboned, bubbling potion of summon~
+ShD  a ribboned, bubbling potion of summon~
+Desc a ribboned, bubbling potion of summon~
+ExtF 65
+Wear -1
+Lev  31
+Cost 4799
+Val  31 86 0 0 0
+Spell 1 'summon'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a cheeselike tattered scroll of regeneration~
+ShD  a cheeselike tattered scroll of regeneration~
+Desc a cheeselike tattered scroll of regeneration~
+ExtF 65
+Wear -1
+Lev  22
+Cost 4401
+Val  22 139 0 0 0
+Spell 1 'regeneration'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a damp tattered scroll of cure light~
+ShD  a damp tattered scroll of cure light~
+Desc a damp tattered scroll of cure light~
+ExtF 65
+Extra2Flags 131072
+Wear -1
+Lev  7
+Time 551
+Cost 1400
+Val  6 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 2902
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a waistband of astonishing toughness~
+ShD  a waistband of astonishing toughness~
+Desc a waistband of astonishing toughness~
+ExtF 64
+WeaF 2049
+Ityp 9
+Wt   4
+Material denim~
+Wear 12
+Lev  9
+Cost 2230
+Val  3 2 3 1 0
+Affc 'reserved'   0   0  -1  -1  24          0
+Affc 'reserved'   0   0  -1   4  13          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a doublet of cruelty~
+ShD  a doublet of cruelty~
+Desc a doublet of cruelty~
+ExtF 64
+WeaF 9
+Ityp 9
+Wt   5
+Material silk~
+Wear 5
+Lev  15
+Cost 3280
+Val  4 4 3 3 0
+Affc 'reserved'   0   0  -1   2  29          0
+Affc 'reserved'   0   0  -1   1  30          0
+End
+
+#O
+Vnum 2424
+Nest 0
+Wear 14
+Cost 300
+End
+
+#O
+Vnum 2424
+Nest 0
+Wear 13
+Cost 300
+End
+
+#O
+Vnum 2419
+Nest 0
+Wear 7
+Cost 70
+End
+
+#O
+Vnum 2414
+Nest 0
+Wear 4
+Cost 100
+End
+
+#O
+Vnum 2120
+Nest 0
+Wear 6
+Cost 90
+End
+
+#O
+Vnum 18
+Nest 0
+Name a wondrous skean of mettle~
+ShD  a wondrous skean of mettle~
+Desc a wondrous skean of mettle~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   4
+Cond 98
+Material iron~
+Wear 15
+Lev  37
+Cost 27110
+Val  2 5 9 2 0
+Affc 'reserved'   0   0  -1  10  28          0
+Affc 'reserved'   0   0  -1  38  13          0
+Affc 'reserved'   0   0  -1   5   1          0
+End
+
+#O
+Vnum 2416
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 38
+Nest 0
+Name an ebony wool satchel~
+ShD  an ebony wool satchel~
+Desc an ebony wool satchel~
+ExtF 64
+WeaF 1025
+Wt   4
+Material wool~
+Wear 11
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1  20  29          0
+Affc 'reserved'   0   0  -1   4   2          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a magnificent scarlet collar of sublime longevity~
+ShD  a magnificent scarlet collar of sublime longevity~
+Desc a magnificent scarlet collar of sublime longevity~
+ExtF 64
+Extra2Flags 4
+WeaF 5
+Ityp 9
+Wt   4
+Material hide~
+Wear 3
+Lev  35
+Cost 31780
+Val  12 14 14 7 1
+Affc 'reserved'   0   0  -1  12  29          0
+Affc 'reserved'   0   0  -1   4  19          0
+Affc 'reserved'   0   0  -1  -2  17          0
+Affc 'reserved'   0   0  -1  26  13          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name an excellent signet of phenomenal health~
+ShD  an excellent signet of phenomenal health~
+Desc an excellent signet of phenomenal health~
+ExtF 64
+WeaF 3
+Ityp 9
+Wt   6
+Material topaz~
+Wear 1
+Lev  37
+Cost 27030
+Val  19 19 19 14 0
+Affc 'reserved'   0   0  -1  28  13          0
+Affc 'reserved'   0   0  -1   4   2          0
+End
+
+#O
+Vnum 28
+Nest 0
+Name a phosphorescent, watery potion of heal~
+ShD  a phosphorescent, watery potion of heal~
+Desc a phosphorescent, watery potion of heal~
+ExtF 64
+Wear -1
+Lev  36
+Time 621
+Cost 5400
+Val  36 57 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1096
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 38
+Nest 0
+Name a rose silk pouch~
+ShD  a rose silk pouch~
+Desc a rose silk pouch~
+ExtF 64
+WeaF 2049
+Wt   3
+Material silk~
+Wear -1
+Cost 10
+Affc 'reserved'   0   0  -1  -3  17          0
+Affc 'reserved'   0   0  -1   3  18          0
+Affc 'reserved'   0   0  -1  -5  24          0
+End
+
+#O
+Vnum 6
+Nest 1
+Name a papyrus scroll of heal~
+ShD  a papyrus scroll of heal~
+Desc a papyrus scroll of heal~
+ExtF 64
+Extra2Flags 131072
+Wear -1
+Lev  39
+Cost 7999
+Val  39 57 0 0 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 5
+Nest 1
+ShD  264 silver coins and 232 gold coins~
+Wt   59
+Cond 92
+Wear -1
+Cost 23464
+Val  264 232 0 0 0
+End
+
+#O
+Vnum 38
+Nest 0
+Name a crimson denim large bag~
+ShD  a crimson denim large bag~
+Desc a crimson denim large bag~
+ExtF 64
+WeaF 16385
+Wt   2
+Wear -1
+Cost 10
+Affc 'reserved'   0   0  -1  17  14          0
+Affc 'reserved'   0   0  -1  -2  24          0
+End
+
+#O
+Vnum 5
+Nest 1
+ShD  214 silver coins and 2 gold coins~
+Cond 93
+Wear -1
+Cost 414
+Val  214 2 0 0 0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a lamp of optimum violence~
+ShD  a lamp of optimum violence~
+Desc a lamp of optimum violence~
+ExtF 64
+WeaF 16385
+Ityp 1
+Material aquamarine~
+Wear 0
+Lev  38
+Cost 25610
+Val  0 1 365 0 0
+Affc 'reserved'   0   0  -1   3   3          0
+Affc 'reserved'   0   0  -1   8  13          0
+Affc 'reserved'   0   0  -1  25  29          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a mighty mallet of movement~
+ShD  a mighty mallet of movement~
+Desc a mighty mallet of movement~
+ExtF 64
+Extra2Flags 4
+WeaF 8193
+Ityp 5
+Wt   12
+Material steel~
+Wear 17
+Lev  31
+Cost 33460
+Val  4 4 9 1 0
+Affc 'reserved'   0   0  -1  16  29          0
+Affc 'reserved'   0   0  -1  22  14          0
+Affc 'reserved'   0   0  -1   4   2          0
+End
+
+#O
+Vnum 38
+Nest 0
+Name an amber cotton backpack~
+ShD  an amber cotton backpack~
+Desc an amber cotton backpack~
+ExtF 64
+Extra2Flags 4
+WeaF 1025
+Wt   3
+Material cotton~
+Wear -1
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1  18  12          0
+Affc 'reserved'   0   0  -1   3  26          0
+Affc 'reserved'   0   0  -1   4   4          0
+Affc 'reserved'   0   0  -1   4   3          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the rose sleeves of sublime toughness~
+ShD  the rose sleeves of sublime toughness~
+Desc the rose sleeves of sublime toughness~
+ExtF 64
+WeaF 257
+Ityp 9
+Wt   5
+Material velvet~
+Wear 10
+Lev  18
+Cost 6890
+Val  9 9 8 8 0
+Affc 'reserved'   0   0  -1  10  13          0
+Affc 'reserved'   0   0  -1   1  18          0
+Affc 'reserved'   0   0  -1   3  19          0
+End
+
+#END

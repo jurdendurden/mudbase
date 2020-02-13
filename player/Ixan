@@ -1,0 +1,957 @@
+#PLAYER
+Name Ixan~
+Id   1579561382
+LogO 1580108140
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race half ogre~
+Clan ravager~
+Clan_Rank 3
+Clan_Points 0
+Sex  1
+Cla  3
+God	7
+Favored 0
+GuildRnk  2
+GuildPts  1153
+mClass 1
+Class2 2
+Level2 10
+Exp2   415918
+WpnSpec	3
+Levl 11
+Sec  0
+Plyd 16145
+Email (null)~
+Citizen (null)~
+Scro 98
+Room 1010
+HMV  260 260 178 178 244 244
+Bleed 0
+Talent 0
+PP 0 0
+Gold 138
+Silv 1395
+BAcct 1
+Bank 1710
+Exp  926354
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 516
+Eyes 16
+Haircut 1
+Facial 1
+Age 18
+Account Drisen~
+Recall 1010
+Act  CDEGKQT
+Comm NOP
+Pos  8
+Save  -5
+Alig  -750
+Dam   4
+ACs -20 -24 -17 -13
+Attr 25 17 17 17 23 15
+AMod 0 5 6 1 4 2
+Pass ~
+Titl  {R*{xgr{Wi{xn{xs{R*{x~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 3
+HMVP 250 168 236
+Cnd  0 0 988 752 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 388
+33 12
+126 -1
+125 -8193
+124 1
+129 8388510
+128 -266338447
+91 303662718
+90 -1074790399
+69 -129
+68 -16777215
+34 28800
+32 419429934
+74 16776192
+73 125796358
+72 536977409
+21 30
+19 554271226
+20 -16908259
+18 788529152
+31 -218167552
+71 1879309824
+70 2046
+79 -262144
+78 2139226096
+80 2
+127 131070
+62 458752
+63 -1008722941
+64 1946124288
+-1 -1
+Alias b back~
+Alias id lore~
+Boards       7 General 1579918964 Changes 1579890291 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'detect traps'
+Sk 1 'axe'
+Sk 100 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 87 'polearm'
+Sk 1 'spear'
+Sk 1 'staff'
+Sk 1 'short sword'
+Sk 1 'long sword'
+Sk 1 'bow'
+Sk 1 'crossbow'
+Sk 1 'whip'
+Sk 63 'backstab'
+Sk 1 'bash'
+Sk 22 'power grip'
+Sk 60 'berserk'
+Sk 45 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'lay trap'
+Sk 1 'remove trap'
+Sk 76 'first aid'
+Sk 69 'parry'
+Sk 41 'counter'
+Sk 60 'sharpen'
+Sk 54 'lore'
+Sk 1 'peek'
+Sk 1 'steal'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 8 'recall'
+Sk 61 'dual wield'
+Sk 1 'detect secret'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'fighter basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+-46 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 38
+Nest 0
+Name a brown sack~
+ShD  a brown sack~
+Desc a brown sack~
+ExtF 64
+Wt   4
+Material velvet~
+Wear -1
+Cost 3740
+Val  10 1 0 30 50
+Affc 'curse'   1  12  -1   2  20  134217728
+Affc 'reserved'   0   0  -1   2   4          0
+Affc 'reserved'   0   0  -1   2  18          0
+End
+
+#O
+Vnum 103
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 35
+Nest 1
+Name bracer of cure light~
+ShD  bracer of cure light~
+Desc bracer of cure light~
+ExtF 64
+WeaF 4097
+Wear -1
+Lev  5
+Cost 1249
+Val  6 12 11 26 0
+Spell 3 'cure light'
+End
+
+#O
+Vnum 2902
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 103
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2902
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 1
+Name a blade of injury~
+ShD  a blade of injury~
+Desc a blade of injury~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   9
+Cond 95
+Material silver~
+Wear -1
+Lev  12
+Cost 2800
+Val  12 3 8 3 0
+Affc 'reserved'   0   0  -1   1  19          0
+Affc 'reserved'   0   0  -1   1  29          0
+End
+
+#O
+Vnum 35
+Nest 1
+Name a floating sphere of cure serious~
+ShD  a floating sphere of cure serious~
+Desc a floating sphere of cure serious~
+ExtF 65
+WeaF 65537
+Wear -1
+Lev  4
+Cost 1249
+Val  6 18 13 28 0
+Spell 3 'cure serious'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 2902
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 1
+Name a dagger of strength~
+ShD  a dagger of strength~
+Desc a dagger of strength~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   4
+Cond 99
+Material brass~
+Wear -1
+Lev  6
+Cost 4100
+Val  2 3 8 2 0
+Affc 'reserved'   0   0  -1  -2  24          0
+Affc 'reserved'   0   0  -1   2   1          0
+End
+
+#O
+Vnum 2902
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 35
+Nest 1
+Name a floating sphere of cure serious~
+ShD  a floating sphere of cure serious~
+Desc a floating sphere of cure serious~
+ExtF 1073741889
+WeaF 65537
+Wear -1
+Lev  6
+Cost 1250
+Val  5 20 19 28 0
+Spell 3 'cure serious'
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Time 560
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Time 432
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Time 477
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 615
+Nest 1
+Cond 99
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 1039
+Nest 1
+Wear -1
+Time 633
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 1
+Wear -1
+Time 730
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1089
+Nest 1
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 2902
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 2902
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 1033
+Nest 0
+Wear 7
+Cost 300
+End
+
+#O
+Vnum 1032
+Nest 0
+Wear 10
+Cost 200
+End
+
+#O
+Vnum 1067
+Nest 0
+Wear 4
+Cost 100
+End
+
+#O
+Vnum 18
+Nest 0
+Name a dirk of deadliness~
+ShD  a dirk of deadliness~
+Desc a dirk of deadliness~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   4
+Material gold~
+Wear 15
+Lev  7
+Cost 3310
+Val  2 3 8 2 0
+Affc 'reserved'   0   0  -1   2  28          0
+Affc 'reserved'   0   0  -1   1  30          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name an orb of charisma~
+ShD  an orb of charisma~
+Desc an orb of charisma~
+ExtF 64
+WeaF 65537
+Ityp 9
+Wt   6
+Material topaz~
+Wear 19
+Lev  4
+Cost 4020
+Val  1 1 1 1 0
+Affc 'reserved'   0   0  -1  -2  17          0
+Affc 'reserved'   0   0  -1   2  26          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a skullcap of augury~
+ShD  a skullcap of augury~
+Desc a skullcap of augury~
+ExtF 64
+WeaF 17
+Ityp 9
+Wt   5
+Material platinum~
+Wear 6
+Lev  9
+Cost 2210
+Val  6 7 6 6 5
+Affc 'reserved'   0   0  -1   3  12          0
+Affc 'reserved'   0   0  -1   1  29          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the sabatons of mana~
+ShD  the sabatons of mana~
+Desc the sabatons of mana~
+ExtF 64
+WeaF 65
+Ityp 9
+Wt   5
+Material silver~
+Wear 8
+Lev  8
+Cost 2820
+Val  11 11 11 11 5
+Affc 'reserved'   0   0  -1   4  12          0
+Affc 'reserved'   0   0  -1  -2  24          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a dark blue robe of damage~
+ShD  a dark blue robe of damage~
+Desc a dark blue robe of damage~
+ExtF 64
+WeaF 1025
+Ityp 9
+Wt   5
+Material velvet~
+Wear 11
+Lev  7
+Cost 3430
+Val  11 12 12 11 0
+Affc 'reserved'   0   0  -1   2  19          0
+Affc 'reserved'   0   0  -1  -1  24          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a belt of tormenting~
+ShD  a belt of tormenting~
+Desc a belt of tormenting~
+ExtF 64
+WeaF 2049
+Ityp 9
+Wt   5
+Material platinum~
+Wear 12
+Lev  12
+Cost 4650
+Val  2 3 2 2 5
+Affc 'reserved'   0   0  -1   2  19          0
+Affc 'reserved'   0   0  -1   1   3          0
+Affc 'reserved'   0   0  -1   1   2          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a breastplate of armor~
+ShD  a breastplate of armor~
+Desc a breastplate of armor~
+ExtF 64
+WeaF 9
+Ityp 9
+Wt   6
+Material silver~
+Wear 5
+Lev  7
+Cost 4060
+Val  12 12 11 11 5
+Affc 'reserved'   0   0  -1  -2  17          0
+Affc 'reserved'   0   0  -1   2  28          0
+End
+
+#O
+Vnum 44
+Nest 0
+ExtF 34078849
+Wear 0
+Time 7
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the gloves of judgement~
+ShD  the gloves of judgement~
+Desc the gloves of judgement~
+ExtF 64
+WeaF 129
+Ityp 9
+Wt   5
+Material platinum~
+Wear 9
+Lev  8
+Cost 3390
+Val  11 11 11 11 5
+Affc 'reserved'   0   0  -1   1  29          0
+Affc 'reserved'   0   0  -1   2   4          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a choker of security~
+ShD  a choker of security~
+Desc a choker of security~
+ExtF 64
+WeaF 5
+Ityp 9
+Wt   5
+Material onyx~
+Wear 3
+Lev  6
+Cost 2170
+Val  12 12 11 11 0
+Affc 'reserved'   0   0  -1  -2  17          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a wristlet of wandering~
+ShD  a wristlet of wandering~
+Desc a wristlet of wandering~
+ExtF 64
+WeaF 4097
+Ityp 9
+Wt   4
+Material silk~
+Wear 13
+Lev  11
+Cost 3240
+Val  3 3 2 1 0
+Affc 'reserved'   0   0  -1   8  14          0
+Affc 'reserved'   0   0  -1  -2  24          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a baselard of remarkable witchcraft~
+ShD  a baselard of remarkable witchcraft~
+Desc a baselard of remarkable witchcraft~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   4
+Material gold~
+Wear -1
+Lev  8
+Cost 2050
+Val  2 3 8 2 0
+Affc 'reserved'   0   0  -1   3  12          0
+Affc 'reserved'   0   0  -1   1  26          0
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 2902
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#END

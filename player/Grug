@@ -1,0 +1,292 @@
+#PLAYER
+Name Grug~
+Id   1580405110
+LogO 1580407587
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race half ogre~
+Sex  1
+Cla  3
+God	9
+Favored 0
+GuildRnk  0
+GuildPts  190
+WpnSpec	6
+Levl 5
+Sec  0
+Plyd 2477
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 657
+HMV  74 74 125 125 146 146
+Bleed 0
+Talent 0
+PP 0 0
+Gold 92
+Silv 990
+BAcct 0
+Bank 0
+Exp  16254
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 49
+Eyes 4
+Hair 2
+Haircut 32
+Facial 64
+Age 19
+Account Bobdangle~
+Recall 1010
+Act  CDEFGKQT
+Comm NOP
+Pos  8
+Prac 6
+Alig  -250
+Hit   11
+Dam   6
+ACs 52 50 50 60
+Attr 25 13 15 16 23 12
+AMod 0 0 0 0 0 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 54 125 146
+Cnd  0 0 4 4 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 44
+31 262144
+19 130939
+20 -268566401
+18 1056964608
+71 1073741824
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 75 'axe'
+Sk 53 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 60 'spear'
+Sk 1 'staff'
+Sk 1 'short sword'
+Sk 60 'long sword'
+Sk 1 'bow'
+Sk 1 'crossbow'
+Sk 1 'whip'
+Sk 60 'bash'
+Sk 1 'berserk'
+Sk 60 'enhanced damage'
+Sk 75 'first aid'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 4 'recall'
+Gr 'rom basics'
+Gr 'fighter basics'
+Affc 'armor'   0  29  14 -20  17          0
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 103
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 619
+Nest 0
+Cond 97
+Wear 15
+Cost 350
+End
+
+#O
+Vnum 102
+Nest 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 28
+Nest 0
+Name a translucent, watery potion of poison~
+ShD  a translucent, watery potion of poison~
+Desc a translucent, watery potion of poison~
+ExtF 1090519105
+Wear -1
+Lev  1
+Cost 149
+Val  1 72 0 0 0
+Spell 1 'poison'
+End
+
+#O
+Vnum 608
+Nest 0
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 13
+Cost 48
+End
+
+#O
+Vnum 607
+Nest 0
+Wear 7
+Cost 72
+End
+
+#O
+Vnum 612
+Nest 0
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 1049
+Nest 0
+Wear 0
+Cost 200
+Val  0 1 26 0 0
+End
+
+#O
+Vnum 609
+Nest 0
+Wear 9
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear 10
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 14
+Cost 48
+End
+
+#O
+Vnum 615
+Nest 0
+Wear -1
+Cost 1140
+End
+
+#END

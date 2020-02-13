@@ -1,0 +1,188 @@
+#PLAYER
+Name Nexix~
+Id   1580139066
+LogO 1580139312
+Vers 11
+Blind 0
+Boon 9
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race aasimar~
+Sex  1
+Cla  1
+God	7
+Favored 0
+GuildRnk  0
+GuildPts  90
+Levl 1
+Sec  0
+Plyd 236
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 659
+HMV  22 22 100 100 120 120
+Bleed 0
+Talent 0
+PP 0 0
+Gold 123
+Silv 840
+BAcct 0
+Bank 0
+Exp  9
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 0
+Eyes 16
+Haircut 1
+Facial 1
+Age 199
+Account Drizen~
+Recall 1010
+Act  CDEGKQT
+AfBy Z
+Comm NOP
+Pos  8
+Prac 6
+Alig  1000
+Hit   1
+Dam   6
+ACs 80 80 80 80
+Attr 19 13 22 13 16 16
+AMod 0 0 0 0 0 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 20 100 120
+Cnd  0 54 57 57 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 5
+71 1073741824
+18 16777216
+20 917504
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'bless'
+Sk 1 'create food'
+Sk 1 'cure light'
+Sk 1 'cure poison'
+Sk 1 'detect poison'
+Sk 1 'protection evil'
+Sk 1 'refresh'
+Sk 1 'mace'
+Sk 75 'first aid'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'cleric basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 600
+Nest 0
+Wear 15
+Cost 250
+End
+
+#O
+Vnum 102
+Nest 0
+Wear 16
+Cost 0
+End
+
+#END

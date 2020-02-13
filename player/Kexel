@@ -1,0 +1,826 @@
+#PLAYER
+Name Kexel~
+Id   1580085180
+LogO 1580306274
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race aarakocra~
+Sex  1
+Cla  8
+God	7
+Favored 0
+GuildRnk  1
+GuildPts  315
+Levl 9
+Sec  0
+Plyd 19591
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 1322
+HMV  85 85 163 163 220 220
+Bleed 0
+Talent 0
+PP 0 0
+Gold 247
+Silv 1708
+BAcct 0
+Bank 0
+Exp  386195
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 270
+Eyes 64
+Hair 8
+Haircut 32
+Facial 1
+Age 20
+Account Vazbol~
+Recall 1010
+Act  CDEGQT
+AfBy J
+Comm MOPQ
+Pos  8
+Alig  0
+Hit   10
+ACs 75 78 71 78
+Wimp  42
+Attr 18 14 18 23 18 13
+AMod 0 2 1 2 1 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 4
+HMVP 65 160 175
+Cnd  0 0 27 0 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 701
+127 917504
+125 262142
+124 1
+31 -63743
+21 30
+19 -1944027142
+20 -239
+18 1056964608
+71 -268403199
+73 268435454
+74 16777212
+42 2147483646
+41 -1
+43 522296
+37 16711680
+72 -524817
+128 -15
+33 -3
+32 150994558
+129 2147483647
+39 -1
+40 -528492544
+38 -524287
+62 -65535
+63 536739835
+64 -67125253
+815 -1048575
+817 -16908297
+818 14
+816 -57
+34 28814
+68 -16777215
+69 268435454
+90 -1074790399
+91 -404750593
+92 25165814
+130 6
+65 2046
+-1 -1
+Boards       7 General 1579918964 Changes 1580182090 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'bless'
+Sk 10 'staff'
+Sk 52 'dodge'
+Sk 55 'enhanced damage'
+Sk 90 'hand to hand'
+Sk 75 'first aid'
+Sk 59 'lore'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 9 'recall'
+Sk 50 'iron fist'
+Sk 51 'hand parry'
+Gr 'rom basics'
+Gr 'monk basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 578
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 474
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 727
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 605
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 6
+Nest 0
+Name a damp weathered scroll of cone of silence~
+ShD  a damp weathered scroll of cone of silence~
+Desc a damp weathered scroll of cone of silence~
+ExtF 64
+Wear -1
+Lev  3
+Time 1376
+Cost 400
+Val  2 173 0 0 0
+Spell 1 'cone of silence'
+End
+
+#O
+Vnum 38
+Nest 0
+Name an indigo denim purse~
+ShD  an indigo denim purse~
+Desc an indigo denim purse~
+ExtF 64
+WeaF 16385
+Wt   2
+Wear -1
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   1  29          0
+Affc 'reserved'   0   0  -1  -1  24          0
+Affc 'reserved'   0   0  -1   1   2          0
+End
+
+#O
+Vnum 28
+Nest 0
+Name a translucent, cloudy potion of summon earth~
+ShD  a translucent, cloudy potion of summon earth~
+Desc a translucent, cloudy potion of summon earth~
+ExtF 64
+Extra2Flags 131072
+Wear -1
+Lev  2
+Time 527
+Cost 299
+Val  3 144 0 0 0
+Spell 1 'summon earth'
+End
+
+#O
+Vnum 6
+Nest 0
+Name a wrapped scroll of manavert~
+ShD  a wrapped scroll of manavert~
+Desc a wrapped scroll of manavert~
+ExtF 1090519105
+Wear -1
+Lev  2
+Time 1504
+Cost 601
+Val  4 92 0 0 0
+Spell 1 'manavert'
+End
+
+#O
+Vnum 35
+Nest 0
+Name bracer of copy~
+ShD  bracer of copy~
+Desc bracer of copy~
+ExtF 66
+WeaF 4097
+Wear -1
+Lev  2
+Cost 499
+Val  2 8 4 161 0
+Spell 3 'copy'
+End
+
+#O
+Vnum 610
+Nest 0
+Wear 10
+Cost 72
+End
+
+#O
+Vnum 18
+Nest 0
+Name a kopesh of breathtaking movement~
+ShD  a kopesh of breathtaking movement~
+Desc a kopesh of breathtaking movement~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   8
+Cond 99
+Material mithril~
+Wear -1
+Lev  4
+Cost 1910
+Val  1 1 6 3 0
+Affc 'reserved'   0   0  -1  -1  17          0
+Affc 'reserved'   0   0  -1   4  14          0
+End
+
+#O
+Vnum 615
+Nest 0
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 606
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 611
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 615
+Nest 0
+Wear 18
+Cost 1140
+End
+
+#O
+Vnum 6
+Nest 0
+Name a disagreeable tattered scroll of spectral hand~
+ShD  a disagreeable tattered scroll of spectral hand~
+Desc a disagreeable tattered scroll of spectral hand~
+ExtF 65
+Wear -1
+Lev  6
+Time 2313
+Cost 1200
+Val  6 224 0 0 0
+Spell 1 'spectral hand'
+End
+
+#O
+Vnum 6
+Nest 0
+Name a crisp scroll of feeblemind~
+ShD  a crisp scroll of feeblemind~
+Desc a crisp scroll of feeblemind~
+ExtF 64
+Wear -1
+Lev  4
+Time 1648
+Cost 801
+Val  4 115 0 0 0
+Spell 1 'feeblemind'
+End
+
+#O
+Vnum 628
+Nest 0
+Wear -1
+Cost 65
+Val  10 0 0 0 0
+End
+
+#O
+Vnum 6
+Nest 0
+Name a sacred scroll of teleport~
+ShD  a sacred scroll of teleport~
+Desc a sacred scroll of teleport~
+ExtF 16777280
+Wear -1
+Lev  5
+Time 1472
+Cost 800
+Val  5 87 0 0 0
+Spell 1 'teleport'
+End
+
+#O
+Vnum 2313
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2312
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2311
+Nest 0
+Wear 12
+Cost 15
+End
+
+#O
+Vnum 2320
+Nest 0
+Wear 3
+Cost 25
+End
+
+#O
+Vnum 2310
+Nest 0
+Cond 88
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 2330
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 2330
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 1006
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1006
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1016
+Nest 0
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 1010
+Nest 0
+Wear 5
+Cost 300
+End
+
+#O
+Vnum 1017
+Nest 0
+Wear 8
+Cost 300
+End
+
+#O
+Vnum 1018
+Nest 0
+Wear 6
+Cost 250
+End
+
+#O
+Vnum 1011
+Nest 0
+Wear 7
+Cost 200
+End
+
+#O
+Vnum 1079
+Nest 0
+Wear 14
+Cost 100
+End
+
+#O
+Vnum 1033
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2319
+Nest 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 2313
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2312
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2311
+Nest 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 2313
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2312
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2311
+Nest 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a translucent aquamarine~
+ShD  a translucent aquamarine~
+Desc a translucent aquamarine~
+WeaF 16385
+Ityp 32
+Material aquamarine~
+Wear -1
+Lev  10
+Cost 1832
+End
+
+#O
+Vnum 1030
+Nest 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 1030
+Nest 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 1050
+Nest 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 1053
+Nest 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 1054
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 6
+Nest 0
+Name a moldy horizontal scroll of cure light~
+ShD  a moldy horizontal scroll of cure light~
+Desc a moldy horizontal scroll of cure light~
+ExtF 65
+Extra2Flags 131072
+Wear -1
+Lev  7
+Time 1967
+Cost 1399
+Val  6 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 38
+Nest 0
+Name a fuchsia silk purse~
+ShD  a fuchsia silk purse~
+Desc a fuchsia silk purse~
+ExtF 64
+WeaF 16385
+Wt   2
+Material silk~
+Wear -1
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   7  14          0
+Affc 'reserved'   0   0  -1  -2  24          0
+End
+
+#O
+Vnum 38
+Nest 0
+Name a white velvet backpack~
+ShD  a white velvet backpack~
+Desc a white velvet backpack~
+ExtF 64
+WeaF 1025
+Wt   2
+Material velvet~
+Wear -1
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   1   3          0
+Affc 'reserved'   0   0  -1   2   5          0
+End
+
+#O
+Vnum 35
+Nest 0
+Name a necklace of displacement~
+ShD  a necklace of displacement~
+Desc a necklace of displacement~
+ExtF 1090519105
+Extra2Flags 131072
+WeaF 5
+Wear -1
+Lev  8
+Cost 2250
+Val  8 9 6 111 0
+Spell 3 'displacement'
+End
+
+#O
+Vnum 1079
+Nest 0
+Wear 13
+Cost 100
+End
+
+#O
+Vnum 2214
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 2215
+Nest 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 2216
+Nest 0
+Cond 99
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 2217
+Nest 0
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 28
+Nest 0
+Name a opaline, effervescent potion of cure serious~
+ShD  a opaline, effervescent potion of cure serious~
+Desc a opaline, effervescent potion of cure serious~
+ExtF 16777280
+Wear -1
+Lev  10
+Cost 1650
+Val  12 28 0 0 0
+Spell 1 'cure serious'
+End
+
+#O
+Vnum 2210
+Nest 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 2211
+Nest 0
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 2210
+Nest 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 2211
+Nest 0
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6
+Nest 0
+Name a lambskin scroll of blade barrier~
+ShD  a lambskin scroll of blade barrier~
+Desc a lambskin scroll of blade barrier~
+ExtF 67
+Wear -1
+Lev  4
+Cost 1001
+Val  5 145 0 0 0
+Spell 1 'blade barrier'
+End
+
+#O
+Vnum 18
+Nest 0
+Name a torch of wandering~
+ShD  a torch of wandering~
+Desc a torch of wandering~
+ExtF 64
+WeaF 16385
+Ityp 1
+Material diamond~
+Wear -1
+Lev  8
+Cost 1050
+Val  0 1 810 0 0
+Affc 'reserved'   0   0  -1   4  14          0
+End
+
+#END

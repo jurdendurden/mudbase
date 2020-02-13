@@ -1,0 +1,68 @@
+#AREADATA
+Deprecated 0
+Name Clanhall: Acolyte~
+Builders None~
+VNUMs 9100 9199
+Levels 5 40
+Credits Upro~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 1
+Flags 34
+Faction (null)~
+History (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9100
+{WAcyolyte{x Clanhall~
+~
+0 1074790404 0
+0
+0
+0
+M 75 H 75
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 52 0 9100 The {wacolyte{x clan vault loaded to {WAcyolyte{x Clanhall
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

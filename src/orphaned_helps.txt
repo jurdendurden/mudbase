@@ -1,0 +1,2919 @@
+[ 3001] Flugh: edit
+[ 3001] Flugh: olc
+[ 3001] Flugh: olc edit
+[ 3001] Flugh: alist
+[ 8718] Upro: pretitle
+[ 8718] Upro: no_help
+[ 8718] Upro: nohelp
+[ 3010] Upro: shop
+[ 5261] Upro: bounty
+[ 3001] Upro: act
+[ 3712] Upro: bank
+[ 3015] Ona: finger
+[ 3719] Weiland: finger
+[ 3712] Weiland: checkwpn
+[ 3712] Weiland: sectortypes
+[ 3712] Weiland: sector
+[ 3054] Weiland: donate
+[ 3054] Weiland: dig
+[ 3040] Weiland: midgaard
+[ 3013] Weiland: savearea
+[ 3015] Weiland: donate
+[ 3701] Weiland: undig
+[ 1004] Weiland: asave
+[ 1006] Weiland: mset
+[ 1006] Weiland: wearloc
+[ 1006] Weiland: damnumdice
+[ 1006] Weiland: mpdump
+[ 1013] Weiland: addmin
+[ 1013] Weiland: colors
+[ 1013] Weiland: addaffect
+[ 1013] Upro: imotd
+[ 1013] Upro: imotd
+[ 9800] Upro: imotd
+[ 9800] Upro: imotd
+[ 9800] Upro: imotd
+[ 9800] Upro: imotd
+[ 9800] Upro: imotd
+[ 9800] Upro: imotd
+[ 9800] Upro: imotd
+[ 9800] Upro: imotd
+[ 9800] Upro: imotd
+[ 3700] Upro: rpedit
+[ 3700] Upro: imotd
+[ 1010] Weiland: imotd
+[ 3700] Upro: mpecho
+[ 1016] Weiland: mpedit
+[ 3702] Weiland: imotd
+[ 1016] Upro: imotd
+[ 1016] Weiland: imotd
+[ 1016] Weiland: opstat
+[ 1016] Weiland: echo
+[ 3700] Maximmus: upro
+[ 3716] Maximmus: bulk
+[ 3716] Maximmus: renfall
+[ 1016] Upro: imotd
+[ 1016] Upro: imotd
+[ 3713] Upro: imotd
+[ 3713] Upro: imotd
+[ 3716] Upro: post
+[ 3700] Krilantis: imotd
+[ 1016] Weiland: imotd
+[ 1016] Weiland: deities
+[ 1016] Weiland: gods
+[ 3716] Upro: imotd
+[ 3716] Upro: imotd
+[ 3717] Barakan: mclass
+[ 1016] Weiland: colors
+[ 1016] Upro: shop
+[ 1016] Upro: shopkeeper
+[    0] Delvar: odoma
+[ 1200] Upro: mclass
+[ 1200] Upro: all
+[ 1004] Weiland: paladin
+[ 1026] Weiland: ocopy
+[    0] Septimus: gods
+[    0] Septimus: iato
+[    0] Aleda: phytar
+[    0] Aleda: gods
+[    0] Aleda: ishen
+[    0] Aleda: iato
+[    0] Aleda: gods
+[    0] Aleda: gods
+[    0] Cilas: gods
+[    0] Cilas: ishen
+[    0] Cilas: phytar
+[    0] Marton: halfling
+[    0] Marton: gnome
+[    0] Marton: phy
+[    0] Marton: phytar
+[    0] Marton: ishen
+[    0] Marton: iato
+[    0] Marton: odoma
+[    0] Marton: andora
+[ 3719] Marton: class
+[ 3719] Marton: class
+[    0] Laric: gnome
+[    0] Laric: ishen
+[    0] Laric: gods
+[    0] Laric: gods
+[    0] Laric: ishne
+[    0] Laric: iato
+[    0] Zandy: phytar
+[ 3721] Zandy: communication
+[ 3721] Zandy: channels
+[ 1009] Upro: channel
+[ 1009] Upro: talk
+[ 3722] Zandy: channel
+[ 3722] Zandy: ooc
+[    0] Midnight: gnome
+[    0] Midnight: odoma
+[    0] Midnight: lirannon
+[    0] Nydie: gods
+[    0] Nydie: gods
+[    0] Nydie: phytar
+[ 3701] Nydie: sex
+[    0] Sefforous: gods
+[    0] Sefforous: phytar
+[    0] Sefforous: ishen
+[ 3713] Sefforous: mota
+[    0] Rexfelis: gods
+[    0] Rexfelis: phytar
+[    0] Rexfelis: gods
+[    0] Rexfelis: gods
+[    0] Rexfelis: andora
+[ 1041] Weiland: clone
+[    0] Marielle: gods
+[    0] Marielle: ishen
+[    0] Marielle: gods
+[ 1047] Weiland: exitmaking
+[    0] Adamu: half orc
+[    0] Adamu: gods
+[    0] Adamu: gods
+[    0] Adamu: phytar
+[    0] Adamu: gods
+[ 3700] Adamu: phytar
+[ 3700] Adamu: diety
+[ 9800] Upro: trap
+[ 1052] Weiland: classes
+[ 1056] Weiland: clone
+[ 1056] Weiland: classes
+[ 1056] Weiland: clas
+[ 1056] Weiland: class
+[ 2027] Upro: trap
+[ 1055] Weiland: mob kill
+[ 1055] Weiland: area explore
+[ 1055] Weiland: aquest
+[ 1069] Weiland: hitdam
+[ 1069] Weiland: hitdam
+[ 1069] Weiland: hitdamage
+[ 3701] Ragnar: damage
+[ 3701] Ragnar: kill
+[ 2027] Ragnar: guild points
+[ 2027] Ragnar: class
+[ 2027] Ragnar: classes
+[ 2027] Ragnar: news
+[ 2027] Ragnar: story
+[ 2029] Ragnar: prereq
+[ 2037] Upro: 42
+[ 2037] Upro: advance
+[ 2037] Upro: level
+[ 2037] Upro: test
+[ 2037] Upro: quickmud
+[ 2037] Upro: mud
+[ 1076] Weiland: help
+[ 2037] Ragnar: hedit
+[ 2037] Ragnar: settrap
+[ 2037] Ragnar: steer
+[ 2037] Ragnar: raise
+[ 2037] Ragnar: dock
+[ 2037] Ragnar: cannon
+[ 2027] Ragnar: levels
+[ 2027] Ragnar: note
+[ 2027] Ragnar: note
+[ 2027] Ragnar: board
+[ 2027] Ragnar: note
+[ 2027] Ragnar: wizlist
+[ 3727] Upro: symbol
+[ 3727] Upro: class
+[ 3727] Upro: level
+[ 1091] Weiland: clone
+[ 1091] Weiland: note
+[ 1091] Weiland: note
+[ 1086] Weiland: colours
+[ 1086] Weiland: color
+[ 1086] Weiland: colors
+[ 1086] Weiland: colour
+[ 2100] Krilantis: prompt
+[ 1112] Weiland: use
+[ 1112] Weiland: oprogs
+[ 1117] Upro: bank
+[ 2027] Upro: swim
+[ 1116] Upro: guildrtanks
+[ 1116] Upro: guildranks
+[ 3700] Lynx: wizlist
+[ 3700] Lynx: wizlist
+[ 2017] Upro: prompt
+[ 2017] Upro: wizlist
+[ 1024] Lynx: quest gain
+[ 1024] Upro: detect hidden
+[ 1024] Upro: requisites
+[ 1024] Upro: channel
+[ 1024] Upro: gods
+[ 1024] Upro: mota
+[ 1024] Upro: checkwpn
+[ 1024] Upro: sector
+[ 1024] Upro: asave
+[ 2042] Upro: level
+[ 3714] Jeridan: ireset
+[ 3714] Jeridan: ireset
+[ 3714] Jeridan: clone
+[ 3700] Ragnar: help
+[ 3700] Ragnar: story
+[ 3700] Ragnar: hunger
+[ 3700] Ragnar: thirst
+[ 3700] Ragnar: condition
+[ 3700] Ragnar: score
+[ 3700] Ragnar: armor
+[ 1010] Krilantis: note
+[ 2116] Krilantis: wiznet
+[ 1139] Weiland: color
+[ 1139] Weiland: colors
+[ 1139] Weiland: colour
+[ 1139] Weiland: summary
+[ 1141] Weiland: warpstone
+[ 1075] Weiland: note
+[ 1075] Weiland: boards
+[ 1075] Weiland: board
+[ 1075] Weiland: notes
+[ 1075] Weiland: note
+[ 1152] Weiland: damdcie
+[ 1152] Weiland: plant
+[ 1156] Weiland: note
+[ 2116] Krilantis: wiznet
+[ 2116] Krilantis: net
+[ 3702] Doreen: notes
+[ 3702] Doreen: note
+[ 2016] Doreen: quests
+[ 2016] Doreen: rlist
+[ 1139] Weiland: stone meld
+[ 1180] Weiland: tier
+[ 1181] Weiland: changestaff
+[    2] Upro: diku
+[    2] Upro: imotd
+[ 2300] Upro: note
+[ 1032] Upro: summary
+[ 1032] Upro: summary
+[ 1032] Upro: all
+[ 1032] Upro: credit
+[ 1032] Upro: credits
+[ 1032] Upro: bleed
+[ 1032] Upro: train
+[ 1032] Upro: train
+[ 1032] Upro: practice
+[ 1032] Upro: summary
+[ 1032] Upro: diku
+[ 1032] Upro: diku
+[ 1032] Upro: min
+[ 1032] Upro: mine
+[ 1032] Upro: slist
+[ 1032] Upro: addhgp
+[ 1032] Upro: addgp
+[ 1032] Upro: pretitle
+[ 1032] Upro: rename
+[ 1032] Upro: skillstat
+[ 1032] Upro: holylight
+[ 1032] Upro: paladin
+[ 1032] Upro: fighter
+[ 1032] Upro: warrior
+[ 3700] Duncan: board
+[    0] Caseus: gods
+[    0] Nix: halfling
+[    0] Nix: halfling
+[ 3700] Caseus: god
+[ 3712] Nix: satin
+[ 3713] Caseus: satin
+[ 1032] Upro: halfling
+[ 1032] Upro: satin
+[ 1032] Upro: gnome
+[ 1032] Upro: orc
+[ 1032] Upro: half elf
+[ 3700] Shael: color
+[ 3700] Shael: colour
+[ 3700] Shael: ansi
+[ 3758] Morsaii: wisdom
+[ 3701] Morsaii: mining
+[ 3701] Morsaii: death
+[ 3700] Raymes: ireset
+[ 3700] Katago: plant
+[ 3700] Katago: plant
+[ 3700] Katago: channel
+[ 1024] Lynx: ship
+[ 3759] Lynx: class
+[ 1051] Katago: motivation
+[ 1126] Katago: guild quest gain
+[ 3700] Upro: renam
+[ 1010] Katago: guild points
+[ 1010] Katago: guildpoints
+[ 1010] Katago: sleep
+[ 1010] Katago: hp
+[ 1010] Katago: hp gain
+[ 3757] Weiland: note
+[ 3757] Weiland: note
+[ 3757] Weiland: notes
+[    0] Sevrior: drow
+[    0] Sevrior: halfelf
+[    0] Sevrior: half-orc
+[    0] Sevrior: gods
+[ 3702] Sevrior: pfcd
+[ 3703] Sevrior: compact
+[ 3758] Brahmus: colour
+[ 3758] Brahmus: class
+[ 3758] Brahmus: class
+[ 3729] Brahmus: level
+[ 3753] Brahmus: prompt
+[ 2203] Weiland: class
+[ 3737] Brahmus: prompt
+[ 1018] Brahmus: clases
+[ 1018] Brahmus: classes
+[ 1018] Brahmus: class
+[ 1063] Brahmus: mage
+[ 1063] Brahmus: mag
+[ 1016] Brahmus: money
+[ 1016] Brahmus: worth
+[ 1078] Brahmus: title
+[ 1078] Brahmus: title
+[ 1065] Brahmus: suggested prompts
+[ 1109] Upro: pretitle
+[ 3700] Brahmus: corpse
+[  100] Upro: language
+[  100] Upro: money
+[  100] Upro: title
+[  100] Upro: title
+[  100] Upro: pretitle
+[  100] Upro: note
+[  100] Upro: class
+[    0] Ponnet: gods
+[ 1012] Ponnet: directions
+[  100] Upro: area
+[ 1126] Ponnet: newbie quest
+[ 1010] Katago: gain list
+[ 1010] Katago: hand parry
+[ 1010] Ponnet: quet
+[ 2208] Ponnet: audible glamour
+[ 2220] Broundar: note
+[ 2102] Krilantis: wiznet
+[ 2220] Uzi: summary
+[ 2220] Uzi: level
+[ 2220] Upro: note
+[ 2131] Krilantis: extension
+[ 2100] Krilantis: wiznet
+[ 3758] Ixan: wis
+[ 3758] Ixan: wisdom
+[ 3758] Ixan: stats
+[ 1078] Ixan: shillelagh
+[ 2100] Upro: wisdom
+[ 2100] Upro: strength
+[ 2016] Upro: build
+[ 2126] Katago: note
+[ 2126] Katago: note
+[ 1010] Krilantis: note
+[ 1010] Krilantis: note
+[ 1010] Krilantis: notes
+[ 1010] Krilantis: board
+[ 2125] Krilantis: who
+[ 1010] Broundar: grank
+[11000] Krilantis: note
+[    0] Ganjah: drow
+[    0] Ganjah: duergar
+[    0] Ganjah: gods
+[ 3700] Ganjah: rare
+[ 3700] Ganjah: items
+[ 3700] Ganjah: equip
+[ 3700] Ganjah: summary
+[ 3700] Ganjah: summary
+[30000] Upro: item_furniture
+[30000] Upro: item_furniture
+[ 6000] Toxis: goto
+[ 6000] Toxis: holylight
+[ 6000] Toxis: addmin
+[ 6000] Toxis: summary
+[ 6000] Toxis: cure light
+[ 6000] Toxis: vision
+[ 6000] Toxis: cure light
+[ 6000] Toxis: spell cure light
+[ 6000] Toxis: poofin
+[ 6000] Toxis: force
+[ 6000] Toxis: imotd
+[ 6000] Toxis: imotd
+[ 6000] Toxis: silence
+[ 2100] Upro: note
+[ 3725] Amendel: stat
+[ 2268] Weiland: note
+[ 2263] Weiland: damdice 15d8+30
+[    0] Kraw: gods
+[ 3700] Kraw: build
+[ 3700] Kraw: building
+[ 3700] Kraw: summary
+[ 3744] Kraw: board
+[ 3744] Kraw: help
+[ 3744] Kraw: desc
+[ 3758] Kraw: level gain
+[ 1031] Kraw: mosgha woods
+[    0] Zyntradox: duergar
+[ 1010] Zyntradox: foraging
+[ 1043] Zyntradox: gem
+[ 1043] Zyntradox: inset
+[ 1044] Zyntradox: inlay
+[ 2353] Zyntradox: wrath
+[ 2353] Zyntradox: cook
+[ 2353] Zyntradox: cooking
+[ 2353] Zyntradox: material
+[ 2353] Zyntradox: mining
+[30000] Zyntradox: worship
+[30000] Zyntradox: ship
+[30000] Zyntradox: boat
+[30000] Zyntradox: boating
+[ 2200] Zyntradox: imotd
+[ 2200] Zyntradox: imotd
+[ 1085] Tiradric: morgue
+[ 3700] Zyntradox: gem
+[ 3700] Zyntradox: gems
+[ 3705] Silence: color
+[ 3705] Silence: ansi
+[ 3721] Silence: recite
+[ 3721] Silence: bleeding
+[ 3721] Silence: bleed
+[ 3759] Silence: beep
+[10000] Weiland: ship
+[ 3718] Weiland: study
+[ 3726] Weiland: learn
+[ 1007] Nefar: morgue
+[ 2241] Silence: learn
+[ 1010] Silence: shillelagh
+[ 1010] Delvar: morg
+[ 1010] Delvar: first aid
+[ 1010] Delvar: first
+[ 2326] Barakan: auction
+[ 1010] Silence: auction
+[ 1057] Krahe: guid
+[ 1010] Krahe: quit
+[ 1010] Krahe: quitting
+[ 2100] Delvar: size
+[ 1010] Flix: guild gain
+[ 1010] Flix: guildgain
+[ 1009] Flix: summary
+[ 1009] Flix: guil;dranks
+[ 2148] Flix: guild points
+[ 1010] Delvar: prospecting
+[ 1010] Flix: areas
+[ 2250] Flix: building
+[ 3700] Moss: wiznet
+[ 3700] Bakall: color
+[ 3700] Bakall: ansi
+[ 3759] Bakall: vocal shield
+[ 3759] Bakall: vocal
+[    0] Zeldent: half ogre
+[ 2203] Ponnet: class
+[ 2203] Ponnet: classes
+[ 1010] Upro: note
+[ 2203] Ponnet: ethereal
+[ 2206] Silence: faith
+[ 3700] Trek: speak
+[ 3700] Trek: talk
+[ 3700] Trek: ooc
+[ 3700] Trek: summary
+[ 3700] Trek: communicate
+[ 3700] Trek: chat
+[ 3700] Trek: narratge
+[ 3700] Trek: narrate
+[ 3700] Trek: talk
+[ 3700] Trek: lang
+[ 1039] Silence: charge
+[ 1007] Silence: disrupt undead
+[    1] Upro: qmconfig
+[ 2416] Weiland: color
+[ 2416] Weiland: colors
+[ 2346] Krilantis: cure
+[ 1007] Silence: chill touch
+[ 1071] Ponnet: auction
+[ 1010] Silence: class
+[ 1010] Silence: classes
+[ 1010] Silence: plant
+[ 1035] Silence: sieve
+[  100] Upro: finger
+[  100] Upro: checkwpn
+[  100] Upro: addmin
+[  100] Upro: class
+[  100] Upro: gods
+[  100] Upro: holylight
+[  100] Upro: mining
+[  100] Upro: level
+[  100] Upro: grank
+[  100] Upro: foraging
+[  100] Upro: morgue
+[ 1064] Silence: note
+[ 1064] Silence: note
+[ 1064] Silence: note
+[ 3000] Zyntradox: color
+[ 3000] Zyntradox: colour
+[ 3000] Zyntradox: colour2
+[ 2424] Weiland: colours
+[ 2424] Weiland: color
+[ 2424] Weiland: colors
+[ 3000] Zyntradox: builder
+[ 1041] Ponnet: ethereal
+[ 2250] Ponnet: disint
+[ 1010] Ponnet: dual
+[ 3700] Mynduil: ooc
+[ 3700] Mynduil: channels
+[  100] Mynduil: board
+[  100] Mynduil: board
+[  100] Mynduil: summary
+[  100] Mynduil: wiznet
+[ 1010] Katago: who
+[ 2319] Silence: who
+[ 3700] Leeman: pray
+[  100] Leeman: wiznet
+[    0] Pallo: drow
+[    0] Pallo: drow
+[    0] Pallo: drow
+[  100] Upro: note
+[ 3000] Zyntradox: rpstat
+[  100] Leeman: pretitle
+[  100] Leeman: gecho
+[ 1010] Orolin: note
+[ 1011] Orolin: set
+[ 1011] Orolin: wiznet
+[    1] Orolin: colors
+[  100] Leeman: wiznet
+[    1] Orolin: note
+[    0] Icaron: duergar
+[ 1010] Weiland: movement
+[ 1010] Weiland: exits
+[ 1010] Weiland: summary
+[ 1010] Weiland: help
+[ 1010] Weiland: commands
+[ 1043] Upro: note
+[ 1043] Upro: note
+[ 1043] Upro: note
+[ 1007] Upro: note
+[ 1007] Upro: note
+[ 2131] Upro: note
+[ 1009] Silence: note
+[ 2417] Upro: note
+[ 1007] Upro: first
+[ 1010] Gyb: imbue
+[ 1019] Upro: summary
+[ 1019] Upro: note
+[ 1019] Upro: stone meld
+[ 1044] Upro: resistance
+[ 3700] Jaegar: eq
+[ 3700] Jaegar: flags
+[ 3700] Jaegar: pfct
+[ 1044] Upro: zap
+[ 1044] Upro: all
+[ 9800] Upro: summary
+[ 3700] Upro: note
+[ 3700] Upro: board
+[    0] Vivi: half elf
+[ 1010] Keio: score
+[ 1010] Keio: level
+[ 1010] Keio: circle
+[ 3702] Vivi: bleeding
+[ 3702] Vivi: blood
+[ 3759] Steklo: vocal shield
+[ 3759] Steklo: vocal
+[ 3759] Steklo: cast
+[ 3759] Steklo: cast
+[ 3700] Steklo: board
+[ 3700] Steklo: read
+[ 3712] Steklo: list
+[  100] Upro: learn
+[ 3733] Steklo: crafting
+[ 3712] Steklo: abrazak
+[ 3758] Steklo: convert
+[ 3759] Steklo: create spring
+[ 3712] Steklo: near
+[ 3712] Steklo: condition
+[ 3712] Steklo: create spring
+[ 3712] Steklo: spring
+[ 3712] Steklo: auction
+[ 3700] Steklo: tell
+[ 1010] Steklo: enlarge
+[ 1010] Steklo: area
+[ 3712] Steklo: bleed
+[ 3712] Steklo: first aid
+[ 3712] Steklo: aid
+[ 3712] Steklo: bandage
+[ 3758] Duncan: circl
+[ 3758] Duncan: circle
+[ 3753] Brahmus: detect secret
+[ 3701] Duncan: zump
+[ 2348] Steklo: zap
+[ 2348] Steklo: zap
+[ 2347] Steklo: guild/quest/gain
+[ 1010] Brahmus: stats
+[ 1010] Brahmus: int
+[    0] Brahmus: drow
+[    0] Brahmus: drow
+[ 2336] Steklo: moshga
+[ 1010] Steklo: sacrifice
+[ 2351] Steklo: sleep
+[ 2055] Steklo: movement
+[ 3758] Brahmus: wis
+[ 3758] Brahmus: dexterity
+[ 2311] Upro: door
+[ 1010] Steklo: death
+[ 2351] Steklo: summary
+[ 2351] Steklo: 3
+[ 2351] Steklo: blade barrier
+[ 2351] Steklo: barrier
+[ 2351] Steklo: blade
+[ 2351] Steklo: bow
+[ 2351] Steklo: fletching
+[ 2351] Steklo: ranged
+[ 2351] Steklo: summary
+[ 1007] Steklo: alchemy
+[ 1007] Steklo: identify
+[ 2346] Steklo: cleric spells
+[ 3723] Cedrin: wizard skills
+[ 1010] Steklo: refresh
+[ 1010] Steklo: feeblemind
+[ 1010] Steklo: summary
+[ 1010] Steklo: first
+[ 2060] Cedrin: home
+[ 2060] Cedrin: houses
+[    1] Orolin: god channel
+[ 3757] Jack: summary
+[ 1010] Steklo: news
+[ 1010] Steklo: board
+[ 3712] Steklo: lightning
+[ 1007] Steklo: communication
+[ 2351] Steklo: refresh
+[ 2351] Steklo: movement
+[ 1011] Upro: board
+[    0] Cooper: drow
+[    0] Cooper: drow
+[    0] Cooper: duergar
+[ 3712] Steklo: zap
+[ 3712] Steklo: summary
+[ 3712] Steklo: recite
+[ 2346] Steklo: quaff
+[ 3712] Steklo: drink
+[ 1010] Steklo: drink
+[ 1010] Steklo: quaff
+[ 2316] Steklo: communicate
+[ 1010] Vaishal: half ogre
+[ 1010] Vaishal: ogre
+[ 1010] Vaishal: thirf
+[ 3758] Morsaii: stunfist
+[ 3758] Morsaii: classes
+[ 1010] Vaishal: death
+[ 3721] Vaishal: death
+[ 3721] Vaishal: kill
+[ 3721] Vaishal: summary
+[    0] Zeke: duergar
+[    0] Zeke: duergar
+[    0] Zeke: duergar
+[ 3758] Zeke: int
+[ 3758] Zeke: intelligence
+[ 3702] Vaishal: ishebn
+[ 3702] Vaishal: lightning
+[ 3702] Vaishal: mage
+[ 3702] Vaishal: intelligence
+[ 3702] Vaishal: summary
+[    0] Thorne: drow
+[    0] Thorne: drow
+[ 3700] Hephaestus: colors
+[ 3700] Hephaestus: pcolor
+[ 3700] Hephaestus: color
+[ 3700] Hephaestus: ansi
+[ 3700] Vaishal: board
+[ 3734] Vaishal: shocking grasp
+[ 3734] Vaishal: chill touch
+[ 3734] Vaishal: magic missile
+[ 1010] Brahmus: convert
+[ 3712] Cooper: wiznet
+[ 3712] Cooper: pretitle
+[ 3712] Cooper: imotd
+[ 3712] Cooper: imotd
+[ 3712] Cooper: smote
+[ 3712] Cooper: prefix
+[ 3712] Cooper: autodig
+[ 3712] Cooper: ftick
+[  100] Cooper: nesting
+[  100] Upro: builder
+[  100] Cooper: wiznet
+[  100] Cooper: addapply
+[ 2600] Cooper: objecttypes
+[ 2600] Cooper: note
+[ 2600] Cooper: board
+[ 2600] Cooper: clans
+[ 3712] Xantar: sanc
+[ 3720] Xantar: damage
+[ 3700] Xantar: spec
+[ 3700] Xantar: summary
+[ 1007] Xantar: quiest
+[ 1007] Xantar: guild points
+[ 1007] Xantar: rank
+[ 1007] Xantar: level
+[ 2025] Xantar: rare
+[ 2025] Xantar: items
+[ 2025] Xantar: blacksmithing
+[ 2025] Xantar: wrath
+[ 1010] Xantar: prename
+[ 1010] Xantar: rank
+[ 1010] Xantar: raise
+[ 1007] Xantar: audible glamor
+[ 2473] Xantar: sanct
+[ 2473] Xantar: sanctuary
+[ 2206] Xantar: con
+[ 2223] Xantar: items
+[ 2415] Xantar: shocking grasp
+[ 2415] Xantar: magic missile
+[ 1010] Steklo: sing
+[ 2359] Grok: summary
+[  102] Upro: stuff
+[ 1010] Xantar: summary
+[ 1010] Xantar: flame
+[ 1010] Xantar: sanctuary
+[ 1010] Xantar: half elf
+[ 1010] Xantar: drow
+[ 1010] Upro: item_portal
+[ 3759] Ilanthas: track
+[ 3759] Ilanthas: tracking
+[  101] Upro: tracking
+[    0] Xaxyx: half ogre
+[    0] Xax: half ogre
+[    0] Xax: ogre
+[    0] Xax: half_ogre
+[ 3758] Xax: str
+[ 3758] Xax: strength
+[ 3758] Xax: train str
+[ 3758] Xax: stats
+[ 3758] Xax: attributes
+[ 2437] Steklo: recite
+[ 2437] Steklo: brandish
+[ 1064] Steklo: blacksmithing
+[ 1064] Steklo: crescendo
+[ 3700] Ilanthas: qauest
+[    0] Selenius: half elf
+[    0] Selenius: drow
+[    0] Selenius: drow
+[    0] Selenius: drow
+[    0] Shero: duergar
+[    0] Shero: duerg
+[    0] Griznak: duergar
+[ 2302] Griznak: summary
+[ 2304] Griznak: craft
+[ 2304] Griznak: craft
+[ 1010] Xantar: gather
+[ 1007] Xantar: mana shield
+[ 1010] Xantar: half elf
+[ 1010] Xantar: halfelf
+[ 1010] Xantar: half-elf
+[ 1034] Xantar: summary
+[ 2302] Jiriel: light
+[ 2324] Jiriel: guild points
+[ 1019] Jiriel: drow
+[ 1010] Arloc: trainer
+[ 1010] Arloc: palm strike
+[ 2266] Xantar: acid blast
+[ 1010] Arloc: pressure fist
+[ 1010] Arloc: palm strike
+[ 1010] Arloc: palm
+[ 1010] Arloc: engage
+[ 1010] Arloc: identify
+[ 1010] Xantar: fear
+[    0] Ishtara: odama
+[ 2302] Ishtara: chat
+[ 3758] Ishtara: int
+[ 3758] Ishtara: intelligence
+[ 3759] Ishtara: alignment
+[ 3759] Ishtara: summary
+[ 3704] Ishtara: magic missile
+[ 1010] Xantar: cast
+[ 3707] Ishtara: magic
+[ 1010] Ishtara: academy
+[ 3712] Ishtara: level
+[ 2404] Arloc: material
+[ 2345] Balderov: story
+[ 1010] Malyki: black
+[ 1010] Malyki: blacksmithing
+[ 2462] Shero: half ogre
+[ 3701] Shero: lay
+[ 1010] Trall: board
+[ 3712] Vaishal: continual light
+[ 3742] Vaishal: half elf
+[ 3742] Vaishal: halfelf
+[ 3742] Vaishal: summary
+[ 3742] Vaishal: half+elf
+[ 3742] Vaishal: half_ogre
+[ 2354] Upro: type
+[ 1010] Griznak: ansi
+[ 1010] Griznak: summary
+[ 2500] Griznak: material
+[ 2500] Griznak: quality
+[ 2500] Griznak: cost
+[ 2500] Griznak: apply
+[ 2500] Griznak: cost
+[    0] Aralus: half-elf
+[    0] Aralus: half elf
+[ 3751] Ponnet: chill touch
+[    0] Mirinya: androa
+[ 1010] Aralus: getting started
+[ 2700] Upro: oofin
+[ 2700] Upro: poofin
+[ 1010] Trall: sockets
+[  101] Upro: hedit_new
+[  101] Upro: hedit
+[ 1010] Trall: stat
+[ 2700] Trall: autodig
+[ 2700] Trall: areset
+[ 2700] Trall: mpedit
+[ 2700] Trall: material
+[ 2316] Balderov: summary
+[ 2600] Cooper: area
+[ 2600] Cooper: area
+[ 2600] Cooper: area
+[ 2600] Cooper: oset
+[ 2700] Trall: elite
+[ 2500] Griznak: olc-room
+[ 2500] Griznak: material
+[ 2600] Cooper: commands
+[ 2500] Griznak: load
+[ 2500] Griznak: wearfloat
+[ 2500] Griznak: mage
+[ 2500] Griznak: sanctuary
+[    0] Riol: duergar
+[    0] Riol: duergar
+[ 2600] Cooper: opedit
+[    0] Lorth: drow
+[ 3712] Lorth: summary
+[ 3720] Lorth: light
+[ 3719] Lorth: light
+[ 3719] Lorth: darkness
+[ 3719] Lorth: all
+[ 1013] Weiland: alchemy
+[ 2600] Cooper: oprog
+[ 2600] Cooper: wclass
+[ 2500] Griznak: wiz commands
+[ 2500] Griznak: title
+[ 3700] Upro: item_portal
+[ 3700] Upro: item_portal
+[ 1059] Striker: pracc
+[ 2500] Griznak: force
+[ 2500] Griznak: room
+[ 1009] Ilanthas: armor class
+[ 1009] Ilanthas: ac
+[ 1010] Steklo: duergar
+[ 1010] Steklo: drow
+[    0] Steklo: half ogre
+[ 1010] Aralus: death
+[ 1010] Aralus: dieing
+[ 1010] Aralus: die
+[ 1010] Aralus: dieing
+[ 3713] Steklo: bless
+[    0] Ilorial: half elf
+[ 1010] Ilanthas: engage
+[ 1010] Aralus: stats
+[ 1010] Aralus: str
+[ 1010] Aralus: strength
+[ 1010] Aralus: stat
+[ 1010] Aralus: halflling
+[ 1010] Aralus: maximum statistics
+[ 1010] Aralus: statistics
+[ 1010] Aralus: half ogre
+[ 1010] Aralus: half ogre
+[ 1010] Aralus: duergar
+[ 1010] Aralus: drow
+[ 1010] Galt: cooking
+[ 3744] Galt: half elf
+[ 3707] Lorth: summary
+[ 3759] Steklo: detect magic
+[ 2341] Steklo: recite
+[ 1007] Steklo: convert
+[ 1010] Steklo: note
+[ 1010] Steklo: board
+[ 1010] Steklo: note
+[ 1010] Steklo: note
+[ 1010] Steklo: note
+[ 1010] Steklo: note
+[ 1010] Steklo: note
+[ 1010] Steklo: note
+[ 1010] Steklo: note
+[ 1010] Steklo: note
+[ 1010] Steklo: note
+[ 1010] Steklo: note
+[ 1010] Steklo: note
+[ 1010] Steklo: note
+[ 1010] Steklo: note
+[  122] Griznak: board
+[  122] Griznak: boards
+[ 1010] Steklo: curse
+[ 2341] Steklo: silver
+[ 2501] Griznak: autodig
+[ 1147] Striker: recite
+[ 1162] Striker: auction
+[ 1010] Steklo: embalm
+[ 2302] Sebius: lay hands
+[ 3759] Sebius: lay hands
+[ 3759] Letha: recall
+[ 2503] Griznak: flags
+[ 2336] Sebius: half ogre
+[ 3759] Steklo: detect secret
+[ 2344] Steklo: punch
+[ 3743] Eolis: note
+[ 3743] Eolis: notes
+[ 3743] Eolis: notes
+[ 3743] Eolis: ideas
+[ 3743] Eolis: notes
+[ 3743] Eolis: board
+[ 2504] Griznak: note
+[ 1010] Eolis: leveling
+[ 3721] Sebuius: bard spells
+[ 3721] Sebuius: half ogre
+[ 3721] Sebuius: ogre
+[ 3704] Steklo: duergar
+[ 3704] Steklo: save
+[ 1010] Striker: wield
+[ 1014] Striker: dual
+[ 1014] Striker: offhand
+[ 1010] Striker: dual wield
+[ 1010] Striker: dualwield
+[ 2504] Griznak: note
+[ 2505] Griznak: nedit
+[ 2508] Griznak: blacksmithing
+[    0] Sinverguenza: drow
+[    0] Sinverguenza: hytar
+[ 2302] Sinverguenza: shadow
+[ 2302] Sinverguenza: magic
+[ 2509] Upro: drow
+[ 2509] Upro: note
+[ 2509] Upro: nedit
+[ 2509] Upro: embalm
+[ 2509] Upro: strength
+[ 2509] Upro: intelligence
+[ 2509] Upro: duergar
+[ 2509] Upro: engage
+[ 1010] Eolis: hand parry
+[ 1010] Steklo: look
+[ 2343] Steklo: recite
+[ 2513] Griznak: door
+[ 2513] Griznak: exit flags
+[ 2512] Griznak: prefix
+[    0] Neco: half elf
+[ 3727] Neco: vocal shield
+[ 3757] Neco: levels
+[ 3757] Neco: level
+[ 3757] Neco: summary
+[ 3757] Neco: classes
+[ 3734] Neco: mage
+[ 3734] Neco: classes
+[ 3721] Tharn: sleep
+[ 3721] Tharn: rest
+[ 3742] Tharn: stats
+[ 3742] Tharn: dexterity
+[ 1024] Striker: trians
+[ 1024] Striker: trains
+[    1] Orolin: qedit
+[ 1010] Eolis: ironfist
+[ 3759] Aralus: multi class
+[ 3710] Savon: half ogre
+[ 1010] Aralus: blacksmithing
+[ 1010] Aralus: crafting
+[ 1010] Orolin: pecho
+[ 1010] Orolin: addapply
+[ 1010] Aralus: tayloring
+[ 1010] Aralus: blacksmith
+[ 1010] Aralus: crafting
+[ 1010] Aralus: craft
+[ 1010] Aralus: taylor
+[ 1010] Aralus: tailoring
+[ 1010] Aralus: tailor
+[ 1010] Galt: cooking
+[ 1010] Galt: shield spell
+[ 1010] Galt: shield_spell
+[ 1010] Galt: infravision
+[ 2355] Galt: continual light
+[ 2355] Galt: continual light'
+[ 1010] Galt: clans
+[ 2406] Galt: follow
+[  101] Upro: motdf
+[ 1013] Aralus: mprog
+[ 1010] Ilorial: fireseed
+[ 1010] Ilorial: fireseeds
+[ 1010] Ilorial: fire seeds
+[ 1010] Ilorial: fire seeds
+[    0] Norith: duergar
+[    0] Norith: half ogre
+[    0] Norith: duergar
+[    0] Norith: half elf
+[    0] Norith: halfelf
+[    0] Norith: naif
+[ 3721] Norith: changes
+[ 3739] Norith: shadow
+[ 3739] Norith: elemental
+[ 1010] Norith: corpse
+[ 1010] Norith: death
+[    0] Xadom: half ogre
+[ 2302] Xadom: shadow
+[ 3734] Xadom: guide
+[  101] Upro: racxe
+[    0] Flux: half elf
+[    0] Flux: half-elf
+[    0] Flux: durgar
+[    0] Carad: half elf
+[ 3758] Carad: wisdom
+[ 3758] Carad: wis
+[ 3758] Carad: int
+[ 3707] Carad: bleeding
+[ 1010] Carad: bleed
+[ 3701] Carad: affinity
+[ 3701] Carad: elemental
+[ 3701] Carad: element
+[ 1010] Carad: directions
+[ 1010] Carad: summary
+[ 1024] Striker: jewelcrafting
+[ 1024] Striker: jewel
+[ 1024] Striker: jewelcraft
+[ 1024] Striker: jewelcrafting
+[ 1024] Striker: jewel crafting
+[ 1024] Striker: apprentice
+[    1] Krilantis: blink
+[ 2027] Ixan: craft
+[ 2027] Ixan: cannon
+[ 1022] Ixan: classes
+[ 1024] Ixan: first
+[ 1020] Flux: retribution
+[ 1020] Flux: duergar
+[ 1020] Flux: half ogre
+[ 1082] Ixan: first
+[ 1166] Ponnet: chilling touch
+[ 1166] Ponnet: chill touch
+[ 1166] Ponnet: chill
+[ 1020] Flux: half elf
+[ 1020] Flux: half-elf
+[ 1010] Ponnet: corpse
+[ 1168] Ponnet: auction
+[ 1010] Delvar: alchemy
+[ 1177] Delvar: dig
+[ 1010] Delvar: list
+[ 3757] Fontwin: convert
+[ 1064] Fontwin: tailoring
+[ 1064] Fontwin: tailor
+[ 1064] Fontwin: sew
+[ 1020] Orolin: credits
+[ 1020] Orolin: credit
+[ 1064] Fontwin: blacksmithing
+[ 1020] Orolin: color
+[ 1020] Orolin: pcolor
+[ 1020] Orolin: colors
+[    2] Orolin: echo
+[ 2357] Ion: ares
+[ 2357] Ion: area
+[ 1085] Flux: level
+[ 1010] Slag: guild rank
+[ 1010] Slag: rank
+[ 1010] Slag: rank
+[ 1010] Slag: who
+[ 1010] Krilantis: summary
+[ 2248] Ponnet: magic missile
+[ 1071] Ponnet: changestaff
+[ 1010] Galt: half elf
+[ 1010] Galt: half-orc
+[ 1086] Flux: items
+[ 1086] Flux: loot
+[ 1086] Flux: wrath
+[ 1086] Flux: feeble
+[ 1086] Flux: vnum
+[ 1010] Fontwin: staff
+[ 1010] Fontwin: faerie fog
+[  101] Upro: hedit monk
+[ 1012] Fontwin: zone
+[  102] Ion: death
+[ 1010] Flux: fire breath
+[ 1010] Flux: ghoul touch
+[ 1059] Flux: shadow bolt
+[ 1051] Flux: extension
+[ 1059] Flux: confusion
+[ 1059] Flux: ancients
+[ 9800] Upro: wrath
+[ 1059] Flux: wrath
+[ 1059] Flux: wrath
+[ 1059] Flux: sunbeam
+[ 9800] Upro: frost
+[ 1047] Flux: blink
+[ 1047] Flux: met
+[ 1059] Flux: acid
+[ 1059] Flux: hedit
+[ 1059] Flux: regen
+[ 3758] Roland: wis
+[ 3758] Roland: wisdom
+[ 2451] Ponnet: auction
+[ 1010] Ion: auction
+[ 1085] Flux: shocking
+[ 1085] Flux: thorns
+[ 1010] Alexis: whisper
+[ 2810] Weiland: auction
+[ 1085] Flux: water
+[ 1085] Flux: blade
+[ 1085] Flux: bark
+[ 3720] Flux: fire storm
+[ 3760] Flux: fear
+[ 2046] Upro: cons
+[ 2472] Flux: gist
+[ 2472] Flux: gust
+[ 2472] Flux: animal
+[ 1166] Striker: bashdoor
+[ 1166] Striker: bash door
+[ 1166] Striker: door bash
+[ 1166] Striker: doorbash
+[ 1166] Striker: passdoor
+[ 1166] Striker: pass door
+[ 1010] Xantar: audible galmor
+[ 1010] Xantar: audible glamor
+[ 1168] Striker: light
+[ 1168] Striker: gainlist
+[ 1085] Ashtyn: want
+[ 1168] Striker: brand
+[ 1168] Striker: story
+[ 1024] Striker: alchemy
+[ 1024] Striker: blacksmithing
+[ 1024] Striker: blacksmithing
+[ 1010] Aralus: title
+[ 2302] ChrisBailey: summary
+[ 2357] ChrisBailey: elderberry
+[ 2345] Upro: story
+[ 1010] Aralus: palm strike
+[ 1010] Aralus: palmstrike
+[    1] Upro: hedit
+[  101] Upro: chill
+[ 2100] Allerion: hitroll
+[ 1020] Duncan: religion
+[ 1020] Duncan: wis
+[ 1020] Duncan: wisdom
+[ 1020] Duncan: cannon
+[ 1020] Duncan: story
+[ 1020] Duncan: story
+[ 1020] Duncan: diamond
+[ 1020] Duncan: diamonds
+[ 1010] Galt: noexp
+[ 1033] Galt: experience
+[ 1010] Galt: elderberry
+[    2] Orolin: noexp
+[ 1086] Aralus: coin
+[ 1086] Aralus: money
+[ 1086] Aralus: gold
+[ 1086] Aralus: silver
+[ 1086] Aralus: exchange
+[ 2453] Aralus: convert
+[    0] Evremonde: half ogre
+[    0] Evremonde: orge
+[    0] Evremonde: half ogre
+[ 2302] Phase: summary
+[    0] Tarnox: half elf
+[    0] Tarnox: half elf
+[    0] Tarnox: lato
+[ 2105] Allerion: holylight
+[ 2105] Allerion: imotd
+[ 2526] Griznak: room
+[ 2526] Griznak: room flag
+[ 2526] Griznak: flag
+[ 3761] Cormac: desc
+[ 3761] Cormac: hero
+[ 3720] Cormac: remort
+[ 1010] Cormac: rank
+[ 1060] Cormac: world
+[    0] Maegwen: half elf
+[    0] Maegwen: halfelf
+[ 1010] Maegwen: board
+[ 1010] Xantar: desc
+[ 1010] Xantar: summary
+[ 1010] Xantar: summary
+[ 1010] Aralus: walk description
+[    0] Ilanthas: half elf
+[ 2319] Tuck: mudschool
+[ 2319] Tuck: mud school
+[ 1033] Tuck: summary
+[ 3709] Radinast: wimpy
+[ 3709] Radinast: wimpy
+[ 3700] Radinast: green hills
+[ 2334] Radinast: detect secret
+[ 2334] Radinast: food
+[ 2334] Radinast: hunger
+[ 2334] Radinast: hungry
+[ 2319] Radinast: chops
+[ 2403] Radinast: story
+[ 2001] Radinast: thieves guild
+[ 3758] Adenfal: constitution
+[ 3758] Adenfal: stats
+[ 3758] Adenfal: stat
+[ 3758] Adenfal: cons
+[ 3758] Adenfal: constitution
+[ 3758] Adenfal: walk description
+[ 3721] Adenfal: rest
+[ 3759] Adenfal: detect magic
+[ 1009] Radinast: doublet
+[ 2302] Eitan: sword specialization
+[ 2302] Eitan: specialization
+[    2] Orolin: board
+[ 1010] Striker: corpse
+[ 1010] Striker: ping
+[    0] Reik: half ogre
+[    0] Reik: half ogre
+[    0] Reik: half_ogre
+[    0] Reik: halfogre
+[    0] Reik: ogre
+[ 3758] Reik: dexterity
+[ 3758] Reik: dex
+[ 3758] Reik: stats
+[ 3758] Reik: constitution
+[ 3758] Reik: intelligence
+[ 2519] Reik: gossip
+[ 2519] Reik: channels
+[ 1010] Reik: counter
+[ 1010] Reik: blacksmithig
+[ 1010] Reik: blacksmithing
+[ 1010] Reik: blacksmith
+[ 3712] Aragond: wisdom
+[ 3712] Aragond: stat
+[ 3712] Aragond: wis
+[ 3712] Aragond: communication
+[ 3712] Aragond: weight
+[ 3712] Aragond: inventory
+[ 3710] Aragond: pet
+[ 3710] Aragond: summary
+[ 3700] Yaiba: quit
+[ 3700] Yaiba: rent
+[ 3759] Yaiba: summary
+[    0] Drizzt: half elf
+[    0] Drizzt: half elf
+[    0] Drizzt: halfelf
+[    0] Drizzt: half orge
+[    0] Drizzt: half_orge
+[    0] Drizzt: half_ogre
+[    0] Drizzt: half ogre
+[    0] Drizzt: half ogre
+[    0] Drizzt: halfogre'
+[    0] Drizzt: halfogre
+[    0] Drizzt: half_ogre
+[    0] Drizzt: help iato
+[ 2302] Drizzt: summary
+[ 2302] Drizzt: summary
+[ 2302] Drizzt: summary
+[ 2302] Drizzt: summary
+[ 2302] Drizzt: summary
+[ 2316] Drizzt: summary
+[ 2316] Drizzt: story
+[ 2302] Rishken: craft
+[ 3721] Rishken: mage
+[ 3710] Rishken: wis
+[ 1010] Rishken: corpse
+[ 1033] Rishken: corpse
+[ 3735] Rishken: gain convert
+[ 1057] Rishken: blacksmithing
+[ 1057] Rishken: counter
+[ 1057] Rishken: alchemy
+[ 1010] Rishken: guild points
+[ 1010] Rishken: guild points
+[ 1024] Rishken: guild quest
+[ 1024] Rishken: guild points
+[ 1024] Rishken: guild quests
+[ 1024] Rishken: guild quest
+[ 1021] Rishken: guild rank
+[ 2810] Weiland: rat
+[ 1036] Rishken: idea
+[ 1010] Rishken: summary
+[ 1010] Rishken: counter
+[ 1175] Rishken: spec
+[ 2024] Rishken: commands
+[    0] Elodie: half elf
+[    0] Elodie: halfelf
+[ 2302] Elodie: summary
+[ 3710] Elodie: wis
+[ 3710] Elodie: wisdom
+[ 3710] Elodie: stats
+[ 3710] Elodie: attributes
+[ 3710] Elodie: intelligence
+[ 3710] Elodie: int
+[ 3710] Elodie: wisdom
+[ 3710] Elodie: dexterity
+[ 3710] Elodie: hytar
+[ 3712] Elodie: summary
+[ 2342] Elodie: dragon
+[ 2342] Elodie: summary
+[ 2342] Elodie: summary
+[ 2345] Elodie: ask
+[ 2345] Elodie: talk
+[ 2302] Jona: rent
+[ 1010] Rishken: assassin
+[ 1010] Rishken: half elf
+[ 3719] Dathis: light
+[ 2316] Drizzt: summary
+[ 2316] Drizzt: summary
+[ 2316] Drizzt: summary
+[ 2316] Drizzt: summary
+[ 2316] Drizzt: summary
+[ 1010] Rishken: discplacement
+[ 3709] Drizzt: wimpy
+[ 3709] Drizzt: wimpy
+[ 1010] Rishken: explosive runes
+[ 1010] Galt: description
+[ 1010] Galt: desc
+[ 1010] Galt: inlay
+[    0] Pandemonium: half ogre
+[    0] Pandemonium: ogre
+[    0] Pandemonium: half elf
+[    0] Pandemonium: phytr
+[ 1010] Pandemonium: hand parry
+[ 1010] Pandemonium: retribution
+[ 1010] Pandemonium: mana shield
+[ 3718] Drizzt: classes
+[ 3718] Drizzt: jobs
+[    2] Orolin: imbue
+[    2] Orolin: imbue
+[    2] Orolin: name
+[ 2801] Orolin: smaug
+[ 2801] Orolin: change weather
+[ 1010] Pandemonium: dex
+[ 1071] Pandemonium: dex
+[ 1010] Pandemonium: hand parry
+[ 1010] Pandemonium: palm strike
+[ 2445] Orolin: guild poitns
+[ 2445] Orolin: guild points
+[ 1010] Pandemonium: invis
+[ 1010] Kakashee: tier
+[ 1059] Kakashee: tier
+[    0] Johann: nfyr
+[ 1086] Rishken: devote
+[ 1010] Rish: changestaff
+[ 1010] Rish: shillelagh
+[ 3758] Gatsu: wis
+[ 3758] Gatsu: wisdom
+[ 1010] Pandemonium: jewelcrafting
+[    0] Gatsu: half elf
+[    0] Gatsu: halfelf
+[ 3712] Gatsu: wisdom
+[ 3748] Gatsu: scoll
+[ 1010] Rishken: acid blast
+[ 2214] Gatsu: worship
+[ 1010] Gatsu: group
+[ 1010] Gatsu: follow
+[ 1086] Gatsu: identify
+[ 1086] Gatsu: unarmed combat
+[ 1010] Gatsu: group
+[ 1010] Pandemonium: jewelcraft
+[ 1010] Rishken: paralyzation
+[ 1010] Ishan: imbue
+[ 1010] Ishan: spellcraft
+[ 1010] Isha: create fire
+[ 1010] Isha: fire storm
+[ 2473] Rishken: retribution
+[ 1010] Rishken: dia
+[ 1010] Rishken: explosive runes
+[ 1010] Isha: globe of invul
+[ 1010] Rishken: half ogre
+[ 1010] Rishken: ogre
+[ 1010] Rishken: og
+[    0] Ishan: lurannon
+[    0] Ishan: lurannon
+[ 1010] Ishan: half ogre
+[ 2000] Rishken: summon moster
+[ 1010] Rishken: jewel
+[ 1010] Rishken: black
+[    0] Ishan: half elf
+[ 1010] Rishken: counter
+[ 1010] Gatsu: multitask
+[ 1010] Gatsu: mplay
+[ 2200] Vindir: summary
+[ 2302] Naosuke: summary
+[ 3757] Naosuke: burning
+[ 3757] Naosuke: burning hands
+[ 3757] Naosuke: burn
+[ 3757] Naosuke: hands
+[ 3757] Naosuke: summary
+[ 3757] Naosuke: burning
+[ 3764] Naosuke: get
+[ 3764] Naosuke: take
+[ 3764] Naosuke: corpse
+[ 3775] Naosuke: get
+[ 3758] Naosuke: cons
+[ 2912] Etrius: color
+[ 2912] Etrius: ansi
+[ 2910] Etrius: mpdump
+[ 2910] Etrius: first aid
+[ 2442] Upro: aver
+[ 2442] Upro: average
+[ 2442] Upro: av
+[ 1010] Gatsu: board
+[ 1010] Gatsu: detect magic
+[ 1010] Gatsu: monk basics
+[ 3759] Erasado: armor
+[ 3759] Erasado: etherealness
+[ 1010] Erasado: invis
+[ 1010] Erasado: embark
+[    0] Makonne: half ogre
+[ 3759] Makonne: lay hands
+[ 3710] Makonne: lay
+[ 1010] Makonne: board
+[ 1010] Makonne: general
+[ 3759] Gyura: detect secret
+[ 3712] Gyura: secret
+[ 3712] Gyura: detect secret
+[ 3768] Gyura: hitroll
+[ 3754] Erasado: deterity
+[ 3754] Erasado: dex
+[ 3754] Erasado: wis
+[ 3754] Erasado: wisdom
+[ 1010] Erasado: charima
+[ 1010] Erasado: charisma
+[ 1031] Valen: jewelcrafting
+[ 2935] Orolin: mana shield
+[ 1010] Erasado: guildpoints
+[ 1010] Erasado: guild points
+[ 1010] Erasado: charisma
+[ 2910] Etrius: oprog
+[ 2910] Etrius: mpedit
+[ 1010] Gatsu: half elf
+[ 2939] Etrius: autodig
+[ 2913] Etrius: purge
+[ 1010] Velius: flag
+[ 1010] Velius: flags
+[ 1010] Velius: who
+[ 2410] Velius: group
+[ 1010] Orolin: woodcutting
+[ 2927] Etrius: ogre
+[ 2445] Upro: summary
+[ 1010] Pandemonium: copy
+[ 2927] Etrius: spec
+[ 2037] Upro: todo
+[ 2302] Weyroc: widom
+[ 2302] Weyroc: wisdom
+[ 2302] Weyroc: wid
+[ 2302] Weyroc: wis
+[ 2302] Weyroc: stat
+[ 3710] Weyroc: unarmed
+[ 2963] Etrius: mprog
+[ 2961] Etrius: mprog
+[ 2961] Etrius: code
+[ 2961] Etrius: credits
+[ 2961] Etrius: credit
+[ 2961] Etrius: master
+[ 2961] Etrius: ogre
+[ 2961] Etrius: og
+[ 1010] Norith: classes
+[ 1010] Norith: amazon
+[ 1010] Norith: zon
+[ 1010] Draskal: searing light
+[ 1010] Draskal: imbue
+[ 1010] Draskal: planar door
+[ 2069] Upro: first aid
+[ 2069] Upro: blind fighting
+[ 2069] Upro: jewelcrafting
+[ 2069] Upro: seafaring
+[ 2069] Upro: spellcraft
+[ 2069] Upro: find trap
+[ 2069] Upro: swim
+[ 2069] Upro: imbue
+[ 2069] Upro: dual wield
+[ 2069] Upro: imbue
+[ 2069] Upro: lay trap
+[ 2069] Upro: swim
+[ 2069] Upro: spellcraft
+[ 2069] Upro: alchemy
+[ 2069] Upro: hand parry
+[ 2961] Etrius: sanc
+[ 2302] Katori: score
+[  101] Upro: cooking
+[  101] Upro: tailoring
+[ 2070] Upro: alchemy
+[ 2070] Upro: lay trap
+[ 2070] Upro: detect secret
+[ 2070] Upro: remove trap
+[ 2070] Upro: turn undead
+[ 2070] Upro: spellcraft
+[ 2070] Upro: dual wield
+[ 2070] Upro: woodcutting
+[ 2070] Upro: swim
+[ 2070] Upro: counter
+[ 2070] Upro: inlay
+[ 2070] Upro: plant
+[ 2070] Upro: blind fighting
+[ 2070] Upro: detect secret
+[ 2070] Upro: hand parry
+[ 2070] Upro: first aid
+[ 2941] Etrius: find trap
+[ 2070] Upro: imbue
+[ 2941] Etrius: jewelcrafting
+[ 2070] Upro: find trap
+[ 2070] Upro: jewelcrafting
+[ 2070] Upro: seafaring
+[ 2070] Upro: palm strike
+[ 2070] Upro: blacksmithing
+[ 1010] Upro: item_alchemy_recipe
+[ 2302] Spencer: color
+[ 2302] Spencer: ansi
+[ 9800] Upro: colour
+[ 2302] Spencer: warrior
+[ 1010] Spencer: half ogre
+[ 1010] Spencer: halfogre
+[ 1010] Spencer: half ogre
+[ 1010] Spencer: halfogre
+[ 9800] Upro: ogre
+[ 1010] Spencer: ogre
+[ 9800] Etrius: alchemy_in
+[ 2302] Kairan: color
+[ 2302] Kairan: colour
+[ 2302] Kairan: colour
+[ 2302] Kairan: colour2
+[    0] Kanis: half elf
+[    0] Kanis: halfelf
+[ 2302] Kanis: ooc
+[ 2302] Kanis: summary
+[ 2302] Kanis: board
+[ 2302] Kanis: channels
+[ 2959] Etrius: inlay
+[ 2310] Weiland: alchemy_recipe
+[ 2328] Weiland: alchemy_recipe
+[ 2328] Weiland: alchemy_table
+[ 2310] Weiland: alchemy_recipe
+[    0] Roas: half orgre
+[    0] Roas: halfelf
+[    0] Roas: odama
+[ 1010] Caltok: entrance
+[ 2961] Etrius: imbue
+[ 1010] Ishamel: changestaff
+[ 1010] Ishamel: shillelah
+[ 2877] Weiland: damagedice
+[ 2257] Weiland: midgaard
+[ 1010] Ildyb: condition
+[    0] Pandemonium: half ogre
+[    0] Pandemonium: half og
+[ 2927] Etrius: half ogre
+[10000] Kyro: board
+[10000] Kyro: read
+[10000] Kyro: story
+[10000] Kyro: mpstat
+[ 2000] Kyro: who
+[ 2000] Kyro: wiznet
+[ 2877] Kyro: prefix
+[ 2000] Kyro: guilds
+[ 2017] Kyro: who
+[ 2000] Kyro: classes
+[ 2000] Kyro: look
+[ 2000] Kyro: inlay
+[ 1007] Kyro: copy
+[ 1007] Kyro: incognito
+[ 1010] Pandemonium: inlay
+[ 2010] Kyro: summary
+[ 2010] Kyro: color
+[ 2010] Kyro: colors
+[ 2010] Kyro: colours
+[ 2010] Kyro: ansi
+[ 2000] Kyro: story
+[  101] Upro: imbue
+[ 9800] Upro: ooc
+[ 9800] Upro: tell
+[ 9800] Upro: gos
+[ 3758] Septimus: stat
+[ 3758] Septimus: stats
+[ 3758] Septimus: attributes
+[ 3758] Septimus: wisdom
+[ 3758] Septimus: intelligence
+[ 3758] Septimus: int
+[ 2540] Upro: wis
+[ 2540] Upro: int
+[ 2540] Upro: dex
+[ 2540] Upro: cons
+[ 3761] Septimus: rent
+[ 2302] Saragoss: religion
+[ 3757] Saragoss: stats
+[ 3757] Saragoss: atributes
+[ 2010] Kyro: master
+[ 1007] Kyro: rpedit
+[ 2010] Kyro: kyro
+[ 2010] Kyro: hedit
+[ 2451] Upro: bloodlust
+[ 1016] Upro: birthday
+[ 2447] Upro: imotd
+[ 2447] Kyro: classes
+[10002] Kyro: form
+[10002] Kyro: gaseous
+[10002] Kyro: rank
+[10002] Kyro: vent
+[ 2243] Kyro: offhand
+[ 2243] Kyro: off
+[ 2243] Kyro: position
+[ 1010] Kyro: who
+[ 2447] Kyro: timestop
+[ 2447] Kyro: change staff
+[ 2447] Kyro: smote
+[ 2447] Kyro: autodig
+[ 2447] Kyro: holylight
+[ 1065] Nos: faction
+[ 1065] Nos: reputation
+[ 2302] Ikniwt: monks
+[ 2877] Kyro: kyro
+[ 2268] Kyro: bug
+[ 2268] Kyro: bug note
+[ 2268] Kyro: areset
+[ 3744] Shostag: damage
+[ 2011] Kyro: stat
+[ 3758] Shostag: forge
+[ 2054] Kyro: prefix
+[ 3756] Shostag: palmstrike
+[ 3756] Shostag: palmstrike
+[ 3756] Shostag: pforge
+[ 3700] Shostag: half orc town
+[ 3700] Shostag: area
+[ 1035] Shostag: donate
+[ 1035] Shostag: grind
+[ 2410] Shostag: request
+[ 1102] Shostag: change
+[ 1102] Shostag: automap
+[ 1102] Shostag: automap
+[ 2054] Kyro: glory
+[ 2304] Shostag: xmp
+[ 2304] Shostag: x
+[ 1024] Shostag: armor
+[ 1031] Markham: guilds
+[ 2047] Kyro: tree
+[ 3720] Shostag: quaff
+[ 3720] Shostag: drink
+[ 3761] Shostag: half ogre
+[ 3761] Shostag: mage
+[ 3705] Shostag: hit die
+[ 3705] Shostag: exp
+[ 3705] Shostag: tnl
+[ 3744] Shostag: room
+[ 3727] Shostag: cannon
+[ 3727] Shostag: stunfist
+[ 3727] Shostag: boss
+[ 3727] Shostag: list
+[ 3727] Shostag: herbs
+[ 3727] Shostag: mats
+[ 3727] Shostag: craft
+[ 3727] Shostag: smelt
+[ 3724] Shostag: gnomes
+[ 1010] Shostag: rank
+[ 1010] Shostag: saves
+[ 3722] Shostag: gold
+[ 3722] Shostag: money
+[ 3722] Shostag: currency
+[ 3709] Shostag: hitroll
+[ 2401] Natharn: exp
+[ 2401] Natharn: experience
+[ 2316] Natharn: summary
+[ 2316] Shostag: summary
+[ 3701] Ildyb: kill
+[ 3701] Upro: experience
+[ 3701] Upro: noexp
+[ 2302] Jhyps: summary
+[ 2302] Jhyps: mental
+[ 2302] Jhyps: worship
+[ 2302] Jhyps: desc
+[ 2310] Jhyps: traion
+[ 2310] Jhyps: build
+[ 2506] Jhyps: act
+[ 2506] Jhyps: time
+[ 2506] Jhyps: type
+[ 2506] Jhyps: shop type
+[ 2506] Jhyps: long
+[ 2506] Jhyps: object
+[ 2506] Upro: ave
+[ 2506] Upro: av
+[ 2506] Upro: weaon
+[ 2506] Jhyps: load
+[ 2506] Jhyps: object
+[ 1010] Weiland: colors
+[ 1010] Weiland: colour
+[ 1010] Weiland: colour2
+[ 2506] Jhyps: item_furniture
+[ 2506] Jhyps: set
+[ 2506] Jhyps: shop
+[ 2506] Jhyps: question
+[ 2549] Jhyps: ride
+[ 2549] Jhyps: mount
+[ 2508] Jhyps: goblin
+[ 2302] Bruzr: pfct
+[ 1010] Delvar: bloodlust
+[ 1010] Delvar: bloodlust
+[ 2473] Krilantis: addapply
+[ 2473] Krilantis: addapply
+[ 2473] Krilantis: apply
+[ 2473] Krilantis: addapply
+[10500] Krilantis: item_thieves_tools
+[ 3701] Krilantis: mpedit
+[ 3701] Krilantis: color
+[ 3701] Krilantis: colors
+[ 2506] Jhyps: save
+[ 2507] Jhyps: zsave
+[ 2510] Jhyps: ogre
+[ 2302] Raven: summary
+[ 2302] Raven: rp
+[ 2302] Raven: roleplay
+[ 2316] Raven: summary
+[ 2550] Jhyps: door
+[ 2550] Jhyps: key
+[ 2548] Jhyps: size
+[ 2018] Kyro: summary
+[ 3712] Krilantis: get
+[ 3712] Krilantis: wear
+[ 3712] Krilantis: sacrifice
+[ 3712] Krilantis: sleep
+[ 3712] Krilantis: rest
+[ 2547] Jhyps: mprog
+[ 2547] Jhyps: grall
+[ 3758] Krilantis: color
+[ 2505] Jhyps: purge
+[ 2037] Kyro: profile
+[ 2549] Jhyps: armor
+[ 2549] Jhyps: armortype
+[ 2549] Jhyps: armor
+[ 2549] Jhyps: armor rating
+[ 2549] Jhyps: armorrating
+[ 2549] Jhyps: armor_rating
+[ 2541] Jhyps: mprog
+[ 3709] Krilantis: wimpy
+[ 3709] Krilantis: wimpy
+[ 2541] Jhyps: target
+[ 2541] Jhyps: read
+[ 2541] Jhyps: mat_target
+[ 2500] Jhyps: mprog
+[ 2500] Krilantis: force
+[ 2520] Jhyps: half elf
+[ 9800] Krilantis: melee
+[ 3701] Krilantis: summary
+[ 3701] Krilantis: 2 kill
+[ 2302] Mirinya: summary
+[ 2302] Mirinya: summary
+[ 2302] Mirinya: summary
+[ 3766] Mirinya: propmt
+[ 1010] Mirinya: shillelagh
+[ 1010] Mirinya: shillelagh
+[10547] Delvar: colour2
+[10547] Delvar: colour2
+[10547] Delvar: colour
+[ 3701] Delvar: combate
+[ 3701] Delvar: combate
+[ 2500] Jhyps: permakill
+[ 2543] Jhyps: color
+[ 2345] Adamu: story
+[ 1024] Adamu: summary
+[ 2105] Weiland: summary
+[ 2500] Jhyps: weapon_type
+[ 3759] Derr: vocal shield
+[ 3701] Ixan: combate
+[ 2037] Kyro: banshee wail
+[ 2037] Kyro: desc
+[ 2037] Kyro: short
+[ 2519] Jhyps: artifact
+[ 2531] Jhyps: damtype
+[ 2531] Jhyps: damage
+[ 1010] Adamu: score
+[ 1010] Adamu: guildpoints
+[ 3721] Adamu: diety
+[ 3721] Adamu: deity
+[ 3721] Adamu: palmstrike
+[ 3721] Adamu: walk description
+[ 3721] Adamu: description
+[ 1002] Adamu: shop
+[ 1002] Adamu: buy
+[ 1002] Adamu: vendor
+[ 1024] Adamu: guildpoitns
+[ 1024] Adamu: guildpoints
+[ 1001] Adamu: donate
+[ 1010] Adamu: alignment
+[ 1010] Shostag: dragon
+[ 1010] Shostag: half-orc
+[ 2410] Adamu: quests
+[ 1102] Adamu: read
+[ 1001] Adamu: pass
+[ 1001] Adamu: pass
+[ 1001] Adamu: pass door
+[ 1010] Adamu: group
+[ 1010] Adamu: party
+[ 1010] Weiland: item_furniture
+[10500] Krilantis: who
+[ 1010] Adamu: bloodlust
+[ 1052] Adamu: faction
+[ 4000] Krilantis: hedit
+[ 1010] Krilantis: hedit
+[ 1010] Shostag: prostecting
+[ 2541] Jhyps: autoset
+[ 1010] Upro: forum
+[ 2526] Jhyps: wizlight
+[ 2526] Jhyps: holylight
+[ 2526] Jhyps: inv
+[ 2526] Jhyps: vis
+[ 2500] Jhyps: cost
+[ 2000] Kyro: guilds
+[30000] Gatts: ship
+[  101] Upro: loot
+[  101] Upro: elite
+[  101] Upro: boss
+[ 1102] Gadda: area
+[ 2406] Gadda: summary
+[ 1010] Gadda: rent
+[  101] Orolin: who
+[ 3737] Upro: mprog
+[ 1071] Shostag: fourm
+[ 2041] Kyro: sentinel
+[ 2041] Kyro: sage
+[ 2041] Kyro: mage
+[ 2041] Kyro: biped
+[ 2041] Kyro: sage
+[ 2041] Kyro: pet
+[ 2039] Echosyp: read
+[ 2039] Kyro: wear
+[ 2000] Kyro: charm
+[ 2000] Kyro: pet
+[ 2000] Kyro: owner
+[ 2041] Kyro: wealth
+[ 2302] Toxez: gods
+[ 1010] Toxez: copy
+[ 1010] Toxez: shocking grasp
+[ 2000] Kyro: write
+[ 2268] Weiland: copy
+[ 2526] Jhyps: histroy
+[ 2526] Jhyps: channels
+[ 2526] Jhyps: chat
+[ 2530] Jhyps: guild points
+[ 2530] Jhyps: fullist
+[ 4000] Krilantis: wiznet
+[ 4000] Krilantis: guilds
+[ 1060] Wade: clan list
+[ 1057] Wade: detect sercret
+[ 3766] Wade: remort
+[ 1061] Wade: repu
+[ 1061] Wade: factioon
+[ 4000] Krilantis: faction
+[ 1001] Wade: faction
+[ 2532] Jhyps: iago
+[ 2532] Jhyps: elite
+[ 3708] Djinn: summary
+[ 3708] Djinn: summary
+[ 1007] Derr: study
+[ 1007] Derr: melody of maked intent
+[ 1007] Derr: melody of masked intent
+[ 1007] Derr: melody
+[ 1000] Derr: boards
+[ 2954] Etrius: www
+[ 1010] Derr: gold
+[ 1010] Derr: wealth
+[ 1010] Derr: curr
+[ 1010] Derr: silver
+[ 1010] Derr: money
+[ 2962] Etrius: buulding
+[ 2962] Etrius: building
+[ 2962] Etrius: opedit
+[ 2512] Jhyps: sharp
+[ 2962] Etrius: hald orc
+[ 2900] Pandemonium: copy
+[ 2553] Jhyps: fish
+[ 2553] Jhyps: trade
+[ 2553] Jhyps: alchemy_recipe
+[ 2553] Jhyps: container
+[ 2041] Kyro: colors
+[ 2041] Kyro: color
+[ 2041] Kyro: colours
+[ 2041] Kyro: ansi
+[ 2041] Kyro: colors
+[ 2041] Kyro: pet
+[ 2041] Kyro: paralyze
+[ 2552] Jhyps: wiznet
+[ 2041] Kyro: hold
+[ 2502] Jhyps: default
+[ 2506] Jhyps: shop
+[ 2041] Echosyp: walk desc
+[ 2508] Jhyps: tick
+[ 2508] Jhyps: pen
+[ 2508] Jhyps: write
+[ 3744] Wade: general
+[ 2508] Jhyps: note'
+[ 2508] Jhyps: pen
+[ 2508] Jhyps: parchment
+[ 2508] Jhyps: cannon
+[ 2343] Pandemonium: fireball
+[ 3737] Anwyn: lay hands
+[ 1010] Anwyn: retribution
+[ 2508] Jhyps: shop
+[ 2508] Jhyps: questy
+[ 2508] Jhyps: story
+[ 2508] Jhyps: shop
+[ 1010] Adamu: inlay
+[ 2508] Jhyps: can_pry
+[ 2509] Jhyps: potion
+[ 2509] Jhyps: detect traps
+[ 2509] Jhyps: spell detect
+[ 2509] Jhyps: drunk
+[ 2509] Jhyps: liquid
+[ 2509] Jhyps: evil
+[ 2509] Jhyps: alignment
+[ 1086] Shostag: consider
+[ 1010] Shostag: faction
+[ 1010] Shostag: homo
+[ 1010] Adamu: half elf
+[ 1010] Adamu: magic missile
+[ 1010] Adamu: magic_missile
+[ 1010] Adamu: magic missile
+[ 1010] Adamu: ice
+[ 1010] Wadamu: planar door
+[ 1010] Wadamu: armor
+[ 1010] Wadamu: armor
+[ 1010] Wadamu: armor
+[ 1010] Wadamu: sarmor
+[ 1010] Wadamu: invisibilituy
+[ 1010] Wadamu: invisibility
+[ 1010] Wadamu: copy
+[ 1010] Wadamu: chromatic orb
+[ 1010] Wadamu: chromatic orb
+[ 1010] Wadamu: summon monster
+[ 1010] Wadamu: disintegrate
+[ 1010] Wadamu: chromatic_orb
+[ 1010] Wadamu: timestop
+[ 1010] Wadamu: sunburst
+[ 2336] Wadamu: psionic talent
+[ 2336] Wadamu: psionic talent
+[  101] Upro: throw
+[  101] Upro: shield bash
+[  101] Upro: power grip
+[ 2509] Jhyps: power grip
+[ 2509] Jhyps: powergrip
+[ 2509] Jhyps: magic
+[ 2509] Jhyps: psion
+[ 2509] Jhyps: inlay
+[ 2509] Jhyps: cannon
+[ 2509] Jhyps: alchemy_lab
+[ 2509] Jhyps: caltrops
+[ 2509] Jhyps: bloodlust
+[  101] Upro: cannon
+[    0] Testie: help
+[ 1010] Wadamu: astral spell
+[ 1010] Wadamu: night mare
+[ 3757] Sorzin: lay hands
+[ 2316] Sorzin: elderberry
+[ 2554] Jhyps: changer
+[ 2554] Jhyps: wealth
+[ 2554] Jhyps: gold
+[ 2554] Jhyps: owhere
+[ 2554] Jhyps: exchange
+[ 2554] Jhyps: change
+[ 2318] Kirath: favored enemy
+[  101] Upro: favored
+[ 9800] Upro: cond
+[ 1010] Adamu: power grip
+[ 1010] Adamu: power_grip
+[ 1010] Adamu: power grip
+[ 1010] Adamu: jewel crafting
+[ 1010] Adamu: caltrops
+[ 2554] Jhyps: faction
+[ 2554] Jhyps: write
+[ 3750] Jaiahard: damage
+[ 3756] Jaiahard: guid
+[ 3758] Jaiahard: guild rank
+[ 3758] Jaiahard: guild points
+[ 3748] Jaiahard: damage
+[ 3758] Nhudri: attributes
+[ 3758] Nhudri: abilities
+[ 3771] Nhudri: gods
+[ 3771] Nhudri: religion
+[ 3771] Nhudri: elements
+[ 3771] Nhudri: elemental
+[ 3771] Nhudri: lightning
+[ 3772] Nhudri: shadows
+[ 3772] Nhudri: element
+[ 3772] Nhudri: elemental
+[ 3770] Nhudri: affinity
+[ 3740] Nhudri: psionic talent
+[ 3740] Nhudri: ghoul touch
+[ 3740] Nhudri: create fire
+[ 3700] Nhudri: blood
+[ 3700] Nhudri: bleeding
+[ 2203] Nhudri: corpse
+[ 3758] Nhudri: cone of shadow
+[ 3758] Nhudri: cone
+[ 3758] Nhudri: timestop
+[ 3758] Nhudri: planar door
+[ 3758] Nhudri: astral spell
+[ 3758] Nhudri: gaseous form
+[ 3758] Nhudri: disintegrate
+[ 3758] Nhudri: displacement
+[ 3758] Nhudri: disrupt undead
+[ 3758] Nhudri: scry
+[ 3758] Nhudri: shadow bolt
+[ 3758] Nhudri: shadow breath
+[ 1007] Nhudri: audible glamor
+[ 1007] Nhudri: audible
+[ 1007] Nhudri: glamor
+[ 1007] Nhudri: glamour
+[ 1007] Nhudri: shocking
+[ 1007] Nhudri: burning
+[ 1007] Nhudri: identify
+[ 1001] Nhudri: faction
+[ 1001] Nhudri: reputation
+[ 1001] Nhudri: citizen
+[ 1102] Nhudri: armor
+[ 1102] Nhudri: armor
+[ 1102] Nhudri: citizen
+[ 1010] Nhudri: inlay
+[ 1010] Nhudri: copy
+[ 1010] Nhudri: chromatic
+[ 2357] Nhudri: rank
+[ 1102] Nhudri: neck
+[ 1102] Nhudri: refresh
+[ 2320] Nhudri: mana shield
+[ 2462] Nhudri: formation
+[ 2253] Nhudri: detect magic
+[ 1017] Nhudri: deposit
+[ 1017] Nhudri: silver
+[ 1017] Nhudri: coins
+[ 1017] Nhudri: money
+[ 1017] Nhudri: convert
+[ 1017] Nhudri: coins
+[ 1017] Nhudri: money
+[ 1017] Nhudri: currency
+[ 2345] Nhudri: rank
+[ 1010] Nhudri: sunburst
+[ 1010] Nhudri: shocking grasp
+[ 1010] Nhudri: shocking
+[ 1010] Nhudri: inlay
+[ 1010] Nhudri: free action
+[ 1010] Nhudri: freeaction
+[ 1010] Nhudri: golthek
+[ 1010] Nhudri: who
+[ 2233] Nhudri: obscure
+[ 1010] Nhudri: half ogre
+[ 1010] Nhudri: ogre
+[ 1010] Nhudri: ruid
+[ 1010] Nhudri: copy
+[ 1010] Nhudri: negative plane
+[ 1010] Nhudri: negative plane protection
+[ 1010] Nhudri: shadow bolt
+[ 1010] Nhudri: earthquake
+[ 1010] Nhudri: sanct
+[ 1010] Nhudri: sanctuary
+[ 1010] Wadamu: magic missile
+[ 1010] Nhudri: recall
+[ 1010] Wadamu: colour spray
+[ 2438] Nhudri: planar door
+[ 2420] Nhudri: mana shield
+[ 2419] Nhudri: charm
+[ 2419] Nhudri: charm person
+[ 1010] Nhudri: scry
+[ 1010] Nhudri: displacement
+[ 1010] Nhudri: summon monster
+[ 1010] Nhudri: disintegrate
+[ 1010] Nhudri: banshee wail
+[ 2409] Nhudri: half ogre
+[ 2409] Nhudri: ogre
+[ 3701] Sanibak: summary
+[ 1010] Wadamu: colour spray
+[ 1010] Nhudri: olour spray
+[ 1010] Nhudri: colour spray
+[ 1010] Nhudri: color
+[ 1010] Nhudri: astral spell
+[ 1010] Nhudri: chromatic orb
+[ 1010] Nhudri: shadow breath
+[ 1010] Nhudri: disintegrate
+[ 1010] Nhudri: corpse visage
+[ 1010] Nhudri: timestop
+[ 1010] Nhudri: copy
+[ 1010] Nhudri: cone of shadow
+[ 1102] Nhudri: who
+[ 1010] Nhudri: scry
+[ 1010] Nhudri: enchant weapon
+[ 1010] Nhudri: inlay
+[ 2252] Nhudri: city
+[ 2252] Nhudri: citizen
+[ 1010] Nhudri: animate object
+[ 1010] Nhudri: mana shield
+[ 1010] Nhudri: paralyzation
+[ 1010] Nhudri: summon monster
+[    0] Charise: help
+[ 2302] Charise: gods
+[ 2302] Charise: summary
+[ 2302] Charise: summary
+[ 2302] Charise: summary
+[ 3759] Charise: summary
+[ 3759] Charise: summary
+[ 3759] Charise: deity
+[ 3759] Charise: deities
+[ 3759] Charise: gods
+[ 3759] Charise: armor
+[ 3759] Charise: ishtar
+[ 3759] Charise: ishar
+[ 3704] Charise: summary
+[ 3704] Charise: surrender
+[ 3704] Charise: surrender
+[ 3704] Charise: sacrifice
+[ 3704] Charise: sacrifice
+[ 3710] Charise: zap
+[ 3765] Charise: armor
+[ 3715] Charise: wear
+[ 1010] Nhudri: ghoul touch
+[ 1010] Nhudri: colour spray
+[ 2243] Nhudri: forbiddance
+[ 2462] Nhudri: death recall
+[ 2416] Nhudri: paraly
+[ 2416] Nhudri: paralyzation
+[ 1010] Nhudri: chromatic orb
+[ 1010] Nhudri: explosive
+[ 1010] Nhudri: negative
+[ 1010] Nhudri: gas
+[ 1010] Nhudri: globe
+[ 1010] Nhudri: summon
+[ 1010] Nhudri: mana shield
+[    0] Creation: help
+[ 2413] Upro: ghoul
+[    0] Creation: help
+[    0] Creation: help
+[ 2457] Nhudri: changestaff
+[ 1010] Nhudri: size
+[ 1010] Nhudri: size
+[ 1010] Nhudri: stone skin
+[ 1010] Nhudri: corpse visage
+[ 1010] Nhudri: pass door
+[ 1010] Nhudri: planar door
+[ 1010] Nhudri: charm person
+[ 1024] Ilywin: rank
+[ 2316] Ilywin: summary
+[ 2316] Ilywin: summary
+[ 2316] Ilywin: study
+[ 2444] Nhudri: age
+[ 3720] Loki: remort
+[ 3720] Loki: rebirth
+[ 3759] Loki: chromatic orb
+[ 3759] Loki: chromatic
+[ 3759] Loki: orb
+[ 3759] Loki: create fire
+[ 3759] Loki: magic
+[ 3759] Loki: lightning
+[ 1010] Emrys: shillelagh
+[    0] Korsibar: half elf
+[ 1010] Derillion: insidious
+[ 1010] Derillion: melody
+[ 1010] Derillion: vocal
+[ 3741] Tnaris: damage
+[    0] Falhand: half ogre
+[    0] Falhand: ogre
+[ 2302] Falhand: desc
+[ 2302] Falhand: description
+[ 2302] Falhand: descriptions
+[ 2302] Falhand: summary
+[ 2302] Falhand: help
+[ 3757] Falhand: roleplay
+[ 3757] Falhand: rp
+[ 3757] Falhand: tell
+[ 3704] Falhand: list
+[    0] Creation: gods
+[ 3702] Falhand: faction
+[ 3702] Falhand: factions
+[ 2136] Upro: desc
+[ 3704] Falhand: bump
+[ 3710] Falhand: flee
+[ 3710] Falhand: wimpy
+[ 3702] Falhand: cities
+[ 3702] Falhand: city
+[ 3702] Falhand: sick
+[ 3702] Falhand: sickness
+[ 3757] Falhand: pfct
+[ 3757] Falhand: summary
+[ 3757] Falhand: list
+[ 3757] Falhand: all
+[ 1010] Nhudri: banshee wail
+[ 1010] Nhudri: inlay
+[ 3722] Tnaris: color
+[ 3722] Tnaris: colour
+[ 3722] Tnaris: color
+[ 3722] Tnaris: colour
+[ 3722] Tnaris: color2
+[ 3722] Tnaris: colour
+[ 3722] Tnaris: color
+[  101] Upro: ansi
+[  101] Upro: color
+[ 1024] Tnaris: color2
+[ 1024] Tnaris: color2
+[ 1024] Tnaris: bloodlust
+[    0] Leolis: half-orc
+[ 2302] Andarwyn: wild
+[ 2302] Andarwyn: talent
+[ 2277] Nhudri: zap
+[ 2016] Jhyps: pretitle
+[ 2016] Jhyps: flag
+[ 2016] Jhyps: tag
+[ 2312] Falhand: chop
+[ 2316] Falhand: summary
+[ 1039] Falhand: compare
+[ 2302] Ravia: channels
+[ 1010] Rithnarak: max stat
+[ 2320] Nakabar: corpse visage
+[    0] Gromnor: half ogre
+[    0] Gromnor: ogre
+[ 1010] Gorrn: desc commands
+[ 1010] Gorrn: description editor
+[ 2853] Nhudri: pull
+[ 2853] Nhudri: push
+[    0] Benjin: mage
+[ 3759] Benjin: daggers
+[ 3701] Benjin: magic missile
+[ 1003] Benjin: summary
+[ 1016] Gorrn: title
+[ 1125] Falhand: doors
+[ 1125] Falhand: door
+[ 1125] Falhand: pry
+[ 1029] Falhand: speech
+[ 1029] Falhand: communication
+[ 1029] Falhand: talk
+[ 1029] Falhand: say
+[ 1027] Benjin: falhand
+[ 2337] Falhand: party
+[ 2337] Falhand: group
+[ 2337] Falhand: groups
+[ 2410] Gorrn: recall
+[ 2150] Weiland: corpse visage
+[ 2150] Weiland: corpse
+[ 2150] Weiland: visage
+[ 1010] Nhudri: ice storm
+[ 2332] Benjin: news
+[ 2248] Nhudri: summon
+[ 1010] Benjin: element
+[ 2437] Benjin: zap
+[ 2437] Benjin: brandish
+[ 1035] Benjin: walk description
+[ 2316] Benjin: summary
+[ 2316] Benjin: estvan
+[ 1010] Falhand: news
+[ 1010] Falhand: notes
+[ 1010] Gorrn: rion ill
+[ 3701] Khorbas: mage
+[  101] GungaDin: opstat
+[  101] GungaDin: holy light
+[  101] GungaDin: holylight
+[ 1000] GungaDin: forgae
+[ 1010] GungaDin: poofout
+[ 2554] Jhyps: rlist
+[ 2554] Jhyps: show
+[ 2554] Jhyps: rooms
+[ 1086] Weiland: renfall
+[  101] GungaDin: rpdump
+[  101] GungaDin: op
+[  100] GungaDin: room
+[ 3713] GungaDin: snarf
+[ 3701] GungaDin: goto
+[ 3701] GungaDin: owhere
+[ 1177] GungaDin: opstat
+[ 1185] GungaDin: pass
+[ 1185] GungaDin: pass without trace
+[ 1010] GungaDin: default
+[ 1010] GungaDin: mpedit
+[ 1010] GungaDin: help
+[ 1024] GungaDin: bloodlust
+[ 1024] GungaDin: blood lust
+[ 1024] GungaDin: hrbalism
+[  101] GungaDin: summary
+[ 2554] Jhyps: faction
+[ 2551] Jhyps: exits
+[ 1045] GungaDin: hedit
+[ 1010] Jhyps: lastname
+[    0] Methos: half ogre
+[ 2557] Jhyps: music
+[ 1010] Kindarwyn: spell_shield
+[ 1010] Kindarwyn: shield spell
+[ 1010] Kindarwyn: shield_spell
+[ 2710] Weiland: green hills
+[ 2710] Weiland: hedit
+[ 1059] GungaDin: load
+[ 1024] GungaDin: power grip
+[ 1091] GungaDin: values
+[ 1028] GungaDin: areset
+[ 1028] GungaDin: smote
+[ 1028] GungaDin: purge
+[ 2507] Jhyps: light
+[    0] Cyria: half elf
+[    0] Cyria: half elf
+[    0] Cyria: halfelf
+[    0] Apollonius: half elf
+[    0] Gowen: mage
+[    0] Iosin: half ogre
+[    0] Iosin: ogre
+[    0] Iosin: half-orc
+[    0] Iosin: half-orc
+[ 3715] Upro: summary
+[ 3715] Upro: command
+[ 3715] Upro: score
+[ 3758] Zeke: invis
+[ 1010] Gorrn: agriculture
+[ 2353] Gorrn: dig
+[ 2876] Nhudri: lay on hands
+[ 2876] Nhudri: layonhands
+[10001] Upro: summary
+[ 2302] Glyph: summary
+[ 2302] Lauriloch: teme
+[ 2302] Lauriloch: theme
+[ 2302] Lauriloch: story
+[ 2302] Myrlyn: autodig
+[ 2302] Myrlyn: noe
+[ 2550] Jhyps: chest
+[ 2302] Shaith: summary
+[ 2302] Shaith: message
+[ 2302] Shaith: tell
+[ 2302] Shaith: index
+[ 2302] Shaith: contents
+[ 2318] Morde: summary
+[    0] Volric: iehen
+[ 3701] Volric: noexp
+[ 3701] Volric: multiclassing
+[ 3715] Volric: score
+[    0] Aneska: half ogre
+[    0] Aneska: half elf
+[ 3773] Aneska: chop
+[ 3705] Naosuke: telnetga
+[ 3705] Naosuke: telnetga
+[ 3707] Naosuke: summary
+[ 3710] Naosuke: comands
+[ 3710] Naosuke: comands
+[    0] Elijah: half ogre
+[    0] Elijah: half ogre
+[    0] Elijah: halfogre
+[    0] Elijah: half_ogre
+[ 2875] Upro: noexp
+[    0] Jhoniten: half elf
+[    0] Jhoniten: halfelf
+[ 2302] Jhoniten: summary
+[ 1028] Markham: craft
+[ 1028] Markham: crafting
+[ 1028] Markham: craftingelp craft
+[ 3757] Kaedok: stats
+[ 3757] Kaedok: stat
+[ 2302] Elirad: summary
+[ 2302] Elirad: roleplay
+[ 2302] Elirad: rp
+[ 3720] Elirad: get
+[ 1061] Araris: faction
+[ 1061] Araris: reputation
+[    0] Branton: half ogre
+[ 2302] Solimandius: summary
+[ 2302] Amendel: long sword
+[ 2302] Amendel: long sword
+[ 1010] Upro: bloodlust
+[ 3712] Valerik: bleeding
+[ 3724] Valerik: tick
+[  101] Upro: socie
+[ 1010] Cassima: idea
+[    0] Undym: half ogre
+[    0] Undym: half ogre
+[    0] Undym: half_orge
+[    0] Undym: half ogre
+[    0] Undym: half elf
+[ 3759] Undym: recall
+[ 2310] Undym: damage
+[ 2361] Undym: time
+[ 2361] Undym: tick
+[ 1010] Undym: guild rank
+[ 1010] Undym: summary
+[ 1010] Undym: faction
+[ 2706] Weiland: mkills
+[ 1001] Undym: rmeort
+[ 1001] Undym: remort
+[ 1001] Undym: levl
+[ 2302] Undym: summary
+[ 2316] Pennyvise: summary
+[ 1010] Pennyvise: summary
+[ 1010] Cassima: band
+[ 1010] Upro: summary
+[ 3757] Shoun: summary
+[ 3757] Shoun: commands
+[ 2450] Krilantis: talent
+[ 2315] Ophelie: commands
+[ 2315] Ophelie: command
+[ 2316] Ophelie: summary
+[ 2316] Ophelie: summary
+[ 2319] Ophelie: drink
+[ 2319] Ophelie: potion
+[ 2319] Ophelie: shiver
+[ 2317] Ophelie: rest
+[ 2317] Ophelie: mv
+[    0] Xoren: half ogre
+[    0] Xoren: half ogre
+[    0] Xoren: halfogre
+[    0] Xoren: ogre
+[ 3757] Xoren: specialt
+[    0] Xoren: haf orc
+[ 1010] Xoren: skill tree
+[ 1010] Xoren: tree
+[    0] Xoren: racest
+[    0] Xoren: racelist
+[ 1010] Xoren: wound
+[ 1010] Xoren: bleed
+[ 1010] Xoren: blood
+[ 3701] Xoren: summary
+[ 2050] Belak: long sword
+[ 3714] Cuoris: element
+[ 2302] Gowen: summary
+[ 2302] Gowen: summary
+[ 2302] Gowen: newbioe
+[ 1043] GungaDin: clatrops
+[ 1043] GungaDin: caltrops
+[ 1043] GungaDin: battle cry
+[ 1043] GungaDin: battlecry
+[ 1043] GungaDin: battlecry
+[ 1043] GungaDin: powergrip
+[ 1043] GungaDin: power grip
+[ 1043] GungaDin: inlay
+[ 1043] GungaDin: faerie fire
+[ 1043] GungaDin: riding
+[ 1010] GungaDin: favored enemy
+[ 1010] GungaDin: yuan-ti
+[ 1018] GungaDin: cooldown
+[ 2302] Upro: cooldown
+[ 2316] Rauza: summary
+[    0] Jayde: halfogre
+[    1] Upro: score
+[  400] Upro: summon
+[  400] Upro: gase
+[ 1091] Upro: dimen
+[ 1091] Upro: sochking
+[ 1091] Upro: shoclk
+[ 1091] Upro: fireb
+[ 1091] Upro: sear
+[ 1091] Upro: elemn
+[ 1091] Upro: elemen
+[    0] Braegiel: hytar
+[ 3759] Braegiel: recall
+[ 3702] Braegiel: move
+[ 1010] Polgara: fireb
+[ 1091] Upro: fly
+[ 1091] Upro: exteb'
+[ 1091] Upro: locate
+[ 1091] Upro: vent
+[ 1091] Upro: silence
+[ 2302] Cedrin: summary
+[ 2302] Cedrin: craft
+[ 1010] Upro: scry
+[ 2302] Cedrin: craft
+[ 2302] Cedrin: crafting
+[ 2302] Cedrin: housing
+[ 2308] Cedrin: ranger skills
+[ 1138] Upro: audi
+[ 1138] Upro: disru
+[ 1138] Upro: weaken
+[ 1138] Upro: displa
+[ 1138] Upro: copy
+[ 1138] Upro: resist
+[ 1138] Upro: sunbur
+[ 1138] Upro: cone
+[    0] Apog: half ogre
+[    0] Apog: ogre
+[ 1321] Sloane: guildp
+[ 1321] Sloane: deities
+[ 1321] Sloane: dieties
+[ 1321] Sloane: gods
+[ 1321] Upro: sap
+[    0] Azmodian: half ogre
+[    0] Azmodian: ogre
+[ 1204] Wulfen: rpedit
+[ 1204] Wulfen: variables
+[ 1204] Wulfen: variables
+[ 1020] Enigma: armor
+[ 1204] Wulfen: pcolor
+[ 2302] Kjodo: who
+[ 1010] Kjodo: credits
+[ 1010] Kjodo: mud
+[ 1010] Kjodo: quickmud
+[ 1010] Kjodo: qmud
+[ 1010] Kjodo: derivative
+[ 1111] Kjodo: wall
+[ 1111] Kjodo: castle
+[ 1111] Kjodo: door
+[ 1111] Kjodo: open
+[ 1111] Kjodo: close
+[ 1111] Kjodo: anything
+[ 1111] Kjodo: nobody
+[ 1111] Kjodo: tick
+[ 1111] Kjodo: rest
+[ 1111] Kjodo: sleep
+[  658] Upro: 1
+[  658] Upro: %s
+[  658] Upro: %s
+[  658] Upro: %s
+[ 2302] Zser: channels
+[ 1010] Zser: battlecry
+[  610] Krunk: damage
+[  610] Krunk: damage
+[  657] Athrogate: dsgfbsdkj
+[  657] Athrogate: 1
+[  631] Krunk: explore
+[  631] Krunk: travel
+[ 1038] Krunk: new quest
+[ 1010] Callysta: nnote
+[ 2456] Upro: poop
+[ 2456] Upro: energh
+[ 2456] Upro: craft
+[    0] Vrin: half ogre
+[    0] Vrin: ogre
+[    0] Vrin: warrior
+[ 2302] Vrin: stats
+[  600] Roderick: start
+[ 1007] Roderick: initaite
+[ 1007] Roderick: refresh
+[ 2302] Kirash: camp
+[ 2302] Kirash: tier
+[ 2302] Kirash: remort
+[ 1010] Roderick: bandage
+[ 1010] Jarlaxle: battle
+[ 1010] Jarlaxle: battlec
+[ 1010] Jarlaxle: battlecry
+[  616] Roderick: who is
+[  616] Roderick: damage
+[ 2302] Gyssimi: burning hands
+[  618] Upro: buy
+[  618] Upro: buy
+[  601] Ildyb: experiece
+[  618] Upro: shop
+[  618] Upro: shop
+[  618] Upro: buy
+[  618] Upro: command
+[  618] Upro: list
+[  618] Upro: sell
+[  618] Upro: value
+[  618] Upro: 2
+[ 2954] Upro: retribution
+[  612] Morki: blood
+[  612] Morki: wound
+[  612] Morki: wounds
+[  637] Morki: flank
+[  600] Morki: invi
+[  600] Morki: invisibility
+[ 2320] Morki: guildp
+[ 2320] Morki: guild points
+[ 2289] Morki: trains
+[ 1009] Upro: historyu
+[  601] Brayen: expierence
+[  601] Brayen: expeirience
+[  618] Adarwyn: sell
+[  618] Adarwyn: list
+[ 1010] Meroe: monl
+[ 1008] Glorn: earth ward
+[ 1010] Adarwyn: gnolls
+[    0] Kalrav: half elf
+[  600] Kalrav: telenetga
+[ 1010] Kalrav: bless
+[ 1010] Kalrav: bless
+[  101] Upro: bles
+[  600] Haldrav: code
+[ 2346] Kalrav: worship
+[ 2346] Kalrav: worship
+[ 2952] Kalrav: chop
+[ 2952] Kalrav: crafting
+[ 2952] Kalrav: woodcrafting
+[ 2952] Dalverth: metal
+[ 2952] Dalverth: artifact
+[ 2952] Dalverth: item type
+[ 2952] Upro: buildin
+[ 2356] Dalverth: vnum
+[ 2345] Grithnarak: guild ranks
+[ 2305] Rignok: bleeding
+[ 2305] Rignok: bleed
+[ 2305] Rignok: damage
+[ 1010] Rignok: bandage
+[ 1146] Rignok: accept
+[ 1010] Rignok: last name
+[ 1010] Rignok: name
+[ 1010] Rignok: lastname
+[ 1010] Rignok: sirname
+[ 2302] Kamael: version
+[ 1010] Upro: olist
+[ 3000] Kamael: 174
+[ 3000] Kamael: trigger
+[ 3000] Kamael: trigger
+[ 3000] Kamael: triggers
+[ 1010] Kamael: commands
+[ 2302] Toki: beep
+[    0] Roland: half ogre
+[  658] Roland: stats
+[ 2302] Roland: stats
+[ 2302] Roland: abilities
+[ 2302] Roland: abilitie
+[ 2302] Roland: ability
+[ 2302] Roland: race list
+[    0] Roland: dragon
+[    0] Roland: anti
+[    0] Roland: lich
+[    0] Roland: rogue
+[    0] Roland: psionics
+[    0] Roland: ogre
+[    0] Roland: dragon
+[  658] Roland: mage
+[ 2302] Lore: weapons master
+[ 2302] Lore: weapon master
+[ 2302] Lore: size
+[ 2302] Lore: size
+[ 2302] Lore: creature size
+[ 2302] Lore: troll
+[ 2302] Lore: troll
+[ 2302] Lore: afinity
+[ 2302] Roland: teach
+[ 2302] Roland: leasrn
+[ 2302] Roland: psionic potential
+[  659] Roland: psionic potential
+[  659] Roland: teach
+[  621] Roland: psionics
+[  621] Roland: study psionics
+[ 2301] Roland: talent
+[ 1010] Roland: talent
+[ 1008] Roland: corpse
+[ 1010] Roland: bleed
+[ 1010] Roland: wound
+[ 1010] Roland: cure
+[  639] Roland: religion
+[  639] Roland: worship
+[  639] Roland: devote
+[ 1002] Roland: lay hands
+[ 1002] Roland: cure light
+[  657] Roland: telent
+[  621] Roland: talent
+[ 2316] Roland: guide
+[ 2314] Roland: bleed
+[ 2314] Roland: blood
+[ 2314] Roland: bleeding
+[ 1010] Roland: wild talent
+[ 1010] Roland: talent
+[ 1010] Roland: mind
+[ 1010] Roland: mental
+[ 1023] Roland: armor
+[ 1023] Roland: armor class
+[ 1027] Roland: movement
+[ 1020] Roland: bleed
+[ 1020] Roland: wound
+[ 1020] Roland: blood
+[ 1019] Roland: push
+[ 1053] Roland: blood
+[ 1053] Roland: secondary class
+[ 1053] Roland: dual class
+[ 1053] Roland: bleed
+[ 1053] Roland: birth
+[ 1053] Roland: age
+[  659] Blacktree: recall
+[ 1010] Blacktree: recall
+[  610] Blacktree: automap
+[ 3000] Kamael: inlay
+[ 3000] Kamael: autodig
+[ 3000] Kamael: type
+[    0] Benedict: half elf
+[ 3000] Kamael: autodig
+[ 3000] Kamael: trigger
+[ 3000] Kamael: rename
+[ 3000] Kamael: hedit
+[ 3000] Kamael: hedit
+[ 3000] Kamael: hedit
+[ 3000] Kamael: reidt
+[ 3000] Kamael: immt
+[ 3000] Kamael: immtalk
+[ 3000] Kamael: say
+[ 3000] Kamael: laugh
+[ 3000] Kamael: pelangi
+[ 3000] Kamael: north
+[ 3000] Kamael: movement
+[ 1026] Blacktree: shop
+[ 1026] Blacktree: list
+[ 1025] Blacktree: value
+[ 1025] Blacktree: tick
+[  665] Acehull: mv
+[  601] Murderface: cast
+[  614] Murderface: magic
+[  618] Murderface: magic
+[  618] Murderface: cast
+[  618] Murderface: list
+[ 1010] Murderface: list
+[ 1010] Murderface: value
+[ 1010] Murderface: sell
+[ 1010] Murderface: compare
+[ 1010] Murderface: get
+[ 1010] Murderface: !
+[  618] Murderface: list
+[  618] Murderface: get
+[ 3000] Kamael: ftick
+[  612] Murderface: poison
+[ 2302] Murderface: sleep
+[ 2302] Murderface: sit
+[ 2302] Murderface: rest
+[ 2302] Murderface: raise
+[ 3000] Kamael: calendar
+[ 3000] Kamael: time
+[ 3000] Kamael: purge
+[ 3000] Kamael: imm_goto
+[ 3000] Kamael: goto
+[ 3000] Kamael: imm_
+[ 3000] Kamael: goto
+[ 3000] Kamael: load
+[ 3000] Kamael: poofin
+[ 3000] Kamael: orolin
+[ 1010] Murderface: poiuson
+[ 1010] Murderface: poison
+[ 2305] Segovois: lumber
+[    0] Zantow: half ogre
+[    0] Zantow: ogre
+[    0] Zantow: half-orc
+[ 2302] Zantow: tier
+[ 2302] Zantow: remort
+[    0] Daylin: half ogre
+[    0] Daylin: half elf
+[    0] Daylin: halfelf
+[    0] Daylin: halfing
+[    0] Zoust: duerger
+[ 1008] Upro: gay
+[ 1008] Upro: gay
+[    0] Llan: half elf
+[ 1033] Llan: recall
+[  600] Llan: hometown
+[  600] Llan: rest
+[  600] Llan: sleep
+[ 2276] Nhudri: obscure object
+[ 2276] Nhudri: astral
+[ 2276] Nhudri: astral spell
+[ 2854] Nhudri: blasphemy
+[ 2874] Nhudri: talent
+[ 1010] Nhudri: etherealness
+[ 1010] Nhudri: forbiddance
+[ 1010] Nhudri: finger of death
+[ 1010] Nhudri: rehydrate
+[ 1010] Nhudri: dimensional anchor
+[ 1010] Nhudri: guildp
+[ 1010] Nhudri: society
+[ 1010] Nhudri: globe of invulnerability
+[ 1010] Nhudri: globe
+[ 1010] Nhudri: dimensional mine
+[ 1010] Nhudri: alarm
+[ 1010] Nhudri: rent
+[ 1010] Korsibar: enemy
+[ 1010] Nhudri: finger of death
+[ 2266] Nhudri: sphere
+[ 1010] Nhudri: dimensional mine
+[ 1010] Nhudri: audible glamour
+[ 1010] Nhudri: rank
+[ 1010] Nhudri: obscure
+[ 1010] Athrogate: short sword
+[ 1010] Athrogate: long sword
+[    0] Koa: half elf
+[    0] Koa: halfelf
+[  613] Koa: automap
+[  658] Jurden: thied
+[  659] Koa: color2
+[    0] Latal: odomo
+[    0] Tregu: fighters
+[    0] Tregu: warrior
+[  618] Ildyb: chop
+[ 1336] Upro: item_tailoring_plans
+[  659] Kelwin: audible glamer
+[ 2302] Lezara: bonfire
+[ 1026] Upro: gouge
+[ 1026] Upro: riposte
+[ 1026] Upro: earclap
+[ 1024] Quanshee: trains
+[ 2315] Quanshee: learning
+[  610] Quanshee: potion
+[  610] Quanshee: potions
+[ 2307] Quanshee: craft
+[ 2401] Quanshee: fishing
+[ 2401] Quanshee: fish
+[ 2410] Quanshee: camp
+[ 2410] Quanshee: npc
+[ 2410] Quanshee: story
+[ 2410] Quanshee: story
+[ 2410] Quanshee: story
+[  601] Andrax: equipment
+[ 2302] Drod: loot
+[ 2302] Khayla: cast
+[ 2302] Sabrian: talents
+[ 2302] Sabrian: spellbook
+[  612] Ayle: guild points
+[    0] Turiel: half ogre
+[    0] Turiel: halfogre
+[    0] Turiel: half-orc
+[    0] Turiel: halforc
+[  666] Turiel: changes
+[  668] Turiel: specialization
+[  668] Turiel: spec
+[  674] Turiel: talent
+[ 1010] Uther: bleeding
+[ 1010] Uther: cut
+[  607] Ntobin: change staff
+[ 2316] Kjeldak: elderberry test
+[ 3001] Kamael: rename
+[  666] Asmodean: display
+[  671] Asmodean: multiplay
+[  671] Asmodean: multi-play
+[ 1027] Asmodean: attributes
+[ 2302] Talhoffer: long sword
+[    0] Dailyn: half-orc
+[    0] Dailyn: halforc
+[  601] Dailyn: expereince
+[ 2310] Isobel: religion
+[ 2357] Isobel: moves
+[  600] Raizh: warrior
+[  600] Raizh: crafting
+[  600] Raizh: craft
+[  600] Raizh: harvest
+[  600] Raizh: mining
+[  618] Ralowael: shop
+[  618] Ralowael: store
+[  623] Ralowael: guildp
+[  623] Ralowael: rank
+[  623] Ralowael: society
+[ 1010] Ralowael: rest
+[ 1010] Ralowael: mv
+[ 1057] Ralowael: recall
+[ 1065] Ralowael: reputation
+[ 1065] Ralowael: faction
+[ 1010] Ralowael: bandage
+[ 1028] Ralowael: gold
+[ 1028] Ralowael: money
+[ 1028] Ralowael: give
+[ 1013] Ralowael: armor
+[ 1013] Ralowael: armor class
+[ 1013] Ralowael: pierce
+[ 1010] Ralowael: rank
+[  648] Ralowael: detect traps
+[  660] Ralowael: bleed
+[  652] Ralowael: line
+[ 1010] Ralowael: inlay
+[ 1010] Ralowael: inlay
+[ 1138] Ralowael: gold
+[ 1138] Ralowael: give
+[ 1057] Ralowael: advance
+[ 1146] Ralowael: codebase
+[ 1146] Ralowael: news
+[ 1146] Ralowael: news
+[ 1146] Ralowael: story
+[ 1146] Ralowael: tick
+[ 2302] Ralowael: warp
+[    0] Hainor: assistant
+[  657] Malstefas: trains
+[  657] Malstefas: attribute
+[  657] Malstefas: attributes
+[  657] Malstefas: config
+[ 2473] Upro: todo
+[ 2473] Upro: bugs
+[ 2473] Upro: bug
+[ 1010] Upro: recall
+[ 1010] Upro: recall
+[    0] Skajn: help
+[ 2302] Upro: newlock
+[ 2302] Upro: wizlock
+[ 2302] Upro: ida
+[    0] Roncor: remort
+[ 1010] Gargemyr: blasphemy
+[ 1010] Karlesh: idea
+[ 1010] Upro: riposte
+[    0] Jenni: half elf
+[ 1010] Upro: general
+[ 1010] Upro: cooldowns
+[  657] Jenni: tick
+[  657] Jenni: quit
+[ 1010] Athrogate: battlecry
+[    0] Astro: nelenwe
+[    0] Astro: nelenwe
+[  658] Shanto: boon
+[  664] Shanto: practices
+[  621] Shanto: maelik
+[    0] Ania: omari
+[    0] Ania: aziel
+[ 2302] Ania: crafting
+[    0] Maximmus: minotaur
+[    0] Maximmus: minotaur
+[    0] Maximmus: maelik
+[    0] Maximmus: aziel
+[    0] Maximmus: nelenwe
+[  602] Maximmus: remort
+[  602] Maximmus: half ogre
+[  602] Maximmus: ogre
+[  605] Maximmus: sphere
+[  609] Maximmus: banshee
+[  639] Maximmus: title
+[  640] Maximmus: sleep
+[  640] Maximmus: rest
+[  640] Maximmus: sleep
+[  640] Maximmus: rest
+[  640] Maximmus: hp
+[  640] Maximmus: tic
+[ 1024] Maximmus: martial arts
+[ 1024] Maximmus: martial
+[ 1024] Maximmus: power
+[ 1024] Maximmus: timer
+[ 1024] Maximmus: recall
+[ 1024] Maximmus: tick
+[ 1024] Maximmus: tick
+[ 1024] Maximmus: tick
+[ 1024] Maximmus: damage
+[  646] Maximmus: recall
+[  632] Maximmus: refresh
+[ 1010] Maximmus: bug
+[ 1010] Maximmus: eat
+[ 1010] Maximmus: drink
+[ 1010] Maximmus: eat
+[ 1010] Maximmus: drink
+[    0] Sionn: maelik
+[  633] Maximmus: crit
+[ 1010] Maximmus: advance
+[  638] Maximmus: equip
+[  634] Maximmus: urukga
+[  634] Maximmus: swamp
+[  634] Maximmus: talent
+[  627] Maximmus: study
+[ 1010] Maximmus: bleed
+[ 1019] Maximmus: bleeding
+[ 1019] Maximmus: bandage
+[    0] Adrastos: half elf
+[  659] Solomon: recall
+[  644] Solomon: bandage
+[  644] Solomon: bleeding
+[ 2345] Solomon: story
+[    0] Archanon: omari
+[  675] Maximmus: elite
+[  620] Maximmus: consider
+[ 2317] Maximmus: sleep
+[  621] Upro: hedit
+[  621] Upro: help

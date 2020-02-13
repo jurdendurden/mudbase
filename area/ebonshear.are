@@ -1,0 +1,3484 @@
+#AREADATA
+Deprecated 0
+Name Ebonshear~
+Builders Weiland Upro~
+VNUMs 2200 2299
+Levels 5 40
+Credits Weiland~
+Climate 0
+Plane 0
+PrimaryResource garnet~
+Security 9
+Flags 32
+Faction (null)~
+History Ebonshear is a large and sprawling forest that stretches mostly north and
+south, but has forks out to the west which lead to the coast of this continent.
+It is a very old forest, and is rumored to house a rather nasty host of undead
+minions hidden away, under control of a necrolich. 
+~
+End
+
+
+
+#MOBILES
+#2200
+grubby kobold~
+a grubby kobold~
+A grubby kobold wanders the Ebonshear Forest.
+~
+(null)~
+A grubby kobold wanders the Ebonshear Forest foraging for food. A small
+creature roughly three feet in height, his skin has a greyish tint to
+it from lack of sunlight. Glancing at his scrawny frame, he doesn't 
+appear to be too much of a challenge.
+~
+kobold~
+AG C J -200 0
+8 3 8d8+16 8d8+100 2d5+3 punch
+0 0 0 0
+0 0 L C
+stand stand male 100
+ABHMV ABCDEFGHIJKQ medium
+ unknown
+M RANDOM 2200 25~
+#2201
+lost trapper~
+a lost trapper~
+A lost trapper wanders about in a panic.
+~
+(null)~
+The lost trapper appears to be in a state of panic after wandering
+about the forest for days. His clothing is battered and torn, he is
+near exhaustion and appears to be on the brink of madness. Limited to
+stagnant water and little food, he is a man at the end of his rope.
+~
+human~
+ACFG C 0 200 0
+8 8 8d8+16 8d8+100 2d5+3 punch
+0 0 0 0
+0 0 0 0
+stand stand male 40
+AHMV ABCDEFGHIJK medium
+ unknown
+M DEATH 2202 70~
+#2202
+filthy kobold~
+a filthy kobold~
+A filthy kobold stalks the forest.
+~
+(null)~
+Contrary to popular opinion, kobolds as a race are not all weaklings.
+This sturdy female kobold is quite tall for her race almost four feet
+in height. Covered in filth she stalks about with her head held high
+determined to find something suitable to eat.
+~
+human~
+AFG 0 0 0 0
+4 0 4d8+8 4d8+100 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium
+ unknown
+#2203
+black snake~
+a black snake~
+A long black snake slithers along the path.
+~
+(null)~
+A long black snake blends in well with it dark enviroment. Roughly three
+feet in length, it seems content to slither along about its business. A
+tiny forked tongue snaps out of its mouth revealing rather impressive
+fangs.
+~
+snake~
+AG 0 0 200 0
+8 9 8d8+16 8d8+100 2d5+9 bite
+0 0 0 0
+0 0 L I
+stand stand male 0
+AGXYc ADEFKLQ medium
+ unknown
+F par VX
+#2204
+annoying insect~
+an annoying insect~
+An annoying insect flits about looking for a blood meal.
+~
+(null)~
+An annoying insect flits about looking for its next blood meal. Miniscule
+in nature, it needs the blood to nurture its next batch of eggs. It is a
+familiar sight in this water logged decaying enviroment.
+~
+insect~
+AFG 0 TZ 0 0
+10 0 10d8+20 10d8+100 2d5+10 bite
+1 1 1 1
+0 0 FI EH
+stand stand none 0
+ABGO ACK medium
+ unknown
+#2205
+brown spider~
+a large brown spider~
+A large brown spider attacks from a nearby tree!
+~
+(null)~
+A large brown spider is quite large, many legs seeming to move about
+with blinding speed. Covered in a heavy fur the spider is almost the
+size of an average cat. Angered by your proximity to its home it
+wastes no time in attacking!
+~
+spider~
+ABFG 0 QZ 0 0
+5 0 5d8+10 5d8+100 0d0+0 none
+0 0 0 0
+0 0 FI EH
+stand stand female 0
+ABGO ACK medium
+ unknown
+#2206
+cloud of mosquitoes~
+a cloud of mosquitoes~
+A large cloud of mosquitoes buzzes about in midair.
+~
+(null)~
+A large cloud of mosquitoes buzzes about laying eggs in the
+brackish pools of the forest. The mosquitoes use what is called
+a blood meal to inseminate their eggs which are then layed on
+rafts in stagnant water. The forest serves as a fertile breeding
+ground for the malignant pests which are well known to bear many
+diseases.
+~
+insect~
+AFG 0 TZ 0 0
+5 2 5d8+10 5d8+100 2d3+2 bite
+0 0 0 0
+0 0 0 EH
+stand stand none 0
+ABGO ACK medium
+ unknown
+F res FI
+#2207
+grey barghest~
+A grey barghest~
+A grey barghest lopes along.
+~
+(null)~
+A grey barghest lopes along, very young by its size and appearance. An
+otherworldly mixture of wolf and the sub-human goblin race, this one is
+still very small. Not much of an adversary solo, but a different story
+as they grow older and form into packs.
+~
+goblin~
+AG 0 J 0 0
+5 0 5d8+10 5d8+100 0d0+0 none
+0 0 0 0
+0 0 Q C
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#2208
+albino frang~
+an albino {gf{xr{ga{xn{gg{x~
+An albino {gf{xr{ga{xn{gg{x hops through the forest
+~
+(null)~
+A frang is a larger cousin of the ordinary frog family. They are fairly
+common in forests and swampy areas and tend to adapt according to their
+habitat. They have been seen underwater, moving about through trees and
+have even been spotted far out to sea. This particular one is about two
+feet tall and is a pale almost bleached white in shade. Finer chefs value
+their meat as a key ingredient for many exotic dishes and as a reagent
+in curative potions.
+~
+animal~
+AFG 0 0 0 0
+5 2 5d8+10 5d8+100 2d3+2 bite
+0 0 0 0
+0 0 C 0
+stand stand male 0
+AGV ABDEFHJKUV medium
+ unknown
+F par C
+M DEATH 2201 15~
+#2209
+guard bugbear~
+{wa bugbear guard{x~
+A black and grey furred bugbear guards the path.
+~
+(null)~
+A black and grey furred bugbear appears to be guarding the entrance of
+the opening. Roughly five feet tall, bugbears are one of the more common
+subhuman races that populate the world. Some have been known to be
+relatively intelligent and capable of coherent speech. The look in this
+ones pale blue eyes appear to speak of hostile intents however...
+~
+bugbear~
+ABFG C J 0 0
+6 0 6d8+12 6d8+100 2d3+4 punch
+0 0 0 0
+DEO 0 EILQ BH
+stand stand male 120
+AGHMV ABCDEFGHIJKUVY medium
+ unknown
+#2210
+furred bugbear~
+a red furred bugbear~
+A red furred bugbear stalks about on patrol.
+~
+A {Rred{x furred bugbear~
+A red furred bugbear paces about on patrol. The bugbear appears to be
+pacing off a set patrol as he watches for intruders. His green eyes
+seem to be glazed as if he is under someone's control. Spying you he
+seems to gather himself for combat.
+~
+bugbear~
+AFG 0 J -400 0
+10 14 10d8+20 10d8+100 3d5+8 claw
+-2 -2 -2 -2
+0 0 LQ BH
+stand stand male 60
+AHMV ABCDEFGHIJKY medium
+ unknown
+#2211
+brown barghest~
+a brown barghest~
+A brown barghest moves quietly here.
+~
+(null)~
+A brown furred barghest moves quietly through the dark forest.
+The barghest paces about on all fours, her stubby tail wagging
+behind her. A member of the goblin race, the barghest lacks the
+meager intelligence poessessed by others of the goblinoid race.
+A docile creature, the barghest has proven to be a faithful pet if
+properly trained much like the canine race.
+~
+goblin~
+AG 0 J 200 0
+4 0 4d8+8 4d8+100 1d3+4 bite
+0 0 0 0
+0 0 Q C
+stand stand female 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#2212
+small lizard~
+a small lizard~
+A small lizard scuttles through the grass.
+~
+(null)~
+A small lizard scuttles through the dry grey grass. Its small body is
+roughly a foot in length as it moves about on all fours. Lizard meat
+is rich in protein if prepared properly but quite bland and tasteless
+uncooked. This lizard looks quite content to move about unnoticed
+snacking on the passing insects that fly by.
+~
+lizardman~
+AG 0 0 0 0
+8 3 8d8+16 8d8+100 2d4+3 bite
+0 0 0 0
+0 0 EKLQ FI
+stand stand none 0
+ABGHMVXc ABCDEFGHIJKQUV medium
+ unknown
+#2213
+grey kobold~
+a grey skinned kobold~
+A grey skinned kobold hunts in the forest.
+~
+(null)~
+A grey skinned kobold hunts for some dinner in the forest. Typical of its
+race he is not overly large and goes about with a slight slouch. He keeps
+a keen eye on his surroundings in search of something to bring back to his
+family. His skin is a mottled rather sickly shade of grey which is a bit
+unusual but he does blend into the bleak enviroment nicely.
+~
+kobold~
+AG C J 200 0
+7 6 7d8+14 7d8+100 2d3+5 punch
+0 0 0 0
+0 0 L C
+stand stand male 100
+ABHMV ABCDEFGHIJKQ medium
+ unknown
+#2214
+hobgoblin squat mercenary~
+a squat hobgoblin mercenary~
+A squat hobgoblin mercenary patrols the fields.
+~
+(null)~
+A squat hobgoblin appears to be patrolling the dead grass of the fields.
+Not known for the most stellar of moral value, most hobgoblins usually
+find themselves employed as low level lackeys or minions depending on 
+who is controlling them. A competent fighter, if properly equipped a
+hobgoblin can prove to be a worthy adversary for the unprepared adventurer.
+~
+hobgoblin~
+AFG C J 0 0
+12 12 12d8+24 12d8+100 2d8+5 punch
+1 1 1 1
+0 0 DLQ 0
+stand stand male 120
+AHMV ABCDEFGHIJKY medium
+ unknown
+#2215
+cloaked woman spell-sword~
+a grey cloaked woman~
+A grey cloaked woman strides through the grass.
+~
+(null)~
+A grey cloaked woman strides through the grass overseeing the mercenaries.
+Clad in a figure obscuring grey cloak, the woman's features are mostly
+hidden by her cloak. A short-handled spiked mace glimmers in her hand as
+she walks amidst the mercenaries. Her job is to heal them if necessary and
+to coordinate the security in the fields. She is no doubt a hired spell sword
+and will not hesitate to attack anyone she deems a threat.
+~
+elf~
+AFGQ D DHJ -200 0
+13 13 13d8+26 13d8+100 3d4+4 punch
+1 1 1 1
+R M BCDb IS
+stand stand female 400
+ABHMV ABCDEFGHIJKUV medium
+ unknown
+#2216
+half orc mercenary~
+a half orc mercenary~
+A heavily armed half orc mercenary stands here.
+~
+(null)~
+A heavily armed half orc mercenary stands here at the ready.
+His greenish tinted skin gives his oddly shaped face a jowly
+pig like appearance. His crooked teeth twist into a cruel smile
+as he fingers his blade awaiting some action. A lot of fools have
+been running through the area lately and he anticipates more to
+follow.
+~
+half orc~
+ABFT 0 DF -300 0
+14 14 14d28+200 14d8+100 3d5+12 punch
+1 1 1 1
+EFT AB FIL P
+stand stand male 350
+AHMV ABCDEFGHIJK medium
+ unknown
+F vul B
+M FIGHT 2204 25~
+M DEATH 2205 100~
+#2217
+spell-sword seasoned~
+a seasoned spell-sword~
+A seasoned spell-sword guards the path.
+~
+(null)~
+A tall middle aged elven man stands firmly here. A
+seasoned spell-sword, the man has hired his services out
+to the highest bidder for many years. His current job is
+not to his tastes however, he does not fancy dealings with
+the dead. His grey eyes are clearly worried, his face tense
+with fear. However he has been hired to do a job and that is
+what he will do despite his current misgivings.
+~
+elf~
+AFG C BDFJV 100 0
+20 20 20d8+200 20d8+100 4d5+15 punch
+2 2 2 2
+0 0 BCDb I
+stand stand male 200
+AHMV ABCDEFGHIJK medium
+ unknown
+#2218
+undead skeletal hobgoblin~
+an undead skeletal hobgoblin~
+An undead skeletal hobgoblin paces mindlessly here.
+~
+A festering corpse of a hobgoblin~
+A ghastly undead hobgoblin shambles along mindlessly here. Its sunken
+cavernous flesh hangs off its exposed long dead body. The foul odour of
+decay is fostered by maggots that appear to be feeding off what remains
+of its mouldering flesh. Its eyesockets glow an eerie {Rred{x fostered by
+whatever foul magic has brought it back to life.
+~
+skeleton~
+AFT 0 J -200 0
+15 15 15d8+30 15d8+100 3d5+10 claw
+1 1 1 1
+R ABM 0 HNS
+stand stand none 450
+ABHMV ABCDEFGHIJKUV medium
+ unknown
+#2219
+spider crypt~
+a crypt spider~
+A bulbous crypt spider scurries about.
+~
+A gigantic bulbous crypt spider~
+A bulbous dusty crypt spider scurries about in the darkness. Quite
+large, roughly the size of a small dog, the spiders are relatively
+harmless. If provoked however their venomous bite can prove to be
+quite fatal to the unwary adventurer. Its dusty mandibles move
+about erraticaly as it spins its cobwebs in the corners of the crypt.
+~
+spider~
+AG 0 Z 200 0
+15 0 15d8+30 15d8+100 3d5+10 bite
+1 1 1 1
+0 0 FI EH
+stand stand none 0
+ABGO ACK medium
+ unknown
+#2220
+wraith shadowy~
+a shadowy wraith~
+A shadowy wraith attacks from the darkness!
+~
+A missahpen shadoy wraith~
+The blurred shape of the wraith is ethereal and formless, its
+shadowy existence a blight on the mortal coil. Its past life is
+long forgotten as its mindless search for vengeance has stirred
+an incessant blood lust for revenge against the living. Its formless
+body shimmers with an unnatural aura of forbidden magicks as it floats
+about the crypt.
+~
+wraith~
+AFG 0 JT -500 0
+15 0 15d8+30 15d8+100 3d5+10 blast
+1 1 1 1
+R M CD HNS
+stand stand none 500
+ABHMV ABCDEFGHIJKUV medium
+ unknown
+M DEATH 2210 60~
+#2221
+spectre ebony~
+an ebony {Ms{mp{Me{Mc{Mt{mr{Me{x{w~
+An ebony {Ms{mp{Me{Mc{Mt{mr{Me{x seeks vengeance for the fallen.
+~
+(null)~
+Summoned by the death knells of his kindred wraiths, the ebony
+spectre seeks vengeance for its fallen brethren. Its shadowy form
+glistens with forbidden arcane energy, it will not rest until its
+kindred souls have been avenged.
+~
+undead~
+AFG D HJT -500 0
+18 0 18d8+300 18d8+100 4d5+8 blast
+1 1 1 1
+EGHR M CD HNS
+stand stand none 1600
+ABHMV ABCDEFGHIJKUV medium
+ unknown
+M DEATH 2222 100~
+#2222
+noble undead~
+an undead noble~
+An undead noble shambles out of the darkness.
+~
+(null)~
+A long dead noble has risen again driven by his mindless quest
+for vengeance. Driven to madness by its unwilling resurrection, the
+rotting flesh of the undead hangs in putrid strips on its bony frame.
+Baleful {Rcrimson{x {weyes of hate peer out in mindless fury as it
+shuffles slowly out of the darkness.
+~
+undead~
+ABFG 0 JT -200 0
+12 15 12d8+24 12d8+100 3d5+12 bite
+1 1 1 1
+R M CD HNS
+stand stand none 1000
+ABHMV ABCDEFGHIJKUV medium
+ unknown
+M DEATH 2211 90~
+#2223
+Allura paladin elven woman~
+the paladin, Allura~
+A wounded elven woman nurses her injuries here.
+~
+(null)~
+A tall lithesome elven woman clad in shining paladin armor sits slumped
+against the far corner of the room. Thick ebony hair cascades down past her
+lovely features alighting apon her hunched shoulders. Large rents in her
+armor show evidence of recent heavy combat. {rBlood{x pools at her feet from
+various wounds about her lovely frame. Clear hazel eyes narrow slightly at
+your entrance as she appraises your potential threat to her. 
+~
+elf~
+ABGQ 0 DFHJ 1000 0
+31 15 31d8+62 31d8+100 1d3+2 none
+1 1 1 1
+0 CD Bb IZ
+stand stand female 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 2230 100~
+M SPEECH 2225 assemble the key~
+M ACT 2221 greet~
+M SPEECH 2223 ectoplasm recovery~
+#2224
+maggots swarm~
+a swarm of maggots~
+A swarm of maggots fester here.
+~
+(null)~
+A swarm of ravenous maggots fester in a seething mass here. The maggots
+recently released from their undead host are ravenous for their next
+meal. Mindless in their agitated state, the swarm must find another
+host quickly to sustain their vampiric lives.
+~
+insect~
+AG 0 Z 0 0
+12 0 12d8+24 12d8+100 0d0+0 bite
+1 1 1 1
+0 0 FI EH
+stand stand none 0
+ABGO ACK medium
+ unknown
+#2225
+necromage Gratzul MarkI~
+the necromage, Gratzul~
+The nefarious necromage, Gratzul awaits here.
+~
+(null)~
+The baleful eyes of the necromage regard you with some skepticism.
+Cloaked in shadows, the man known as Gratzul resonates with potent arcane
+energy. Widely reviled in the region for numerous nefarious deeds, he is a
+man to avoid all contact with. With a snicker of disdain at you, Gratzul
+attacks!  
+~
+undead~
+ABFG D DFJc -500 0
+15 0 5d30+800 20d10+200 3d5+12 blast
+1 1 1 1
+FGHR M CD HNS
+stand stand none 2000
+ABHMV ABCDEFGHIJKUV medium
+ unknown
+M DEATH 2212 100~
+#2226
+Gratzul undead fleeing~
+Gratzul, the undead mage~
+Gratzul attempts to flee beneath the crypt.
+~
+(null)~
+The tattered bony frame of the necromage, Gratzul pauses here. Battered from
+your recent encounter his power is still formidable. Apon spying your entry
+Gratzul's eyes narrow in baleful fury!
+~
+undead~
+ABFGO D J -500 0
+20 20 10d61+1000 20d8+100 4d5+20 blast
+1 1 1 1
+AGHRV M CD HNS
+stand stand none 300
+ABHMV ABCDEFGHIJKUV medium
+ unknown
+#2290
+ettin two-headed~
+an angry two-headed ettin~
+An angry two-headed ettin charges!
+~
+(null)~
+A large freak of a creature, the two-headed ettin is an uncommon
+sight in the region. A secretive sort, the ettin is not that bright
+but makes up for the lack of brains with its brawn. Normally not
+overly aggressive, they are fiercely loyal to their kinfolk. Pity
+the fool that messes with their family or friends!
+~
+half orc~
+ABFGT CD 0 -200 0
+15 15 5d30+200 15d8+100 3d5+10 punch
+1 1 1 1
+E 0 CDIL BP
+stand stand male 2000
+AHMV ABCDEFGHIJK medium
+ unknown
+M DEATH 2203 30~
+#2299
+SecretGuy~
+SecretGuy~
+SecretGuy hides in the shadows here.
+~
+~
+An ephemeral blob of a man, SecretGuy prefers his privacy.
+~
+human~
+ABG H 0 0 0
+50 0 50d8+100 50d8+100 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 2299 100~
+#0
+
+
+
+#OBJECTS
+#2200
+pool tranquil~
+a tranquil pool~
+A tranquil pool of rain water has collected here.~
+unknown~
+0
+fountain 0 0 0
+999 999 'water' 0 0
+0 0 0 P
+#2201
+frang leg~
+an albino {Gf{Wr{Ga{Wn{Gg{x leg~
+A severed frang's leg lies here.~
+flesh~
+0
+food 0 F A
+AC BC 0 0 0
+1 2 5 P
+#2202
+flask clay~
+a tiny clay flask~
+A tiny clay flask was dropped here.~
+dirt~
+0
+potion 0 0 AO
+5 'cure light' 'cure poison' 'refresh' 'reserved'
+5 1 20 P
+#2210
+armor crude leather~
+crude leather armor~
+A crudely fashioned leather armor was left here.~
+leather~
+0
+armor 0 0 AD
+B A B A 1
+6 3 60 P
+#2211
+spear barbed~
+a barbed spear~
+A crude barbed spear was dropped here.~
+bone~
+0
+weapon 0 0 AN
+spear 3 4 pierce F
+5 4 40 G
+#2212
+fang sharpened~
+the sharpened fang of a black snake~
+A sharpened snake fang lies here.~
+bone~
+0
+weapon 0 0 AN
+exotic 3 5 pierce H
+5 2 80 P
+E
+fang~
+This fang of the black snake has been sharpened and
+treated for durability. A tinge of poison still coats
+its sharp tip.
+~
+#2213
+tree branch~
+a large tree branch~
+A heavy tree branch lies here.~
+wood~
+0
+weapon 0 0 AN
+mace 2 9 crush 0
+11 10 15 A
+A
+14 -10
+A
+1 3
+A
+29 7
+#2214
+plate reinforced leather~
+reinforced leather plate~
+A set of leather plate lies here.~
+leather~
+0
+armor 0 0 AD
+B A AB B 1
+6 4 150 G
+A
+13 5
+#2215
+greaves studded~
+studded leather greaves~
+Studded leather greaves were dropped here.~
+leather~
+0
+armor 0 0 AF
+B A B B 1
+6 3 120 P
+A
+13 3
+#2216
+scimitar broad~
+a broad scimitar~
+A broad scimitar gleams in the light.~
+steel~
+0
+weapon 0 0 AN
+long_sword 3 6 slash 0
+7 3 100 P
+#2217
+wristband studded leather~
+a studded leather wristband~
+A studded leather wristband lies here.~
+leather~
+0
+armor 0 0 AM
+B A A A 1
+6 2 70 G
+#2218
+ring golden engagment~
+a {Yg{yo{Yl{yd{Ye{yn{x engagement ring~
+A small golden engagement ring was dropped here.~
+gold~
+0
+jewelry 0 F AB
+0 0 0 0 0
+5 1 120 P
+E
+ring~
+The engagment ring is made of a slender band of common
+gold. Relatively cheap, its sentimental value is probably
+more then its cost to the rightful owner.
+~
+#2219
+mace short-handled spiked~
+a short-handled spiked mace~
+A short-handled spiked mace was dropped here.~
+steel~
+0
+weapon A B AN
+mace 3 6 crush 0
+9 3 2200 G
+A
+19 4
+A
+12 14
+#2220
+cloak grey~
+a grey hooded cloak~
+A grey hooded cloak lies in a heap here.~
+cotton~
+0
+armor 0 0 AC
+AB 0 AB B 1
+10 2 230 P
+A
+4 1
+A
+12 8
+A
+28 5
+#2221
+armguards studded leather~
+studded leather armguards~
+Studded leather armguards have been discarded here.~
+leather~
+0
+armor 0 0 AI
+AB B B B 1
+7 3 120 G
+A
+12 8
+A
+3 1
+#2222
+belt mana focusing~
+a belt of fine silk threading~
+A thin translucent belt glimmers here.~
+silk~
+0
+armor AJU 0 AL
+AB AB AB BC 1
+10 2 1900 P
+A
+12 20
+E
+belt~
+The magical belt of mana focusing is a common accoutrement
+favored by magic users. Generally it serves as an extra
+mana source that can be used in a pinch. This particular one
+seems to have a small storage of mana and will dissipate if
+dropped.
+~
+#2223
+longsword tempered~
+a tempered longsword~
+A tempered bronze longsword lies here.~
+bronze~
+0
+weapon 0 0 AN
+long_sword 3 8 slash 0
+10 4 220 P
+A
+29 14
+#2224
+leather helm studded~
+a studded leather helm~
+A round studded leather helm was dropped here.~
+leather~
+0
+armor 0 0 AE
+AB B AB B 2
+10 3 150 G
+A
+17 5
+A
+14 15
+A
+2 2
+#2225
+robe magi~
+robe of the Magi~
+A crumpled robe lies here.~
+cotton~
+0
+armor F 0 AD
+AB B B B 1
+15 3 200 P
+A
+13 15
+A
+12 15
+A
+3 1
+#2226
+staff malevolence black oak twisted~
+a twisted {Dblack{x oak staff~
+A twisted staff pulsating malevolent energy.~
+black oak~
+0
+staff 0 0 ANO
+15 5 5 'lightning bolt' 0
+15 1 6400 P
+A
+13 22
+#2227
+ectoplasm pool~
+a pool of {We{mc{Mt{Wo{mp{Wl{Ma{ms{Wm{x~
+A pool of ectoplasm collects here.~
+energy~
+0
+skin 0 F A
+0 0 0 0 0
+5 1 0 P
+#2228
+robes tattered arcane~
+tattered robes of the arcane~
+A tattered robe shimmers in the light here.~
+magic~
+0
+armor AF B AK
+AB B C B 1
+12 3 400 G
+A
+3 2
+A
+12 15
+#2229
+Wand Gratzul's~
+gratzul's wand of {Rf{ri{Rr{re{x{w~
+A slender ash wand simmers here.~
+wood~
+0
+wand AJSY 0 ANO
+15 6 5 'fireball' 0
+15 2 300 G
+#2230
+wooden torch~
+a crude wooden torch~
+A crude wooden torch was left here.~
+wood~
+0
+light 0 0 AO
+0 0 BE 0 0
+5 3 15 P
+#2250
+plate silver redemption~
+{M({x{WS{Ch{Wi{Cn{Wi{Cn{Wg{M){x {Ws{wi{Wl{wv{We{wr{x plate of {Wr{Ce{Wd{Ce{Wm{Cp{Wt{Ci{Wo{Cn{x~
+Heavy silver plate lies forgotten here.~
+silver~
+0
+armor AKL 0 AD
+BCD BCD ACD ACD 5
+30 12 3000 W
+#2251
+Longsword of Justice~
+{M({RF{rl{Ra{rm{Ri{rn{Rg{M){x {WLongsword{x of {WJ{Cu{Ws{Ct{Wi{Cc{We{x~
+A heavy silver longsword lies here.~
+silver~
+0
+weapon B 0 AN
+exotic 1 3 slash 0
+30 10 2400 A
+#2290
+key bronze~
+a bronze key~
+A long bronze key lies here.~
+bronze~
+0
+key U 0 AO
+0 0 0 0 0
+1 1 0 P
+#2291
+heavy stone crypt key~
+a heavy stone crypt key~
+A hefty stone crypt key lies here.~
+stone~
+0
+key 0 0 AO
+0 0 0 0 0
+10 5 0 P
+#2295
+key top~
+the broken top of a stone key~
+An odd broken piece of stone lies here.~
+stone~
+0
+key 0 F A
+A 0 0 0 0
+5 3 0 A
+E
+key~
+The stone feels somewhat hot to the touch, it appears to
+be the top portion of a key. If the bottom part could be located,
+perhaps the two could be joined.
+~
+#2296
+bottom broken key~
+the bottom half of a stone key~
+The bottom half of a broken key lies here.~
+stone~
+0
+key 0 F A
+A 0 0 0 0
+5 1 0 W
+O GET 2200 bottom broken key~
+#2297
+key reformed~
+a reformed stone key~
+A large misshapen key lies here.~
+stone~
+0
+key 0 F A
+A 0 0 0 0
+5 1 0 G
+#2298
+flask collection empty~
+an empty collection flask~
+A dusty glass flask lies here.~
+glass~
+0
+flask 0 F AO
+0 0 0 0 0
+5 1 0 G
+#2299
+flask ectoplasm full~
+a full flask of {we{mct{wo{mp{wl{mas{wm{x~
+A flask of viscous liquid rolls around here.~
+glass~
+0
+flask 0 F AO
+0 0 0 0 0
+5 1 0 G
+#0
+
+
+
+#ROOMS
+#2200
+Outskirts of the Ebonshear Forest~
+A sense of sadness grips this dimly lit path through the Ebonshear
+Forest. The forest itself is ancient predating most of the local
+cities and towns on the continent. Over the years the trees have
+all grown very tightly together letting in very little sunlight.
+The path to the east is noticeably brighter leading to a gap in
+the trees.
+~
+0 4 3
+0
+1
+2
+D1
+~
+~
+0 0 2358
+D3
+~
+~
+0 0 2201
+M 20 H 20
+S
+#2201
+A narrow dirt path~
+A narrow dirt path winds its way past gnarled trees and dead leaves.
+Green fungus grows wildly on the surface of pools of rain water amidst
+fallen treelimbs. The ground underfoot is uneven, the path disrupted by
+the roots of the trees. The path to the east appears to be noticeably
+brighter then the western path.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2200
+D3
+~
+~
+0 0 2202
+M 20 H 20
+S
+#2202
+A narrow dirt path~
+A narrow dirt path winds its way past thick tree roots and pale green
+grass. Brackish pools of rainwater gather around the gnarled boughs of
+the trees sprouting wild growths of fungus. The oppressive silence of
+the forest is broken by the sounds of creatures moving about in the
+dead debris.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2201
+D3
+~
+~
+0 0 2203
+M 20 H 20
+S
+#2203
+A clearing in the forest~
+A wide clearing between tall trees is covered with leafy
+rotting debris and fallen limbs. Small dark trails lead away
+from the clearing deeper into the Ebonshear Forest. {gL{Wu{gm{Wi{gn{Wo{gu{Ws{x
+fungi grows rampant along the boughs of the gnarled trees. Strange
+noises echo sharply in the oppressive silence as unseen creatures
+move about in the darkness.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2204
+D1
+~
+~
+0 0 2202
+D3
+~
+~
+0 0 2221
+M 15 H 15
+S
+#2204
+A dark narrow path~
+Very little sunlight makes it way through the heavy overhead foliage.
+Green fungus grows on the bark of the nearby trees nurtured by small
+brackish pools of rainwater. The grass beside the dirt path is a light
+grey, straining to survive in the meager soil of the forest. Rotting
+leafy debris along the path emits a foul unpleasant odour home to maggots
+and other unsavory creatures.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2205
+D2
+~
+~
+0 0 2203
+M 10 H 10
+S
+#2205
+A dark narrow path~
+Heavy overhead foliage filters out most sunlight from ever reaching
+the sickly ground. Pale grey grass along the path looks to be blighted
+from the lack of nurturing sunlight. Small piles of what appears to
+kobold dung along the path suggests that the foul creatures are most
+likely in the near vicinity. Not known for their courage, kobolds can
+still be a dangerous opponent if encountered in packs.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2206
+D2
+~
+~
+0 0 2204
+M 10 H 10
+S
+#2206
+A dark narrow path~
+Heavily gnarled trees skirt the dark path covered with
+{gl{Wu{gm{Wi{gn{Wo{gu{Ws{x fungi. Brackish pools of rainwater collect at
+the boughs of the trees serving as a breeding ground
+for pestilent groups of insects. Plump {gf{Wr{ga{Wn{gg{Ws{x hop about
+the pools chasing after the clouds of insects. A clearing
+in the forest appears to be not far to the south of here.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2220
+D2
+~
+~
+0 0 2205
+D3
+~
+~
+0 0 2207
+M 10 H 10
+S
+#2207
+A dark winding path~
+Clouds of bothersome mosquitoes fill the air with their
+incessant buzzing. Rotting piles of dead vegetation molder
+silently breeding maggots and feeding the morbid evolutionary
+chain in the forest. The sounds of movement through the dead
+underbrush echo sharply through the otherwise dead silence.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2206
+D3
+~
+~
+0 0 2208
+M 10 H 10
+S
+#2208
+A dark winding path~
+Tall gnarled trees enclose the narrow twisted path in
+their tight embrace. Odd forest creatures move about the
+forest, stunted caricactures of normal healthier animals.
+The lack of sunlight and perhaps something more sinister has
+twisted the evolution of the animals in the forest. Perhaps
+all the rumors about the Ebonshear Forest aren't all complete
+hearsay.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2209
+D1
+~
+~
+0 0 2207
+M 10 H 10
+S
+#2209
+A dark winding path~
+The dark path winds its way past the erratic growth of the ancient
+trees. Many of the trees here have stood within the gloomy confines
+of the forest for generations. Brackish pools of rain water glisten
+in the dim lighting covered with clouds of mosquitoes. Dead leafy
+debris awaits the unwary traveller to entrap them in their leafy
+ankle twisting embrace.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2210
+D2
+~
+~
+0 0 2208
+M 10 H 10
+S
+#2210
+A dark winding path~
+The path winds its way unevenly through the thick tree growth. Pale
+grey grass grows sporadically about in the hard packed dirt. Odd
+fungus grows wildly on the surface of the trees. Dim shadows can be
+seen moving about in the tree line ahead. Perhaps now might be a good
+time to turn back and find another route of travel.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2211
+D2
+~
+~
+0 0 2209
+M 10 H 10
+S
+#2211
+A dark winding path~
+A tall elm long sundered by lightning strikes lies across
+the path at an awkward angle. From a distance depending on
+the lighting, the elm resembles a large humanoid shaped figure.
+The surface of the dead tree is covered with rampant fungi, tall
+bulbous stems sticking out of the tree like fingers. With a little
+effort, one could manage to find a way around the tree.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2212
+D2
+~
+~
+0 0 2210
+M 10 H 10
+S
+#2212
+A dark winding path~
+Stagnant pools alive with clouds of mosquitoes have left the
+twisiting path a muddy quagmire. Bulbous {gf{Wr{ga{Wn{gg{Ws{x hop about in
+mud delighting in its wet slimy embrace. The path appears to be
+a lot drier just to the east. A dead elm lies across the path to
+the west, victim of a lightning strike.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2213
+D3
+~
+~
+0 0 2211
+M 10 H 10
+S
+#2213
+A dark winding path~
+A silent siblant breeze stirs the dead leaves of the forest
+spraying them across the path. Tall trees loom like giants over
+the path, their gnarled limbs reaching out desperately to the
+heavens for sunlight. The stench of rotting vegetation creates a
+veritable cloud of nauseating gas that hangs thick in the air. A
+tall tree to the west lies across the path, a quagmire of mud and
+water collected around it.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2214
+D3
+~
+~
+0 0 2212
+M 10 H 10
+S
+#2214
+A small clearing in the forest~
+A small clearing in the forest is ringed by heavy tree growth
+and pools of brackish rain water. Dead leafy debris covers the
+ground along with several fallen tree limbs. A clear pool of 
+water sticks out from the rest not far to the north. Heavy tracks
+in the muddy ground all lead to the pool of clean water.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2215
+D1
+~
+~
+0 0 2216
+D2
+~
+~
+0 0 2213
+M 10 H 10
+S
+#2215
+Beside a tranquil pool~
+A tranquil pool of clear water covers the corner of this
+small clearing in the Ebonshear Forest. The placid surface of
+the pool is like a mirror, reflecting all light off its surface.
+A solitary dead leaf floats dead in the center of the pool, the
+only visible imperfection on its silky smooth surface. The ground
+around the pool is scarred by numerous tracks indicating this is
+a favorite spot for the forest's inhabitants.
+~
+0 1028 3
+0
+1
+2
+D2
+~
+~
+0 0 2214
+M 10 H 10
+S
+#2216
+A dark twisting path~
+Dead leaves scatter about disturbed by your footsteps. Trees grow all
+about the path gripping it tightly in natures embrace. Green fungus
+grows on the boughs of the tree nurtured by brackish pools of rainwater.
+A loud crash is heard in the distance as a rotten branch falls to the
+ground.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2217
+D3
+~
+~
+0 0 2214
+M 10 H 10
+S
+#2217
+A dark winding path~
+Fallen tree limbs and piles of dead leaves make travel along the path
+tedious. The path seems to have no clear focus, wandering aimlessly
+amidst the roots of the trees and twisted boughs of the forest. What
+little light that makes its through the heavy overhead foliage is
+virtually useless for navigating.
+~
+0 0 3
+0
+1
+2
+D2
+~
+~
+0 0 2218
+D3
+~
+~
+0 0 2216
+M 10 H 10
+S
+#2218
+A dark winding path~
+Fallen tree limbs are scattered all along the path along
+with piles of dead leafy debris. Pools of brackish rain
+water have turned the path into a muddy sloppy mess to
+travel through. The ground appears to be firmer to the south
+of here, the path ahead seems to be littered with fallen tree
+limbs and leafy debris.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2217
+D2
+~
+~
+0 0 2219
+M 10 H 10
+S
+#2219
+A dark winding path~
+An unnatural calm seems to grip the forest, there appears to be very 
+little animal life present. Its no wonder the trappers in the area
+prefer the much more hospitable environs of the Green Hills. Although
+from the evidence of several tracks in the dirt, large and small, there
+are some signs of life about.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2218
+D2
+~
+~
+0 0 2220
+M 10 H 10
+S
+#2220
+A dark winding path~
+A light breeze stirs fallen leaves along the path scattering them about.
+The surfaces of the ancient trees all seem to have the same irregular
+patterns of mold and fungus marring them. The whole area is a breeding
+ground for mushrooms and decay. Its a wonder the whole forest hasn't
+collapsed in on itself.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2219
+D2
+~
+~
+0 0 2206
+M 10 H 10
+S
+#2221
+A dark quiet path~
+Dry twigs and dead leaves crackle loudly underfoot. The trees along
+the past appear to move stirred by unseen breezes. Shadowy figures
+move about the trees along the path some vaguely humanoid. The smell
+of decaying leaves and fungi makes the air unpleasant to breathe.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2203
+D3
+~
+~
+0 0 2222
+M 10 H 10
+S
+#2222
+A dark quiet path~
+Very little light filters through the heavy overhead foliage
+of the forest. Ancient gnarled trees grip the path, their roots
+sticking up out of the ground at awkward angles. Dim shadows
+obscure whatever is moving about in the darkness, odd echoes
+sound periodically in the distance ahead.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2221
+D2
+~
+~
+0 0 2223
+M 10 H 10
+S
+#2223
+A dark quiet path~
+The hard dirt path underfoot is littered with leafy debris
+and dead vegetation. Whatever does manage to grow in the meager
+light is an odd grey color interpersed with rampant fungi growth.
+Clouds of mosquitoes hover about stagnant pools of rain water laying
+eggs and furthering the cycle of slow rot and decay.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2222
+D3
+~
+~
+0 0 2224
+M 10 H 10
+S
+#2224
+A dark quiet path~
+The dark quiet path winds its way past tall gnarled trees
+and fallen limbs. Odd noises echo in the distance as the forest
+denizens move about in the murky darkness. Piles of what appear to
+be kobold dung litter the path indicating the foul creatures are
+nearby. Not a great threat by themselves, as a pack they are much
+more of a danger.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2223
+D3
+~
+~
+0 0 2225
+M 10 H 10
+S
+#2225
+A dark quiet path~
+The dark path winds its way past rampant fungi growth and
+fallen leafy debris. Tall dense overhead foliage allows very
+little light down to the surface below. Odd stunted creatures
+roam about the forest, the evolutionary chain in this area has
+been twisted resulting in the strange creatures roaming about in
+the semi-darkness of the forest.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2224
+D2
+~
+~
+0 0 2226
+M 10 H 10
+S
+#2226
+A dark quiet path~
+A grim silence grips the area, most sounds muffled by the dense
+tree growth. The trees are all grey and uniform in appearance, many
+quite ancient. Fungal growth is rampant nurtured by stagnant pools of
+rain water and poor drainage. What little grass there is also grey
+matching the dull drab enviroment.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2225
+D2
+~
+~
+0 0 2227
+D3
+~
+~
+0 0 2281
+M 10 H 10
+S
+#2227
+A dark quiet path~
+Dark shadows pool along the quiet path disturbed by odd creatures
+moving about in the semi darkness. The denizens of the forest have
+all been twisted by lack of sunlight and perhaps something even more
+dire. The forest is ancient predating much of the man made constructions
+of the recent era. Perhaps something more sinister is at work deep within
+the dreary bowels of the forest.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2226
+D1
+~
+~
+0 0 2228
+M 10 H 10
+S
+#2228
+A dark quiet path~
+The path winds its way past ancient trees and leafy fallen debris.
+Everything is similar in appearance down to the numerous pools of
+rain water. A careless adventurer could easily get lost deep within
+the twisting confines of the forest. This particular section of the
+path is marred by numerous humanoid shaped foot prints indicating
+heavy travel along this direction.
+~
+0 0 3
+0
+1
+2
+D2
+~
+~
+0 0 2229
+D3
+~
+~
+0 0 2227
+M 10 H 10
+S
+#2229
+A dark quiet path~
+A wide path to the east of here looks much brighter, much of the fallen
+debris has been cleared away. A dark dimly lit path to the north winds
+its way deeper into the mysterious bowels of the Ebonshear Forest. Heavy
+footsteps sound to the east where something seems to be moving about just
+behind the tree cover.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2228
+D1
+~
+~
+0 0 2230
+M 10 H 10
+S
+#2230
+A wide path through the forest~
+The path is considerably wide, most of the fallen leafy debris
+has been removed. Heavy foot travel appears to have taken this
+route, evidence of many humanoid sized foot prints scar the path.
+Many of the overhanging tree limbs over the path have been trimmed
+back, apparently whatever uses this path is also quite large.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2231
+D3
+~
+~
+0 0 2229
+M 10 H 10
+S
+#2231
+A wide path through the forest~
+The wide path shows heavy foot traffic, the grey soil underfoot is
+marred by numerous foot prints. The ominous silence of the forest is
+broken by loud foot steps in the distance as something quite heavy
+seems to be pacing about. Perhaps some caution would be advisable 
+before charging further into the forest from this point.
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2232
+D3
+~
+~
+0 0 2230
+M 10 H 10
+S
+#2232
+Before an opening in the trees~
+A wide opening in the trees leads to a giant barren field. Far at the
+southern end of the field, an immense stone structure rises to the
+heavens. Humanoid shaped figures can be seen from this vantage point
+patrolling the perimeter of the structure. Extreme caution would probably
+be advisable from this point forward.
+~
+0 4 3
+0
+1
+2
+D0
+~
+~
+9 0 9000
+D2
+~
+~
+0 0 2233
+D3
+~
+~
+0 0 2231
+M 10 H 10
+S
+#2233
+Barren Fields~
+Dry grey grass covers the barren field which appears to
+stretch onward for miles. All the thick tree growth of the
+forest is noticeably missing, perhaps the arid dirt here simply
+doesn't support anything besides the meager grass. The trees that
+still stand encircling the fields are noticeably stunted and shrunken.
+An immense stone structure juts out of the ground to the far south of
+here.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2232
+D1
+~
+~
+0 0 2234
+D2
+~
+~
+0 0 2246
+M 10 H 10
+S
+#2234
+Barren Fields~
+An open barren field stretches off into the southern portion of
+the forest. Miles of forest appear to have been decimated leaving
+little behind but the dry grey grass. On the far southern boundary
+of the field, an immense stone structure thrusts out of the ground
+like a mailed fist.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2235
+D2
+~
+~
+0 0 2245
+D3
+~
+~
+0 0 2233
+M 10 H 10
+S
+#2235
+Barren Fields~
+The trees surrounding the dry fields all seem to bear the same
+floral disease. The bark on the trees almost seems to be molting
+off the trunks of the once hearty trees. The leaves on the trees
+have begun to shrivel and fall on the grass below at an alarming
+rate.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2236
+D2
+~
+~
+0 0 2244
+D3
+~
+~
+0 0 2234
+M 10 H 10
+S
+#2236
+Barren Fields~
+Dead and dying trees surround the perimeter of the dry grey
+field. Far to the south an immense stone structure juts out of
+the ground towards the sky. Humanoid figures apppear to be moving
+about the sides of the structure patrolling it. Whatever secrets
+the structure is hiding appears to be closely guarded.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2237
+D2
+~
+~
+0 0 2243
+D3
+~
+~
+0 0 2235
+M 10 H 10
+S
+#2237
+Barren Fields~
+Dry grey grass stretches off into the near horizon towards
+a large stone structure. Humanoid figures patrol the grass
+outside the structure no doubt protecting its hidden mysteries.
+The field appears to support some native life, dried animal dung
+amidst the grass indicates something calls this barren place home.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2238
+D2
+~
+~
+0 0 2242
+D3
+~
+~
+0 0 2236
+M 10 H 10
+S
+#2238
+Barren Fields~
+Dry leaves scattered amidst the tall grey grass add to
+the overall feeling of death the field conveys. Numerous
+mottled lizards move about silently in the grass blending in
+seamlessly with the grey environs. The ground underfoot is dry
+and baked similar to that of a desert enviroment.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2239
+D2
+~
+~
+0 0 2241
+D3
+~
+~
+0 0 2237
+M 10 H 10
+S
+#2239
+Barren Fields~
+The dry ground underfoot is hard like stone, the grey grass
+struggling to survive here. The trees surrounding the fields all
+have the same blighted tree rot slowly stripping the vitality from
+them. Judging by the wide expanse of decay evidenced by the barren
+field, its only a matter of time before the plight here expands 
+deeper into the forest.
+~
+0 0 2
+0
+1
+2
+D2
+~
+~
+0 0 2240
+D3
+~
+~
+0 0 2238
+M 10 H 10
+S
+#2240
+Barren Fields~
+The trees of the forest appear to shrink from the dry soil of the
+fields. The bark on the nearby trees are infected with an odd fungus
+sloughing off the tough outer bark of the ancient trees. The exposed
+sappy organs of the trees are withering and dying at an alarming rate.
+Several large birds fly across the sky all seeming to head towards the
+west, the silhouttes of the birds resemble buzzards.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2239
+D3
+~
+~
+0 0 2241
+M 10 H 10
+S
+#2241
+Barren Fields~
+The barren dry field is lifeless except for the dry dying grass.
+Mottled grey lizards move about the grass silently looking for
+sustenance, their cold {Rred{x eyes beaming out of the dry grass.
+A large bird flies over the area circling a large swarm of insects
+not far to the west. The large bird, swoops towards the ground and
+then darts off towards the southern portion of the fields.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2238
+D1
+~
+~
+0 0 2240
+D3
+~
+~
+0 0 2242
+M 10 H 10
+S
+#2242
+Barren Fields~
+A path of dried blood leads towards a swarm of mosquitoes to
+the west. Apparently something has fallen in battle recently and
+its defeated corpse was dragged through the grass. Judging by the
+wide swath of blood trail here, there may have been more then one
+victim involved. The trail leads off through the dry grass towards
+the stone structure to the south.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2237
+D1
+~
+~
+0 0 2241
+D3
+~
+~
+0 0 2243
+M 10 H 10
+S
+#2243
+Barren Fields~
+A pool of {Rcrimson{x blood slowly dries into the arid soil
+here. Something heavy appears to have been dragged away off towards
+the structure. Perhaps whatever caused the pool of blood has been
+spirited off towards the odd structure. The long shadow cast by the
+structure apon the fields below it only serves to heighten its sense
+of malignant mystery.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2236
+D1
+~
+~
+0 0 2242
+D3
+~
+~
+0 0 2244
+M 10 H 10
+S
+#2244
+Barren Fields~
+Dusty grey colored grass covers the barren soil struggling
+to survive. Dead leaves from the dying trees surrounding the
+fields litter the landscape. The ground is heavily scarred from
+numerous foot prints all seeming to lead towards the structure
+to the south. Humanoid shaped figures patrolling the structure
+appear to be of various sizes, apparently security is tight outside
+the mysterious structure.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2235
+D1
+~
+~
+0 0 2243
+D3
+~
+~
+0 0 2245
+M 10 H 10
+S
+#2245
+Barren Fields~
+On the southern perimeter of the fields, an immense stone
+structure rises high out of the barren ground. Mottled grey
+lizards mill about the grass searching for sustenance. Humanoid
+shaped figures in the distance appear to be patrolling the outside
+of the structure. No doubt the closer one gets to the structure the
+chances of being discovered by the patrols increases.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2234
+D1
+~
+~
+0 0 2244
+D3
+~
+~
+0 0 2246
+M 10 H 10
+S
+#2246
+Barren Fields~
+The barren field stretches off into the forseeable horizon
+ringed by the trees of the Ebonshear Forest. Just to the north
+an opening in the trees leads out of the dead fields. Far to the
+south an immense stone structure rises out of the ground. A crisp
+southern breeze stirs the dead grass carrying the dead leaves off
+into the forest.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2233
+D1
+~
+~
+0 0 2245
+D2
+~
+~
+0 0 2247
+D3
+~
+~
+0 0 2287
+M 10 H 10
+S
+#2247
+Barren Fields~
+What looks to be a series of wooden barricades begins to circle
+the stone structure. The barricades are meant to be a defensive
+buffer of sorts around the structure. Whether they are intended to
+keep people out or something in the structure is open for debate at
+this point. Security will no doubt be a lot tighter the closer one
+gets to the structure.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2246
+D1
+~
+~
+0 0 2248
+M 10 H 10
+S
+#2248
+Along the barricades~
+A series of wooden barricades have been built around the
+outer perimeter of the structure. Heavily patrolled, these
+barricades serve as security checkpoints around the outskirts
+of the structure itself. The area is beginning to resemble that
+of a military operation, one wonders if this close to the city if
+they will pose an iminent threat to the city itself.
+~
+0 0 2
+0
+1
+2
+D2
+~
+~
+0 0 2249
+D3
+~
+~
+0 0 2247
+M 10 H 10
+S
+#2249
+Before a checkpoint~
+A heavy wooden barricade stands to the south of here under
+heavy guard. The open field around the barricade has been blocked
+off by heavy logs and debris, evidently that is where all the trees
+of the forest have been taken too. The only way to gain further access
+at this point will be through forceful entry through the guarded check
+point ahead.
+~
+0 4 2
+0
+1
+2
+D0
+~
+~
+0 0 2248
+D2
+~
+~
+0 0 2250
+M 10 H 10
+S
+#2250
+A gated checkpoint~
+A large gate blocks entrance to the checkpoint ahead placed squarely in
+the center of the barricade. Gaps in the barricade reveal a peek at more
+barricades leading in closer to the mysterious stone structure. Heavily
+armed mercenaries can be seen patrolling along the barricades. The ground
+underfoot shows heavy foot traffic all leading through the checkpoint.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2249
+D1
+~
+gate~
+1 2290 2251
+M 10 H 10
+S
+#2251
+Along the barricades~
+A series of wooden barricades have been constructed of fallen
+timbers of the forest trees. Large logs have been cobbled together
+to form the barricades in a concentric circle around the stone
+structure. What exactly is behind all this is a mystery at this
+point. Perhaps more answers can be found at or inside the structure
+itself.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2252
+D3
+~
+gate~
+1 2290 2250
+M 10 H 10
+S
+#2252
+Along the barricades~
+Tall wooden barricades restrict travel to the north forcing
+a winding path around the stone structure to the south. Some
+details of the structure are more apparent now, the stone facade
+facing this direction is obviously ancient. Mossy licen clings to
+it outer service appearing to glow slightly even from this distance.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2253
+D3
+~
+~
+0 0 2251
+M 10 H 10
+S
+#2253
+Along the barricades~
+A narrow path winds its way past tall wooden barricades marching
+ever closer to the stone structure to the south. A heavy odor of
+decay and death hangs in the air. The strong odor resembles that
+of mouldering flesh and something perhaps even more sinister. Now
+might be a good time to rethink this route of travel.
+~
+0 0 2
+0
+1
+2
+D2
+~
+~
+0 0 2254
+D3
+~
+~
+0 0 2252
+M 10 H 10
+S
+#2254
+Along the barricades~
+Just to the south another checkpoint arises dead
+center in the path through the barricades. The question
+still remains if the barricades have been erected to keep
+people out of the area or to contain something within it?
+The heavy smell of rotting flesh brings bile up to your throat
+as the structure draws ever closer.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2253
+D2
+~
+~
+0 0 2255
+M 10 H 10
+S
+#2255
+Before a checkpoint~
+A heavy gate stands dead in the center of the path along
+the barricades. The southern face of the stone structure casts
+a tall ominous shadow down apon the path. The heavy smell of
+rotting flesh and something even more foul is even stronger this
+close to the structure. Determined to find out what exactly is going
+on, you vow to continue your efforts to penetrate the security of the
+mysterious structure.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2254
+D2
+~
+gate~
+1 2290 2256
+M 10 H 10
+S
+#2256
+Along the barricades~
+A heavy guarded gate to the north leads out through the
+barriacades away from the structure. This close to the structure an
+uneasy feeling of dread seems to emanate from its cold mossy surface.
+Heavy lichen grows on the porous stone of the structure almost as if
+its been submerged underground for a long period of time. The stench
+of rotting flesh is quite overpowering at this point.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+1 0 2255
+D2
+~
+~
+0 0 2257
+M 10 H 10
+S
+#2257
+Beside the structure~
+A slight dirt path follows the eastern side of the ominous structure
+under heavy shadow. Fallen timbers from the forest construct a crude
+barricade around the structure. The air seethes with the release of
+potent magical energies.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2256
+D2
+~
+~
+0 0 2258
+M 10 H 10
+S
+#2258
+Beside the structure~
+The porous outer facade of the structure is covered with
+ancient mossy lichen. A heavy smell of decay fills the air,
+something ancient and foul is at work here. The atmosphere
+is charged with the release of ethereal energy, powerful magicks
+have been used here quite recently. How this all ties together is
+still a mystery as the path reaches the front side of the structure.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2257
+D2
+~
+~
+0 0 2259
+M 10 H 10
+S
+#2259
+Before an ancient structure~
+The front of the structure is covered with ancient lichen
+covering its porous stony facade. A rank odour of decay seeps
+out of the stone hanging heavy in the air. An elaborate series
+of runes are inscribed in long forgotten script deep into the
+stone. A closer examination reveals the structure is some sort
+of tomb. A heavy tree line to the south of here shrinks away
+from any contact with the malignant structure.
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2258
+D3
+~
+~
+0 0 2260
+M 10 H 10
+S
+#2260
+Before an ancient structure.~
+A series of concentric circles have been burned into the dry
+grass before the structure. The ground is heavily damaged, the
+structure seems to have erupted from the very depths of the field.
+The air crackles with the release of rampant magical energy around a
+dessicated pile of burnt corpses. A large open doorway leads into
+the inner darkness of the structure ahead.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2261
+D1
+~
+~
+0 0 2259
+M 10 H 10
+S
+#2261
+A musty chamber~
+The air inside the chamber is musty and fetid with the stink of
+rotting flesh. Dusty cobwebs cover the surfaces of the cold stone
+chamber infested with teeming spiders. A thick stone slab has been
+pried away from the northern exit and cast to the floor. The fields
+outside the structure beckon to the south.
+~
+0 12 0
+0
+1
+2
+D0
+~
+~
+0 0 2262
+D2
+~
+~
+0 0 2260
+M 10 H 10
+S
+#2262
+A dark corridor~
+A dusty corridor leads past shadowed alcoves filled with desecrated
+coffins. The structure is an ancient tomb dedicated to housing a noble
+family an their loved ones. Undead creatures lurk in the shadows ahead
+raised by whatever malignant force has been unleashed within the tomb.
+Discretion may be the better part of valor at this point with the exit
+back to the fields directly to the south.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2265
+D1
+~
+~
+0 0 2264
+D2
+~
+~
+0 0 2261
+D3
+~
+~
+0 0 2263
+M 10 H 10
+S
+#2263
+A dusty alcove~
+The dusty alcove is virtually empty save for a raised stone
+dais off the dirty floor. A desecrated coffin lies smashed open
+atop the stone dais. Large crypt spiders crunch underfoot making
+an unpleasant popping noise from your careless footsteps. A faded
+gold fresco bearing the royal family seal gleams slightly along the
+upper borders of the alcove.
+~
+0 1074799628 0
+0
+1
+2
+D1
+~
+~
+0 0 2262
+M 30 H 30
+S
+#2264
+A dusty alcove~
+Dusty cobwebs cover the surfaces of the dark alcove capturing
+the dust in the fetid crypt. Crypt spiders scurry about the floor
+disturbed by your entrance. A raised stone dais sits off the floor
+curiously empty. A few scraps of mouldering wrappings are all that
+remains atop the dais. A faded gold fresco bearing a forgotten
+royal seal runs the upper borders of the alcove.
+~
+0 8 0
+0
+1
+2
+D3
+~
+~
+0 0 2262
+M 10 H 10
+S
+#2265
+A dark corridor~
+Odd misshapen shadows flicker about the dark corridor, dim lighting is
+provided by a few guttering torches along the way. Dusty cobwebs swarm
+with crypt spiders disturbed by your careless footsteps. Small alcoves
+off the corridor house the decaying remnants of this once once proud
+noble tomb. Odd shuffling footsteps sound nearby in the darkness warning
+of oncoming danger nearby.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2266
+D2
+~
+~
+0 0 2262
+M 10 H 10
+S
+#2266
+A dark corridor~
+Dusty cobwebs sparkle in the dim lighting lit by guttering torches.
+Shadowed alcoves flank the corridor bearing rotting remnants of this
+descendants of a once proud noble family. The presence of the roaming
+undead here speaks to foul magicks at work. Far to the south the open
+air outside the tomb beckons to the faint of heart.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2269
+D1
+~
+crypt~
+2 2297 2268
+D2
+~
+~
+0 0 2265
+D3
+~
+~
+0 0 2267
+M 10 H 10
+S
+#2267
+A dusty alcove~
+A raised stone dais bears a descecrated coffin set dead center
+of the alcove. A single guttering torch bears witness to the sacrilege
+commited here above the dais. Dusty cobwebs sparkle dully capturing the
+rampant dust that coats everything within the tomb. A faded gold fresco
+runs the upper border of the alcove bearing the faded noble family crest
+apon it.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2266
+M 10 H 10
+S
+#2268
+A dark alcove~
+The darkness of the alcove is almost absolute making the contents
+of it almost invisible. Crypt spiders crunch unpleasantly underfoot as
+they scurry from your heavy steps. Bumping about in the darkness reveals
+the rounded cold stone of a raised dais placed in the center of the alcove.
+A single unlit torch is placed just above the dais awaiting someone's grasp.
+~
+0 8 0
+0
+1
+2
+D3
+~
+crypt~
+2 2297 2266
+M 10 H 10
+S
+#2269
+Within the crypt~
+A wide intersection leads off into the darkness and dust lit
+by guttering torches. Odd shuffling sounds in the darkness
+accentuated by the off-tune acoustics of the crypt strike a cord
+of mindless desperation and fear. The undead are restless here,
+spurred on in a mindless rage against those who have disturbed
+their eternal rest. Far to the south a faint breeze stirs from
+the open air of the fields outside the crypt.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2273
+D2
+~
+~
+0 0 2266
+D3
+~
+~
+0 0 2270
+M 10 H 10
+S
+#2270
+A dusty hallway~
+Dusty cobwebs sparkle dimly in the dust lit by guttering torches
+along the walls. The air is fetid and dry, the stench of rotting
+flesh is tangible in its foulness. The desecrated undead of the
+crypt are restless, their incessant shuffling about in the darkness
+is quite unnerving. And they don't seem to care who they encounter
+as they go about mindlessly searching for retribution.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2269
+D3
+~
+~
+0 0 2271
+M 10 H 10
+S
+#2271
+A dusty hallway~
+The dimly lit hallway winds past shadowed alcoves bearing the
+burial remains of a long forgotten noble family. Crypt spiders scurry
+about underfoot weaving their gossamer webs in the dust. The incessant
+shuffling of the restless undead is unnerving as they move about in the
+darkness.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2272
+D1
+~
+~
+0 0 2270
+M 10 H 10
+S
+#2272
+A dark alcove~
+The alcove is dimly lit by guttering torches, a raised burial
+dias occupies the center of the cramped alcove. Atop the dias a
+shattered coffin is all that remains. Crypt spiders crunch loudly
+underfoot disturbed by your careless footsteps. Dusty cobwebs lurk in
+the four corners spawning more spiders to scurry about in the darkness.
+~
+0 8 0
+0
+1
+2
+E
+dais~
+A dim glimmer of light emits from a wide crack at the base of
+the dais.
+~
+D2
+~
+~
+0 0 2271
+D5
+~
+dais~
+9 2291 2276
+M 10 H 10
+S
+#2273
+A dusty hallway~
+Crypt spiders scuttle about in the dust cobweb festooned crypt. The
+vengeful undead roam the crypt intent on wreaking havoc on those who
+have disturbed their final resting place. Why anyone would disturb
+this place so callously is an outrage in itself. One cannot place
+sole blame on the undead for wanting their immortal peace restored to
+them.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2274
+D3
+~
+~
+0 0 2269
+M 10 H 10
+S
+#2274
+A dusty hallway~
+A shadowy alcove beckons to the south containing a dim pool of
+light. Dust and cobwebs adorn the cold stone of the crypt populated
+by crypt spiders and restless undead figures in the shadows. The air
+is dry and dense with the smell of putrid rotting flesh. It will take
+a heroic effort to cleanse this place of its festering evil.
+~
+0 0 0
+0
+1
+2
+D2
+~
+~
+0 0 2275
+D3
+~
+~
+0 0 2273
+M 10 H 10
+S
+#2275
+A dusty alcove~
+Dust and cobwebs adorn this alcove save for an empty raised dais
+set dead center of the alcove. A guttering torch shines a dim light
+on the sad scene of the desecrated coffin atop the dais. The rotting
+wood of the coffin has been smashed open laying bare its decaying contents.
+Its no wonder the undead roam restlessly in the ancient crypt their quest
+for vengeance unrelenting.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2274
+M 10 H 10
+S
+#2276
+Beneath the dais~
+A narrow set of stone steps leads down into inky darkness. The steps
+are a crumbling mess threatening to collapse at any moment. The cold
+dank walls of the crypt are festooned with cobwebs crawling with crypt
+spiders. A dim pool of light beckons at the base of the steps below
+perhaps leading to more answers about the mysterious crypt.
+~
+0 8 0
+0
+1
+2
+D4
+~
+~
+9 0 2272
+D5
+~
+~
+0 0 2277
+M 10 H 10
+S
+#2277
+Beneath the crypt~
+A featureless tunnel bores its way underneath the crypt towards the
+east. The tunnel walls are cold and damp covered with an odd glowing
+{Ggreen{x{w lichen. The air is measurably colder down here, a welcome
+relief from the warm fetid air of the crypt above. A crumbling set of
+steps leads upwards out of the strange tunnel.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2278
+D4
+~
+~
+0 0 2276
+M 10 H 10
+S
+#2278
+Beneath the crypt~
+Glowing {Ggreen{x{w lichen along the tunnel walls bathes everything in a
+sickly pale glow. The air is unusually cold, the rank smell of decay has
+thankfully abated. The bulbous shapes of the omnipresent crypt spiders
+weave their webs along the crevices of the tunnel walls. A crumbling set
+of steps leads back upwards to the crypt not far to the west.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2279
+D3
+~
+~
+0 0 2277
+M 10 H 10
+S
+#2279
+Beneath the crypt~
+The pale glow of the slimy lichen along the tunnel walls bathes the
+area in its sickly pale light. A blast of cold air streams in from
+the north almost painful in its intensity. The cold air carries the
+welcome scents of pine trees and the open air, perhaps a rapid exit
+from the dangerous crypt is close at hand. However an ominous echo
+of footsteps in the near distance screams out for further caution
+ahead.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2280
+D3
+~
+~
+0 0 2278
+M 10 H 10
+S
+#2280
+Before a strange portal~
+A stiff cold breeze blasts in from a large portal to the north.
+A snow covered landscape is visible on the other side of the portal,
+a slick coating of ice drifts in through the portal coating the floor.
+The cold air is refreshing but after a few moments becomes numbing in
+its freezing intensity. Any attempts to enter the portal prove to be
+futile however.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 2279
+M 10 H 10
+S
+#2281
+A dark and quiet path~
+~
+0 0 3
+0
+0
+0
+D1
+~
+~
+0 0 2226
+D3
+~
+~
+0 0 2282
+M 25 H 25
+S
+#2282
+A dark and quiet path~
+~
+0 0 3
+0
+0
+0
+D1
+~
+~
+0 0 2281
+D2
+~
+~
+0 0 2283
+M 25 H 25
+S
+#2283
+A dark and quiet path~
+~
+0 0 3
+0
+0
+0
+D0
+~
+~
+0 0 2282
+D3
+~
+~
+0 0 2284
+M 25 H 25
+S
+#2284
+An overgrown path~
+~
+0 0 3
+0
+0
+0
+D1
+~
+~
+0 0 2283
+D3
+~
+~
+0 0 2285
+M 25 H 25
+S
+#2285
+An overgrown path~
+~
+0 0 3
+0
+0
+0
+D1
+~
+~
+0 0 2284
+D3
+~
+~
+0 0 2286
+M 25 H 25
+S
+#2286
+A nearly impassable path~
+The path grows nearly impossible to pass through as the underbrush has taken
+over this section of the woods. It might be possible to push through the brush.
+The heat has risen considerably, and the humidity around seems to have risen as
+well. A large mountain range is clearly visible to the north. 
+~
+0 0 3
+0
+0
+0
+D1
+~
+~
+0 0 2285
+D2
+~
+~
+0 0 2900
+M 25 H 25
+S
+#2287
+An Untamed Field~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 2246
+D3
+~
+~
+0 0 2288
+M 25 H 25
+S
+#2288
+An Untamed Field~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 2287
+D3
+~
+~
+0 0 2289
+M 25 H 25
+S
+#2289
+An Untamed Field~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 2288
+D3
+~
+~
+0 0 2548
+M 25 H 25
+S
+#2290
+A dusty alcove~
+The dusty alcove is virtually empty save for a raised stone dais off the
+dirty floor. A desecrated coffin lies smashed open atop the stone dais.
+Large crypt spiders crunch underfoot making an unpleasant popping noice from
+your careless footsteps. A faded gold fresco bearing the royal family seal
+gleams slightly along the upper borders of the alcove. 
+~
+0 1036 0
+0
+1
+2
+M 30 H 30
+S
+#2299
+~
+~
+0 16388 0
+0
+1
+2
+M 10 H 10
+S
+#0
+
+
+
+#SPECIALS
+M 2203 spec_poison
+M 2205 spec_poison
+M 2215 spec_cast_cleric
+M 2219 spec_poison
+M 2225 spec_cast_mage
+M 2226 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 2232 0 1
+D 0 2250 1 2
+D 0 2251 3 2
+D 0 2255 2 2
+D 0 2256 0 2
+D 0 2266 1 2
+D 0 2268 3 2
+D 0 2272 5 2
+D 0 2276 4 2
+M 0 2211 10 2203 2 Load a brown barghest
+M 0 2200 15 2203 2 Load a grubby kobold
+M 0 2203 12 2204 2 Load a black snake
+M 0 2206 15 2206 2 Load a cloud of mosquitoes
+M 0 2208 10 2206 2 Load an albino {gf{xr{ga{xn{gg{x
+M 0 2201 12 2214 2 Load a lost trapper
+O 0 2200 0 2215 A tranquil pool loaded to Beside a tranquil pool
+M 0 2213 12 2217 2 Load a grey skinned kobold
+E 0 2210 0 5 Crude leather armor is loaded on the body of a grey skinned kobold
+E 0 2211 0 15 A barbed spear is loaded wielded of a grey skinned kobold
+M 0 2204 12 2219 3 Load an annoying insect
+M 0 2203 12 2220 2 Load a black snake
+M 0 2213 12 2220 3 Load a grey skinned kobold
+E 0 2210 0 5 Crude leather armor is loaded on the body of a grey skinned kobold
+E 0 2211 0 15 A barbed spear is loaded wielded of a grey skinned kobold
+M 0 2201 12 2221 2 Load a lost trapper
+M 0 2200 15 2222 2 Load a grubby kobold
+M 0 2200 15 2223 2 Load a grubby kobold
+M 0 2208 10 2231 2 Load an albino {gf{xr{ga{xn{gg{x
+M 0 2212 10 2231 2 Load a small lizard
+M 0 2214 12 2234 2 Load a squat hobgoblin mercenary
+E 0 2214 0 5 Reinforced leather plate is loaded on the body of a squat hobgoblin mercenary
+E 0 2215 0 7 Studded leather greaves is loaded on the legs of a squat hobgoblin mercenary
+E 0 2216 0 15 A broad scimitar is loaded wielded of a squat hobgoblin mercenary
+E 0 2217 0 13 A studded leather wristband is loaded on the left wrist of a squat hobgoblin mercenary
+M 0 2214 12 2240 2 Load a squat hobgoblin mercenary
+E 0 2214 0 5 Reinforced leather plate is loaded on the body of a squat hobgoblin mercenary
+E 0 2221 0 10 Studded leather armguards is loaded on the arms of a squat hobgoblin mercenary
+E 0 2216 0 15 A broad scimitar is loaded wielded of a squat hobgoblin mercenary
+M 0 2290 1 2243 1 Load an angry two-headed ettin
+E 0 2213 0 15 A large tree branch is loaded wielded of an angry two-headed ettin
+M 0 2215 5 2246 2 Load a grey cloaked woman
+E 0 2220 0 11 A grey hooded cloak is loaded about the shoulders of a grey cloaked woman
+E 0 2219 0 15 A short-handled spiked mace is loaded wielded of a grey cloaked woman
+E 0 2222 0 12 A belt of fine silk threading is loaded around the waist of a grey cloaked woman
+M 0 2210 15 2248 4 Load a red furred bugbear
+M 0 2216 12 2250 2 Load a half orc mercenary
+E 0 2223 0 15 A tempered longsword is loaded wielded of a half orc mercenary
+E 0 2215 0 7 Studded leather greaves is loaded on the legs of a half orc mercenary
+E 0 2224 0 6 A studded leather helm is loaded over the head of a half orc mercenary
+E 0 2214 0 5 Reinforced leather plate is loaded on the body of a half orc mercenary
+M 0 2217 10 2255 2 Load a seasoned spell-sword
+E 0 2220 0 11 A grey hooded cloak is loaded about the shoulders of a seasoned spell-sword
+E 0 2222 0 12 A belt of fine silk threading is loaded around the waist of a seasoned spell-sword
+E 0 2225 0 5 Robe of the magi is loaded on the body of a seasoned spell-sword
+E 0 2226 0 18 A twisted {dblack{x oak staff is loaded held in the hands of a seasoned spell-sword
+M 0 2218 10 2259 2 Load an undead skeletal hobgoblin
+M 0 2218 10 2260 2 Load an undead skeletal hobgoblin
+M 0 2220 10 2262 2 Load a shadowy wraith
+M 0 2219 10 2262 2 Load a crypt spider
+M 0 2223 1 2263 3 Load the paladin, Allura
+E 0 2230 0 0 A crude wooden torch is loaded as a light of the paladin, Allura
+E 0 2251 0 15 {m({rf{rl{ra{rm{ri{rn{rg{m){x {wlongsword{x of {wj{cu{ws{ct{wi{cc{we{x is loaded wielded of the paladin, Allura
+E 0 2250 0 5 {m({x{ws{ch{wi{cn{wi{cn{wg{m){x {ws{wi{wl{wv{we{wr{x plate of {wr{ce{wd{ce{wm{cp{wt{ci{wo{cn{x is loaded on the body of the paladin, Allura
+M 0 2222 10 2264 1 Load an undead noble
+M 0 2218 10 2265 2 Load an undead skeletal hobgoblin
+M 0 2219 10 2265 2 Load a crypt spider
+M 0 2222 10 2267 2 Load an undead noble
+O 0 2230 0 2268 A crude wooden torch loaded to A dark alcove
+M 0 2225 1 2268 1 Load the necromage, Gratzul
+E 0 2228 0 11 Tattered robes of the arcane is loaded about the shoulders of the necromage, Gratzul
+E 0 2229 0 18 Gratzul's wand of {rf{ri{rr{re{x{w is loaded held in the hands of the necromage, Gratzul
+M 0 2220 20 2269 2 Load a shadowy wraith
+M 0 2220 10 2269 2 Load a shadowy wraith
+M 0 2218 10 2270 2 Load an undead skeletal hobgoblin
+M 0 2219 10 2270 2 Load a crypt spider
+M 0 2218 10 2271 2 Load an undead skeletal hobgoblin
+M 0 2219 10 2271 2 Load a crypt spider
+M 0 2220 20 2274 3 Load a shadowy wraith
+M 0 2219 20 2275 2 Load a crypt spider
+M 0 2220 20 2275 2 Load a shadowy wraith
+M 0 2218 20 2275 2 Load an undead skeletal hobgoblin
+M 0 2220 21 2276 3 Load a shadowy wraith
+M 0 2219 16 2276 3 Load a crypt spider
+M 0 2219 16 2276 3 Load a crypt spider
+M 0 2299 1 2280 1 Load SecretGuy
+M 0 2226 1 2299 1 Load Gratzul, the undead mage
+E 0 2229 0 18 Gratzul's wand of {rf{ri{rr{re{x{w is loaded held in the hands of Gratzul, the undead mage
+E 0 2228 0 11 Tattered robes of the arcane is loaded about the shoulders of Gratzul, the undead mage
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#2200
+mob echoat $n The grubby kobold jams a grimy finger in his bulbous nose.
+mob echoaround $n The grubby kobold jams a grimy finger in his bulbous nose.
+~
+#2201
+if ispc $n
+mob echoat $n The {Gf{Wr{Ga{Wn{Gg{x's body explodes in a gout of {Rblood{x{w!{x
+mob echoaround $n A {Gf{Wr{Ga{Wn{Gg{x's leg is severed from its body!
+mob oload 2201 1 Room
+endif
+~
+#2202
+if ispc $n
+mob echoaround $n A tiny clay flask tumbles out of the trapper's corpse.
+mob echoat $n A tiny clay flask tumbles out of the trapper's corpse.
+mob oload 2202 5 Room
+endif
+~
+#2203
+mob echoat $n Something {Yg{yl{Yi{yt{Yt{ye{Yr{ys{x{w on the ground next to the ettin.
+mob echoaround $n Something glitters on the ground next to the ettin.
+mob oload 2218 1 Room
+endif
+~
+#2204
+if ispc $n
+mob echoat $n The mercenary plants a heavy boot into your midsection!
+mob echoaround $n The mercenary plants a heavy boot into your midsection!
+mob damage $n 20 20
+endif
+~
+#2205
+if ispc $n
+mob echoat $n A bronze key clatters to the ground.
+mob oload 2290 1 Room
+endif
+~
+#2210
+if carries $n 2298
+mob echoat $n An unholy howl raises in the bowels of the crypt!
+mob echoat $n An ebony spectre seeks vengeance for its fallen kindred!
+mob oload 2227 1 Room
+mob at 2262 mob mload 2221
+mob echoat $n The wraith dissovlves into a pool of ectoplasm...
+mob echoat $n You manage to gather some ectoplasm into the flask.
+mob remove $n 2298
+mob oload 2299 1 Room
+mob force $n get flask
+mob purge pool
+else
+mob echoat $n The wraith collapses into nothingness...
+endif
+~
+#2211
+mob echoat $n A swarm of ravenous maggots pour from the undead corpse!
+mob echoaround $n A swarm of ravenous maggots pour out of the undead corpse!
+mob mload 2224 12 Room
+~
+#2212
+mob echoat $n Gratzul's body collapses to the ground in defeat!
+mob echoat $n Gratzul's hollow voice intones in your mind:
+mob echoat $n {YYou have not won yet! I will have my revenge!{x
+mob echoat $n A stone key shimmers into existence as Gratzul's body fades...
+mob oload 2291 10 Room
+mob echoat $n You have completed the Area Quest: {GSlay Gratzul, First Encounter{x
+mob addgp $n 40
+mob addxp $n 500
+mob echoat $n Allura smiles grimly.
+mob echoat $n Allura say's {B"I thought he'd pull that trick."{x
+mob echoat $n Allura say's {B"Grab that key your going to need it."{x
+mob echoat $n Allura points to the key at your feet.
+mob echoat $n Allura say's {B"I must attend to something.. quickly after Gratzul!"{x
+mob echoat $n Allura say's {B"Gratzul has fled beneath the tomb, I will meet up with you there."{x
+mob echoat $n You are now eligible to complete Area Quest: {GSlay Gratzul, True Encounter??{x
+mob echoat $n Allura gives you a big hug!
+mob echoat $n Allura leaves the crypt to the west...
+mob force $n follow self
+mob transfer Allura 2263
+mob goto 2299
+mob transfer fleeing 2278
+endif
+end
+~
+#2213
+if carries $n ectoplasm
+say That is exactly what im looking for!
+mob remove $n 2227
+mob echoat $n Allura takes the pool of ectoplasm from you.
+else
+say Any luck yet?
+endif
+~
+#2220
+if ispc $n
+mob echoat $n The wounded woman rises slowly to her feet.
+mob echoat $n The woman greets you cautiously one hand grasping her weapon.
+if carries $n 2299
+say Ahh I see you were successful!
+mob remove $n 2299
+mob echoat $n Allura gets some bandages from her pack.
+mob echoat $n Carefully she applies the ectoplasm to the bandages...
+mob echoat $n Allura winces as she applies the bandages to her wounds.
+wince
+say You have done well.
+smile $n
+if level $n < 12
+mob addgp $n 30
+mob addxp $n 300
+mob oload 2295 1 Room
+gecho {R$N has completed the quest{x {GEctoplasm Recovery!{x
+mob echoat $n {CYou may repeat this quest until level 12.{x
+if level $n > 12
+mob echoat $n {RYou are too high level to receive the full reward!{x
+end
+mob force $n get key
+say You will need this for the next part. You must assemble the key!
+end
+endif
+if carries $n 2296
+mob echoat $n I see you've found both parts of the key!
+mob remove $n 2295
+mob remove $n 2295
+mob echoat $n Allura gestures at the keys...
+mob echoat $n Within moments Allura has joined the two broken keys!
+mob echoat $n {YYou have completed the quest {GAssemble the key!{x
+else
+if level $n > 12
+mob oload 2295 1 Room
+mob echoat $n Allura reaches into the pack at her feet...
+get key
+give key $n
+say Somewhere there is the bottom part of the key. Search the area!
+say You will need this for the next step. You must assemble the key!
+mob addxp $n 250
+endif
+endif
+endif
+endif
+endif
+end
+~
+#2221
+if ispc $n
+sleep 5
+spit
+mob echoat $n You notice quite a bit of blood on the floor after the woman's reaction.
+mob echoat $n The woman wearily extends her hand in friendship.
+mob echoat $n The woman introduces herself as Allura, Paladin of Odoma.
+mob echoat $n Allura quickly spins a bizarre tale of hunting a necromage known as Gratzul.
+mob echoat $n Her investigation led her small group here where they were quickly overmatched.
+mob echoat $n Her comrades scattered and dead, she has sought refuge here.
+mob echoat $n {C<{x{m*{x{C>{x{m *****{x {GArea Quest{x {m*****{x{C <{x{m*{x{C>{x
+mob echoat $n {C<{x{m*{x{C>{x {m*****{x{G The Hunt for Gratzul: Part One{x {m*****{x {C<{x{m*{C>{x
+mob echoat $n {C<{x{m*{x{C>{x {G(1) Ectoplasm Recovery{x
+mob echoat $n {C<{x{M*{x{C>{x{G (2) Assemble the Key{x
+endif
+~
+#2222
+if carries $n 2295
+mob oload 2296 1 Room
+mob echoat $n The broken bottom of a stone key drops to the ground.
+mob oload 2296 1 Room
+mob force $n get key
+mob echoat $n {RArea Quest Bonus:{x {GAssemble the key!{x
+mob addgp $n 10
+mob echoat $n {BTip: {GReturn the keys to Allura to complete the quest.{x
+else
+mob echoat $n The spectre gurgles as it collapses defeated.
+endif
+endif
+~
+#2223
+if carries $n 2298
+say You have the flask you need.
+say Use the empty flask to retrieve some ectoplasm, and please hurry!
+else
+if ispc $n
+mob oload 2298 1 Room
+mob echoat $n Allura retrieves a small flask by her feet.
+get flask
+give flask $n
+say The wraiths patrolling this place are comprised of ectoplasm.
+say Use this flask to collect some for me.
+say I'll be able to use a sample of the ectoplasm to heal my wounds quicker.
+say Good luck!
+endif
+endif
+~
+#2225
+if carries $n 2295
+mob echoat $n Allura tells how she found the broken key in the tomb.
+say I believe you will find the missing piece somewhere nearby.
+say I have placed a minor enchantment on that portion of the key.
+say When and if you find the proper piece,
+say My spell will join the parts as one reuniting them.
+grin
+say Then I will handle the fun part, going after Gratzul.
+cackle
+else
+say You must complete {G"Ectoplasm Recovery"{x to undertake that quest.
+say I'm counting on you.
+endif
+~
+#2230
+if ispc $n
+mob echoat $n The wounded woman wearily rises to her feet.
+mob echoat $n Hand grasping her weapon tightly, she nods at you in cautious greeting.
+endif
+if carries $n 2299
+say I see you were succesful in retrieving the ectoplasm!
+smile $n
+mob remove $n 2299
+if level $n < 12
+mob addgp $n 30
+mob addxp 300
+mob echoat $n You have completed the area quest: {GEctoplasm Recovery!{x
+mob oload 2295 1 Room
+get key
+give key $n
+say You are now eligible to complete area quest: {GAssemble the key!{x
+endif
+if level $n > 12
+mob echoat $n {RYou are too high level to receive payment for the quest!{x
+mob oload 2295 1 Room
+get key
+give key $n
+say You are now eligible to complete the area quest: {GAssemble the key!{x
+end
+endif
+else
+if carries $n 2296
+cheer $n
+say Excellent Work!
+mob remove $n 2295
+mob remove $n 2296
+mob addgp $n 35
+mob addxp $n 400
+mob echoat $n You have completed the area quest {GAssemble the key!{x
+mob echoat $n Allura quickly goes to work on the broken keys..
+mob echoat $n Within a few moments Allura has fixed the broken keys!
+mob oload 2297 1 Room
+get key
+give key $n
+say You may now do the quest {GSlay Gratzul!{x
+mob echoat $n Allura studies her wounds intently...
+say The time has come.. Gratzul will pay for his actions!
+mob echoat $n Allura dashes from the room and runs northwards up the hall!
+mob transfer $n 2266
+mob goto 2266
+mob oload 2297 1 Room
+get key
+unlock crypt
+open crypt
+mob force $n follow Allura
+group $n
+east
+kill gratzul
+mob force $n kill Gratzul
+endif
+endif
+endif
+endif
+end
+~
+#2299
+if ispc $n
+mob echoat $n A blast of freezing air wafts in through the mysterious portal..
+mob echoat $n Your senses grow numb as you are drawn into the portal...
+mob transfer $n 2800
+endif
+~
+#0
+
+#OBJPROGS
+#2200
+if carry $n 2295
+mob echoat $n You have found the bottom part of the key!
+mob echoat $n The two parts of the key tingle in your hands!
+mob echoat $n The minor spell on the keys merge the two broken parts!
+mob echoat $n The broken keys fuse back together!
+mob remove $n 2295
+mob remove $n 2296
+mob oload 2297 1 Room
+mob force $n get key
+endif
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,457 @@
+#PLAYER
+Name Ulrik~
+Id   1580861489
+LogO 1580916163
+Vers 11
+Blind 0
+Boon 7
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race duergar~
+Sex  1
+Cla  1
+God	1
+Favored 0
+GuildRnk  1
+GuildPts  243
+Levl 8
+Sec  0
+Plyd 3887
+Email (null)~
+Citizen renfall~
+Scro 22
+Room 1102
+HMV  33 126 183 183 54 167
+Bleed 0
+Talent 0
+PP 0 0
+Gold 130
+Silv 394
+BAcct 0
+Bank 0
+Exp  102821
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 71
+Age 50
+Account Dezadryk~
+Recall 1010
+Act  CDEGHKQT
+AfBy J
+Comm NOP
+Pos  8
+Prac 6
+Trai 1
+Alig  -250
+Hit   6
+ACs 67 74 66 75
+Attr 20 16 21 17 22 14
+AMod 0 0 0 1 0 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 1
+HMVP 80 163 167
+Cnd  0 2 0 7 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 240
+281 256
+69 2147483646
+68 -16777215
+128 96
+290 1048576
+62 -65535
+75 262142
+72 537130059
+74 16776193
+73 268403710
+34 33452160
+33 1074758268
+32 486538814
+31 -63743
+19 -2076180482
+20 2096408
+18 788529152
+71 -268435455
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 60 'bless'
+Sk 60 'create food'
+Sk 67 'cure light'
+Sk 1 'cure poison'
+Sk 1 'detect hidden'
+Sk 60 'detect magic'
+Sk 60 'detect poison'
+Sk 60 'refresh'
+Sk 58 'axe'
+Sk 2 'mace'
+Sk 50 'berserk'
+Sk 75 'first aid'
+Sk 50 'scrolls'
+Sk 1 'wands'
+Sk 8 'recall'
+Gr 'rom basics'
+Gr 'cleric basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 977
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 714
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 646
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 611
+Nest 0
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 38
+Nest 0
+Name a light red leather wrist pouch~
+ShD  a light red leather wrist pouch~
+Desc a light red leather wrist pouch~
+ExtF 64
+WeaF 4097
+Wt   3
+Material leather~
+Wear -1
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1  -1  17          0
+Affc 'reserved'   0   0  -1   1  12          0
+End
+
+#O
+Vnum 615
+Nest 0
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 28
+Nest 0
+Name a flecked, oily potion of cure light~
+ShD  a flecked, oily potion of cure light~
+Desc a flecked, oily potion of cure light~
+ExtF 16777282
+Wear -1
+Lev  2
+Time 537
+Cost 299
+Val  3 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1034
+Nest 0
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 1032
+Nest 0
+Cond 99
+Wear 10
+Cost 200
+End
+
+#O
+Vnum 1033
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 1022
+Nest 0
+Wear -1
+Cost 450
+End
+
+#O
+Vnum 608
+Nest 0
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 609
+Nest 0
+Wear 9
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 18
+Nest 0
+Name a belt of deftness~
+ShD  a belt of deftness~
+Desc a belt of deftness~
+ExtF 64
+WeaF 2049
+Ityp 9
+Wt   5
+Material silk~
+Wear 12
+Lev  5
+Cost 2480
+Val  6 6 6 6 0
+Affc 'reserved'   0   0  -1  -1  17          0
+Affc 'reserved'   0   0  -1   1   2          0
+End
+
+#O
+Vnum 615
+Nest 0
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 1035
+Nest 0
+Wear 6
+Cost 250
+End
+
+#O
+Vnum 1087
+Nest 0
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 2499
+Nest 0
+Wear 2
+Cost 100
+End
+
+#O
+Vnum 2330
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 2499
+Nest 0
+Wear 1
+Cost 100
+End
+
+#O
+Vnum 2330
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 2316
+Nest 0
+Wear -1
+Cost 15
+Val  5 0 0 0 0
+End
+
+#O
+Vnum 2202
+Nest 0
+Wear -1
+Time 866
+Cost 20
+Spell 1 'cure light'
+Spell 2 'cure poison'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 2202
+Nest 0
+Wear 18
+Time 533
+Cost 20
+Spell 1 'cure light'
+Spell 2 'cure poison'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 2201
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2201
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2214
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 2215
+Nest 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 2216
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 2217
+Nest 0
+Wear 14
+Cost 70
+End
+
+#O
+Vnum 20
+Nest 0
+Wear -1
+Cost 0
+Val  4 8 0 0 0
+End
+
+#O
+Vnum 2214
+Nest 0
+Wear 5
+Cost 150
+End
+
+#O
+Vnum 2215
+Nest 0
+Wear 7
+Cost 120
+End
+
+#O
+Vnum 2216
+Nest 0
+Wear 15
+Cost 100
+End
+
+#O
+Vnum 2217
+Nest 0
+Wear 13
+Cost 70
+End
+
+#END

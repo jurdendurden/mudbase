@@ -1,0 +1,195 @@
+#PLAYER
+Name Zargo~
+Id   1579362623
+LogO 1581430016
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race half ogre~
+Clan ravager~
+Clan_Rank 5
+Clan_Points 0
+Sex  1
+Cla  3
+God	1
+Favored 0
+GuildRnk  3
+GuildPts  5502
+WpnSpec	9
+Levl 30
+Sec  0
+Plyd 149323
+Email jgates33@gmail.com~
+Citizen Renfall~
+Scro 28
+Room 2355
+HMV  265 352 216 177 308 308
+Bleed 0
+Talent 0
+PP 0 0
+Gold 507
+Silv 11124
+BAcct 1
+Bank 14349
+Exp  11527141
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 1
+Mkills 2732
+Eyes 16
+Hair 4
+Haircut 8
+Facial 64
+Age 21
+Account Gwarr~
+Recall 1010
+Act  CDGKQT
+Comm NOP
+Pos  8
+Prac 8
+Trai 4
+Save  3
+Alig  -750
+Hit   -3
+Dam   -13
+ACs 100 100 100 100
+Attr 25 17 17 17 23 11
+AMod -2 0 0 0 -2 0
+Pass ~
+Titl  Mr. Mc'bash bash~
+PreT ~
+Cond	1
+EqCond 1
+Beeptells 1
+Pnts 0
+TSex 1
+LLev 40
+HMVP 392 177 308
+Cnd  0 0 42 274 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 1227
+77 4094
+76 -1
+75 -1
+290 1048576
+92 1048566
+80 2
+78 -15
+79 -2
+70 -1
+69 -1
+68 -16777215
+34 -3953
+32 -2
+33 -31745
+71 -268173313
+31 -255
+18 -1090519039
+20 2096956
+19 -268451829
+73 268435454
+72 -1074266625
+74 16777213
+128 -15
+129 2147483647
+124 1
+125 -1
+126 -1
+127 268435454
+42 -1
+41 -1
+43 16777214
+37 -65521
+38 -1
+40 -528482305
+39 -1
+90 -1074790399
+91 -1
+62 -65535
+63 2029846527
+64 -16399
+65 -1046529
+815 -1048575
+816 -1
+817 -1
+818 14
+35 -60293257
+36 -513
+87 -65535
+88 -1
+89 -1
+130 6
+287 65536
+66 -1
+67 126
+-1 -1
+Boards       7 General 1581420954 Changes 1580599112 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 100 'spear'
+Sk 95 'staff'
+Sk 100 'short sword'
+Sk 100 'long sword'
+Sk 1 'bow'
+Sk 1 'crossbow'
+Sk 65 'whip'
+Sk 97 'bash'
+Sk 18 'power grip'
+Sk 48 'berserk'
+Sk 23 'battlecry'
+Sk 40 'dirt kicking'
+Sk 22 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'hand to hand'
+Sk 22 'kick'
+Sk 81 'first aid'
+Sk 100 'parry'
+Sk 9 'blind fighting'
+Sk 54 'counter'
+Sk 22 'sharpen'
+Sk 22 'martial arts'
+Sk 94 'lore'
+Sk 22 'sneak'
+Sk 39 'scrolls'
+Sk 18 'wands'
+Sk 34 'recall'
+Sk 100 'dual wield'
+Sk 31 'hand parry'
+Gr 'rom basics'
+Gr 'fighter basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+-70 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#END

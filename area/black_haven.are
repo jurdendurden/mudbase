@@ -1,0 +1,1766 @@
+#AREADATA
+Deprecated 0
+Name Blackhaven Peak~
+Builders Upro~
+VNUMs 4000 4099
+Levels 10 30
+Credits Upro~
+Climate 4
+Plane 0
+PrimaryResource copper~
+Security 9
+Flags 34
+Faction (null)~
+History Blackhaven Peak is a large mountain along the northern ridge of the mountain
+range on this continent. It is home to a host of orcs and other foul creatures,
+and is rich in copper ore. It is said that an entrance to the underdark can be
+found in this very mountain. 
+~
+End
+
+
+
+#MOBILES
+#4000
+griffon~
+a griffon~
+A majestic griffin pridefully patrols the mountainside.
+~
+A majestic griffon~
+A beautiful, majestic griffon stands here, preening it's feathers. It cocks
+it's head to the side momentarily, turning a sharp eye to something in the
+distance. This reveals a wicked looking beak, nearly a full foot in length,
+curved sharply for rending flesh from it's victim's bodies. 
+~
+griffon~
+ABCFGT CD JVZac 0 0
+20 25 200d8+600 10d8+100 3d8+2 claw
+-10 -10 -10 -15
+CFHIK A Ba b
+stand stand none 1500
+AGHMV ABCDEFGHIJKPQ large
+ unknown
+F par V
+#4001
+hawk~
+a hawk~
+A large hawk is perched nearby, ready to plummet upon it's prey.
+~
+~
+A beautiful hawk, perched upon the face of the mountain. It preens itself
+idly as you pass, clearly not worried about malintent. This bird is quite large
+and appears it could handle itself in a fight. 
+~
+hawk~
+AG 0 TV 0 0
+8 0 8d8+16 8d8+100 0d0+0 claw
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+AGHMVW ABCDEFGHIJKP medium
+ unknown
+#4002
+orc blackhaven~
+a snarling orc~
+An orc of the Blackhaven clan loiters here.
+~
+~
+This orc is quite ugly, even for it's kind. Its sloping forehead protrudes
+moreso than normal, and its shoulders slump unceremoniously. 
+~
+orc~
+AG C Ja 0 0
+12 10 30d8+80 12d8+100 2d4+1 crush
+2 2 2 8
+HIK A Q BS
+stand stand male 180
+AHMV ABCDEFGHIJK medium
+ unknown
+#4003
+orc blackhaven~
+a snarling orc~
+An orc of the Blackhaven clan loiters here.
+~
+~
+This orc is quite ugly, even for it's kind. Its sloping forehead protrudes
+moreso than normal, and its shoulders slump unceremoniously. 
+~
+orc~
+AG C Ja 0 0
+12 10 60d8+80 12d8+100 2d8+2 crush
+2 2 2 8
+HIKV A 0 0
+stand stand male 180
+AHMV ABCDEFGHIJK medium
+ unknown
+F res Q
+F vul S
+#4004
+hill giant~
+a hill giant~
+A gnarled, stooping hill giant stands here.
+~
+~
+This hill giant is roughly eleven feet in height, with broad, stooping
+shoulders. It's face is very humanlike, despite the large, sloping brow, and
+deeply set, dim looking eyes. 
+~
+hill giant~
+AFG C J 0 0
+18 0 10d8+400 16d8+100 2d5+2 none
+0 0 0 0
+CD 0 JR BP
+stand stand none 350
+AHMV ABCDEFGHIJKY large
+ unknown
+#4005
+hooded figure~
+a hooded figure~
+(no long description)
+~
+~
+~
+human~
+AG 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#0
+
+
+
+#OBJECTS
+#4000
+egg griffon~
+a griffon egg~
+Very large, dark brown, and mottled looking egg.~
+bone~
+0
+food 0 0 AO
+BD BD 0 0 0
+15 2 4000 P
+#0
+
+
+
+#ROOMS
+#4000
+Foothills of Blackhaven peak~
+~
+0 0 5
+0
+1
+2
+D0
+~
+~
+0 0 4001
+D2
+~
+~
+0 0 4150
+M 25 H 25
+S
+#4001
+Foothills of Blackhaven peak~
+~
+0 0 5
+0
+1
+2
+D1
+~
+~
+0 0 4002
+D2
+~
+~
+0 0 4000
+M 25 H 25
+S
+#4002
+Foothills of Blackhaven peak~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4003
+D3
+~
+~
+0 0 4001
+M 25 H 25
+S
+#4003
+Foothills of Blackhaven peak~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4004
+D3
+~
+~
+0 0 4002
+M 25 H 25
+S
+#4004
+Foothills of Blackhaven peak~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4005
+D3
+~
+~
+0 0 4003
+M 25 H 25
+S
+#4005
+A turn in the path~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4006
+D3
+~
+~
+0 0 4004
+M 25 H 25
+S
+#4006
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4007
+D2
+~
+~
+0 0 4005
+M 25 H 25
+S
+#4007
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4008
+D2
+~
+~
+0 0 4006
+M 25 H 25
+S
+#4008
+A turn in the path~
+~
+0 0 5
+0
+0
+0
+D2
+~
+~
+0 0 4007
+D3
+~
+~
+0 0 4009
+M 25 H 25
+S
+#4009
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4008
+D3
+~
+~
+0 0 4010
+M 25 H 25
+S
+#4010
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4009
+D3
+~
+~
+0 0 4011
+M 25 H 25
+S
+#4011
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4010
+D3
+~
+~
+0 0 4012
+M 25 H 25
+S
+#4012
+Before the mouth of a cave~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4014
+D1
+~
+~
+0 0 4011
+D3
+~
+~
+0 0 4013
+M 25 H 25
+S
+#4013
+Inside a cave~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4012
+D3
+~
+~
+0 0 4081
+M 25 H 25
+S
+#4014
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4015
+D2
+~
+~
+0 0 4012
+M 25 H 25
+S
+#4015
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4016
+D2
+~
+~
+0 0 4014
+M 25 H 25
+S
+#4016
+A turn in the path~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4017
+D2
+~
+~
+0 0 4015
+M 25 H 25
+S
+#4017
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4018
+D3
+~
+~
+0 0 4016
+M 25 H 25
+S
+#4018
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4019
+D3
+~
+~
+0 0 4017
+M 25 H 25
+S
+#4019
+A turn in the path~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4020
+D3
+~
+~
+0 0 4018
+M 25 H 25
+S
+#4020
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4021
+D2
+~
+~
+0 0 4019
+M 25 H 25
+S
+#4021
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4022
+D2
+~
+~
+0 0 4020
+M 25 H 25
+S
+#4022
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4023
+D2
+~
+~
+0 0 4021
+M 25 H 25
+S
+#4023
+A winding path in the foothills~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4024
+D3
+~
+~
+0 0 4022
+M 25 H 25
+S
+#4024
+Bottom of a narrow incline~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4025
+D3
+~
+~
+0 0 4023
+D4
+~
+~
+0 0 4026
+M 25 H 25
+S
+#4025
+Dead end in the path~
+~
+0 0 5
+0
+0
+0
+D3
+~
+~
+0 0 4024
+M 25 H 25
+S
+#4026
+A steep, narrow incline~
+~
+0 0 5
+0
+0
+0
+D4
+~
+~
+0 0 4027
+D5
+~
+~
+0 0 4024
+M 25 H 25
+S
+#4027
+Top of a steep, narrow incline~
+~
+0 0 5
+0
+0
+0
+D3
+~
+~
+0 0 4028
+D5
+~
+~
+0 0 4026
+M 25 H 25
+S
+#4028
+A winding path along a twisting ridge~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4027
+D3
+~
+~
+0 0 4029
+M 25 H 25
+S
+#4029
+A winding path along a twisting ridge~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4030
+D1
+~
+~
+0 0 4028
+M 25 H 25
+S
+#4030
+A winding path along a twisting ridge~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4031
+D2
+~
+~
+0 0 4029
+M 25 H 25
+S
+#4031
+A winding path along a twisting ridge~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4032
+D2
+~
+~
+0 0 4030
+M 25 H 25
+S
+#4032
+A winding path along a twisting ridge~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4033
+D2
+~
+~
+0 0 4031
+M 25 H 25
+S
+#4033
+A winding path along a twisting ridge~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4034
+D3
+~
+~
+0 0 4032
+M 25 H 25
+S
+#4034
+A winding path along a twisting ridge~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4035
+D3
+~
+~
+0 0 4033
+M 25 H 25
+S
+#4035
+A winding path along a twisting ridge~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4036
+D3
+~
+~
+0 0 4034
+M 25 H 25
+S
+#4036
+Bottom of a steep incline~
+~
+0 0 5
+0
+0
+0
+D3
+~
+~
+0 0 4035
+D4
+~
+~
+0 0 4037
+M 25 H 25
+S
+#4037
+A steep, narrow incline~
+~
+0 0 5
+0
+0
+0
+D4
+~
+~
+0 0 4038
+D5
+~
+~
+0 0 4036
+M 25 H 25
+S
+#4038
+Top of a steep, narrow incline~
+~
+0 0 5
+0
+0
+0
+D3
+~
+~
+0 0 4039
+D5
+~
+~
+0 0 4037
+M 25 H 25
+S
+#4039
+A steep pass along the ridge~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4038
+D3
+~
+~
+0 0 4040
+M 25 H 25
+S
+#4040
+A steep pass along the ridge~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4039
+D3
+~
+~
+0 0 4041
+M 25 H 25
+S
+#4041
+A steep pass along the ridge~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4040
+D3
+~
+~
+0 0 4042
+M 25 H 25
+S
+#4042
+A steep pass along the ridge~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4043
+D1
+~
+~
+0 0 4041
+M 25 H 25
+S
+#4043
+A steep pass along the ridge~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4044
+D2
+~
+~
+0 0 4042
+M 25 H 25
+S
+#4044
+A steep pass along the ridge~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4045
+D2
+~
+~
+0 0 4043
+M 25 H 25
+S
+#4045
+A steep pass along the ridge~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4046
+D2
+~
+~
+0 0 4044
+M 25 H 25
+S
+#4046
+A steep pass along the ridge~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4047
+D3
+~
+~
+0 0 4045
+M 25 H 25
+S
+#4047
+A steep pass along the ridge~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4048
+D3
+~
+~
+0 0 4046
+M 25 H 25
+S
+#4048
+A steep pass along the ridge~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4049
+D3
+~
+~
+0 0 4047
+M 25 H 25
+S
+#4049
+A steep pass along the ridge~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4050
+D3
+~
+~
+0 0 4048
+M 25 H 25
+S
+#4050
+A steep pass along the ridge~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4051
+D2
+~
+~
+0 0 4049
+M 25 H 25
+S
+#4051
+Bottom of the spur~
+~
+0 0 5
+0
+0
+0
+D2
+~
+~
+0 0 4050
+D4
+~
+~
+0 0 4052
+M 25 H 25
+S
+#4052
+A steep, narrow incline~
+~
+0 0 5
+0
+0
+0
+D4
+~
+~
+0 0 4053
+D5
+~
+~
+0 0 4051
+M 25 H 25
+S
+#4053
+Top of the spur~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4054
+D5
+~
+~
+0 0 4052
+M 25 H 25
+S
+#4054
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4055
+D3
+~
+~
+0 0 4053
+M 25 H 25
+S
+#4055
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4056
+D3
+~
+~
+0 0 4054
+M 25 H 25
+S
+#4056
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4057
+D3
+~
+~
+0 0 4055
+M 25 H 25
+S
+#4057
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4058
+D2
+~
+~
+0 0 4056
+M 25 H 25
+S
+#4058
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4059
+D2
+~
+~
+0 0 4057
+M 25 H 25
+S
+#4059
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4090
+D1
+~
+~
+0 0 4060
+D2
+~
+~
+0 0 4058
+M 25 H 25
+S
+#4060
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4061
+D3
+~
+~
+0 0 4059
+M 25 H 25
+S
+#4061
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4062
+D3
+~
+~
+0 0 4060
+M 25 H 25
+S
+#4062
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4063
+D3
+~
+~
+0 0 4061
+M 25 H 25
+S
+#4063
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4064
+D3
+~
+~
+0 0 4062
+M 25 H 25
+S
+#4064
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4065
+D3
+~
+~
+0 0 4063
+M 25 H 25
+S
+#4065
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4066
+D3
+~
+~
+0 0 4064
+M 25 H 25
+S
+#4066
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4067
+D2
+~
+~
+0 0 4065
+M 25 H 25
+S
+#4067
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4068
+D2
+~
+~
+0 0 4066
+M 25 H 25
+S
+#4068
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4069
+D3
+~
+~
+0 0 4067
+M 25 H 25
+S
+#4069
+A steep pass along the spur~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4070
+D3
+~
+~
+0 0 4068
+M 25 H 25
+S
+#4070
+Bottom of the shoulder~
+~
+0 0 5
+0
+0
+0
+D3
+~
+~
+0 0 4069
+D4
+~
+~
+0 0 4071
+M 25 H 25
+S
+#4071
+Ascending the shoulder~
+~
+0 0 5
+0
+0
+0
+D4
+~
+~
+0 0 4072
+D5
+~
+~
+0 0 4070
+M 25 H 25
+S
+#4072
+Top of the shoulder~
+~
+0 0 5
+0
+0
+0
+D3
+~
+~
+0 0 4073
+D5
+~
+~
+0 0 4071
+M 25 H 25
+S
+#4073
+A curve in the pass~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4074
+D1
+~
+~
+0 0 4072
+M 25 H 25
+S
+#4074
+A winding pass along the shoulder~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4075
+D2
+~
+~
+0 0 4073
+M 25 H 25
+S
+#4075
+A winding pass along the shoulder~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4076
+D2
+~
+~
+0 0 4074
+M 25 H 25
+S
+#4076
+A winding pass along the shoulder~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4077
+D3
+~
+~
+0 0 4075
+M 25 H 25
+S
+#4077
+Bottom of the summit~
+~
+0 0 5
+0
+0
+0
+D3
+~
+~
+0 0 4076
+D4
+~
+~
+0 0 4078
+M 25 H 25
+S
+#4078
+Approaching the summit~
+~
+0 0 5
+0
+0
+0
+D4
+~
+~
+0 0 4079
+D5
+~
+~
+0 0 4077
+M 25 H 25
+S
+#4079
+Approaching the summit~
+~
+0 0 5
+0
+0
+0
+D4
+~
+~
+0 0 4080
+D5
+~
+~
+0 0 4078
+M 25 H 25
+S
+#4080
+Summit of Blackhaven Peak~
+~
+0 0 5
+0
+0
+0
+D5
+~
+~
+0 0 4079
+M 25 H 25
+S
+#4081
+Inside a cave~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4013
+D3
+~
+~
+0 0 4082
+M 25 H 25
+S
+#4082
+Inside a cave~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4081
+D3
+~
+~
+0 0 4083
+M 25 H 25
+S
+#4083
+Dead end in the cave~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4082
+D5
+~
+~
+9 0 4084
+M 25 H 25
+S
+#4084
+~
+~
+0 0 5
+0
+0
+0
+D3
+~
+~
+0 0 4085
+D4
+~
+~
+9 0 4083
+M 25 H 25
+S
+#4085
+~
+~
+0 0 5
+0
+0
+0
+D1
+~
+~
+0 0 4084
+D5
+~
+~
+9 0 4086
+M 25 H 25
+S
+#4086
+~
+~
+0 0 14
+0
+0
+0
+D3
+~
+~
+0 0 4087
+D4
+~
+~
+9 0 4085
+M 25 H 25
+S
+#4087
+~
+~
+0 0 14
+0
+0
+0
+D1
+~
+~
+0 0 4086
+D2
+~
+~
+0 0 4088
+M 25 H 25
+S
+#4088
+~
+~
+0 0 14
+0
+0
+0
+D0
+~
+~
+0 0 4087
+D2
+~
+~
+0 0 4089
+M 25 H 25
+S
+#4089
+Entrance to the Underdark~
+~
+0 0 14
+0
+0
+0
+D0
+~
+~
+0 0 4088
+D3
+~
+~
+9 0 9200
+M 25 H 25
+S
+#4090
+~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 4091
+D2
+~
+~
+0 0 4059
+M 25 H 25
+S
+#4091
+~
+~
+0 0 5
+0
+0
+0
+D0
+~
+~
+0 0 2100
+D2
+~
+~
+0 0 4090
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4083 5 1
+D 0 4084 4 1
+D 0 4085 5 1
+D 0 4086 4 1
+D 0 4089 3 1
+M 0 4002 40 4005 40 Load a snarling orc
+M 0 4002 40 4008 40 Load a snarling orc
+M 0 4002 40 4016 40 Load a snarling orc
+M 0 4002 40 4030 40 Load a snarling orc
+M 0 4002 40 4033 40 Load a snarling orc
+M 0 4004 40 4039 40 Load a hill giant
+M 0 4004 40 4042 40 Load a hill giant
+M 0 4004 40 4044 40 Load a hill giant
+M 0 4004 40 4046 40 Load a hill giant
+M 0 4004 40 4048 40 Load a hill giant
+M 0 4004 40 4050 40 Load a hill giant
+M 0 4004 40 4051 40 Load a hill giant
+M 0 4001 1 4073 10 Load a hawk
+M 0 4000 1 4080 1 Load a griffon
+G 0 4000 0 A griffon egg is given to a griffon
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

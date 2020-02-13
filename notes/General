@@ -1,0 +1,103 @@
+Sender  Krilantis~
+Date    Tue Jan 14 18:13:04 2020~
+Stamp   1579043652
+Expire  1751843632
+To      all~
+Subject bleeding~
+Text
+So if you are fighting something and make it bleed, it will bleed out and you get no exp if it dies from bleeding.
+~
+
+Sender  Delvar~
+Date    Mon Jan 20 03:32:47 2020~
+Stamp   1579509353
+Expire  1752309224
+To      upro~
+Subject bug~
+Text
+So, if you happen to be blinded, and cursed in a necro tomb, cause that does
+happen *mutter*, dont ask. Anyways, being blind and all, you can still see the
+mob enter the room, not something enters, like full on mob entrace text and
+all. 
+~
+
+Sender  Zargo~
+Date    Tue Jan 21 15:34:10 2020~
+Stamp   1579639036
+Expire  1752438876
+To      upro~
+Subject bugs~
+Text
+hand parry not working
+martial arts not working
+counter not working
+~
+
+Sender  Upro~
+Date    Wed Jan 22 15:44:25 2020~
+Stamp   1579725883
+Expire  1752525876
+To      xarr~
+Subject how~
+Text
+add_prac = 1; //everybody gets at least one.
+add_prac += (GET_STAT(ch, prime_stat) / 5);
+ 
+if (GET_STAT(ch, SECOND_STAT(ch, TRUE)) > 20 && GET_STAT(ch, SECOND_STAT(ch, TRUE) != -1))
+add_prac++;
+ 
+if (add_prac > 6)
+add_prac = 6;
+~
+
+Sender  Upro~
+Date    Wed Jan 22 15:46:32 2020~
+Stamp   1579726032
+Expire  1752525997
+To      delvarix~
+Subject pracs~
+Text
+add_prac = 1; //everybody gets at least one.
+add_prac += (GET_STAT(ch, prime_stat) / 5);
+ 
+if (GET_STAT(ch, SECOND_STAT(ch, TRUE)) > 20 && GET_STAT(ch, SECOND_STAT(ch, TRUE) != -1))
+add_prac++;
+ 
+if (add_prac > 6)
+add_prac = 6;
+~
+
+Sender  Upro~
+Date    Fri Jan 24 21:22:00 2020~
+Stamp   1579918964
+Expire  1752718924
+To      all~
+Subject sprite~
+Text
+Just thought you might like to know that SPRITE
+translates to kobold/elf in german. WOW
+~
+
+Sender  Zargo~
+Date    Tue Feb 11 06:33:42 2020~
+Stamp   1581420954
+Expire  1754220850
+To      upro~
+Subject bug~
+Text
+SO equipment is loading into the wrong slots. IE neck items worn on body and such. Also zargo stats are -2 under natural with no affects or gear on.
+~
+
+Sender  Upro~
+Date    Tue Feb 11 19:59:05 2020~
+Stamp   1581469158
+Expire  1754269149
+To      all~
+Subject new~
+Text
+* converted all resistances/vulnerabilities over to a table, for more flexibility. now there
+  can be varying degrees of resistance/vulnerability to different types of damage.
+  You can type vuln/resist to see your personal list (this used to be the table command).
+* fixed a bug that would allow you to endlessly kill yourself for unlimited pkills/pdeaths.
+~
+

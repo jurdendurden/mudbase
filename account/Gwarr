@@ -1,0 +1,14 @@
+Name Gwarr
+Pass bonehead
+Version 2
+Chars Zargo            30   3  10   5   5
+Chars Xarr             11   0   7   1   0
+Chars Kaor              5   2  19   0   0
+Chars Zagils            6   1  20   0   0
+Act 33
+Verify 28231
+Plyd 0
+Secret 0
+Pen_pts 0
+
+End

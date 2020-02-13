@@ -1,0 +1,204 @@
+#PLAYER
+Name Uther~
+Id   1579207276
+LogO 1579209038
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race minotaur~
+Sex  1
+Cla  3
+God	9
+Favored 0
+GuildRnk  0
+GuildPts  30
+WpnSpec	2
+Levl 2
+Sec  0
+Plyd 1762
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 2305
+HMV  28 28 102 102 126 126
+Talent 0
+PP 0 0
+Gold 123
+Silv 129
+BAcct 0
+Bank 0
+Exp  2073
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 3
+Eyes 1
+Hair 32
+Haircut 8
+Facial 8
+Age 40
+Account ~
+Recall 1010
+Act  CDEGKQT
+AfBy J
+Comm NOP
+Pos  8
+Prac 10
+Trai 1
+Save  1
+Alig  0
+Hit   2
+Dam   6
+ACs 80 80 80 80
+Attr 18 15 15 17 18 13
+AMod 0 0 0 0 0 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+Pnts 0
+TSex 1
+LLev 0
+HMVP 26 102 126
+Cnd  0 0 6 6 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 83
+33 2046788152
+31 -66648320
+32 1029674
+74 64512
+73 252705790
+72 537125067
+71 -1073741824
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'spear'
+Sk 1 'staff'
+Sk 1 'short sword'
+Sk 75 'long sword'
+Sk 1 'bow'
+Sk 1 'crossbow'
+Sk 1 'whip'
+Sk 1 'berserk'
+Sk 1 'enhanced damage'
+Sk 1 'kick'
+Sk 1 'first aid'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'fighter basics'
+Affc 'bless'   0  10   7   1  24          0
+Affc 'bless'   0  11   7   1  18          0
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0
+0
+0
+0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 0
+0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 602
+Nest 0
+Wear 15
+Cost 360
+End
+
+#O
+Vnum 102
+Nest 0
+Wear 16
+Cost 0
+End
+
+#END

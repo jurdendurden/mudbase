@@ -1,0 +1,257 @@
+#AREADATA
+Deprecated 0
+Name Bay of Eras~
+Builders None~
+VNUMs 10200 10399
+Levels 0 0
+Credits (null)~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 1
+Flags 2
+Faction (null)~
+History (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#10200
+Into the Bay of Eras~
+~
+0 0 6
+0
+0
+0
+D0
+~
+~
+0 0 1219
+D1
+~
+~
+0 0 10204
+D3
+~
+~
+0 0 10201
+M 25 H 25
+S
+#10201
+Into the Bay of Eras~
+~
+0 0 6
+0
+0
+0
+D0
+~
+~
+0 0 1395
+D1
+~
+~
+0 0 10200
+D3
+~
+~
+0 0 10202
+M 25 H 25
+S
+#10202
+Into the Bay of Eras~
+~
+0 0 6
+0
+0
+0
+D0
+~
+~
+0 0 1396
+D1
+~
+~
+0 0 10201
+D3
+~
+~
+0 0 10203
+M 25 H 25
+S
+#10203
+Into the Bay of Eras~
+~
+0 0 6
+0
+0
+0
+D0
+~
+~
+0 0 1397
+D1
+~
+~
+0 0 10202
+D3
+~
+~
+0 0 1399
+M 25 H 25
+S
+#10204
+Into the Bay of Eras~
+~
+0 0 6
+0
+0
+0
+D1
+~
+~
+0 0 10205
+D3
+~
+~
+0 0 10200
+M 25 H 25
+S
+#10205
+Into the Bay of Eras~
+~
+0 0 6
+0
+0
+0
+D1
+~
+~
+0 0 10206
+D3
+~
+~
+0 0 10204
+M 25 H 25
+S
+#10206
+Into the Bay of Eras~
+~
+0 0 6
+0
+0
+0
+D1
+~
+~
+0 0 10207
+D3
+~
+~
+0 0 10205
+M 25 H 25
+S
+#10207
+Into the Bay of Eras~
+~
+0 0 6
+0
+0
+0
+D1
+~
+~
+0 0 10208
+D3
+~
+~
+0 0 10206
+M 25 H 25
+S
+#10208
+Into the Bay of Eras~
+~
+0 0 6
+0
+0
+0
+D1
+~
+~
+0 0 10209
+D3
+~
+~
+0 0 10207
+M 25 H 25
+S
+#10209
+Into the Bay of Eras~
+~
+0 0 6
+0
+0
+0
+D1
+~
+~
+0 0 10210
+D3
+~
+~
+0 0 10208
+M 25 H 25
+S
+#10210
+Into the Bay of Eras~
+~
+0 0 6
+0
+0
+0
+D3
+~
+~
+0 0 10209
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

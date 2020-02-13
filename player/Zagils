@@ -1,0 +1,446 @@
+#PLAYER
+Name Zagils~
+Id   1581346598
+LogO 1581376596
+Vers 11
+Blind 0
+Boon 7
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race loxodon~
+Sex  1
+Cla  1
+God	2
+Favored 0
+GuildRnk  1
+GuildPts  227
+Levl 6
+Sec  0
+Plyd 3021
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 1017
+HMV  61 61 143 143 152 152
+Bleed 0
+Talent 0
+PP 0 0
+Gold 218
+Silv 207
+BAcct 0
+Bank 0
+Exp  33396
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 110
+Age 59
+Account Gwarr~
+Recall 1010
+Act  CDEFGHKQT
+AfBy T
+Comm NOP
+Pos  8
+Prac 6
+Save  6
+Alig  250
+Hit   19
+Dam   10
+ACs 48 46 46 60
+Attr 15 19 25 16 21 12
+AMod 4 0 0 0 0 0
+Pass ~
+Titl  - game breaker miser{x~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 37 143 152
+Cnd  0 0 38 100 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 79
+71 1073741824
+31 50267904
+18 251658240
+20 1179762
+19 -1207960581
+32 1046016
+34 28800
+73 1015814
+74 64512
+72 1
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 17 'bless'
+Sk 20 'create food'
+Sk 17 'cure light'
+Sk 1 'cure poison'
+Sk 1 'detect poison'
+Sk 20 'refresh'
+Sk 34 'mace'
+Sk 75 'first aid'
+Sk 1 'meditation'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Sk 17 'gore'
+Gr 'rom basics'
+Gr 'cleric basics'
+Affc 'giant strength'   0  43  21   4   1          0
+Affc 'giant strength'   0  43  21   4  19          0
+Affc 'shield'   0  45  29 -20  17          0
+Affc 'bless'   0  46  27   6  18          0
+Affc 'bless'   0  46  27   6  24          0
+Affc 'fly'   0  44  24   0   0     524288
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 465
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 619
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 829
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 624
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 816
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 600
+Nest 0
+Cond 93
+Wear 15
+Cost 250
+End
+
+#O
+Vnum 102
+Nest 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 608
+Nest 0
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 14
+Cost 48
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 606
+Nest 0
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 611
+Nest 0
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 607
+Nest 0
+Wear 7
+Cost 72
+End
+
+#O
+Vnum 612
+Nest 0
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 609
+Nest 0
+Wear 9
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear 10
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 13
+Cost 48
+End
+
+#O
+Vnum 6
+Nest 0
+Name a sealed scroll of paralyzation~
+ShD  a sealed scroll of paralyzation~
+Desc a sealed scroll of paralyzation~
+ExtF 64
+Wear -1
+Lev  1
+Cost 200
+Val  1 117 0 0 0
+Spell 1 'paralyzation'
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 6
+Nest 0
+Name a musty worn scroll of cure light~
+ShD  a musty worn scroll of cure light~
+Desc a musty worn scroll of cure light~
+ExtF 16777281
+Wear -1
+Lev  1
+Cost 400
+Val  1 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 28
+Nest 0
+Name a variegated, watery potion of cure light~
+ShD  a variegated, watery potion of cure light~
+Desc a variegated, watery potion of cure light~
+ExtF 64
+Wear -1
+Lev  1
+Cost 151
+Val  1 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 28
+Nest 0
+Name a translucent, watery potion of timestop~
+ShD  a translucent, watery potion of timestop~
+Desc a translucent, watery potion of timestop~
+ExtF 16777280
+Wear -1
+Lev  1
+Cost 151
+Val  1 168 0 0 0
+Spell 1 'timestop'
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#END

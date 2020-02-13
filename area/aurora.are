@@ -1,0 +1,130 @@
+AREADATA
+Name Aurora~
+Builders None~
+VNUMs 30000 30010
+Levels 0 0
+Credits Upro~
+Climate 0
+PrimaryResource (null)~
+Security 9
+Flags 10
+Faction (null)~
+History (null)~
+ShipVnum 10000
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#30000
+key silver~
+a silver key~
+A slightly tarnished silver key lies here.~
+silver~
+0
+treasure 0 0 AO
+0 0 0 0 0
+1 0 0 P
+#30001
+helm~
+the helm~
+The helm of the Aurora awaits steering~
+wood~
+0
+furniture 0 0 0
+A CEFGHI B 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#30000
+Above Decks on the Aurora~
+You stand upon the deck of the Aurora, a well kept ship with polished
+features.  Her crew bustles about, preparing the ship for anything to come. 
+
+~
+0 1073741824 26
+0
+1
+2
+D5
+~
+~
+0 0 30001
+M 10 H 10
+O upro~
+S
+#30001
+Below Decks on the Aurora~
+You stand below decks on the Aurora, in a hallway leading from bow to
+stern.  A small ladder leads back to the decks.  
+~
+0 0 0
+0
+1
+2
+D2
+~
+~
+1 0 30002
+D4
+~
+~
+0 0 30000
+M 10 H 10
+S
+#30002
+Captain's Quarters~
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+1 0 30001
+M 50 H 50
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 30001 2 2
+D 0 30002 0 2
+O 0 30001 0 30000 The helm loaded to Above Decks on the Aurora
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+
+
+
+#$

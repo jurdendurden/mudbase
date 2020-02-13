@@ -1,0 +1,10 @@
+gods: 
+
+god of combat		Phytar
+god of magic		Ishen
+god of neutrality	Iato
+god of chaos		Nefyr
+god of light		Lirannan
+god of dark		Daij
+god of discipline	Odoma
+god of nature		Andora (goddess)

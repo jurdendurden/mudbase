@@ -1,0 +1,305 @@
+#PLAYER
+Name Markor~
+Id   1580625970
+LogO 1580626651
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race revenant~
+Sex  1
+Cla  0
+God	1
+Favored 0
+GuildRnk  0
+GuildPts  108
+ElemSpec   3
+Levl 2
+Sec  0
+Plyd 681
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 642
+HMV  20 39 106 106 118 127
+Bleed -1
+Talent 0
+PP 0 0
+Gold 102
+Silv 325
+BAcct 0
+Bank 0
+Exp  3921
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 8
+Eyes 64
+Hair 4
+Haircut 32
+Facial 4
+Age 199
+Account Markor~
+Recall 1010
+Act  CDEGHKQT
+AfBy Z
+Comm NOP
+Pos  4
+Prac 2
+Save  3
+Alig  -750
+Hit   8
+Dam   6
+ACs 73 73 73 80
+Attr 16 19 17 10 20 11
+AMod 0 0 0 0 0 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 27 106 127
+Cnd  0 44 52 52 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 29
+31 262144
+19 31738
+20 1966108
+18 520093696
+72 10
+71 -1073741824
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'armor'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 60 'magic missile'
+Sk 1 'copy'
+Sk 1 'dagger'
+Sk 1 'staff'
+Sk 75 'first aid'
+Sk 1 'lore'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 2 'recall'
+Gr 'rom basics'
+Gr 'wizard basics'
+Affc 'bless'   0  30  33   3  24          0
+Affc 'bless'   0  29  33   3  18          0
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 601
+Nest 0
+Wear 15
+Cost 210
+End
+
+#O
+Vnum 102
+Nest 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 608
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 607
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 612
+Nest 0
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 606
+Nest 0
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 611
+Nest 0
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 609
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 6
+Nest 0
+Name a papyrus scroll of changestaff~
+ShD  a papyrus scroll of changestaff~
+Desc a papyrus scroll of changestaff~
+ExtF 16777280
+Wear -1
+Lev  2
+Cost 400
+Val  1 136 0 0 0
+Spell 1 'changestaff'
+End
+
+#O
+Vnum 18
+Nest 0
+Name a choker of amazing exactitude~
+ShD  a choker of amazing exactitude~
+Desc a choker of amazing exactitude~
+ExtF 64
+WeaF 5
+Ityp 9
+Wt   3
+Material denim~
+Wear -1
+Lev  4
+Cost 2050
+Val  6 6 6 6 0
+Affc 'reserved'   0   0  -1   2  18          0
+End
+
+#O
+Vnum 615
+Nest 0
+Wear -1
+Cost 1140
+End
+
+#END

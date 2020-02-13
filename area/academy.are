@@ -1,0 +1,3079 @@
+#AREADATA
+Deprecated 0
+Name Adventurer's Academy~
+Builders Krilantis~
+VNUMs 600 699
+Levels 1 6
+Credits Diku / Upro~
+Climate 5
+Plane 0
+PrimaryResource mortar~
+Security 9
+Flags 0
+Faction Renfall~
+History (null)~
+End
+
+
+
+#MOBILES
+#600
+worker security man~
+a security worker~
+A security worker for the academy waits for trouble.
+~
+(null)~
+This guy is ridiculous. A tall human, nearly seven feet in height, his
+every muscle ripples as if they have lives of their own. He is bald, and has
+multiple piercings, and one large tattoo running down his left arm. A scar
+running down the side of his face makes it very apparent that he has seen
+action in his field of work. 
+~
+human~
+ABGQTV B Z 0 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M GRALL 600 100~
+#601
+blob~
+the blob~
+The blob is here, waiting to eat you up.
+~
+(null)~
+He is big, he is bad.  You don't want to fight him when he isn't chained up.
+Perhaps now would be a good time to flee from him!!!  If you don't flee, you
+would really suffer the consequences.
+~
+human~
+ABG B Z 0 0
+5 -5 1d1+49 1d1+99 1d1+0 digestion
+-15 -15 -15 -15
+AN AB CD 0
+stand stand none 0
+ABHMSVc ABCDEFGHIJK large
+ unknown
+#602
+slavering kobold~
+a slavering kobold~
+A dirty and filthy kobold lumbers about looking for scraps.
+~
+(null)~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+unique~
+ABU BC Z 0 0
+1 0 1d3+8 2d8+100 1d3+0 claw
+10 10 10 10
+0 AB 0 C
+stand stand none 100
+AMV ABCDEFHJKQU medium
+ unknown
+#603
+crippled harpy~
+a crippled harpy~
+A harpy is flying about with blood on her claws.
+~
+(null)~
+He looks wimpy.  You feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+harpy~
+ABHU BC JZ 0 0
+2 0 1d3+8 2d8+100 1d2+0 claw
+10 10 10 10
+O ABR B CZ
+stand stand none 10
+AHMV ABCDEFGHIJKPQU medium
+ unknown
+#604
+imp angry~
+an angry imp~
+An angry imp is flying around, looking for trouble.
+~
+(null)~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+unique~
+ABFU BC Z 0 0
+2 0 1d3+8 2d8+100 1d4+0 claw
+10 10 10 10
+EK AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium
+ unknown
+#605
+rabid goblin~
+a rabid goblin~
+A rabid goblin wonders about.
+~
+(null)~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+goblin~
+ABFU BC JZ 0 0
+2 0 1d3+8 2d8+100 1d3+0 claw
+10 10 10 10
+J AB Q C
+stand stand none 10
+AHMV ABCDEFGHIJKQU medium
+ unknown
+#606
+ogre creature half~
+a malnourished half ogre~
+This bent, malnourished half ogre appears nervous.
+~
+A decrepit looking half ogre~
+A half ogre, wearing tattered clothing and bearing nothing but a worn flail,
+hunches near the back of this room. His eyes are a deep grey, sunken far back
+into his skull. His long, oily unkempt hair falls about his shoulders in thick
+clumps. 
+~
+half ogre~
+ABU BCD Z 0 0
+3 1 2d8+10 1d1+99 1d4+1 claw
+8 8 8 10
+FN AB EJ BCP
+stand stand none 25
+AHMV ABCDEFGHIJKQU large
+ unknown
+#607
+healer priest cleric Xirohina~
+Xirohina, the hired healer~
+An obviously powerful cleric is here, tending the wounded cadets.
+~
+(null)~
+Xirohina was once a renowned adventurer throughout the lands of Aragond,
+but has since hung up her tunic to help others gain their start within the
+gruesome world. She offers her services to the academy for a small monthly
+fee now, living a semi-retired life. 
+~
+human~
+ABGQTV B HZ 0 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#608
+wizard Icton~
+a powerful wizard~
+A robed wizard, concentrating on a complex containment spell, stands nearby.
+~
+(null)~
+A gnome of quite rotund proportions stands idly by, repeatedly chanting
+words to what seems like an archaic ritual. His spell is holding an astral
+apparition in place for trainees who pass by to test their mettle with. 
+~
+gnome~
+ABGTV G CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD Pa R
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#609
+slavering kobold~
+a slavering kobold~
+A dirty and filthy kobold lumbers about looking for scraps.
+~
+(null)~
+This kobold mills about, foaming at the mouth. It is apparent that the
+creature is carrying some kind of disease in it's ravished little body. 
+~
+unique~
+ABU BC Z 0 0
+2 0 1d3+8 2d8+100 1d3+0 claw
+10 10 10 10
+0 AB 0 0
+stand stand none 100
+AMV ABCDEFHJKQU medium
+ unknown
+#610
+rabid goblin~
+a rabid goblin~
+A rabid goblin in tattered clothes wanders about.
+~
+(null)~
+This goblin mills about, foaming at the mouth. It is apparent that the
+creature is carrying some kind of disease in it's ravished little body. 
+~
+goblin~
+ABFU BC JZ 0 0
+2 0 1d3+8 2d8+100 1d3+0 claw
+10 10 10 10
+J AB L I
+stand stand none 100
+AHMV ABCDEFGHIJKQU small
+ unknown
+F res Q
+F vul C
+#611
+boar~
+the boar~
+A boar tries to run you over.
+~
+(null)~
+It grunts at you.
+~
+pig~
+AGU 0 Z 0 0
+3 1 3d3+30 1d1+99 1d6+1 charge
+7 7 7 9
+CF 0 0 0
+stand stand either 0
+AGV ACDEFHJK medium
+ unknown
+#612
+fox~
+the fox~
+A fox is here staring at you.
+~
+(null)~
+It's fur might be worth money.
+~
+fox~
+AGHU 0 Z 0 0
+1 1 1d1+12 1d1+99 1d3+1 bite
+8 8 8 10
+F 0 0 0
+stand stand either 0
+AGV ACDEFHJKQV small
+ unknown
+F off H
+#613
+deer~
+the deer~
+A deer is wondering about.
+~
+(null)~
+You see a brown and tan deer here.
+~
+deer~
+AGU 0 Z 0 0
+1 0 1d1+1 1d8+100 1d1+0 digestion
+10 10 10 10
+F 0 0 0
+stand stand none 0
+AGHMQVc ABCDEFGHIJKMQV tiny
+ unknown
+F off H
+#614
+coyote~
+the coyote~
+A coyote is here sniffing around.
+~
+(null)~
+The coyote looks to be hungry and looking for food.
+~
+coyote~
+ATU 0 Z 0 0
+5 1 5d5+55 1d1+99 1d6+3 bite
+5 5 5 8
+FK AB HI C
+stand stand none 50
+AGMV ABCDEFHJKQUV large
+ unknown
+F off H
+#615
+bear~
+the bear~
+A bear is here growling at you.
+~
+(null)~
+The bear must be bigger than you!  It wants to rip your head off.
+~
+bear~
+AGU 0 0 0 0
+4 1 4d4+44 1d1+99 1d6+2 claw
+6 5 6 7
+D 0 EI 0
+stand stand either 0
+AGV ABCDEFHJKUV large
+ unknown
+F off EO
+#616
+wolf~
+the wolf~
+A wolf is here snarling at you.
+~
+(null)~
+The wolf doesn't want to be bothered.
+~
+wolf~
+AGU B Z 0 0
+4 0 4d4+44 1d1+99 1d6+2 bite
+7 7 7 10
+FN 0 0 0
+stand stand either 0
+AGV ACDEFJKQV medium
+ unknown
+F off H
+#617
+merchant githzerai~
+a githzerai merchant~
+A tall, gaunt githzerai merchant.
+~
+(null)~
+A tall, gaunt creature with tight, reptilian skin and pale eyes stands here,
+clothed in several layers of materials ranging from cotton to velvet to
+leather. It's dull purple skin is translucent, and you can actually see the
+blood... if that's what it is.... coursing through this creature's veins. 
+~
+githzerai~
+ABCQTV BG CHJ 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD CL NS
+stand stand male 1000
+AHMV ABCDEFGHIJK medium
+ unknown
+M GRALL 617 50~
+#618
+adept cleric~
+the adept of Lirannon~
+An adept of Lirannon is here, waiting to train.
+~
+(null)~
+A human dressed in simple linen robes lined with yellow stands in the
+center of the room.  His long brown hair is tied into a neat ponytail and
+stops just short of his midback.  Wise looking green eyes peer about, eager
+to train the next young adventurer.  
+~
+human~
+ABCJQTV 0 CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#619
+priest cleric~
+the priest of Odoma~
+The priest of Odoma waits to give you lessons.
+~
+(null)~
+This priest is clad in a sort of martial arts gi, dark red in color,
+emblazoned on the front in white with some sort of religious symbol.  
+~
+human~
+ABCKQTV 0 CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#620
+projection spirit~
+an astral projection~
+The astral projection of a spirit is here, wavering in the physical plane.
+~
+(null)~
+A wavering, freeform spirit floats about, it's intangible body and
+unfocused mind uncertain of what to do while being trapped on the material
+plane of existence. 
+~
+ghost~
+ABU CD J 0 0
+5 1 2d4+30 1d1+99 1d6+1 drain
+8 8 8 10
+EFNR ABM 0 CHNS
+stand stand none 30
+ABHMV ABCDGHIJKU medium
+ unknown
+F par EFV
+#621
+undead skeleton orc~
+an animated orc skeleton~
+The animated skeleton of an orc is here.
+~
+(null)~
+~
+undead~
+AB C J -250 0
+2 1 1d1+6 1d1+1 1d1+1 scratch
+5 5 5 5
+R M 0 HNS
+stand stand none 0
+ABHMV ABCDEFGHIJKUV medium
+ unknown
+#0
+
+
+
+#OBJECTS
+#600
+mace crude~
+a crude mace~
+A crude mace lies here.~
+bronze~
+0
+weapon U 0 AN
+mace 1 6 pound 0
+1 60 250 P
+A
+19 2
+A
+18 1
+A
+13 2
+E
+mace~
+You see a mace of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#601
+dagger crude~
+a crude dagger~
+A crude dagger lies here.~
+bronze~
+0
+weapon U 0 AN
+dagger 1 4 pierce 0
+0 10 210 P
+A
+19 2
+A
+18 1
+A
+13 2
+E
+dagger~
+You see a dagger of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#602
+sword crude short~
+a crude short sword~
+A crude short sword lies here.~
+bronze~
+0
+weapon 0 0 AN
+short_sword 1 6 slash 0
+1 30 360 P
+A
+19 2
+A
+18 1
+A
+13 2
+E
+sword~
+You see a sword of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#603
+vest hand stitched~
+a hand stitched vest~
+A hand stitched vest lies here.~
+leather~
+0
+armor U 0 AD
+A A A 0 1
+0 50 144 P
+A
+13 2
+E
+vest~
+You see a vest of great but cheap craftsmanship.  Stamped on the side is:
+Merc Industries
+~
+#604
+round small shield~
+a small round shield~
+A small round shield lies here.~
+wood~
+0
+armor U 0 AJ
+A A A 0 1
+0 30 108 P
+A
+13 2
+E
+shield~
+You see a shield of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#605
+cloak frayed~
+a frayed cloak~
+A frayed cloak lies here.~
+cloth~
+0
+armor U 0 AC
+A A A 0 1
+0 40 72 P
+A
+13 2
+E
+cloak~
+You see a cloak of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#606
+helmet leather torn~
+a torn leather helmet~
+A torn leather helmet lies here.~
+leather~
+0
+armor U 0 AE
+A A A 0 1
+0 30 72 P
+A
+13 2
+E
+helmet~
+You see a helmet of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#607
+leggings leather worn~
+a pair of worn leather leggings~
+A pair of worn leather leggings is here.~
+leather~
+0
+armor U 0 AF
+A A A 0 1
+0 30 72 P
+A
+18 2
+A
+13 2
+E
+leggings~
+You see leggings of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#608
+boots worn leather~
+a pair of worn leather boots~
+A pair of worn leather boots is here.~
+leather~
+0
+armor U 0 AG
+A A A 0 1
+0 30 72 P
+A
+18 2
+A
+13 2
+E
+boots~
+You see boots of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#609
+gloves worn leather~
+a pair of worn leather gloves~
+A pair of worn leather gloves is here.~
+leather~
+0
+armor U 0 AH
+A A A 0 1
+0 10 72 P
+A
+18 2
+A
+13 2
+E
+gloves~
+You see gloves of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#610
+sleeves leather worn~
+a pair of worn leather sleeves~
+A pair of worn leather sleeves is here.~
+leather~
+0
+armor U 0 AI
+A A A 0 1
+0 20 72 P
+A
+18 2
+A
+13 2
+E
+sleeves~
+You see sleeves of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#611
+cape ripped~
+a slightly ripped cape~
+A slightly ripped cape is here.~
+cloth~
+0
+armor U 0 AK
+A A A 0 0
+0 20 72 P
+A
+18 2
+A
+13 2
+E
+cape~
+You see a cape of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#612
+belt worn leather~
+a worn leather belt~
+A worn leather belt is here.~
+leather~
+0
+armor U 0 AL
+A A A 0 0
+0 10 72 P
+A
+18 2
+A
+13 2
+E
+belt~
+You see a belt of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#613
+bracer tarnished~
+a tarnished bracer~
+A tarnished bronze bracer is here.~
+bronze~
+0
+armor U 0 AM
+0 A A 0 1
+0 10 48 P
+A
+13 2
+E
+bracer~
+You see a bracer of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#614
+key~
+a key~
+You see a very important key here!~
+brass~
+0
+key P 0 A
+0 A 0 0 0
+0 10 0 P
+A
+13 2
+#615
+trinket achievement~
+a trinket of achievement~
+A small, oblong brass trinket. ~
+brass~
+0
+treasure GUe C AO
+0 0 0 0 0
+1 10 1140 P
+A
+4 1
+A
+5 1
+A
+3 1
+E
+diploma~
+This document shows that you have graduated from Mud School.
+It also has magical effects on your abilities if you hold it!
+
+Merc Industries
+~
+#616
+banner war merc~
+a war banner~
+A war banner is on the floor here.~
+cloth~
+0
+light AG 0 A
+0 0 DGH 0 0
+0 20 380 P
+A
+17 -1
+A
+20 -1
+A
+13 2
+E
+banner~
+This is the official Merc war banner to see you through the darkest realm!
+~
+#617
+crude spear~
+a crude spear~
+A crude spear is here.~
+wood~
+0
+weapon U 0 AN
+spear 1 7 thrust 0
+1 50 111 P
+A
+19 2
+A
+18 1
+A
+13 2
+E
+spear~
+You see a spear of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#618
+crude staff~
+a crude staff~
+A crude staff is here.~
+wood~
+0
+weapon U 0 AN
+staff 1 5 pound F
+1 40 290 P
+A
+19 2
+A
+18 2
+A
+19 1
+A
+13 2
+E
+staff~
+You see a staff of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#619
+crude axe~
+a crude axe~
+A crude axe is here.~
+bronze~
+0
+weapon U 0 AN
+axe 1 6 chop 0
+1 50 350 P
+A
+19 2
+A
+18 1
+A
+13 2
+E
+axe~
+You see an axe of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#620
+crude flail~
+a crude flail~
+A crude flail is here.~
+bronze~
+0
+weapon U 0 AN
+flail 1 5 crush 0
+1 50 310 P
+A
+19 2
+A
+19 1
+A
+13 2
+E
+flail~
+You see a flail of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#621
+crude whip~
+a crude whip~
+A crude whip is here.~
+leather~
+0
+weapon U 0 AN
+whip 2 2 whip 0
+1 20 330 P
+A
+19 2
+A
+18 2
+A
+13 2
+E
+whip~
+You see a whip of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#622
+glaive crude~
+a crude glaive~
+A crude glaive lies here.~
+wood~
+0
+weapon U 0 AN
+polearm 1 7 slash F
+1 80 183 P
+A
+19 2
+A
+19 1
+A
+13 2
+E
+glaive~
+You see a glaive of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#623
+portal orc~
+a shimmering portal~
+A shimmering portal beckons to the Half Orc Hometown.~
+unknown~
+0
+portal 0 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef A 0 CGHIL 0
+0 0 0 P
+#626
+sword crude long~
+a crude short sword~
+A crude short sword lies here.~
+unknown~
+0
+weapon 0 0 AN
+long_sword 1 8 slash 0
+1 30 360 P
+E
+sword~
+You see a sword of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#627
+bandage cotton~
+a cotton bandage~
+An unused cotton bandage.~
+cotton~
+0
+bandage 0 0 A
+A 0 0 0 0
+1 2 25 P
+#628
+jug clay~
+a clay jug~
+A sturdy clay jug.~
+clay~
+0
+drink 0 0 A
+10 10 'water' 0 0
+1 4 65 P
+#629
+no name~
+(no short description)~
+(no description)~
+unknown~
+0
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#600
+Entrance to the Adventurer's Academy~
+This is where it begins for all adventurers in this realm.  This very
+chamber is where every hero small and large has begun their new life of fame
+and fortune.  It is a plain room, as far as they go, with little adornment
+save for the few torches which serve to keep it lit, and a single sign that
+reads: 
+ 
+'Be wary, once you have reached a certain potential, you will not be allowed back.'
+~
+0 12 0
+0
+1
+2
+D0
+You see the doorway into the Mud School Building.
+~
+~
+0 0 657
+D2
+You see the one way door into the Arena of Mud School.
+~
+door~
+1 -1 644
+D5
+~
+~
+0 0 1010
+M 100 H 0
+S
+#601
+A Turn in the Hallway~
+The hallway takes a turn here, the plush carpet lining it, perfectly
+centered the entire way. Torches line the walls, and large paintings of
+notable events in history adorn the space in between. 
+ 
+On the north wall, a small {rplaque{x with a {Ygold{x frame hangs waiting to be looked at.
+Along the east wall, a {rsign{x with what fresh writing hangs for all to see.
+~
+0 131084 0
+0
+1
+2
+E
+gold~
+This {Ygold{x frame seems to be the work of a master craftsmen. Along the
+edge of the frame, on each side, runes of either {Gelven{x, {ydwarvish{x, {bgnomish{x, and
+even {Rgobliness{x can be seen with great detailing.
+~
+E
+sign~
+{GEquipment{x check time!  {DType{x '{GEQUIPMENT{x' to see your current {Gequipment{x.
+Right now you do not have much gear, but as you travel into the Adventurer's Academy
+you will gather some {Gequipment{x and just might make a nice set.
+
+To pick up items on the ground as you see them, type '{GGET{x {W<item>{x'.
+To wear a piece of armor, type '{WWEAR{x {W<item>{x'.
+To hold a light source, type '{GHOLD{x {W<light>{x'.
+To wield a {Rweapon{x, type '{GWIELD{x {R<weapon>{x'
+To {Gwear{x, {Ghold{x, and {Gwield{x everything you have, type '{GWEAR{x {WALL{x'.
+To {rstop{x using a piece of {Gequipment{x, type '{RREMOVE{x {Witem{x'.
+Finally, to see what all the great items you {ycarry{x, type '{GINVENTORY{x'.
+
+~
+E
+plaque~
+Before you move on to the next area, why not take a moment and have a look
+at a few helpfiles that you might find, well, helpful. 
+ 
+{DKill{x
+{DCombat
+{DExperience{x
+~
+D2
+You see a path into another room.
+~
+~
+0 -1 657
+D3
+You see a path into another room.
+~
+~
+0 -1 602
+M 100 H 0
+S
+#602
+The Center Room~
+This octoganal room contains swirling magical portals leading in all
+directions save for the doors on the eastern and northern wall. It almost
+seems as if this whole complex exists in some pocket dimension... A large
+elaborate rug has been placed in the center of the room, the only adornment
+save for the torches around it's perimeter. 
+~
+0 131084 0
+0
+1
+2
+E
+sign~
+This is the direction practicing room.  The directions you can go in any
+room are: north, south, east, west, up, or down.  Of course, not all rooms
+have all exits available.  To see the obvious exits in a room, type 'EXITS'.
+Sometimes doors are closed, or locked, or secret.  Then you have to notice
+clues in the room description, or try going into that direction and seeing
+if you bump into a door.  Try going into each direction from here.  When you
+are done, go NORTH.  In each direction you go from here (south, west, up,
+and down), there will be a monster of some sort.  Practice your combat
+skills by typing kill/hit <monster>.  
+~
+D0
+You see the room north that will lead you to the next section.
+~
+~
+0 0 603
+D1
+You see a room.
+~
+~
+0 0 601
+D2
+You see a room.
+~
+~
+0 0 605
+D3
+You see a room.
+~
+~
+0 0 604
+D4
+You see a room.
+~
+~
+0 0 608
+D5
+You see a room.
+~
+~
+0 0 607
+M 100 H 0
+S
+#603
+A Room in the Adventurer's Academy~
+You are in a square white room.  The walls are all blank, with no
+windows.  Light fluoresces off the ceiling in soft white tones.  Exits lead
+north and south.  
+~
+0 131084 0
+0
+1
+2
+D0
+~
+~
+0 0 609
+D2
+You see the central room.
+~
+~
+0 0 602
+M 100 H 0
+S
+#604
+A Room in the Adventurer's Academy~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is east.
+~
+0 131084 0
+0
+1
+2
+E
+sign~
+Just go east to the central room.
+~
+D1
+You see the central room.
+~
+~
+0 0 602
+M 100 H 0
+S
+#605
+A Room in the Adventurer's Academy~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is north.
+~
+0 131084 0
+0
+1
+2
+E
+sign~
+Just go north to the central room.
+~
+D0
+You see the central room.
+~
+~
+0 0 602
+M 100 H 0
+S
+#607
+A Room in the Adventurer's Academy~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is up.
+~
+0 131084 0
+0
+1
+2
+E
+sign~
+Just go up to the central room.
+~
+D4
+You see the central room.
+~
+~
+0 0 602
+M 100 H 0
+S
+#608
+A Room in the Adventurer's Academy~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is down.
+~
+0 131084 0
+0
+1
+2
+E
+sign~
+Just go down to the central room.
+~
+D5
+You see the central room.
+~
+~
+0 0 602
+M 100 H 0
+S
+#609
+A Room in the Adventurer's Academy~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits reach west and down.
+ 
+There is a {rsign{x on the wall.
+~
+0 131084 0
+0
+1
+2
+E
+sign~
+Welcome to combat training.
+
+The first lesson is knowing whom to fight.  Use the {Dcommand{x '{GCONSIDER{x' to
+consider killing a monster.  Avoid fighting monsters that will kill you
+easily.
+
+The second lesson is running away.  There is a monster in the room down.
+He is a strong foe, and if you have to '{GFLEE{x', there is no harm in staying alive to fight another day.
+~
+D2
+~
+~
+0 0 603
+D3
+You see the next station of Mud School.
+~
+~
+0 -1 611
+D5
+You see a cage.
+~
+~
+0 0 610
+M 100 H 0
+S
+#610
+A slime covered room~
+You are in a room that smells of some really bad oder, and the walls and just about everywhere you can see is covered in slime.
+~
+0 131080 0
+0
+1
+2
+E
+sign~
+Remember, don't fight the blob to the finish!  Just type 'KILL BLOB', then
+when you are fighting, type 'FLEE', until you flee and are out of here.
+~
+D4
+You see a safe room up.
+~
+~
+0 0 609
+M 100 H 0
+S
+#611
+Magic Chamber of the Adventurer's Academy~
+You are in what looks like the main magic chamber of the Academy. Looking
+around you can see that on each wall, a very detailed summoning circle can be
+seen. There is a large staircase that leads to the lower levels.
+~
+0 131084 0
+0
+1
+2
+D1
+You see the next station of Mud School.
+~
+~
+0 0 609
+D5
+~
+~
+0 0 612
+M 100 H 0
+S
+#612
+Center of reality rips~
+You are standing in the center of a room. Looking around from the center
+here, in all directions, little rips in reality can be seen. Looking into the
+rips, you can see monsters wondering about in their own  realm. Standing in the
+center of the room, in deep prayer, a powerful {Wcleric{x tends to the wounded
+beings that come for rest.
+ 
+There is a large {rsign{x on the wall, that seems to pulse with {Wenergy{x.
+~
+0 131084 0
+0
+1
+2
+E
+energy~
+A strong {Wenergy{x can be felt,as well as seen, pulsating from this {rsign{x.
+~
+E
+sign~
+You have entered into the center of the this little sudo dimension. From
+here the cleric has opened a few rips to other planes so you can go and
+practice your combat and magical skills. 
+ 
+~
+D0
+You see the aggressive monster inside!
+~
+~
+0 -1 613
+D1
+You see the unmodified monster inside!
+~
+~
+0 -1 616
+D2
+You see the wimpy monster inside!
+~
+~
+0 -1 615
+D3
+You see the aggressive wimpy monster inside!
+~
+~
+0 -1 614
+D4
+~
+~
+0 0 611
+D5
+You see the next station below.
+~
+~
+0 -1 617
+M 200 H 200
+S
+#613
+A path along the volcano~
+The air is hot and humid right around this area of the path. A few angry
+imps can be seen flying around, a few seem to be carrying a sharp spear. 
+~
+0 131072 0
+0
+1
+2
+D0
+~
+~
+0 0 665
+D2
+You see the Cage Room.
+~
+~
+0 -1 612
+M 100 H 0
+S
+#614
+A mountain path~
+This is a pretty well kept path leading east and west. Many goblins are
+wandering about, some seem to be working and others almost seem to be sleeping,
+lounging lazily nearby. 
+~
+0 147456 0
+0
+1
+2
+D1
+You see the Cage Room.
+~
+~
+0 -1 612
+D3
+~
+~
+0 0 661
+M 100 H 0
+S
+#615
+A path leading thru the forest~
+This path leading from the north and south is very dim. The trees here are
+very thick and do not let much light in. The sound of wings flapping and
+harpies screaching at each other can be heard. 
+~
+0 131072 0
+0
+1
+2
+D0
+You see the Cage Room.
+~
+~
+0 -1 612
+D2
+~
+~
+0 0 673
+M 100 H 0
+S
+#616
+A polluted bog~
+You walk along a narrow path that goes from the east and west. The path
+seems to be well traveled, and just a foot away from the path the bog seems to
+be everywhere. 
+~
+0 131072 0
+0
+1
+2
+D1
+~
+~
+0 0 669
+D3
+You see the Cage Room.
+~
+~
+0 -1 612
+M 100 H 0
+S
+#617
+A Calming room~
+You have enter to a room that has a very calm and relexing feel to it. After
+the strain of your training, you can almost feel it helping sooth you. 
+ 
+There seems to be a {rsign{x floating in the mid air.
+~
+0 131084 0
+0
+1
+2
+E
+sign~
+By now, you must be hungry and thirsty.  Time to buy groceries!
+To the south is a store.  Inside the store, you can use these {Dcommands{x:
+
+{GBUY{x    Buy an item
+{GLIST{x   List what is for sale
+
+After buying some food and drink, you can '{GEAT{x' and '{GDRINK{x' it.
+
+~
+D1
+You see the next station of Mud School.
+~
+door~
+1 -1 619
+D2
+You see the Shop.
+~
+~
+0 0 618
+D4
+You see the Cage room.
+~
+~
+0 -1 612
+M 100 H 0
+S
+#618
+Extraplanar General Store~
+This expansive interdimensional area clearly has boundaries, denoted by
+translucent neon green 'walls' which surround the whole of it. Strategically
+and thoroughly placed throughout are displays of various available goods within
+the store. The merchant who owns the place definately has connections, and is
+willing to pass it off to new adventurer's in hopes of making a quick silver. 
+ 
+Hanging right in front of the counter is a {rsign{x.
+~
+0 131080 0
+0
+1
+2
+E
+sign~
+The sign reads:
+
+{GBuy{x   - Buy something from the storekeeper.
+{GList{x  - The storekeeper will tell you what's for sale.
+{GValue{x - The storekeeper will tell you how much he will give to you for
+           that item.
+{GSell{x  - Sell that item to the storekeeper.
+~
+D0
+You see the only exit out of here.
+~
+~
+0 0 617
+M 100 H 0
+S
+#619
+A hallway~
+You are in a square white room. The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones. You can hear a strange
+noise coming from the northern room. 
+ 
+On the south wall, all faded and tarnished, there is a {rsign{x.
+~
+0 131084 0
+0
+1
+2
+E
+sign~
+North of you is a dark room.  I hope you still have the lantern!  If not,
+you have to back to the store and buy one.
+
+In the room is a monster with a key that you need.  After killing the
+monster and getting the key, come back here, {GUNLOCK EAST{x, {GOPEN EAST{x,
+and continue east.
+~
+D0
+You see a darkened room inside.
+~
+~
+0 0 620
+D1
+You see the next station of Mud School.
+~
+door~
+2 614 621
+D3
+You see the room you just came from.
+~
+door~
+1 -1 617
+M 100 H 0
+S
+#620
+The Darkened Room~
+This room was purposefully darkened so that you would need to hold on to a
+light source to go through.  The walls are, of course, blank, and white.
+The only exit is south.
+~
+0 131081 0
+0
+1
+2
+D2
+You see the room that you have come from.
+~
+~
+0 0 619
+M 100 H 0
+S
+#621
+The Finals room~
+This is a very bright room, with a marble pedestal in the center. Behind the
+pedestal stands a person cloaked in Silver. Tapestries flow from every wall,
+and you feel very happy to be here right now. The only exit is on the other
+side of the gate north of you.
+
+There is a large {rsign{x here.
+~
+0 131080 0
+0
+1
+2
+E
+sign~
+You have graduated from Mud School!  Take your diploma...if you can.
+Go 'NORTH' from here to visit our arena.  There are plenty of low-level
+monsters, but DON'T attack other players.
+
+If you want to go directly back to the temple at any time, type 'RECALL'.
+
+Don't forget to type save to protect your character.  You won't be saved after
+quitting until you reach level 2, so also type save before you type quit.
+
+If you need more help during the game, type 'HELP'.  If you see something
+wrong or have comments, use 'BUG', 'IDEA', or 'TYPO' to report them.
+
+May your visit here be ... mercenary.
+~
+D0
+You see the Arena ahead.
+~
+gate~
+1 -1 622
+M 100 H 0
+S
+#622
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 629
+D1
+~
+~
+0 0 625
+D3
+~
+~
+0 0 623
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#623
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 628
+D1
+~
+~
+0 0 622
+D3
+~
+~
+0 0 624
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#624
+South West Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 627
+D1
+~
+~
+0 0 623
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#625
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 630
+D1
+~
+~
+0 0 626
+D3
+~
+~
+0 0 622
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#626
+South East Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 631
+D3
+~
+~
+0 0 625
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#627
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 632
+D1
+~
+~
+0 0 628
+D2
+~
+~
+0 0 624
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#628
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 633
+D1
+~
+~
+0 0 629
+D2
+~
+~
+0 0 623
+D3
+~
+~
+0 0 627
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#629
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 634
+D1
+~
+~
+0 0 630
+D2
+~
+~
+0 0 622
+D3
+~
+~
+0 0 628
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#630
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 635
+D1
+~
+~
+0 0 631
+D2
+~
+~
+0 0 625
+D3
+~
+~
+0 0 629
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#631
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 636
+D2
+~
+~
+0 0 626
+D3
+~
+~
+0 0 630
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#632
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 637
+D1
+~
+~
+0 0 633
+D2
+~
+~
+0 0 627
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#633
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 638
+D1
+~
+~
+0 0 634
+D2
+~
+~
+0 0 628
+D3
+~
+~
+0 0 632
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#634
+Center of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.  There is a BIG SIGN here.
+~
+0 8 0
+0
+1
+2
+E
+sign~
+Those with high bravery or low senses of cautiousness might wish to go below
+to the Dungeon.  However, know that there are aggressive monsters down there,
+and there is no quick escape back out of here when you are in the dungeon.
+~
+D0
+~
+~
+0 0 639
+D1
+~
+~
+0 0 635
+D2
+~
+~
+0 0 629
+D3
+~
+~
+0 0 633
+D4
+You see the EXIT.
+~
+~
+0 0 660
+D5
+You see a dark murky dungeon below.
+~
+grate~
+1 -1 648
+M 100 H 0
+S
+#635
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 640
+D1
+~
+~
+0 0 636
+D2
+~
+~
+0 0 630
+D3
+~
+~
+0 0 634
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#636
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 641
+D2
+~
+~
+0 0 631
+D3
+~
+~
+0 0 635
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#637
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 642
+D1
+~
+~
+0 0 638
+D2
+~
+~
+0 0 632
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#638
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 643
+D1
+~
+~
+0 0 639
+D2
+~
+~
+0 0 633
+D3
+~
+~
+0 0 637
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#639
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 644
+D1
+~
+~
+0 0 640
+D2
+~
+~
+0 0 634
+D3
+~
+~
+0 0 638
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#640
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 645
+D1
+~
+~
+0 0 641
+D2
+~
+~
+0 0 635
+D3
+~
+~
+0 0 639
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#641
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 646
+D2
+~
+~
+0 0 636
+D3
+~
+~
+0 0 640
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#642
+North West Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 643
+D2
+~
+~
+0 0 637
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#643
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  You can barely see the ceiling.  You feel as if you are being watched
+by some divine being.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 644
+D2
+~
+~
+0 0 638
+D3
+~
+~
+0 0 642
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#644
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 645
+D2
+~
+~
+0 0 639
+D3
+~
+~
+0 0 643
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#645
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 646
+D2
+~
+~
+0 0 640
+D3
+~
+~
+0 0 644
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#646
+North East Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 641
+D3
+~
+~
+0 0 645
+D4
+You see the EXIT.
+~
+~
+0 0 660
+M 100 H 0
+S
+#648
+The Center of the Dungeon~
+You are in the center of a large room.  A faint light from above shows that
+the floors are all covered with slime.  A feeling of dread comes over you as
+you notice that this is NOT a great place to go.  Exits go in all directions.
+Of special note is the one that brings you back up!!!
+~
+0 8 0
+0
+1
+2
+D0
+You see the north wall.
+~
+~
+0 0 650
+D1
+You see the east wall.
+~
+~
+0 0 653
+D2
+You see the south wall.
+~
+~
+0 0 655
+D3
+You see the west wall.
+~
+~
+0 0 652
+D4
+You see safety!
+~
+grate~
+1 -1 634
+M 100 H 0
+S
+#649
+The North West Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+0
+1
+2
+D1
+You see the north wall.
+~
+~
+0 0 650
+D2
+You see the south wall.
+~
+~
+0 0 652
+M 100 H 0
+S
+#650
+The North Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+0
+1
+2
+D1
+You see the north east corner.
+~
+~
+0 0 651
+D2
+You see the center of the dungeon.
+~
+~
+0 0 648
+D3
+You see the north west corner.
+~
+~
+0 0 649
+M 100 H 0
+S
+#651
+The North East Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+0
+1
+2
+D2
+You see the east wall.
+~
+~
+0 0 653
+D3
+You see the north wall.
+~
+~
+0 0 650
+M 100 H 0
+S
+#652
+The West Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+0
+1
+2
+D0
+You see the north west corner.
+~
+~
+0 0 649
+D1
+You see the center of the dungeon.
+~
+~
+0 0 648
+D2
+You see the south west corner.
+~
+~
+0 0 654
+M 100 H 0
+S
+#653
+The East Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+0
+1
+2
+D0
+You see the north east corner.
+~
+~
+0 0 651
+D2
+You see the south east corner.
+~
+~
+0 0 656
+D3
+You see the center of the dungeon.
+~
+~
+0 0 648
+M 100 H 0
+S
+#654
+The South West Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+0
+1
+2
+D0
+You see the north wall.
+~
+~
+0 0 652
+D1
+You see the south wall.
+~
+~
+0 0 655
+M 100 H 0
+S
+#655
+The South Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+0
+1
+2
+D0
+You see the center of the dungeon.
+~
+~
+0 0 648
+D1
+You see the south east corner.
+~
+~
+0 0 656
+D3
+You see the south west corner.
+~
+~
+0 0 654
+M 100 H 0
+S
+#656
+The South East Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+0
+1
+2
+D0
+You see the east wall.
+~
+~
+0 0 653
+D3
+You see the south wall.
+~
+~
+0 0 655
+M 100 H 0
+S
+#657
+A Commemorative Hallway~
+This hallway is much more decorated than the first chamber, having
+painting of previous graduates of note lining the walls on either side. 
+Lush carpet lines the floor, leading straight down the hallway to the north,
+the next area of learning in the adventurer's academy.  
+ 
+There is a {rsign{x along the wall.
+~
+0 131084 0
+0
+1
+2
+E
+sign~
+The '{Dscore{x' command gives you multitudes of information concerning the
+character you have created here. Some of that information includes your
+{Rtrains{x and {Gpractices{x. This information is helpful in the rooms west and
+east of here, where you can raise beginning {Dattributes{x or {Gpractice{x your
+existing {Wskills{x, respectively.
+~
+E
+carpet~
+A lush pale carpet sits here.
+~
+D0
+You see the next station of Mud School.
+~
+~
+0 0 601
+D1
+You see Zump's Guild Room.  Go there to practice your skills.
+~
+~
+0 0 659
+D2
+You see the entrance to Mud School.
+~
+~
+0 0 600
+D3
+You see Furey's Training Room.  Go there to train your attributes.
+~
+~
+0 0 658
+M 100 H 1
+S
+#658
+The Training Room~
+This large chamber smells rather badly of sweat and body odor, giving
+testament to the many young adventurers who come here each day to train both
+physically and mentally, preparing themselves for the wilds beyond the
+academy.  In each of the four corners of this chamber rest implements for
+exercising your body, mind, faith, and discipline.  An eager looking adept
+is here, patiently awaiting the next round of upstart adventurers. 
+ 
+There is a {rsign{x here.
+~
+0 131084 0
+0
+1
+2
+E
+sign~
+Welcome to the Adventurer's Academy Training Center. Here
+you can work on {Dattributes{x that you may not have been born with loads of.
+In order to do this, you must have at least one '{Btrain{x' (see the
+'{Bscore{x' command), and type {Btrain{x <attribute>, attribute
+being the first three letters of whichever attribute you'd like to
+{Btrain{x ({Wstr, int, wis, dex, con{x). You are unable to train charisma at
+that comes naturally.
+~
+D1
+You see the room you came from, and the room you should go to.
+~
+~
+0 0 657
+M 100 H 1
+S
+#659
+The Practice Room~
+You are in a room filled with weapons, books, and many combat dummies, some
+cut and stabbed many times, others burnt to a crisp.  The room is filled with
+sweat and an aura of magic.
+ 
+There is a {rsign{x posted on the wall.
+~
+0 131084 0
+0
+1
+2
+E
+sign~
+Welcome to the {RA{xcademy {RP{xractice {RC{xenter. Here you will learn your {Wskills{x and
+{Wspells{x. To find out what {Wskills{x and {Wspells{x you can {Gpractice{x and
+how many {Gpractice{x sessions you have, type '{Gpractice{x'. To {Gpractice{x
+the specific {Wskill{x, type '{Gpractice{x {W<skill>{x', where '{Wskill{x' is
+the {Wskill{x or {Wspell{x you wish to {Gpractice{x. Practicing increases the
+amount you know of that {Wskill{x or {Wspell{x, up to a certain maximum. When
+you have practiced all you wish to {Gpractice{x, go west. 
+~
+D3
+You see the room you came from and the room you should go to.
+~
+~
+0 0 657
+M 100 H 1
+S
+#660
+A Safe Room~
+You are in a safe room, away from all the mean rabbits and boars of the
+Arena. You can rest here or go up back to the front of the mud school. 
+~
+0 12 0
+0
+1
+2
+D4
+You see the Temple of Midgaard.
+~
+~
+0 0 600
+M 100 H 0
+S
+#661
+A mountain path~
+This is a pretty well kept path leading east and west. Many goblins are
+wandering about, some seem to be working and others almost seem to be sleeping,
+lounging lazily nearby.
+~
+0 16384 0
+0
+1
+2
+D1
+~
+~
+0 0 614
+D3
+~
+~
+0 0 662
+M 25 H 25
+S
+#662
+A mountain path~
+This is a pretty well kept path leading east and west. Many goblins are
+wandering about, some seem to be working and others almost seem to be sleeping,
+lounging lazily nearby.
+~
+0 16384 0
+0
+1
+2
+D1
+~
+~
+0 0 661
+D3
+~
+~
+0 0 663
+M 25 H 25
+S
+#663
+A mountain path~
+This is a pretty well kept path leading east and west. Many goblins are
+wandering about, some seem to be working and others almost seem to be sleeping,
+lounging lazily nearby.
+~
+0 16384 0
+0
+1
+2
+D1
+~
+~
+0 0 662
+D3
+~
+~
+0 0 664
+M 25 H 25
+S
+#664
+A mountain path end~
+This seems to be the end of the mountain path. Empty boxes, bags, trash, and
+even some glass and clay jugs can be seen discarded indiscriminately about the
+ground here. 
+~
+0 16384 0
+0
+1
+2
+D1
+~
+~
+0 0 663
+M 25 H 25
+S
+#665
+A path along the volcano~
+The air is hot and humid right around this area of the path. A few angry
+imps can be seen flying around, a few seem to be carrying a sharp spear. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 666
+D2
+~
+~
+0 0 613
+M 25 H 25
+S
+#666
+A path along the volcano~
+The air is hot and humid right around this area of the path. A few angry
+imps can be seen flying around, a few seem to be carrying a sharp spear. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 667
+D2
+~
+~
+0 0 665
+M 25 H 25
+S
+#667
+A path along the volcano~
+The air is hot and humid right around this area of the path. A few angry
+imps can be seen flying around, a few seem to be carrying a sharp spear. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 668
+D2
+~
+~
+0 0 666
+M 25 H 25
+S
+#668
+A deadend~
+The path you seemed to be following along, on this volcano, seems to have
+come to a deadend. As you look around, it would seem as if the imps are all
+walking towards you. 
+~
+0 0 0
+0
+1
+2
+D2
+~
+~
+0 0 667
+M 25 H 25
+S
+#669
+A polluted bog~
+You walk along a narrow path that goes from the east and west. The path
+seems to be well traveled, and just a foot away from the path the bog seems to
+be everywhere. 
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 670
+D3
+~
+~
+0 0 616
+M 25 H 25
+S
+#670
+A polluted bog~
+You walk along a narrow path that goes from the east and west. The path
+seems to be well traveled, and just a foot away from the path the bog seems to
+be everywhere. 
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 671
+D3
+~
+~
+0 0 669
+M 25 H 25
+S
+#671
+A polluted bog~
+You walk along a narrow path that goes from the east and west. The path
+seems to be well traveled, and just a foot away from the path the bog seems to
+be everywhere. 
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 672
+D3
+~
+~
+0 0 670
+M 25 H 25
+S
+#672
+A rising above the bog~
+You're looking around at an area of some what dry land that seems to rise a
+few feet above the bog; a peninsula of sorts. Far away from the path to the
+west a few things may be seen. Branches float awkwardly atop the bubbling
+marshwater, an ominous sign for adventurers. 
+~
+0 0 0
+0
+1
+2
+D3
+~
+~
+0 0 671
+M 25 H 25
+S
+#673
+A path leading thru the forest~
+This path leading from the north and south is very dim. The trees here are
+very thick and do not let much light in. The sound of wings flapping and
+harpies screaching at each other can be heard. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 615
+D2
+~
+~
+0 0 674
+M 25 H 25
+S
+#674
+A path leading thru the forest~
+This path leading from the north and south is very dim. The trees here are
+very thick and do not let much light in. The sound of wings flapping and
+harpies screaching at each other can be heard. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 673
+D2
+~
+~
+0 0 675
+M 25 H 25
+S
+#675
+A path leading thru the forest~
+This path leading from the north and south is very dim. The trees here are
+very thick and do not let much light in. The sound of wings flapping and
+harpies screaching at each other can be heard. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 674
+D2
+~
+~
+0 0 676
+M 25 H 25
+S
+#676
+Harpy tree house~
+Standing at the end of the forest path, you can see an old, giant dead oak
+that the harpies seem to have molded into a nesting area and living space. 
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 675
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+M 607 spec_cast_adept
+M 608 spec_cast_mage
+M 614 spec_fido
+S
+
+
+
+#RESETS
+D 0 600 2 1
+D 0 617 1 1
+D 0 619 1 2
+D 0 619 3 1
+D 0 621 0 1
+D 0 634 5 1
+D 0 648 4 1
+O 0 1091 0 600 The portal to greenrock barrows loaded to Entrance to the Adventurer's Academy
+M 0 600 1 601 1 Load a security worker
+M 0 621 4 604 1 Load an animated orc skeleton
+M 0 621 4 605 1 Load an animated orc skeleton
+M 0 621 4 607 1 Load an animated orc skeleton
+M 0 621 4 608 1 Load an animated orc skeleton
+M 0 601 1 610 1 Load the blob
+M 0 607 1 612 1 Load Xirohina, the hired healer
+M 0 604 1 613 1 Load an angry imp
+E 0 607 0 7 A pair of worn leather leggings is loaded on the legs of an angry imp
+E 0 612 0 13 A worn leather belt is loaded on the left wrist of an angry imp
+M 0 605 1 614 1 Load a rabid goblin
+E 0 608 0 8 A pair of worn leather boots is loaded on the feet of a rabid goblin
+E 0 613 0 14 A tarnished bracer is loaded on the right wrist of a rabid goblin
+M 0 603 1 615 1 Load a crippled harpy
+E 0 606 0 6 A torn leather helmet is loaded over the head of a crippled harpy
+E 0 611 0 12 A slightly ripped cape is loaded around the waist of a crippled harpy
+M 0 602 1 616 1 Load a slavering kobold
+E 0 605 0 3 A frayed cloak is loaded around the neck (1) of a slavering kobold
+E 0 605 0 4 A frayed cloak is loaded around the neck (2) of a slavering kobold
+M 0 617 1 618 3 Load a githzerai merchant
+G 0 1027 0 A leg of roasted turkey is given to a githzerai merchant
+G 0 1046 0 A cloth bag is given to a githzerai merchant
+G 0 1049 0 A tin lantern is given to a githzerai merchant
+G 0 627 0 A cotton bandage is given to a githzerai merchant
+G 0 628 0 A clay jug is given to a githzerai merchant
+M 0 606 1 620 1 Load a malnourished half ogre
+E 0 609 0 9 A pair of worn leather gloves is loaded on the hands of a malnourished half ogre
+E 0 610 0 10 A pair of worn leather sleeves is loaded on the arms of a malnourished half ogre
+E 0 614 0 17 A key is loaded none of a malnourished half ogre
+E 0 613 0 14 A tarnished bracer is loaded on the right wrist of a malnourished half ogre
+M 0 620 1 621 1 Load an astral projection
+E 0 615 0 17 A trinket of achievement is loaded none of an astral projection
+M 0 608 1 621 1 Load a powerful wizard
+M 0 611 20 622 4 Load the boar
+M 0 610 1 622 1 Load a rabid goblin
+M 0 610 20 623 4 Load a rabid goblin
+M 0 610 1 623 1 Load a rabid goblin
+M 0 609 20 624 4 Load a slavering kobold
+M 0 612 20 625 4 Load the fox
+M 0 610 1 625 1 Load a rabid goblin
+M 0 613 20 626 4 Load the deer
+M 0 610 4 626 2 Load a rabid goblin
+M 0 609 20 627 4 Load a slavering kobold
+M 0 610 20 628 4 Load a rabid goblin
+M 0 611 20 629 4 Load the boar
+M 0 612 20 630 4 Load the fox
+M 0 612 2 630 2 Load the fox
+M 0 613 2 630 2 Load the deer
+M 0 613 20 631 4 Load the deer
+M 0 609 20 632 4 Load a slavering kobold
+M 0 610 20 633 4 Load a rabid goblin
+M 0 611 20 634 4 Load the boar
+M 0 611 1 634 1 Load the boar
+M 0 612 20 635 4 Load the fox
+M 0 610 1 635 1 Load a rabid goblin
+M 0 613 20 636 4 Load the deer
+M 0 610 10 636 4 Load a rabid goblin
+M 0 609 20 637 4 Load a slavering kobold
+M 0 610 20 638 4 Load a rabid goblin
+M 0 611 20 639 4 Load the boar
+M 0 612 20 640 4 Load the fox
+M 0 613 20 641 4 Load the deer
+M 0 609 20 642 4 Load a slavering kobold
+M 0 610 20 643 4 Load a rabid goblin
+M 0 611 20 644 4 Load the boar
+M 0 610 1 644 1 Load a rabid goblin
+M 0 612 20 645 4 Load the fox
+M 0 613 20 646 4 Load the deer
+M 0 615 9 648 3 Load the bear
+M 0 614 9 649 3 Load the coyote
+M 0 614 1 649 1 Load the coyote
+M 0 615 9 650 3 Load the bear
+M 0 616 9 651 3 Load the wolf
+M 0 614 9 652 3 Load the coyote
+M 0 616 9 653 3 Load the wolf
+M 0 614 9 654 3 Load the coyote
+M 0 615 9 655 3 Load the bear
+M 0 616 9 656 3 Load the wolf
+M 0 618 1 658 1 Load the adept of Lirannon
+M 0 619 1 659 1 Load the priest of Odoma
+M 0 605 2 661 3 Load a rabid goblin
+M 0 605 3 662 3 Load a rabid goblin
+M 0 605 4 663 3 Load a rabid goblin
+M 0 605 5 664 3 Load a rabid goblin
+M 0 604 2 665 3 Load an angry imp
+M 0 604 3 666 3 Load an angry imp
+M 0 604 4 667 3 Load an angry imp
+M 0 604 5 668 3 Load an angry imp
+M 0 602 2 669 3 Load a slavering kobold
+M 0 602 3 670 3 Load a slavering kobold
+M 0 602 4 671 3 Load a slavering kobold
+M 0 602 5 672 3 Load a slavering kobold
+M 0 603 2 673 3 Load a crippled harpy
+M 0 603 3 674 3 Load a crippled harpy
+M 0 603 4 675 3 Load a crippled harpy
+M 0 603 5 676 3 Load a crippled harpy
+S
+
+
+
+#SHOPS
+617 1 15 17 19 0 100 100 0 23
+0
+0
+
+
+
+#MOBPROGS
+#600
+say Ahhh, $n, registration mentioned you'd be coming down.
+sleep 5
+say Explore the doors in the circular room west of me.
+sleep 5
+say There will be some skeletons we've magically contained there....
+sleep 5
+say Feel free to use them as practice dummies.
+grin
+sleep 5
+emote takes the end of his sword and with a slow knock on the {rplaque{x, and then a little nod to the {rsign{x.
+sleep 5
+say Take a moment and have a good look at the {rplaque{x, and read the {rsign{x carefully before you move on.
+~
+#617
+say Purchase a lantern before you go, adventuring can lead to dark places...
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

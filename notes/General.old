@@ -1,0 +1,2252 @@
+Sender  Ona~
+Date    Sat Dec 19 14:36:37 2009~
+Stamp   1261251444
+Expire  1263065816
+To      upro all~
+Subject exit~
+Text
+vnum 3700 the down exit does not go down
+ 
+~
+
+Sender  Upro~
+Date    Mon Dec 21 14:36:07 2009~
+Stamp   1261424268
+Expire  1263238581
+To      ona weiland krilantis all~
+Subject medit/oedit/redit copy~
+Text
+This is now installed. In order to use, create a new obj/room/mob.
+ex. redit create 1004
+copy 1003 (without an argument will copy the entire room/mobile/obj)
+copy 1003 name (arguments copy only what you want copied.)
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Wed Dec 23 19:28:28 2009~
+Stamp   1261614660
+Expire  1263428921
+To      weiland ona krilantis all~
+Subject rprogs/oprogs.~
+Text
+They exist. Admittedly, I have not tested a single one, so
+I'll leave that up to you guys. :D I'm sure there will be
+some sort of bug somewhere in them since adding them put
+our codebase up a few thousand lines of code.
+ 
+On that note, my eyes hurt. I'm going to eat, smoke a cig,
+and brainstorm some ideas for our next move. Be back in about
+an hour.
+~
+
+Sender  Upro~
+Date    Wed Dec 23 19:33:27 2009~
+Stamp   1261614842
+Expire  1263429220
+To      weiland krilantis all~
+Subject ugh.~
+Text
+In my haste, I copied over the notes I wrote last night.
+Check your emails respectively please, I'll have them there.
+~
+
+Sender  Upro~
+Date    Thu Dec 24 12:39:50 2009~
+Stamp   1261676613
+Expire  1263490804
+To      weiland maximmus krilantis ona all~
+Subject woops!~
+Text
+Ok when I was removing junk for donation pits I commented
+out some very important code that's been looping us ever
+since when you try to get something out of a corpse,
+(basically autoloot was getting the item, then you would
+get the item again, but the item didn't technically exist,
+so the game would be like WTFM8?!?11.)
+ 
+Anyway that's fixed now, and on to bigger and better things.
+Merry Christmas! My girl just got me a new monitor, so I'm
+motivated to do some code work, YAY! 20" Flat, no more CRT.
+ 
+See you all in a couple days presumably.
+ 
+Upro.
+~
+
+Sender  Upro~
+Date    Thu Dec 24 18:03:03 2009~
+Stamp   1261695876
+Expire  1263510199
+To      weiland krilantis ona maximmus all~
+Subject Creation, etc..~
+Text
+Creation has been modified some to make it a bit more appealing and less plain.
+Also, there now exist gods, and you can choose them based on your alignment
+and class.
+ 
+Soon I will have deity favors, and some other goodies for involvement with
+religion in game.
+ 
+For now, enjoy!
+~
+
+Sender  Upro~
+Date    Fri Dec 25 00:16:58 2009~
+Stamp   1261718311
+Expire  1263532633
+To      weiland krilantis ona all~
+Subject Some things~
+Text
+First off, Merry Christmas!
+ 
+Secondly, I've fixed the helpfile system, and now all helps
+will save into their own .are file, thus no longer overwriting
+the area you're in when writing the helpfile.
+ 
+Thirdly, there's a new command called instaroom, check it out,
+if you build, you might like it.
+~
+
+Sender  Upro~
+Date    Fri Dec 25 03:48:29 2009~
+Stamp   1261730944
+Expire  1263545320
+To      weiland krilantis maximmus ona all~
+Subject Helpfiles~
+Text
+New helpfiles:
+ 
+butcher, skin, scribe, bounty, repair, knock, multiclass.
+ 
+Expect more now that the helpfile system isn't fubar.
+~
+
+Sender  Upro~
+Date    Fri Dec 25 04:11:24 2009~
+Stamp   1261732357
+Expire  1263546690
+To      all~
+Subject Notes~
+Text
+Well I started fiddling with notes and it got a little
+hairy. So in the mean time I just upped the amount of
+chars you can put per line by 20, so it's not quite as
+frustrating to write a note.
+ 
+Anyway, hope to have this changed and upgraded soon.
+~
+
+Sender  Upro~
+Date    Fri Dec 25 04:23:35 2009~
+Stamp   1261733033
+Expire  1263547421
+To      all~
+Subject instaroom~
+Text
+I changed it to ireset. Just makes more sense.
+~
+
+Sender  Upro~
+Date    Sat Dec 19 12:19:29 2009~
+Stamp   1261243223
+Expire  1263662378
+To      weiland upro all~
+Subject air.are~
+Text
+The area is removed, and the new rose vnum for the create rose spell is 9.
+Vnums 1000-1099 are assigned to you
+Have a good one!
+~
+
+Sender  Upro~
+Date    Mon Dec 28 11:54:28 2009~
+Stamp   1262019281
+Expire  1263833674
+To      all~
+Subject steal~
+Text
+is fixed.
+~
+
+Sender  Upro~
+Date    Tue Dec 29 11:24:28 2009~
+Stamp   1262103918
+Expire  1263918274
+To      weiland all~
+Subject mobs~
+Text
+In the epic crash of the mud yesterday, the act2 flag, stay_sector, may have been
+added to your mobs. You might just check them out to see... Sorry!
+~
+
+Sender  Upro~
+Date    Tue Dec 29 12:10:59 2009~
+Stamp   1262106813
+Expire  1263921068
+To      weiland all~
+Subject new things~
+Text
+act2 flags: boss/elite/random_loot
+You can imagine what the first two are for, and the third is if you
+decide you don't want a mob to have the same sword over and over, pop
+this flag on and it'll randomly generate and item for the mob.
+ 
+Object Quality. Ranges from poor, common, uncommon, superior, epic, legendary.
+ 
+Hmm what else.
+ 
+That's it for now :P
+~
+
+Sender  Upro~
+Date    Tue Dec 29 23:09:36 2009~
+Stamp   1262146232
+Expire  1263960587
+To      all~
+Subject mobs wandering~
+Text
+All the mobs in the newb school have sentinel flag on them.
+Otherwise they would all move about. It's going to change as
+I'm about to give the newb school a bit of a face list.
+ 
+Er.. lift*
+~
+
+Sender  Upro~
+Date    Wed Dec 30 00:16:18 2009~
+Stamp   1262150204
+Expire  1263964588
+To      all~
+Subject mlist/olist/rlist.~
+Text
+these commands are accessible within all types of olc editors now.
+Enjoy!
+~
+
+Sender  Upro~
+Date    Thu Dec 31 00:04:05 2009~
+Stamp   1262236057
+Expire  1264050265
+To      weiland krilantis all~
+Subject engage and skill pre-requisites.~
+Text
+We now have the engage skill. This allows you to engage other people in
+combat than the current person you are tanking. This will be VERY useful
+for group tactics in the future when fighting bosses with 'adds' and such.
+ 
+On that note, I've added in skill pre-requisites and base_stats.
+ 
+What this means is that most advanced skills will require you to know a basic
+version of that skill. A good example of this will be combat tactics.
+This skill will be required for everything from dirt kicking, to parrying, to
+engaging.
+ 
+Secondly, the base_stats is run just like ad&d, where each skill relies on it's
+base stat. Example being sneak, which relies on dexterity. You will see more of
+this in effect in the future, but for now, love it, live it, and as always, enjoy!
+~
+
+Sender  Upro~
+Date    Tue Jan  5 15:33:09 2010~
+Stamp   1262723688
+Expire  1264538004
+To      krilantis weiland ona all~
+Subject skills~
+Text
+Ok pre-requisites have been fully coded and tested. They work. As far as
+the skill levels and who can get them goes, this is being worked on. But
+for now, you will notice some major changes when you visit your local
+trainer from here on out. Namely: groups don't exist at all anymore. You
+can have your trainer teach you specific spells, but they're generally
+expensive and not worth it unless you feel you REALLY need the spell.
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Tue Jan  5 16:49:18 2010~
+Stamp   1262728209
+Expire  1264542577
+To      krilantis all~
+Subject vnums~
+Text
+i emailed them to you before but the vnums are 2100 to 2199. Have fun!
+p
+~
+
+Sender  Upro~
+Date    Sun Dec 20 23:31:46 2009~
+Stamp   1261369948
+Expire  1264653115
+To      ona all~
+Subject down exit 3700~
+Text
+I deleted midgaard, that's why :) We'll have to reconnect it when
+Renfall is completed.
+~
+
+Sender  Upro~
+Date    Thu Jan  7 17:39:16 2010~
+Stamp   1262903983
+Expire  1264718368
+To      krilantis weiland all~
+Subject hidden/secret doors~
+Text
+There are now hidden/secret exit flags for doors. Have fun!
+~
+
+Sender  Upro~
+Date    Thu Jan  7 19:53:52 2010~
+Stamp   1262912120
+Expire  1264726462
+To      weiland krilantis all~
+Subject : heh~
+Text
+All skill's/spell's levels are correctly set per class now.
+guildranks are in, and skills/spells cannot be learned until you reach the correct guildrank
+~
+
+Sender  Upro~
+Date    Thu Jan  7 23:42:04 2010~
+Stamp   1262925814
+Expire  1264740134
+To      krilantis weiland all~
+Subject quests, guild ranks, gods~
+Text
+The quest framework is laid out, with only one quest, the Newbie Quest. You
+cannot do any quests yet, so don't try, but probably tomorrow before I go to
+work it'll be ready to test.
+ 
+Guild ranks are now seen in score as words (initiate, apprentice, etc..).
+ 
+There are now helpfiles (however brief) for all the gods. Also helpfiles for traps.
+~
+
+Sender  Upro~
+Date    Fri Jan  8 00:40:50 2010~
+Stamp   1262929294
+Expire  1264743657
+To      krilantis weiland all~
+Subject quests~
+Text
+Newbie quest is created, though not fully complete. Even still you can
+get a good feel for it by going to the local trainer and typing 'quest request'.
+Type help quest for more info.
+~
+
+Sender  Upro~
+Date    Fri Jan  8 01:33:57 2010~
+Stamp   1262932477
+Expire  1264746843
+To      all~
+Subject bug in cast~
+Text
+If your main class is not wizard/cleric, please do not cast spells.
+It's crashing us and I haven't been able to find out why yet.
+ 
+Thanks.
+~
+
+Sender  Upro~
+Date    Fri Jan  8 12:55:27 2010~
+Stamp   1262973506
+Expire  1264787735
+To      weiland krilantis all~
+Subject quests~
+Text
+Ok, so now there are two quests which you can complete (and yes, they
+are lame right now, but they're just for a glimpse into the future of
+questing here.) They represent two of the three CURRENT possibilities
+for quest types, MOB_KILL and ITEM_RETRIEVE, the other being AREA_EXPLORE.
+ 
+You can also now type quest log to see a list of completed quests.
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Fri Jan  8 14:07:29 2010~
+Stamp   1262977793
+Expire  1264792060
+To      weiland krilantis all~
+Subject changes~
+Text
+as an imm, you can now set secondary classes, not just primary.
+ 
+there are three new spells: acid arrow, flame arrow, and frost arrow.
+you must have acid arrow to learn acid blast.
+ 
+~
+
+Sender  Upro~
+Date    Fri Jan  8 20:44:16 2010~
+Stamp   1263001518
+Expire  1264815866
+To      weiland krilantis all~
+Subject new room flags.~
+Text
+I have coded in the new room flags, which are anti_class. You can lock
+out certain classes from being able to enter a room, enjoy!
+ 
+Oh yeah, I also made it so that multi classed chars can enter both
+guilds. (ie a fighter/wizard can go to fighter guild and wizard guild).
+~
+
+Sender  Upro~
+Date    Sun Jan 10 01:29:36 2010~
+Stamp   1263105068
+Expire  1264919385
+To      weiland krilantis ragnar all~
+Subject helpfiles~
+Text
+Ok, I think after scouring the area folder for an hour or so, that I have rid
+us of all duplicate helpfiles. They should work properly now, and I gave them
+a small facelift to boot.
+ 
+Note me if you find any erroneous helpfiles. Also if any are missing no need to
+note me as we have a missing helpfile list that collects them in a neat pile for
+my later perusal. Thanks!
+~
+
+Sender  Ragnar~
+Date    Sun Jan 10 18:02:07 2010~
+Stamp   1263164626
+Expire  1264978936
+To      Upro all~
+Subject Clan names~
+Text
+Possible to limit clan names to a certain length? or make them ( ) all same length.
+Having different length clan names throws the do_who appearance off.
+Also, not sure how but I've seen a cool clan code work with symbols for the who which was nice.
+then the clan leader could make a help file for the clan itself "help loner" so
+only the symbol was used for the do_who part.
+Just thoughts.
+Ragnar
+ 
+~
+
+Sender  Upro~
+Date    Mon Jan 11 00:32:29 2010~
+Stamp   1263188017
+Expire  1265002355
+To      all~
+Subject some things~
+Text
+Clans:
+Agreed this will be changed more as time goes on, can you give me a
+good example of the symbol thing?
+ 
+My computer:
+Is fried in today's power surge. This sucks.
+ 
+Notes:
+Seem to be crashing the mud after being in the note editor for a period of time.
+I'll look into it.
+ 
+Board:
+Is broken, for now use unread <spool> to move around.
+~
+
+Sender  Upro~
+Date    Mon Jan 11 00:33:39 2010~
+Stamp   1263188089
+Expire  1265002425
+To      all~
+Subject More things~
+Text
+Sorry the last note was so brief but for some reason I keep crashing
+the mud when in the note editor for more than like a minute.
+ 
+Hopefully getting a new comp very soon so will HARD at work again
+fixing things and implementing lua and such soon.
+ 
+For now I'll be making minor code changes and building a bit.
+ 
+Sorry for everything, see you around!
+~
+
+Sender  Ragnar~
+Date    Tue Jan 12 18:05:38 2010~
+Stamp   1263337570
+Expire  1265151943
+To      all~
+Subject Note's~
+Text
+Could be something to do with the CON states for notes.
+For some reason erwin's board system places notes into the CON_ section of nanny
+Ragnar
+~
+
+Sender  Upro~
+Date    Wed Jan 13 00:28:01 2010~
+Stamp   1263360511
+Expire  1265174890
+To      all~
+Subject sage act2 flag~
+Text
+I added this to our act2 flag arsenal. Use it to allow mobs to id objects for
+players. Costs 5 gold.
+~
+
+Sender  Upro~
+Date    Wed Jan 13 03:15:55 2010~
+Stamp   1263370595
+Expire  1265184961
+To      all~
+Subject website~
+Text
+Began work on website. I have the layout complete and basic design well underway.
+If anyone wants to input thoughts on a mud name so we can make a banner/logo, I'm
+all ears.
+ 
+Upro
+~
+
+Sender  Jurden~
+Date    Wed Jan 13 19:04:56 2010~
+Stamp   1263427651
+Expire  1265241901
+To      all~
+Subject item flags~
+Text
+Added extra2 flags. The first two flags for our arsenal are: hidden and wear_cast.
+Wear_cast does not work just yet, but is settable for the future, when it will cause
+whatever ever spell is linked to it to cast upon char wearing the item.
+ 
+Hidden is simple, if it's hidden, players without detect hidden (or thieves with detect secret)
+will not be able to see it. It become un-hidden once it's picked up. If it's hidden, you'll
+see red ()'s around it. Adding functionality to the current 'hide' command to hide objects.
+This will be reliant on sector (ie. unable to hide objects on a road,
+but easy to do in a city/forest.)
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Wed Jan 13 19:30:33 2010~
+Stamp   1263429083
+Expire  1265243445
+To      all~
+Subject dying causing crashes~
+Text
+If you were not in a clan, the game didn't know where to put you when you died.
+This is now fixed and there should be no more crashes concerning this.
+Thanks to Ragnar for accidentally finding this one :)
+~
+
+Sender  Upro~
+Date    Wed Jan 13 22:57:22 2010~
+Stamp   1263441493
+Expire  1265255850
+To      all~
+Subject items and such~
+Text
+added cooking, alchemy, and herbalism skills. They're not complete, but
+skeletal. Also implemented herb/bandage/salve item types for the pre-mentioned
+skills.
+ 
+Added helpfile for banks.
+~
+
+Sender  Upro~
+Date    Thu Jan 14 00:58:40 2010~
+Stamp   1263448794
+Expire  1265263142
+To      all~
+Subject new helps~
+Text
+New helps include:
+wizlist
+repair
+prerequisite
+clone
+ 
+More to come as I keep track of the nohelp file :)
+enbd
+~
+
+Sender  Upro~
+Date    Fri Jan 15 14:05:34 2010~
+Stamp   1263582444
+Expire  1265396748
+To      all especially playtesters~
+Subject foraging/herbalism~
+Text
+You can now forage for herbs. There are 46 different types of herbs, all ranging
+in rarity and ecosystem. Foraging is as simple as typing 'forage'.
+ 
+If you have the herbalism skill, there is a chance you will see the herb upon
+walking into the room.
+ 
+Not every room has herbs, and of course you can't forage in cities and such.
+~
+
+Sender  Upro~
+Date    Fri Jan 15 14:30:37 2010~
+Stamp   1263583866
+Expire  1265398243
+To      all~
+Subject new helpfiles~
+Text
+New helpfiles:
+ireset
+herbalism
+forage
+ 
+~
+
+Sender  Upro~
+Date    Sat Jan 16 11:35:49 2010~
+Stamp   1263659769
+Expire  1265474160
+To      all~
+Subject bug with exits~
+Text
+is fixed, just needed a clean make.
+~
+
+Sender  Upro~
+Date    Sat Jan 16 11:55:23 2010~
+Stamp   1263660996
+Expire  1265475331
+To      all~
+Subject new comp~
+Text
+Ok got the new quad core computer. It's sweet. Currently running with
+6gb ram and 410gb hdd (with a 250gb external), but soon to get a 1.5
+tb hdd and a couple more gb of ram to push it to 8gb. Needless to say
+it's a monster of a computer. ;)
+~
+
+Sender  Upro~
+Date    Mon Jan 18 00:27:17 2010~
+Stamp   1263792518
+Expire  1265606845
+To      all~
+Subject plant/mine~
+Text
+Added plant skill for thieves. help plant.
+ 
+Added a materials table to the mud which will standardize materials
+throughout it. Got framework for mining/prospecting done, will probably
+finish it up tomorrow.
+ 
+Fixed some bugs nobody but me probably noticed ;)
+~
+
+Sender  Upro~
+Date    Mon Jan 18 10:38:23 2010~
+Stamp   1263829131
+Expire  1265643510
+To      all~
+Subject consider command~
+Text
+passing an int/wiz check will allow the victim of the consider command
+to see that someone is sizing them up.
+~
+
+Sender  Upro~
+Date    Mon Jan 18 13:51:48 2010~
+Stamp   1263840834
+Expire  1265655113
+To      all~
+Subject Bulk~
+Text
+Objects which are considered armor now have bulk. Each class has
+restrictions on how much bulk they can wear. Multiclassing restrictions
+have been considered but not implemented yet. though I have two ideas:
+ 
+either a)  add the two classes' max bulks then divide by 2, that being your
+max bulk, or b) just allow the highest max_bulk of the two classes to be dominant.
+ 
+Ideas?
+~
+
+Sender  Upro~
+Date    Mon Jan 18 15:04:41 2010~
+Stamp   1263845133
+Expire  1265659487
+To      all~
+Subject Clans in wholist~
+Text
+Taking Ragnar's suggestion, i've limited all clans to 1-3 letter abbreviation/acronyms.
+Right now there's only two clans which have exactly zero direction, BUT, they do format
+in the wholist quite nicely now ;)
+~
+
+Sender  Upro~
+Date    Tue Jan 19 00:29:27 2010~
+Stamp   1263879138
+Expire  1265693376
+To      all~
+Subject OLC change~
+Text
+The game will now only let you set materials to items that exist in the
+materials table I have devised.
+ 
+What this means is that there will be no objects made of 'scrotum' or any
+such nonsense (Had to deal with this on one mud). This also means, if the
+item is a piece of armor, it will be automagically set with a bulk that is
+appropriate to the material being used.
+ 
+Later additions will include the inability to allow armors to be made from
+gems, weapons made from cloth, and other such weirdness. For now use common
+sense. Also, it's ugly, but typing material ? in the oediter will show you
+a list of available material types.
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Fri Jan 22 02:31:21 2010~
+Stamp   1264145621
+Expire  1265959894
+To      all~
+Subject Event system (mining, fishing, cooking, etc..)~
+Text
+I have implemented our basic event system. Right now it works only with
+mining, which you can only do in caves, underground, mountains, and hills.
+Currently it does not require a mining tool (but will tomorrow... I'm tired),
+and does not yield any ore, though you can try it out to get a basic feel.
+ 
+This is the beginning of a system that will encompass sailing, mining,
+cooking, fishing, prospecting, brewing, spell learning, and some other junk
+i'm sure as time goes on.
+ 
+Give it a whirl and let me know what you think!
+Upro
+~
+
+Sender  Upro~
+Date    Fri Jan 22 13:44:38 2010~
+Stamp   1264185972
+Expire  1266000283
+To      all~
+Subject mining~
+Text
+Mining is complete. You must have a mining tool of some sort to mine.
+You must be in an appropriate area to mine. You must type 'material'
+to see which materials you have dug up. You must have lots of moves
+to mine, otherwise you're not gonna mine up a bunch. Being a dwarf helps.
+Type mine to start mining, mine stop to stop mining.
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Mon Jan 25 13:35:59 2010~
+Stamp   1264444593
+Expire  1266258966
+To      all~
+Subject things~
+Text
+new spell: blink.
+ 
+kick can now start combat, and it's prior mud crashing bug should be fixed,
+if not, let me know.
+~
+
+Sender  Upro~
+Date    Mon Jan 25 14:22:50 2010~
+Stamp   1264447446
+Expire  1266261779
+To      all~
+Subject materials and durability~
+Text
+Your equipment may or may not take less damage from direct hits / magical hits now,
+depending on what material they are made from. Cloths will damage more easily from
+slashing/piercing blows, metals more from crushing blows, cloths from fire, metals
+from acid, etc...
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Mon Jan 25 14:31:19 2010~
+Stamp   1264447907
+Expire  1266262290
+To      all~
+Subject stat object/identify/lore~
+Text
+You will now notice what material the item in question is made of
+when using any of these commands.
+~
+
+Sender  Upro~
+Date    Mon Jan 25 22:49:41 2010~
+Stamp   1264477952
+Expire  1266292192
+To      all~
+Subject casting as a non caster~
+Text
+Immortals, multiclassers, and the world alike, this is fixed.
+It took some double, triple, and quadruple checking of the code,
+but I finally figured out where the hell I made my mistake at.
+ 
+You can now successfully (or not depending) cast spells as a none
+mage/cleric.
+ 
+My god this was a bug from hell but it basically boiled down to the
+code trying to check whether a single/multi class person could cast
+a spell regardless of whether their second class was a caster or not.
+ 
+Anyway to make a long story short and make my night easier, it's fixed.
+ 
+I think I'm going to go have a shot. :P
+ 
+Ok have a good one ;)
+~
+
+Sender  Upro~
+Date    Tue Jan 26 01:36:04 2010~
+Stamp   1264487859
+Expire  1266302171
+To      all~
+Subject prospecting~
+Text
+Prospecting is now in, as part of our new event driven system.
+You will find less when prospecting, but it costs less cp. There
+are other balancing factors involved as well.
+ 
+You must have a prospecting tool to use it, and be in a WATER_SWIM,
+BEACH, or SHORELINE sector to use it.
+ 
+enjoy.
+~
+
+Sender  Upro~
+Date    Tue Jan 26 01:41:03 2010~
+Stamp   1264488089
+Expire  1266302473
+To      all~
+Subject prospecting tool vs. sieve~
+Text
+just changed it to ITEM_SIEVE for prospecting.
+~
+
+Sender  Upro~
+Date    Tue Jan 26 12:58:41 2010~
+Stamp   1264528739
+Expire  1266343127
+To      all~
+Subject Welcome Doreen~
+Text
+Our newest member of the staff.
+~
+
+Sender  Upro~
+Date    Tue Jan 26 14:11:11 2010~
+Stamp   1264533124
+Expire  1266347481
+To      doreen all~
+Subject vnums~
+Text
+I've allotted vnums 2200-2299 to you, play around with them and get familiar
+with OLC when you have the time, when you feel comfortable let me know.
+~
+
+Sender  Upro~
+Date    Thu Jan 28 10:55:57 2010~
+Stamp   1264694227
+Expire  1266508568
+To      all~
+Subject new spells (class specific)~
+Text
+Paladin:
+lay hands
+ 
+Druid
+shillelagh
+barkskin
+stone meld
+resistance
+detect plants
+entangle
+ 
+~
+
+Sender  Upro~
+Date    Thu Jan 28 18:32:38 2010~
+Stamp   1264721732
+Expire  1266535966
+To      all~
+Subject random objects~
+Text
+I have overhauled the entire system. It's a helluva lot smarter now
+than the first time I wrote it. Basically now it also ties into the
+materials table, and can assign materials based on the item it makes.
+ 
+Also, bulk is assigned based on material, the name generator has been
+uber spiffied up, (which also ties in with the weapon mods I made).
+Weapons now will drop as a certain TYPE of weapon, not just exotic,
+and as such, will have names like, sword, dagger, dirk, etc... based
+on their type. weapon averages have been looked at and tweaked, and
+we should also no longer have issues with the sword of BLANK. If you
+DO happen to see an item drop with no suffix descriptor, please let me
+know so I can bang my head against a wall. :P
+~
+
+Sender  Upro~
+Date    Fri Jan 29 12:03:01 2010~
+Stamp   1264784709
+Expire  1266598991
+To      all~
+Subject random objects (re-re-visited)~
+Text
+It's even smarter now, discerning vowels and placing a/an/the in
+the correct spots. Also fixed a bug i noticed that disallowed
+random objects from getting saving throw bonuses. Also added about
+40 more descriptive names and doubled possibilities for object names
+in general so there should be duplicates about every 1 in 500 now
+instead of every 1 in 25.
+~
+
+Sender  Upro~
+Date    Fri Jan 29 13:24:14 2010~
+Stamp   1264789525
+Expire  1266603862
+To      all~
+Subject druid spells~
+Text
+Finished up druid specific spells (listed below):
+regeneration
+water breathing
+thorns
+sunbeam
+fire seeds
+changestaff
+transmute metal to wood
+animal growth
+~
+
+Sender  Upro~
+Date    Fri Jan 29 19:10:12 2010~
+Stamp   1264810440
+Expire  1266624624
+To      weiland all~
+Subject envy areas~
+Text
+Those two areas are from greed gold 1.0 which is a pretty sophisticated base that
+has a completely different area saving function than what we use. Unfortunately it's
+so different that editting the areas by hand would take a week or more....
+ 
+I found an envy2rom converter but it's for an older version of Envy that doesn't have
+things like Keyed entries and the act flags saved as their appropriate names (rather
+than as a single letter reference).
+ 
+I really would like to use these areas but at this point I'm out of options unless I
+either a) rewrite our whole area saving/loading functions, or b) hand edit those two
+areas (which will become VERY tedious.)
+ 
+Thoughts?
+~
+
+Sender  Upro~
+Date    Fri Jan 29 20:52:03 2010~
+Stamp   1264816370
+Expire  1266630730
+To      all~
+Subject bard specific spells~
+Text
+Are in. Too many to list, but I think there's around 35 of them.
+Bound to be bugs, so let me know if you find any.
+ 
+Will have bard instruments in soon as well.
+Enjoy!
+~
+
+Sender  Upro~
+Date    Fri Jan 29 23:00:47 2010~
+Stamp   1264824077
+Expire  1266638455
+To      all~
+Subject slist~
+Text
+new command: slist... shows all spells for a particular class.
+This will be expanded soon.
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Mon Feb  1 12:05:56 2010~
+Stamp   1265044071
+Expire  1266858363
+To      all~
+Subject bleeding~
+Text
+Added critical hits, bleeding, hit locations, and bandage command
+to the mud. Basicaly comes down to this: if you get hit with a crit
+you have a chance to bleed, if you bleed, you can be bandaged by
+someone with first aid.
+ 
+Currently does NOT require a bandage (but as you may know I have
+already implemented bandage item types), but will soon as I finish
+fleshing out first aid and bandage making/preparation.
+~
+
+Sender  Upro~
+Date    Wed Feb  3 03:36:56 2010~
+Stamp   1265186285
+Expire  1267000624
+To      all~
+Subject olc editting~
+Text
+I'm in the process of overhauling some things in OLC to make the building life
+easier in general. You might notice some of these changes and if you do, please
+feel free to give me feedback and tell me what i can do to improve or change OLC
+to make your life easier.
+~
+
+Sender  Upro~
+Date    Wed Feb  3 04:05:28 2010~
+Stamp   1265188065
+Expire  1267002337
+To      all~
+Subject OLC changes (minor so far)~
+Text
+medit create now tells you which vnum you've created, and instantly shows
+you the mob's info as you do it (without having to press enter first).
+ 
+all mobs start with the stay_area act flag.
+ 
+setting level will auto-set hitdice and manadice (this is just to save time,
+you don't necessarily have to stick with these values.)
+ 
+added new race: deer
+ 
+ 
+More to come as I find things I feel should be updated/get feedback.
+~
+
+Sender  Upro~
+Date    Wed Feb  3 04:53:26 2010~
+Stamp   1265190869
+Expire  1267005219
+To      all~
+Subject alist~
+Text
+I've re-arranged alist to descending/increasing order. Also changed
+Valhalla to use vnums 100-199 instead of 1200-1299, since we're using
+the 1k vnum range for our cities.
+~
+
+Sender  Upro~
+Date    Thu Feb  4 20:11:56 2010~
+Stamp   1265332423
+Expire  1267146721
+To      all~
+Subject changes~
+Text
+New/replaced helpfiles for: MOTD, train, gain, practice, mine, credits, diku, rules, newbie.
+~
+
+Sender  Upro~
+Date    Thu Feb  4 23:41:21 2010~
+Stamp   1265344946
+Expire  1267159285
+To      all~
+Subject helpfiles~
+Text
+new/updated/replaced helpfiles:
+ 
+half_elf, half_orc, halfling, gnome, fighter, wizard, immortal
+~
+
+Sender  Upro~
+Date    Fri Feb  5 02:37:55 2010~
+Stamp   1265355517
+Expire  1267169882
+To      all~
+Subject Morsaii~
+Text
+Welcome Morsaii to our building staff. If he needs help with
+anything please do so.
+~
+
+Sender  Upro~
+Date    Sat Feb  6 00:39:59 2010~
+Stamp   1265434866
+Expire  1267249205
+To      all~
+Subject stat mob~
+Text
+Changed quite a bit. Also fixed a bunch of minor things found by our playtester,
+Katago, including OOC issues, inability to practice racial skills (regardless of
+class), and the pc kill crash bug.
+~
+
+Sender  Upro~
+Date    Sun Feb  7 02:14:23 2010~
+Stamp   1265526935
+Expire  1267341269
+To      all~
+Subject ships/log files~
+Text
+Ships are getting closer to completion. After working out many bugs in the
+memory allocation for ships today, i have been able to a) make a ship, b)
+board the ship, and c) move around in it.
+ 
+Log files now show me which area is loading as it loads so I can more easily
+track issues.
+~
+
+Sender  Upro~
+Date    Tue Feb  9 16:57:11 2010~
+Stamp   1265752815
+Expire  1267567040
+To      all~
+Subject bug fixes and the damage system~
+Text
+bug fixes:
+bulk takes into account stone skin/bark skin now (no longer count against you).
+you can't write notes while in combat (which crashes the mud)
+some fixes to the random item generator.
+ 
+damage system changes:
+each damage type has it's own descriptive word and ending modifier. This means maces pound,
+swords slash, etc... They also have color coded damages. Try it out it's quite nice.
+This idea was taken from a mud I previously played on and while I tried to make it original,
+I found the way they did it was quite exquisite, so just rolled with that.
+~
+
+Sender  Upro~
+Date    Thu Feb 11 13:12:23 2010~
+Stamp   1265912016
+Expire  1267726351
+To      all~
+Subject areset~
+Text
+new immortal command: areset. This will list all resets in the entire area
+that you are currently in.
+ 
+It works fine but if you have any ideas/suggestions let me know and I'll look
+into getting them implemented.
+ 
+Also disallowed writing notes in OLC as it's believed this could be crashing us.
+~
+
+Sender  Upro~
+Date    Thu Feb 11 15:20:54 2010~
+Stamp   1265919730
+Expire  1267734059
+To      all~
+Subject areset~
+Text
+2 issues i've found with areset so far. First up is that colors bleed (God
+this issue is plaguing me.) Second is that if there's too many resets it will
+disconnect you (but it wont crash the mud). Working on fixing it just a heads up.
+~
+
+Sender  Upro~
+Date    Thu Feb 11 16:21:41 2010~
+Stamp   1265923352
+Expire  1267737709
+To      all~
+Subject .c / .h files~
+Text
+I have spent quite some time cleaning up our rather disorganized codebase.
+Basically I have halved the amount of files that comprise the mud. You will
+see no effect in game, but I will have much less trouble finding things in
+the shell :)
+~
+
+Sender  Upro~
+Date    Fri Feb 12 19:15:23 2010~
+Stamp   1266020155
+Expire  1267834532
+To      all~
+Subject areset~
+Text
+Areset has been split up to take arguments now. It can take 'objs',
+or 'mobs', or you can use it with no arguments.
+~
+
+Sender  Upro~
+Date    Sat Feb 13 10:56:09 2010~
+Stamp   1266076977
+Expire  1267890979
+To      all~
+Subject bleeding, healing, and regen rates.~
+Text
+OLC will now auto-assign a low-ish number to both heal/mana rates each time you create a room.
+ 
+The heal code was WTFFUBAR. I don't know what they were thinking when they created Rom/Quickmud,
+but that shit made no sense. Anyway it's fixed, and this is how it works:
+ 
+1. Game checks your con (for hp), wis/int (for mana). Adds to heal rate based on this.
+2. Checks for sleeping/resting/fighting divides by 2/6 for resting fighting.
+3. Checks if you're hungry or thirsty. Divides in half if you are.
+4. Adds point for point from the rooms heal/mana rate, SO don't over do it on this. Avg regen rates
+   per room should be 20-30ish I would think, but we can always discuss and change this as necessary
+.s
+5. I hate this editor.
+6. It checks poison/plague/Haste/Slow and divides by 4/8/2/2 respectively.
+7. Then you get your gain.
+ 
+Bleeding should now slow on it's own every tick. (Unless you're just gushing blood.)
+~
+
+Sender  Upro~
+Date    Sat Feb 13 12:27:05 2010~
+Stamp   1266082263
+Expire  1267896434
+To      all~
+Subject more fixes and such~
+Text
+Experience per level is now fixed.
+ 
+Drinking things no longer 'fills you up', but can still stave hunger,
+though at a much lower rate.
+ 
+New monk skill... iron fist. Will have more for monks soonish ;)
+~
+
+Sender  Upro~
+Date    Sat Feb 13 14:07:34 2010~
+Stamp   1266088091
+Expire  1267902459
+To      all~
+Subject monk skills~
+Text
+Added hand parry and palm strike. Hand parry is available at initiate level
+in your guild. Palm strike requires member status in your guild.
+~
+
+Sender  Upro~
+Date    Sat Feb 13 16:18:10 2010~
+Stamp   1266095905
+Expire  1267910296
+To      all~
+Subject iron will/skin~
+Text
+Iron will and iron skin have been added for monks.
+~
+
+Sender  Upro~
+Date    Sat Feb 13 17:02:38 2010~
+Stamp   1266098588
+Expire  1267912965
+To      all~
+Subject new builder races~
+Text
+Include:
+demon
+insect
+bugbear
+giant
+ 
+If you can think of anymore you'd like me to add, let me know.
+~
+
+Sender  Upro~
+Date    Tue Feb 16 13:36:18 2010~
+Stamp   1266345525
+Expire  1268159785
+To      all~
+Subject areas command~
+Text
+Areas command has been reworked and should appear beautiful now.
+ 
+Also, you will need to set your area's level in the aeditor. This is to
+avoid the crazy mix up of having the level range in the credits, (which
+i cannot imagine why people decided to do that so long ago.)
+ 
+Some new helpfiles, can't remember what they are...
+ 
+Traps have been reworked. You don't type settrap/remtrap anymore, it's
+all in one neat command called.... you guessed it.... trap. Helpfile is
+available.
+ 
+Experience per level has once again been reworked, I noticed last night
+that our playtester was not gett much more TNL every time he gained a level,
+so I took a look at it and realized where I booboo'ed. Should be fixed for
+good now.
+~
+
+Sender  Upro~
+Date    Tue Feb 16 16:33:53 2010~
+Stamp   1266356107
+Expire  1268170440
+To      all~
+Subject area flags.~
+Text
+Area flags have been fixed. It was really weird how it was working before.
+Anyway now in the aeditor you have to type flag <blah> to add a flag to the
+area. Also ? aflag will give you a list of available flags per area.
+ 
+So obviously we will be seeing more area flags soon :)
+~
+
+Sender  Upro~
+Date    Wed Feb 17 00:16:28 2010~
+Stamp   1266383857
+Expire  1268198193
+To      all~
+Subject Many changes~
+Text
+Thanks to our newest playtester, I've been able to change/alter/
+fix/rotate/tweak MANY things tonight. So many I don't think I will
+remember them all... but here we go....
+ 
+Experience per level has once again (and hopefully REALLY FOR REAL
+FINALLY) been tweaked. This time for chars over level 9, so we don't
+have people that need 22 million exp TNL at level 20.
+ 
+Magic missile can now shoot multiple missiles, depending on your level.
+ 
+Scrolls cannot be learned if you cannot normally learn the spell.
+ 
+Scrolls now drop with short/long descs on them. No more 'a scroll'.
+ 
+Elite/boss/spec_mage/spec_cleric mobs will drops scrolls slightly more.
+ 
+Elite/boss mobs will give you much more experience.
+~
+
+Sender  Upro~
+Date    Wed Feb 17 00:21:34 2010~
+Stamp   1266384168
+Expire  1376752104
+To      all~
+Subject notes.~
+Text
+Note lives have been expanded. I'm kinda sad that about 80% of
+my change notes are down the drain, which kinda detracts from
+newbies when they come here, but whatever. From now on most
+boards have a limite of 4 months (120 days), and announcements/
+bugs will last for 1000 days.
+~
+
+Sender  Upro~
+Date    Wed Feb 17 00:27:50 2010~
+Stamp   1266384490
+Expire  1376752475
+To      all~
+Subject dual wield~
+Text
+You may no longer dual wield without prior knowledge
+of the skill of... dual wielding. ;)
+~
+
+Sender  Upro~
+Date    Wed Feb 17 00:29:38 2010~
+Stamp   1266384653
+Expire  1376752586
+To      all~
+Subject changes (continued)~
+Text
+group tells will be visible to the person making them now.
+ 
+grats channel color changed.
+ 
+you will now see numbers in affects after level 5.
+ 
+scrolls are a bit easier to learn from.
+ 
+~
+
+Sender  Broundar~
+Date    Wed Feb 17 13:18:04 2010~
+Stamp   1266430729
+Expire  1376798696
+To      all~
+Subject stat improving items~
+Text
+affecting equipment does not appeart to stack, so though
+ I have multiple objects that raise my strength, its still at +1
+~
+
+Sender  Upro~
+Date    Thu Feb 18 12:55:34 2010~
+Stamp   1266515809
+Expire  1376883741
+To      all~
+Subject changes today~
+Text
+Pools of blood are now in. They dry up too.
+ 
+Scrolls will now raise your % if you already know the spell when
+learning from them. This will not go over 75%.
+ 
+Added two item_types, BLOOD_POOL and MISSILE. 
+MISSILE is for the upcoming ranged combat code.
+~
+
+Sender  Upro~
+Date    Thu Feb 18 13:15:03 2010~
+Stamp   1266516946
+Expire  1376884923
+To      all~
+Subject more changes~
+Text
+Corpses now 'decay' visibly. You'll see what I mean.
+ 
+Holylight now shows obj level for imms.
+~
+
+Sender  Upro~
+Date    Thu Feb 18 14:14:53 2010~
+Stamp   1266520507
+Expire  1376888502
+To      all~
+Subject sacrifice all~
+Text
+Is now implemented.
+~
+
+Sender  Upro~
+Date    Fri Feb 19 00:54:58 2010~
+Stamp   1266558941
+Expire  1376926907
+To      all~
+Subject holy word/random objs~
+Text
+Holy word will no longer hurt you if you are neutral.
+ 
+Random objects have been revisited... stat points should
+pop less often, and total modifiers should be reduced.
+~
+
+Sender  Upro~
+Date    Fri Feb 19 12:52:28 2010~
+Stamp   1266601986
+Expire  1376969954
+To      all~
+Subject morgue command~
+Text
+People can now use this to get automatic corpse retrieval. You must
+be at a healer to do this, and it requires 2 gold per level of your
+char.
+~
+
+Sender  Upro~
+Date    Fri Feb 19 13:59:50 2010~
+Stamp   1266606042
+Expire  1376974003
+To      all~
+Subject atall command, item_type tracks.~
+Text
+atall command added for imms to do thing to the whole mud at once.
+ 
+tracks item type added so I can get to work on my idea for a unique
+way of tracking things instead of the old worn out hunt command you
+might have seen on other muds.
+~
+
+Sender  Upro~
+Date    Fri Feb 19 14:23:01 2010~
+Stamp   1266607462
+Expire  1376975386
+To      all~
+Subject tracks~
+Text
+People leave behind tracks when they walk through the lands now.
+Most people won't see these, unless you're a ranger with tracking
+abilities (Or an immortal with holylight on). They decay, and decay
+faster in the snow/rain.
+ 
+They're based on race currently, unless I can think of a better way
+to do them.
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Fri Feb 19 22:34:39 2010~
+Stamp   1266636923
+Expire  1377004888
+To      all~
+Subject website/group ranks~
+Text
+We have a website viewable at legendsofold.com/-aragond/index.htm
+ 
+I have implemented group ranks (command: grank), check it out!
+~
+
+Sender  Krilantis~
+Date    Sat Feb 20 14:14:35 2010~
+Stamp   1266693346
+Expire  1377061295
+To      all~
+Subject notes~
+Text
+Typing note done as subject crashed us.
+~
+
+Sender  Krilantis~
+Date    Sat Feb 20 14:15:55 2010~
+Stamp   1266693409
+Expire  1377061367
+To      all~
+Subject Recall~
+Text
+Recall is sending us to limbo, so till it gets fixed I made a up exit to master monk.
+Recall is sending us to limbo, so till it gets fixed I made a up exit to master monk.
+~
+
+Sender  Upro~
+Date    Sat Feb 20 18:57:09 2010~
+Stamp   1266710249
+Expire  1377078236
+To      all~
+Subject recall fix~
+Text
+Recall is fixed. I had to set it to limbo last night during
+the epic area crash.
+~
+
+Sender  Upro~
+Date    Mon Feb 22 04:16:36 2010~
+Stamp   1266830316
+Expire  1377198204
+To      all~
+Subject quests/summoning~
+Text
+Kinda light on the code work today.. sorry for that lot of other stuff
+going on right now.
+ 
+Got quests beefed up a bit. They have level ranges, indexes, and can be
+made repeatable, as well as can be assigned a specific mob to complete it
+at.
+ 
+Also new command quest list... lists all quests in your range.
+ 
+Also put in summon monster. You need a monster heart to cast it. It's not
+finished but works fine, just need to make a way for casters to have to
+"bind" the monster once summoned.
+ 
+Enjoy
+~
+
+Sender  Upro~
+Date    Tue Feb 23 13:59:25 2010~
+Stamp   1266951619
+Expire  1377319570
+To      all~
+Subject Quests~
+Text
+DONE. Hah. No seriously players can now take multiple quests at once, their
+progress saves when they logout (if they haven't finished the quest yet), and
+some other nifty junk.
+ 
+So expect to see some more quests coming into the game VERY soon!
+~
+
+Sender  Upro~
+Date    Tue Feb 23 14:58:49 2010~
+Stamp   1266955205
+Expire  1377323135
+To      all~
+Subject random objects~
+Text
+Tweaked a bunch of numbers to make the numbers on the dropped items a
+bit more realistic per level. Added lights to the list of objects that
+can be dropped.
+ 
+Finally found the bug that was causing items to say stuff like, "a sword of",
+and squashed it. All better. :)
+~
+
+Sender  Upro~
+Date    Thu Feb 25 17:23:50 2010~
+Stamp   1267136660
+Expire  1377504635
+To      all~
+Subject monk skills~
+Text
+New ones:
+ 
+balance
+evasion
+channel
+energy blast
+stun fist
+pressure point
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Fri Feb 26 15:02:14 2010~
+Stamp   1267214591
+Expire  1377582541
+To      all~
+Subject new spells~
+Text
+embalm
+This will embalm corpses/hearts/etc... making them usable for later.
+ 
+A bunch of spells that I had added but never actually put the code in for have
+been actually... well... coded :)
+~
+
+Sender  Upro~
+Date    Fri Feb 26 16:31:00 2010~
+Stamp   1267219918
+Expire  1377587869
+To      all~
+Subject random objs, group ranks~
+Text
+Fixed a couple bugs in group ranks.
+ 
+Random objects will no longer drop shield lights, etc..
+Lights are just lights :P Also 10% of all lights will be
+infinite, however the rest will go out after time.
+~
+
+Sender  Upro~
+Date    Fri Feb 26 16:47:18 2010~
+Stamp   1267220865
+Expire  1377588845
+To      all~
+Subject weapon specialization~
+Text
+Fighters will now not only begin with their specialized weapon equipped,
+but will also start with 75% in that specific weapon.
+~
+
+Sender  Upro~
+Date    Fri Feb 26 16:54:51 2010~
+Stamp   1267221344
+Expire  1377589301
+To      all~
+Subject mana cost/casting underwater~
+Text
+NPCs now use mana to cast spells, thus they can run out, just
+like you.
+ 
+Casting underwater is thwarted unless affected by the 'breathe
+water' spell.... actually it's 'water breathing', but whatever.
+~
+
+Sender  Upro~
+Date    Fri Feb 26 17:01:05 2010~
+Stamp   1267221684
+Expire  1377589670
+To      all~
+Subject continual light~
+Text
+Continual light will extend the life of non-infinite
+light objects now.
+~
+
+Sender  Upro~
+Date    Fri Feb 26 17:19:04 2010~
+Stamp   1267222785
+Expire  1377590754
+To      all~
+Subject walking/flying/swimming/etc...~
+Text
+You will no longer see names when people move about. Instead you
+will simply see 'A human walks east.', or, 'A dwarf arrives from
+the west.'
+~
+
+Sender  Upro~
+Date    Fri Feb 26 18:11:30 2010~
+Stamp   1267225905
+Expire  1377593897
+To      all~
+Subject potion quaffing~
+Text
+Can only be done once per round now ;)
+~
+
+Sender  Upro~
+Date    Fri Feb 26 18:48:14 2010~
+Stamp   1267228190
+Expire  1377596100
+To      all~
+Subject identify/bulk~
+Text
+Multiclassed bulk now works as follows:
+you can wear the bulkiest thing that either of your two
+classes will allow.
+ 
+you can wear a TOTAL bulk of class 1 + class 2 / 2.
+ 
+For example: a wizard/cleric. wizard max bulk = 5, cleric = 15.
+Your new max bulk would be 10 (5+15/2), however, you COULD wear
+2 bulk items (ie cleric).
+ 
+Also identify will now show you if a light is eternal or not.
+~
+
+Sender  Upro~
+Date    Fri Feb 26 19:23:57 2010~
+Stamp   1267230256
+Expire  1377598242
+To      all~
+Subject new races~
+Text
+We have new races:
+ 
+half ogre
+drow
+duergar
+ 
+enjoy!
+~
+
+Sender  Upro~
+Date    Fri Feb 26 19:30:59 2010~
+Stamp   1267230705
+Expire  1377598667
+To      all~
+Subject copyover/races~
+Text
+Some races will have restrictions on which classes they can be.,
+ 
+Paladins cannot be paladins unless they have at least 17 charisma.
+ 
+Copyover will boot people out that are still in creation to
+avoid weird corrupted pfiles.
+~
+
+Sender  Upro~
+Date    Fri Feb 26 19:44:25 2010~
+Stamp   1267231488
+Expire  1377599474
+To      all~
+Subject stat mob~
+Text
+Will now show you pkills/pdeaths/mobkills (if they're not
+an NPC).
+~
+
+Sender  Upro~
+Date    Fri Feb 26 22:02:49 2010~
+Stamp   1267239793
+Expire  1377607774
+To      all~
+Subject gems~
+Text
+Random loot now has the ability to drop gems. They will vary
+in value and material of course.
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Sat Feb 27 00:47:34 2010~
+Stamp   1267249709
+Expire  1377617659
+To      all~
+Subject climates~
+Text
+Builders, you can now set an area's 'climate'. This is cool but
+currently does nothing more than just that. However... soon I
+will be overhauling the weak stock ROM weather code, and this
+will play an important factor in it.
+ 
+Enjoy
+~
+
+Sender  Upro~
+Date    Sat Feb 27 01:25:33 2010~
+Stamp   1267251970
+Expire  1377619937
+To      all~
+Subject stat mob~
+Text
+now stat mob will show correctly:
+a) class'es' if you are multiclassed and NOT an NPC.
+b) level's' if you are multiclassed and NOT an NPC.
+ 
+That is all.
+~
+
+Sender  Upro~
+Date    Sat Feb 27 01:38:13 2010~
+Stamp   1267252746
+Expire  1377620701
+To      all~
+Subject new OLC races~
+Text
+These are new races usable in OLC: (not player raceS)
+ 
+horse
+camel
+sheep
+goat
+kuo-toa
+pixie
+minotaur
+djinn
+gargoyle
+ 
+If you can think of more, let me know.
+~
+
+Sender  Upro~
+Date    Sat Feb 27 01:54:15 2010~
+Stamp   1267253682
+Expire  1377621662
+To      all~
+Subject more new OLC races~
+Text
+More races include:
+ 
+illithid
+beholder
+imp
+gnoll
+ 
+DO EET!
+~
+
+Sender  Upro~
+Date    Tue Mar  2 12:33:09 2010~
+Stamp   1267551225
+Expire  1377919197
+To      all~
+Subject ships and the board command~
+Text
+Board is now reverted to work with the note system again.
+ 
+You will now use embark/disembark to get on/off ships.
+~
+
+Sender  Upro~
+Date    Tue Mar  2 15:44:14 2010~
+Stamp   1267562767
+Expire  1377930659
+To      all~
+Subject ships~
+Text
+Ships are partially in game.
+ 
+You can test by typing 'embark testship'. Make sure you're on a dock
+or water sector when you do, otherwise you won't be able to move.
+ 
+Movement is done by 'sail east/west/etc'.
+You can also drop anchor using the anchor command (anchor lower/raise).
+Disembark will get you off the boat once you've docked.
+DO NOT try to use goto/snoop/etc.. while someone is on a boat or YOU are
+on a boat. Things get a little screwy if you do.
+~
+
+Sender  Upro~
+Date    Tue Mar  2 15:46:34 2010~
+Stamp   1267562816
+Expire  1377930797
+To      all~
+Subject ships~
+Text
+Forgot to mention you can look outside of the ship by
+typing 'look overboard'
+~
+
+Sender  Upro~
+Date    Thu Mar  4 12:18:31 2010~
+Stamp   1267723203
+Expire  1378091122
+To      all~
+Subject new olc races/new spells~
+Text
+New OLC races include:
+dryad, naiad, satyr, githyanki, githzerai, and quickling.
+ 
+New spells are strength, intelligence, wisdom, dexterity,
+constitution, charisma.
+ 
+These new spells are not obtainable by players, but rather
+can be put on potions/scrolls for them to cast/drink and
+permanently raise stats.
+ 
+Obviously I want this to be a VERY rare occurance.
+~
+
+Sender  Upro~
+Date    Fri Mar  5 15:14:04 2010~
+Stamp   1267820297
+Expire  1378188050
+To      all~
+Subject Ships!~
+Text
+Ships are now complete. Changes since last note include:
+new messages for everyone when leaving/entering a ship.
+new messages for everyone when the ship moves.
+players who 'own' the ship can steer it (only).
+players that don't own it, now actually move with the ship.
+you can now SEE the ship if it's in the same room as you (ie docks, etc.)
+aedit now has a 'shiploc' command to set a ship's starting vnum.
+and some other general things to make it more... realistic?
+ 
+At any rate. It all works now. Ships will each be their own area.
+Builders, when you make a ship, the first vnum MUST be the deck, AND
+MUST be set to whoever owns the boat (via the owner command in redit).
+There's also an area flag (ship) that you'll need to set, and we'll be
+doing ALL ships under the 99k vnum range.
+ 
+Most ships will be 10 rooms or so, but players who buy big ass ships will
+get upwards of... oh i dunno, 30 rooms.
+ 
+Look for cannons, ship damage, cargo, and other fun stuff
+to follow suit very soon.
+~
+
+Sender  Upro~
+Date    Fri Mar  5 17:39:04 2010~
+Stamp   1267828764
+Expire  1378196749
+To      all~
+Subject ships vnums~
+Text
+Scratch the 99k thing. All ships will be in the 30k range.
+~
+
+Sender  Upro~
+Date    Sat Mar  6 13:30:49 2010~
+Stamp   1267900294
+Expire  1378268259
+To      all~
+Subject entering/leaving rooms~
+Text
+You will now see "a female elf walks south", instead of:
+'a elf walks south'.
+~
+
+Sender  Upro~
+Date    Tue Mar  9 01:29:41 2010~
+Stamp   1268116334
+Expire  1378484188
+To      all~
+Subject new stuff~
+Text
+disintegrate spell, fun for all ages.
+ 
+the new spell goes with... spec_beholder. A new spec to place
+on beholder mobs. It's smarter than the old spec_mage/spec_cleric
+crap, in that it checks for immunities before using certain eyestalks,
+and also checks to see if someone is already affected by a spell before
+using it.
+ 
+This is a SMALL taste of the AI I will be pumping into the specs to come
+, as in spec_boss, spec_elite, etc... I want to give our mobs some combat
+intuitiveness so they aren't so damn easy to kill :)
+ 
+Also made heal/cure crit reduce bleeding, as it crossed my mind while
+testing the spec_beholder.
+~
+
+Sender  Upro~
+Date    Tue Mar  9 13:35:55 2010~
+Stamp   1268159788
+Expire  1378527762
+To      all~
+Subject website~
+Text
+We have aragond.com now. I'll be pointing it to our webhost today
+and it should be visible this afternoon-tomorrow.
+~
+
+Sender  Upro~
+Date    Tue Mar  9 16:37:19 2010~
+Stamp   1268170685
+Expire  1378538644
+To      all~
+Subject map~
+Text
+To builders, playtesters, etc....
+ 
+There is an updated copy of the world map on the website now.
+It will be continually updated as we continue to carve out the
+new game world.
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Wed Mar 10 12:56:01 2010~
+Stamp   1268243790
+Expire  1378611766
+To      all~
+Subject blade barrier~
+Text
+new spell for clerics. Must have a dagger/sword in inventory
+to cast it. Self only, works kinda like thorns.
+~
+
+Sender  Upro~
+Date    Fri Mar 12 13:32:30 2010~
+Stamp   1268418783
+Expire  1378786756
+To      all~
+Subject new paladin spell~
+Text
+Aid. Apprentice level to learn. Adds temporary hp to a paladin.
+~
+
+Sender  Upro~
+Date    Fri Mar 12 15:04:57 2010~
+Stamp   1268424327
+Expire  1378792303
+To      all~
+Subject commands/wizhelp~
+Text
+commands command is now sorted by what type of command it is.
+ 
+wizhelp is now sorted by level of command.
+ 
+enjoy!
+~
+
+Sender  Upro~
+Date    Sat Mar 13 02:36:35 2010~
+Stamp   1268466003
+Expire  1378833801
+To      all~
+Subject some things~
+Text
+added a simple signal handler for my own debugging purposes.
+ 
+instead of mobs wearing items upon the mob's creation, they now
+try to 'wear all' during the update_handler, this reduces crashes
+based on items that don't exist yet, but are trying to be worn.
+ 
+checktype command in for immortals, to kinda like checkwpn.
+ 
+and as you can see the weather code is slowly but surely taking
+shape. each climate will have different weather patterns, and
+i'll slowly be adding things like wind speed, temperature, etc..
+which will open up a WORLD of things I've been wanting to do for
+some time (torches going out in the rain, dex modifiers in snow/rain,
+hurricanes on the water hurting ships, wind speeding ships up, extreme
+weather conditions slowing down movement on land, etc...)
+ 
+Enjoy!
+~
+
+Sender  Upro~
+Date    Sat Mar 13 15:06:45 2010~
+Stamp   1268510898
+Expire  1378878810
+To      all~
+Subject weather~
+Text
+weather command has been updated.
+ 
+We now have wind speed, current temperature, precipitation,
+and rate of precipitation PER AREA, PER CLIMATE. Only two
+climates have been fully coded, which is arctic and tropical.
+Obviously, it rains a lot in the tropical climate, and snows
+quite a bit in the arctic climate.
+ 
+I'm going to have a TON of fun with this eventually, just you
+wait.
+~
+
+Sender  Upro~
+Date    Sat Mar 13 15:43:30 2010~
+Stamp   1268513054
+Expire  1378881018
+To      all~
+Subject weather conditions~
+Text
+You will now see in the room desc if its been raining/snowing/etc..
+for a bit, as it will tell you, "it's muddy", "it's covered in snow", etc.
+~
+
+Sender  Upro~
+Date    Sat Mar 13 16:05:28 2010~
+Stamp   1268514361
+Expire  1378882335
+To      all~
+Subject ftick~
+Text
+new command for high level imms to force ticks (currently
+using it to test weather patterns)
+~
+
+Sender  Upro~
+Date    Tue Mar 16 20:52:47 2010~
+Stamp   1268787192
+Expire  1379155173
+To      all~
+Subject aragond.com~
+Text
+aragond.com is now properly linked to the website. Going to
+resume work on it tonight.
+~
+
+Sender  Upro~
+Date    Fri Mar 19 15:37:14 2010~
+Stamp   1269027546
+Expire  1355427443
+To      all~
+Subject wiz commands~
+Text
+Wiz commands have been switched around level wise. OLC commands are no
+longer usable by mortals. Slist is now immortal only.
+ 
+Note time to live lengths expanded to 1000 days.
+ 
+Wind is now a part of the game, and changes with every weather_update.
+ 
+Fixed a bug in movement which was not properly taking movement away
+from a character based on the sector they were in.
+~
+
+Sender  Upro~
+Date    Sat Mar 20 13:58:53 2010~
+Stamp   1269107985
+Expire  1355507943
+To      all~
+Subject blood loss, buying stuff~
+Text
+blood loss causing death for NPCs should no longer crash us.
+ 
+typing buy without an argument outside of a store will no
+longer say 'Buy what?', instead it will say 'You can't do that here.'
+~
+
+Sender  Upro~
+Date    Sat Mar 20 14:14:15 2010~
+Stamp   1269108867
+Expire  1355508860
+To      all~
+Subject scan~
+Text
+You can no longer scan through doors ;)
+~
+
+Sender  Upro~
+Date    Sat Mar 20 20:42:09 2010~
+Stamp   1269132198
+Expire  1355532137
+To      all~
+Subject new item_types~
+Text
+Anvil and Loom. These should never be able to be picked up.
+They are the things players will need to craft items.
+~
+
+Sender  Upro~
+Date    Sun Mar 21 13:11:53 2010~
+Stamp   1269191562
+Expire  1355591518
+To      all~
+Subject bug fix~
+Text
+Fixed every bug involving the auto-mob-wear-all stuff
+I put in for random eq. Now you can buy stuff properly again.
+You can also wear all again properly.
+~
+
+Sender  Upro~
+Date    Sun Mar 21 17:40:47 2010~
+Stamp   1269207745
+Expire  1355607656
+To      all~
+Subject some fixes~
+Text
+couple of fixes for granks in.
+ 
+fixed ooc, can hear it when asleep now.
+ 
+added stunfist for monks.
+~
+
+Sender  Upro~
+Date    Sun Mar 21 18:09:59 2010~
+Stamp   1269209439
+Expire  1355609404
+To      all~
+Subject addapply~
+Text
+addapply command added for immortals. use it to add stats to eq.
+don't cheat! it's logged.
+~
+
+Sender  Upro~
+Date    Sun Mar 21 19:18:40 2010~
+Stamp   1269213565
+Expire  1355613527
+To      all~
+Subject group command~
+Text
+it's been changed up quite a bit. now will show multiclassing
+correctly, also will show hp/mana/move in red if you are low.
+also formatted better, enjoy!
+~
+
+Sender  Upro~
+Date    Mon Mar 22 13:37:41 2010~
+Stamp   1269279477
+Expire  1355679466
+To      all~
+Subject quests~
+Text
+You can no longer repeat a quest unless it's repeatable.
+~
+
+Sender  Upro~
+Date    Mon Mar 22 14:20:07 2010~
+Stamp   1269282072
+Expire  1355682015
+To      all~
+Subject quests (cont.)~
+Text
+Added quest type MAT_RETRIEVE, which basically is just a type
+of quest in which you turn in a certain amount of materials.
+ 
+Correspondingly, I added a new quest, which is repeatable,
+called Iron for Gold.
+~
+
+Sender  Upro~
+Date    Mon Mar 22 14:40:42 2010~
+Stamp   1269283272
+Expire  1355683250
+To      all~
+Subject eating/thirst~
+Text
+You should be hungry/thirsty 90% of the time now. Basically
+it just takes longer to get hungry/thirsty now.
+~
+
+Sender  Upro~
+Date    Mon Mar 22 14:55:11 2010~
+Stamp   1269284152
+Expire  1355684117
+To      all~
+Subject tracks~
+Text
+immortals no longer leave tracks.
+ 
+helpfile in for prospecting.
+ 
+if the front man in your group dies, the game will randomly
+set someone else to the front to avoid aggro-waltzing.
+~
+
+Sender  Upro~
+Date    Mon Mar 22 23:55:29 2010~
+Stamp   1269316555
+Expire  1355716536
+To      all~
+Subject group tells~
+Text
+Fixed it so you can see your gtells when asleep now,
+same bug as was with OOC.
+~
+
+Sender  Silence~
+Date    Tue Mar 23 18:46:22 2010~
+Stamp   1269384431
+Expire  1355784388
+To      all~
+Subject Repair~
+Text
+It'd be nice if we saw how much the John was charing
+to repair our equipment. I shouldn't of assumed, but
+because I saw no message, I was under the assumption
+that he was doing it for free...
+--Silence Tyire
+@
+~
+

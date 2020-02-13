@@ -1,0 +1,1010 @@
+#PLAYER
+Name Haathee~
+Id   1580563586
+LogO 1581311693
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race loxodon~
+Clan loner~
+Clan_Rank 0
+Clan_Points 0
+Sex  2
+Cla  5
+God	8
+Favored 18
+GuildRnk  2
+GuildPts  1267
+mClass 1
+Class2 1
+Level2 15
+Exp2   1886692
+Levl 25
+Sec  0
+Plyd 84783
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 1145
+HMV  470 395 521 521 510 510
+Bleed 0
+Talent 0
+PP 0 0
+Gold 977
+Silv 18996
+BAcct 1
+Bank 500
+Exp  6979791
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 465
+Eyes 1
+Haircut 1
+Age 62
+Account Roguegrl~
+Recall 1010
+Act  CDEFGHJKQRTb
+Comm NOP
+Pos  8
+Prac 159
+Trai 13
+Save  -11
+Alig  1000
+Hit   5
+Dam   -8
+ACs -27 -30 -40 -1
+Wimp  75
+Attr 20 16 19 17 23 12
+AMod -4 5 2 0 -2 6
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 2
+LLev 20
+HMVP 387 497 426
+Cnd  0 0 126 0 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 914
+36 -1626996735
+501 6
+35 1059521280
+43 16776254
+38 -1
+92 25165814
+65 -1048575
+127 268435454
+126 -1
+125 -1
+124 1
+129 2147483647
+77 4094
+76 -1025
+75 2147483647
+21 2
+19 -537198594
+20 -534904807
+18 -1090519039
+71 -268173824
+73 134217726
+74 16777213
+42 -1
+72 537001033
+32 436207230
+31 -16841984
+62 458752
+63 -206013409
+64 16354
+815 -1048575
+817 -16908426
+33 32892
+816 -1
+818 12
+128 -31
+34 503738496
+68 -16777215
+69 -1
+90 -1074790399
+91 -268435585
+70 67108862
+41 -268502015
+37 -65521
+39 -1
+40 15710
+66 -1
+287 65536
+79 1572864
+67 126
+499 1
+500 -1
+-1 -1
+Alias tr train~
+Alias 1 c 'faerie fire'~
+Alias 2 gore~
+Alias 3 c 'cure light'~
+Alias 4 c 'cure serious'~
+Alias 5 c 'cure poison'~
+Alias 6 c demonfire~
+Alias 0 c 'dispel evil'~
+Alias 9 c 'cause critical'~
+Alias 8 c 'summon earth'~
+Boards       7 General 1579918964 Changes 1581029501 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 24 'bless'
+Sk 53 'cause critical'
+Sk 21 'create food'
+Sk 21 'create spring'
+Sk 74 'cure light'
+Sk 21 'cure poison'
+Sk 36 'cure serious'
+Sk 21 'demonfire'
+Sk 1 'detect poison'
+Sk 42 'dispel evil'
+Sk 40 'faerie fire'
+Sk 21 'gate'
+Sk 21 'lightning bolt'
+Sk 21 'refresh'
+Sk 31 'summon'
+Sk 21 'word of recall'
+Sk 31 'paralyzation'
+Sk 1 'summon water'
+Sk 31 'summon earth'
+Sk 1 'raise dead'
+Sk 93 'axe'
+Sk 17 'dagger'
+Sk 16 'mace'
+Sk 17 'spear'
+Sk 74 'short sword'
+Sk 100 'long sword'
+Sk 17 'bow'
+Sk 37 'disarm'
+Sk 100 'enhanced damage'
+Sk 57 'forage'
+Sk 1 'herbalism'
+Sk 75 'first aid'
+Sk 72 'lore'
+Sk 85 'meditation'
+Sk 19 'pick lock'
+Sk 37 'scrolls'
+Sk 19 'wands'
+Sk 20 'recall'
+Sk 17 'tracking'
+Sk 31 'gore'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'ranger basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 628
+Nest 0
+Wear -1
+Cost 65
+Val  10 0 10 0 0
+End
+
+#O
+Vnum 615
+Nest 0
+Wear 18
+Cost 1140
+End
+
+#O
+Vnum 2320
+Nest 0
+Cond 99
+Wear 3
+Cost 25
+End
+
+#O
+Vnum 18
+Nest 0
+Name the lavender slippers of remarkable exactitude~
+ShD  the lavender slippers of remarkable exactitude~
+Desc the lavender slippers of remarkable exactitude~
+ExtF 64
+WeaF 65
+Ityp 9
+Wt   6
+Material cotton~
+Wear 8
+Lev  8
+Cost 2840
+Val  6 6 6 6 0
+Affc 'reserved'   0   0  -1   1  28          0
+Affc 'reserved'   0   0  -1   1  18          0
+End
+
+#O
+Vnum 197
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2330
+Nest 1
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 35
+Nest 1
+Name a floating sphere of water breathing~
+ShD  a floating sphere of water breathing~
+Desc a floating sphere of water breathing~
+ExtF 1073741888
+Extra2Flags 131072
+WeaF 65537
+Wear -1
+Lev  4
+Cost 1000
+Val  5 10 8 138 0
+Spell 3 'water breathing'
+End
+
+#O
+Vnum 2416
+Nest 1
+ShD  a curious {Cgl{Yow{Cin{Yg{x{w crystal~
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 28
+Nest 1
+Name a ribboned, viscous potion of change sex~
+ShD  a ribboned, viscous potion of change sex~
+Desc a ribboned, viscous potion of change sex~
+ExtF 64
+Extra2Flags 131072
+Wear -1
+Lev  4
+Cost 749
+Val  5 13 0 0 0
+Spell 1 'change sex'
+End
+
+#O
+Vnum 2202
+Nest 1
+Wear -1
+Cost 20
+Spell 1 'cure light'
+Spell 2 'cure poison'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 1027
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1027
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1027
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1027
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1027
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1027
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1027
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1027
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1027
+Nest 1
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 2202
+Nest 1
+Wear -1
+Cost 20
+Spell 1 'cure light'
+Spell 2 'cure poison'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 2202
+Nest 1
+Wear -1
+Cost 20
+Spell 1 'cure light'
+Spell 2 'cure poison'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 2420
+Nest 1
+Wear -1
+Cost 100
+Val  10 5 2 66 0
+Spell 3 'magic missile'
+End
+
+#O
+Vnum 19
+Nest 1
+Name catnip herb~
+ShD  a bit of catnip~
+Wear -1
+Lev  8
+Cost 1599
+End
+
+#O
+Vnum 19
+Nest 1
+Name basil herb~
+ShD  a bit of basil~
+Wear -1
+Lev  8
+Cost 1600
+End
+
+#O
+Vnum 19
+Nest 1
+Name laurel herb~
+ShD  a bit of laurel~
+Wear -1
+Lev  8
+Cost 1601
+End
+
+#O
+Vnum 28
+Nest 1
+Name a luminous, cloudy potion of mass invis~
+ShD  a luminous, cloudy potion of mass invis~
+Desc a luminous, cloudy potion of mass invis~
+ExtF 64
+Wear -1
+Lev  6
+Cost 900
+Val  5 68 0 0 0
+Spell 1 'mass invis'
+End
+
+#O
+Vnum 35
+Nest 1
+Name a necklace of enchant weapon~
+ShD  a necklace of enchant weapon~
+Desc a necklace of enchant weapon~
+ExtF 65
+WeaF 5
+Wear -1
+Lev  7
+Cost 1749
+Val  8 19 12 42 0
+Spell 3 'enchant weapon'
+End
+
+#O
+Vnum 2202
+Nest 1
+Wear -1
+Cost 20
+Spell 1 'cure light'
+Spell 2 'cure poison'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a luminous, cloudy potion of detect good~
+ShD  a luminous, cloudy potion of detect good~
+Desc a luminous, cloudy potion of detect good~
+ExtF 66
+Wear -1
+Lev  18
+Cost 2700
+Val  19 32 0 0 0
+Spell 1 'detect good'
+End
+
+#O
+Vnum 2420
+Nest 1
+Wear -1
+Cost 100
+Spell 3 'magic missile'
+End
+
+#O
+Vnum 19
+Nest 1
+Name fennel herb~
+ShD  a bit of fennel~
+Wear -1
+Lev  8
+Cost 1600
+End
+
+#O
+Vnum 19
+Nest 1
+Name figwort herb~
+ShD  a bit of figwort~
+Wear -1
+Lev  8
+Cost 1601
+End
+
+#O
+Vnum 2120
+Nest 1
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 19
+Nest 1
+Name milkweed herb~
+ShD  a bit of milkweed~
+Wear -1
+Lev  15
+Cost 3001
+End
+
+#O
+Vnum 19
+Nest 1
+Name milkweed herb~
+ShD  a bit of milkweed~
+Wear -1
+Lev  15
+Cost 3000
+End
+
+#O
+Vnum 19
+Nest 1
+Name milkweed herb~
+ShD  a bit of milkweed~
+Wear -1
+Lev  15
+Cost 3001
+End
+
+#O
+Vnum 19
+Nest 1
+Name figwort herb~
+ShD  a bit of figwort~
+Wear -1
+Lev  15
+Cost 2999
+End
+
+#O
+Vnum 19
+Nest 1
+Name stickwort herb~
+ShD  a bit of stickwort~
+Wear -1
+Lev  15
+Cost 3000
+End
+
+#O
+Vnum 19
+Nest 1
+Name stickwort herb~
+ShD  a bit of stickwort~
+Wear -1
+Lev  15
+Cost 3000
+End
+
+#O
+Vnum 19
+Nest 1
+Name goldenrod herb~
+ShD  a bit of goldenrod~
+Wear -1
+Lev  15
+Cost 3000
+End
+
+#O
+Vnum 18
+Nest 1
+Name a lordly flail of amazing longwalking~
+ShD  a lordly flail of amazing longwalking~
+Desc a lordly flail of amazing longwalking~
+ExtF 64
+Extra2Flags 4
+WeaF 8193
+Ityp 5
+Wt   9
+Cond 93
+Material silver~
+Wear -1
+Lev  29
+Cost 32460
+Val  6 3 8 1 0
+Affc 'reserved'   0   0  -1  -2  17          0
+Affc 'reserved'   0   0  -1  19  14          0
+Affc 'reserved'   0   0  -1   4   1          0
+End
+
+#O
+Vnum 18
+Nest 1
+Name an exceptional voulge of voyaging~
+ShD  an exceptional voulge of voyaging~
+Desc an exceptional voulge of voyaging~
+ExtF 64
+Extra2Flags 8
+WeaF 8193
+Ityp 5
+Wt   13
+Cond 91
+Material iron~
+Wear -1
+Lev  36
+Cost 40880
+Val  8 3 7 2 0
+Affc 'reserved'   0   0  -1  -3  24          0
+Affc 'reserved'   0   0  -1  23  14          0
+Affc 'reserved'   0   0  -1   3  26          0
+Affc 'reserved'   0   0  -1   3   3          0
+Affc 'reserved'   0   0  -1   4   1          0
+End
+
+#O
+Vnum 1130
+Nest 1
+Wear -1
+Cost 500
+Spell 1 'refresh'
+Spell 2 'refresh'
+Spell 3 'cure light'
+End
+
+#O
+Vnum 19
+Nest 1
+Name elderberry herb~
+ShD  a bit of elderberry~
+Wear -1
+Lev  8
+Cost 1599
+End
+
+#O
+Vnum 2202
+Nest 1
+Wear -1
+Cost 20
+Spell 1 'cure light'
+Spell 2 'cure poison'
+Spell 3 'refresh'
+End
+
+#O
+Vnum 35
+Nest 1
+Name bracer of cure serious~
+ShD  bracer of cure serious~
+Desc bracer of cure serious~
+ExtF 64
+Extra2Flags 131072
+WeaF 4097
+Wear -1
+Lev  12
+Cost 2751
+Val  11 18 15 28 0
+Spell 3 'cure serious'
+End
+
+#O
+Vnum 35
+Nest 1
+Name a necklace of chill touch~
+ShD  a necklace of chill touch~
+Desc a necklace of chill touch~
+ExtF 64
+WeaF 5
+Wear -1
+Lev  34
+Cost 8499
+Val  34 15 11 15 0
+Spell 3 'chill touch'
+End
+
+#O
+Vnum 4000
+Nest 1
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 18
+Nest 1
+Name a saber of damage~
+ShD  a saber of damage~
+Desc a saber of damage~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   10
+Cond 93
+Material gold~
+Wear -1
+Lev  13
+Cost 1860
+Val  12 3 11 3 0
+Affc 'reserved'   0   0  -1   1  30          0
+End
+
+#O
+Vnum 35
+Nest 1
+Name the gloves of stone skin~
+ShD  the gloves of stone skin~
+Desc the gloves of stone skin~
+ExtF 65
+Extra2Flags 131072
+WeaF 129
+Wear -1
+Lev  12
+Cost 2999
+Val  12 19 6 85 0
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 18
+Nest 0
+Name the fingerless gloves of resistance~
+ShD  the fingerless gloves of resistance~
+Desc the fingerless gloves of resistance~
+ExtF 64
+WeaF 129
+Ityp 9
+Wt   6
+Material silk~
+Wear 9
+Lev  15
+Cost 7140
+Val  7 9 9 7 0
+Affc 'reserved'   0   0  -1  -2  17          0
+Affc 'reserved'   0   0  -1   2  18          0
+Affc 'reserved'   0   0  -1  -3  24          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a kimono of health~
+ShD  a kimono of health~
+Desc a kimono of health~
+ExtF 64
+WeaF 9
+Ityp 9
+Wt   4
+Material silk~
+Wear 5
+Lev  13
+Cost 6120
+Val  13 14 14 11 0
+Affc 'reserved'   0   0  -1  13  14          0
+Affc 'reserved'   0   0  -1  13  13          0
+Affc 'reserved'   0   0  -1   3  26          0
+End
+
+#O
+Vnum 2902
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 2115
+Nest 0
+Wear 7
+Cost 200
+End
+
+#O
+Vnum 2101
+Nest 0
+Wear 12
+Cost 70
+End
+
+#O
+Vnum 2121
+Nest 0
+Cond 88
+Wear 15
+Cost 89990
+End
+
+#O
+Vnum 18
+Nest 0
+Name a splendid lilac cowl of wandering~
+ShD  a splendid lilac cowl of wandering~
+Desc a splendid lilac cowl of wandering~
+ExtF 64
+WeaF 17
+Ityp 9
+Wt   6
+Material denim~
+Wear 6
+Lev  28
+Cost 28970
+Val  14 14 14 8 0
+Affc 'reserved'   0   0  -1   3  26          0
+Affc 'reserved'   0   0  -1   7  12          0
+Affc 'reserved'   0   0  -1  17  13          0
+Affc 'reserved'   0   0  -1  30  14          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the enchanted arm guards of voyaging~
+ShD  the enchanted arm guards of voyaging~
+Desc the enchanted arm guards of voyaging~
+ExtF 64
+Extra2Flags 4
+WeaF 257
+Ityp 9
+Wt   7
+Material silk~
+Wear 10
+Lev  28
+Cost 33330
+Val  13 14 12 8 0
+Affc 'reserved'   0   0  -1  14  12          0
+Affc 'reserved'   0   0  -1  33  14          0
+Affc 'reserved'   0   0  -1  -5  17          0
+Affc 'reserved'   0   0  -1  -4  24          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a bangle of knowledge~
+ShD  a bangle of knowledge~
+Desc a bangle of knowledge~
+ExtF 64
+WeaF 4097
+Ityp 9
+Wt   4
+Material silk~
+Wear 14
+Lev  30
+Cost 16440
+Val  13 11 15 10 0
+Affc 'reserved'   0   0  -1   2   3          0
+End
+
+#O
+Vnum 38
+Nest 0
+Name a light green cotton wrist pouch~
+ShD  a light green cotton wrist pouch~
+Desc a light green cotton wrist pouch~
+ExtF 64
+WeaF 4097
+Wt   2
+Material cotton~
+Wear 13
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1  12  29          0
+Affc 'reserved'   0   0  -1  -3  24          0
+Affc 'reserved'   0   0  -1   2  18          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a lamp of wandering~
+ShD  a lamp of wandering~
+Desc a lamp of wandering~
+ExtF 64
+WeaF 16385
+Ityp 1
+Material ruby~
+Wear 0
+Lev  23
+Cost 5170
+Val  0 1 743 0 0
+Affc 'reserved'   0   0  -1   8  14          0
+Affc 'reserved'   0   0  -1   3  30          0
+End
+
+#O
+Vnum 35
+Nest 0
+Name a ring of antimagic shell~
+ShD  a ring of antimagic shell~
+Desc a ring of antimagic shell~
+ExtF 16777281
+WeaF 3
+Wear 1
+Lev  33
+Cost 8000
+Val  33 7 4 193 0
+Spell 3 'antimagic shell'
+End
+
+#O
+Vnum 1136
+Nest 0
+Wear 11
+Cost 300
+End
+
+#O
+Vnum 18
+Nest 0
+Name a sprite of toughness~
+ShD  a sprite of toughness~
+Desc a sprite of toughness~
+ExtF 64
+WeaF 65537
+Ityp 9
+Wt   4
+Material diamond~
+Wear 19
+Lev  5
+Cost 2160
+Val  6 6 6 6 0
+Affc 'reserved'   0   0  -1   5  13          0
+Affc 'reserved'   0   0  -1  -1  24          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a surujin of astonishing nimbleness~
+ShD  a surujin of astonishing nimbleness~
+Desc a surujin of astonishing nimbleness~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   4
+Cond 79
+Material bronze~
+Wear -1
+Lev  9
+Cost 4180
+Val  7 1 5 3 0
+Affc 'reserved'   0   0  -1   2   2          0
+Affc 'reserved'   0   0  -1  -2  17          0
+End
+
+#O
+Vnum 35
+Nest 0
+Name a floating sphere of changestaff~
+ShD  a floating sphere of changestaff~
+Desc a floating sphere of changestaff~
+ExtF 65
+WeaF 65537
+Wear -1
+Lev  3
+Cost 751
+Val  3 16 14 137 0
+Spell 3 'changestaff'
+End
+
+#END

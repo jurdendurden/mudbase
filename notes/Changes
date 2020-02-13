@@ -1,0 +1,493 @@
+Sender  Upro~
+Date    Mon Jan 20 22:16:38 2020~
+Stamp   1579576661
+Expire  1752376605
+To      all~
+Subject changes~
+Text
+1/20/2020
+ 
+* skills no longer show as improved everytime you log in.
+* halved the chance for weapons to get damage during combat.
+* scrolls would only improve if you failed, this is fixed.
+* fixed a bug where slipping in the rain would cancel the rest of your attacks for the round.
+* completely redid attacks per round. monks now get severe penalties for wielding anything but a staff. 
+* redid kick skill/command, it was just always working, would never fail.
+* fixed a potentially game crashing bug in the engage command.
+* fixed a potentially game crashing bug in the gouge command.
+* you could palmstrike with weapons/shields in your hands, you can't now.
+* anyone could use stun fist before, without having the skill. fixed.
+* fixed bug in new who command that did not terminate colors at the end of a title.
+* clan vaults are in, enjoy!
+~
+
+Sender  Upro~
+Date    Tue Jan 21 12:11:55 2020~
+Stamp   1579626741
+Expire  1752426724
+To      all~
+Subject bug~
+Text
+* clan channel colors work appropriately now.
+* memory command now shows linked areas.
+* container capacities now reflect pounds (along with everything else in game) rather than kilograms.
+* dual wielding wasn't improving, and was also doign incorrect damage type, fixed.
+* counter wasn't firing off, should be now... test soon.
+* sizes simply ran off your stock size, never taking into account spells/etc. fixed.
+* you had to stand up to scribe, now you can be resting.
+~
+
+Sender  Upro~
+Date    Tue Jan 21 15:13:02 2020~
+Stamp   1579637596
+Expire  1752437587
+To      all~
+Subject more~
+Text
+* fixed a bug in bounties that would take money from your bank not your person.
+ 
+* cleaned up all warnings when compiling our code. i estimate this will make us about 10-15% more stable.
+* factions were saving in pfiles incorrectly, fixed.
+* plants can no longer populate in wasteland/lava/void/desert sectors.
+* you couldn't zap with staves before, now you can.
+* power grip would never improve, it does now.
+* power grip gets a bonus from high strength.
+* disarm would never improve, it does now.
+* disarm gets a bonus from high dexterity.
+~
+
+Sender  Upro~
+Date    Tue Jan 21 17:00:38 2020~
+Stamp   1579644065
+Expire  1752444044
+To      all~
+Subject more~
+Text
+* fixed bug in elemental protection, dimensional anchor, confusion, battlecry, paralyzation, web, shocking web, and 
+  deafness that would cause you to have random effects (blindness, detect good, etc.)
+* retribution was doing damage based on your secondary weapon, fixed.
+* parrying never damaged your weapon before, now it does.
+* fixed counter for good.
+* changed dual wield around... instead of just one extra attack, you now split your attacks between main/secondary weapons.
+  (it still gives you the extra attack).
+  
+* fixed a bug that created (null) pouches.
+* only pouches and belt pouches will now load wearable on the waist.
+~
+
+Sender  Upro~
+Date    Tue Jan 21 17:32:27 2020~
+Stamp   1579645961
+Expire  1752445952
+To      all~
+Subject stuff~
+Text
+* scroll length set to 100 by default.
+ 
+* fixed a bug where NPCs could riposte/counter
+* alist now show which areas are linked.
+~
+
+Sender  Upro~
+Date    Tue Jan 21 23:21:30 2020~
+Stamp   1579666903
+Expire  1752466898
+To      all~
+Subject random~
+Text
+* bags can load with up to 4 gems in them now.
+ 
+* bags can now load with up to 2 scrolls in them now.
+* the random object code is much more robust overall. more descriptive words, etc.
+~
+
+Sender  Upro~
+Date    Wed Jan 22 13:12:11 2020~
+Stamp   1579716741
+Expire  1752516734
+To      all~
+Subject mostly~
+Text
+* scribe would not put keywords on the scrolls you make, now it does.
+* scribe would work 100% of the time without fail, now it checks against the spell you are scribing and your scribe skill.
+* scribe would improve almost every time you used it, reduced to match other skills in game.
+* lowered guild rank level point requirements
+* introducing.... wrist containers!
+* random containers now load as follows: wrist pouch = wrist, backpack/pack/satchel = about, pouch/belt pouch = waist, everything else held
+* random containers now show the material they are in the description.
+* recite had 2 fail checks, removed one. 
+* recite would never go up from a fail, it does now.
+* random scrolls have an adjective now, and a 50% chance to have a smell to them.
+~
+
+Sender  Upro~
+Date    Wed Jan 22 14:44:38 2020~
+Stamp   1579722301
+Expire  1752522281
+To      all~
+Subject changes~
+Text
+* you couldn't envenom SHARP or VORPAL weapons before, you can now.
+ 
+* poison did 0 to strength before, now it does a bit more.
+* birthdays / aging / age-death are in.
+* counter never went up on a fail, it does now.
+~
+
+Sender  Upro~
+Date    Wed Jan 22 16:13:11 2020~
+Stamp   1579727625
+Expire  1752527596
+To      all~
+Subject changes~
+Text
+* the brilliance boon wasn't adding mana every level, it is now (see me if you have it).
+* NON multiclassed fighters now get 1 extra HP per level. (come see me Zargo)
+* wizards now _on average_ get 1 more mana/level.
+* paladins now get 1-2 more hp/level.
+* chances to get more moves per level... (stat based)
+~
+
+Sender  Upro~
+Date    Thu Jan 23 01:31:22 2020~
+Stamp   1579761115
+Expire  1752561086
+To      all~
+Subject stuff~
+Text
+* some channels would skip two lines afterwords for recipients. fixed.
+ 
+* successfully learning a spell from a scroll would never improve scrolls. fixed.
+* failing to learn a spell has an increased chance of improving scrolls.
+* sneaking would never improve on a fail. fixed!
+* random lights will last a lil longer....
+~
+
+Sender  Upro~
+Date    Thu Jan 23 09:58:37 2020~
+Stamp   1579791534
+Expire  1752591525
+To      all~
+Subject changes~
+Text
+* cleaned up random object code a bit more, less clunky now.
+ 
+* bags don't sell for NEARLY as much now. people could get rich farming low level bags.
+* bags don't ALWAYS drop with money in them anymore.
+* everybody gets lore at level 5 now.
+~
+
+Sender  Upro~
+Date    Fri Jan 24 11:09:39 2020~
+Stamp   1579882194
+Expire  1752682184
+To      all~
+Subject changes~
+Text
+* accounts are now fully operational (more or less). this was mostly yesterday but i tweaked some this morning.
+  ultimately this fixes the biggest bug that you probably didn't know about. you could log in as anyone once in
+  your account, even if they were already online.
+* sockets command is fixed.
+* lore/identify should show wear slot now.
+~
+
+Sender  Upro~
+Date    Fri Jan 24 13:24:25 2020~
+Stamp   1579890291
+Expire  1752690277
+To      all~
+Subject quality~
+Text
+Eqcondition, autoscroll, and beeptells all in.
+~
+
+Sender  Upro~
+Date    Sat Jan 25 17:25:58 2020~
+Stamp   1579991183
+Expire  1752791177
+To      all~
+Subject new~
+Text
+* updated harpy mob in academy to not be a "unique" race.
+ 
+* added Bugbear, Aasimar, and Revenant playable races.
+~
+
+Sender  Upro~
+Date    Sun Jan 26 13:18:36 2020~
+Stamp   1580062726
+Expire  1752862721
+To      all~
+Subject changes~
+Text
+* started list of spells that will never randomly load on potions/figurines (overpowering throw / non-casting classes)
+ 
+* fixed a bug where going back and choosing a boon over and over would give you negative starting trains.
+* fixed a bug where neutral characters couldn't choose a god.
+* updated our MSSP game info.
+* added our game to https://grapevine.haus  I will add to mudconnect/topmudsites when we get a bit more stable.
+~
+
+Sender  Upro~
+Date    Sun Jan 26 23:26:34 2020~
+Stamp   1580099212
+Expire  1752899201
+To      all~
+Subject fixed~
+Text
+* fixed a bug in account creation that was crashing us.
+ 
+* made prying doors take movement to use.
+* changed a sign in the academy that incorrectly said you could train charisma.
+* you can now train your stats beyond level 15. not sure why I had that hard requirement to begin with.
+~
+
+Sender  Upro~
+Date    Mon Jan 27 10:31:11 2020~
+Stamp   1580139090
+Expire  1752939081
+To      all~
+Subject stuff~
+Text
+* balance would never improve, it can now.
+ 
+* balance was firing 100% of the time, fixed.
+* added helpfiles for: list, dig, kidney punch, revenant, bugbear, aasimar, mage, martial arts, stats, ambidexterity, attribute, beeptell
+  hapkido, zap, magic_missile, achievements, table, hitroll, pretitle, sex/gender
+~
+
+Sender  Upro~
+Date    Mon Jan 27 11:44:55 2020~
+Stamp   1580143510
+Expire  1752943505
+To      all~
+Subject account~
+Text
+* counter / riposte both changed to level 26 so that only non-multi class can get it.
+ 
+* fixed a bug that would overwrite the first char on your account when you make a new char.
+~
+
+Sender  Upro~
+Date    Mon Jan 27 13:31:17 2020~
+Stamp   1580149889
+Expire  1752949883
+To      all~
+Subject new~
+Text
+* you couldn't view your materials list while sleeping. you can now.
+ 
+* fixed a bug where you could see what languages anyone spoke, not just yourself.
+* a fail on mining would never check for improvement of the skill. it does now.
+* barkskin did not lower damage taken, it does now.
+* new helpfiles: detect_magic, identify, power_grip, shop, stone skin, barkskin
+~
+
+Sender  Upro~
+Date    Mon Jan 27 18:45:39 2020~
+Stamp   1580168751
+Expire  1752968742
+To      all~
+Subject some~
+Text
+* blacksmith hammers were only partially implemented, they are fully in now.
+* added a nocount flag for containers, this will make it possible for some containers to hold items, 
+  but not count them toward your total carry amount.
+* randomly generated armor weight values are now also dependant on bulk.
+~
+
+Sender  Upro~
+Date    Mon Jan 27 22:09:59 2020~
+Stamp   1580181012
+Expire  1752981004
+To      all~
+Subject updates~
+Text
+* new quality of life command: spellup
+ 
+* cooking didn't have a check to improve on failure, it does now.
+* fixed a bug where saying 'no' to a new char name would take you back into account creation.
+~
+
+Sender  Upro~
+Date    Mon Jan 27 22:27:55 2020~
+Stamp   1580182090
+Expire  1752982082
+To      all~
+Subject last~
+Text
+* you can no longer sell/sacrifice quest items.
+* titles can no longer bleed colors.
+* took out old password command since characters themselves no longer have passwords.
+~
+
+Sender  Upro~
+Date    Fri Jan 31 12:59:43 2020~
+Stamp   1580493592
+Expire  1753293586
+To      all~
+Subject new~
+Text
+* blacksmith hammers were loading improperly causing a report in the logs. fixed.
+* fixed a bug where using the "logout" command would try to force a player to stop following nobody, thus causing issues.
+* added tabaxi / lizardmen playable races.
+* gnomes get +1 mana per level now.
+* lizardmen get +1 hp per level.
+~
+
+Sender  Upro~
+Date    Fri Jan 31 15:47:26 2020~
+Stamp   1580503662
+Expire  1753303653
+To      all~
+Subject new~
+Text
+note edit* new hook in creation, allowing you to skip appearance customization of your character.
+* all accounts begin verified now, this was creating issues with testers.
+* added playable races loxodon and tiefling.
+~
+
+Sender  Upro~
+Date    Fri Jan 31 16:30:54 2020~
+Stamp   1580506284
+Expire  1753306260
+To      all~
+Subject more~
+Text
+* players now start with 12 practices instead of 6.
+* new characters now are set with Renfall as their hometown (for now, until the world expands).
+* score will no longer show (Null) as a hometown.
+* gameinfo now shows how many linked rooms/areas are in the game.
+~
+
+Sender  Upro~
+Date    Sat Feb  1 09:06:53 2020~
+Stamp   1580566039
+Expire  1753366021
+To      all~
+Subject new~
+Text
+* added gore skill.
+* minotaur, loxodon, and bugbears get the gore skill for free now.
+* fixed a bug where who would not show the last class, race, OR clan. fixed.
+* new players now start with AUTOSPLIT and AUTOSACRIFICE set.
+* new accounts show a new player flag for a little while now.
+* automap can now be turned off by typing map (automap still works).
+~
+
+Sender  Upro~
+Date    Sat Feb  1 18:18:21 2020~
+Stamp   1580599112
+Expire  1753399106
+To      all~
+Subject changes~
+Text
+* rangers start with autotrack enabled.
+* found an old area that was in one of our backups, added to the game world. (Urugka Swamp).
+* grat channel now actually says congratulate(s).
+* herbalism would never go up before, it does now.
+~
+
+Sender  Upro~
+Date    Thu Feb  6 13:50:05 2020~
+Stamp   1581015058
+Expire  1753815012
+To      all~
+Subject updates~
+Text
+s of enchant weapon/armor or any spell that adds a weapon flag.
+
+* thieves have the "hide" affect stripped when they are attacked/attack now.
+
+* weapon expertise was ignoring certain weapon types, fixed.
+
+* critical hits don't make you bleed _as bad_ anymore.
+
+* mobs could kill you twice, making two corpses, fixed!
+
+* group command now has a subtle way of showing if youre teammates are bleeding.
+* you can now see if someone is bleeding by looking at them.
+* typing aedit <#> automagically puts you into AEDIT for the number of area you input.
+* fleeing from combat as group leader will pass aggro to next person up now.
+* enlarge person was putting a weird affect on people. fixed.
+* found a bug where character walk descriptions were not getting freed upon logout/quit, 
+  causing a memory leak. fixed.
+* walk descriptions now won't say "from the above", or "from the below".
+* people can no longer logout and retain group.
+* fixed a bug that gave everyone an extra attack.
+* fixed dual wield (it was giving you exactly 2 attacks).
+* logging out will pass aggro to the next person up in the group now.
+* failing repair now has a chance to damage the item further.
+* failing repair now has a chance to improve the skill.
+* repair gives a message to the room on success/fail now.
+* no more scroll* group command now has a subtle way of showing if youre teammates are bleeding.@
+~
+
+Sender  Upro~
+Date    Thu Feb  6 17:51:23 2020~
+Stamp   1581029501
+Expire  1753829491
+To      all~
+Subject updates~
+Text
+ 
+* you can now bless/curse water and turn it into holy water/unholy water.
+* removed bless water spell as it is spurious now.
+* raise dead spell finished and in.
+* added info command (duplicate of help).
+* imbue skill is now implemented and working.
+* removed ADD_SPELL_EFFECT from code, this was something I wanted to do back in the day,
+  but wasn't prepared for the complications it added, will perhaps implement in another
+  manner another time.
+* added cow/bison npc races.
+* hide skill now affected by time of day and what size you are.
+* fixed a bug where recall could still "improve" even though it's technically not a "skill" anymore.
+* you now lose more experience when you recall from combat.
+* foraging will no longer improve when there is no herb in the room to forage.
+* having a higher skill with your weapon will now help you parry.
+* added reduce person spell. 
+* enlarge person/reduce person cancel each other out now.
+~
+
+Sender  Upro~
+Date    Thu Feb  6 22:19:57 2020~
+Stamp   1581045612
+Expire  1753845607
+To      all~
+Subject sorry!~
+Text
+* unarmed lizardmen and aarakocra do slash damage now.
+* there are now variant damage messages for all damage types, not just for monks, enjoy!
+* new chars start with 5 each of the healing potions and bandages instead of 3.
+* the alist command for immortals got a HUGE facelift. I'm welcome ;)
+~
+
+Sender  Upro~
+Date    Mon Feb 10 21:48:42 2020~
+Stamp   1581389339
+Expire  1754189326
+To      all~
+Subject new~
+Text
+* fixed a bug where new chars would not save to your account sometimes.
+* fixed a bug where aggro mobs only checked primary level (rather than total levels).
+* added double gold and double skill (to compliment double xp).
+* timestamps for OOC/tells channels now.
+* spec_cast_psion is in, get ready for psionic mobs.
+~
+
+Sender  Upro~
+Date    Tue Feb 11 12:15:15 2020~
+Stamp   1581441330
+Expire  1754241319
+To      all~
+Subject changes~
+Text
+* new race, centaur.
+* new earring slot
+* earring and sheath item types added, just need to make some in game now.
+* added clanhall flag for areas, this will come in handy later.
+* found another bug that was still allowing mobs to kill you twice, fixed.
+* created an issue with slots when i added 2ndary legs for centaurs, should be fixed.
+~
+

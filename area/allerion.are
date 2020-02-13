@@ -1,0 +1,1946 @@
+#AREADATA
+Deprecated 0
+Name Allerion~
+Builders Weiland~
+VNUMs 2100 2199
+Levels 20 30
+Credits Weiland~
+Climate 4
+Plane 0
+PrimaryResource gold~
+Security 9
+Flags 34
+Faction (null)~
+History Allerion is an rather new dwarven settlement housed underneath the mountain
+range of this continent. It is rich in supply of mithril, which is the prime
+reason they resettled here a couple centuries ago. A primitive form of plumbing
+has been built into their cavern complex, again showcasing advanced dwarven
+architectural design. 
+~
+End
+
+
+
+#MOBILES
+#2100
+dwarven sullen worker~
+a sullen dwarven worker~
+A sullen soggy dwarven worker works apon the catwalk.
+~
+A dirty scowling dwarven worker~
+A dirty dwarven fellow scowls sullenly as he works to repair the leaky
+pipings above the catwalk. Clad in filthy cotton overalls, he constantly
+moves about the catwalk attempting to repair the innumerable leaky fittings
+above the catwalk. He mutters a steady stream of choice epithets as he raps
+on the pipings attempting to adjust the ancient plumbing. His attempts create
+an irritating echo throughout the catwalk amplified by the efforts of his
+co-workers attempting the same thing at the same time.
+~
+dwarf~
+AGH 0 JZd 400 0
+21 13 2d70+420 10d5+186 10d1+10 pound
+-6 -6 -6 -4
+CEFKN BLMNPQ a 0
+stand stand male 95
+AHMV ABCDEFGHIJK small
+ unknown
+F res Q
+F vul R
+#2101
+rat long-tailed furry rodent~
+a long tailed furry rat~
+A long tailed furry rat scurries underfoot.
+~
+A plump long-tailed furry rodent~
+A long tailed furry rat scurries underfoot mindless of the foot traffic
+around it. A comon denzien of the  lands, the long tailed rat is a relatively
+harmless nuisance. Wherever there is food to be found the rat can be found.
+This particular one is quite large, a long hairless tail trails behind his
+plump furry body. Long delicate whiskers protrude from his snout framing jagged
+{ydirty{x teeth.
+~
+rat~
+AG 0 PV 200 0
+20 15 20d4+264 16d5+264 9d1+23 frbite
+-7 -7 -7 -5
+FHMN A 0 0
+stand stand male 0
+AGV ACDEFHJK medium
+ unknown
+#2102
+giant overseer~
+a giant overseer~
+A short tempered giant overseer bellows at the workers.
+~
+A foul tempered mountain giant overseer~
+A foul tempered giant overseer fumes here, his face flushed a beet {rred{x
+hue. Veins pop in his unshaven face as he bellows at his smaller workers.
+Impatient at the lack of progress by his underlings, he has grown hoarse from
+yelling constantly. A steady stream of choice epithets flow from his mouth much
+like the incessant leaks he has been tasked to fix. like the incessant leaks he
+has been tasked to fix. 
+~
+mountain giant~
+AFG C JZ -500 0
+23 15 4d35+700 19d4+273 9d1+23 slap
+-10 -10 -10 -8
+CEFIV AB JR P
+stand stand none 88
+AHMV ABCDEFGHIJKY medium
+ unknown
+F vul B
+#2103
+miner dirty~
+a dirty miner~
+A dirty miner slogs through the mine.
+~
+A down trodden dirty miner~
+A dirty miner works the shafts of the mine, his dirt covered faced streaked
+with sweat and dust. Calloused hands grip his pickaxe tightly as he goes
+about his daily routine. Constantly berated by his overseers, his eyes are
+glazed over from the monotonous daily work schedule. Despite the decent pay
+he longs for the days when he can leave the drudgery of the mines facings his
+ample backside.
+~
+dwarf~
+AGH 0 JZd 400 0
+22 9 20d7+420 15d4+229 5d2+10 punch
+-6 -6 -6 -5
+CEFKN BLMNPQ a 0
+stand stand male 46
+AHMV ABCDEFGHIJK small
+ unknown
+F res Q
+F vul R
+M DEATH 2100 15~
+#2104
+supervisor shaft~
+a giant shaft supervisor~
+A bellowing giant shift supervisor strides about.
+~
+A bellowing flush-faced giant supervisor~
+Clad in a sweaty leather harness, the shaft supervisor doesn't look overly
+impressed by the efforts of his miners. Looming tall over his smaller workers,
+he carries a wickedly barbed leather whip to persuade those who don't move with
+a purpose about him. His round bald head is streaked with dirt and grime from
+the mining shaft. He drums his fingers impatiently on his hip keeping a wary
+eye about him for anyone foolish enough to fool around on his shift. 
+~
+mountain giant~
+AFGT CD JZ -500 0
+23 15 4d35+700 19d4+273 9d1+23 slap
+-10 -10 -10 -8
+CEFIV AB R P
+stand stand male 88
+AHMV ABCDEFGHIJKY medium
+ unknown
+F res J
+F vul B
+#2105
+basilisk stone~
+a {ys{Dt{yo{Dn{ye{D b{ya{Ds{yi{Dl{yi{Ds{yk{x~
+A stone grey basilisk lurks amidst the shadows.
+~
+A coldly calculating {ys{Dt{yo{Dn{ye{D b{ya{Ds{yi{Dl{yi{Ds{yk{x~
+Disturbed by the mining efforts of the workers, a stone grey basilisk
+has been unleashed from its subterranean habitat. A long forked tongue
+protrudes from a gaping jaw of jagged teeth. Roughly the size of a grown
+dog, the basilisk is cold and calculating as it surveys its potential prey.
+Uncaring in demeanour, the basilisk is not adverse to attacking anything it
+views as a threat to its well-being.
+~
+basilisk~
+AFG CD Jc -500 0
+28 15 1d166+2500 19d4+245 3d5+17 crush
+-13 -13 -13 -10
+FMW AB H F
+stand stand none 200
+AHMV ABCDEFGHIJKY medium
+ unknown
+#2106
+specialist gnome~
+a quarry specialist~
+A gnome specialist wanders the quarry floor.
+~
+A diminutive goggle-wearing gnome~
+A diminutive gnome walks the quarry floor from forge to forge overseeing
+the daily operations. His main job is to process the raw materials brought
+to him by the miners. A trained professional, he spends many hours refining
+and extracting valuable ores and precious gems from the raw ore. The finished
+product is then shipped out to the neighboring cities for use in producing
+jewelery and other expensive products for the public to enjoy.
+~
+gnome~
+AG 0 0 300 0
+20 12 12d8+320 19d3+171 7d1+17 punch
+-5 -5 -5 -4
+HKV A a 0
+stand stand none 90
+AHMV ABCDEFGHIJK medium
+ unknown
+F res P
+F vul R
+#2110
+giant frazzled Marcus~
+Marcus, the senior overseer~
+A frazzled mountain giant paces about here.
+~
+~
+A grey haired mountain giant stands here, large ham sized fists balled at
+his wide hips. His rough features are craggy with numerous scars earned from
+years of hard livin. Grey eyes are deep with a wealth of knowledge accumulated
+from a life time of adventuring and exploring the lands. Known as Marcus, he
+has assumed the head overseer of the mines position recently. His primary
+function is to keep the mine running smoothly and to quell any problems that
+arise here. 
+~
+mountain giant~
+ABGT CD DFJ -100 0
+30 18 9d29+795 5d22+346 5d4+24 crush
+-16 -16 -16 -12
+0 ABP JR P
+stand stand male 3000
+AHMV ABCDEFGHIJKY medium
+ unknown
+F vul B
+M SPEECH 2104 retrieve the stolen gems~
+M GREET 2101 75~
+M ACT 2102 greet~
+#2111
+excavator expert~
+an expert excavator~
+An expert excavator wanders the quarry.
+~
+An expert excavator~
+An expert excavator wanders the quarry floor studying the walls for
+imperfections. His primary job is to inspect the numerous shorings holding
+the mine together for breaks and imperfections. Many in the mines grumble
+that they don't do any 'real work' as related to the labor of actual mining.
+Still their job is quite critical considering the tons of rock that hover
+over the heads of the workers everyday. A cave-in would be catastrophic and
+quite deadly to all involved working in the mines.
+~
+mountain giant~
+AG 0 J 300 0
+24 14 4d43+528 22d5+330 5d3+21 smash
+-10 -10 -10 -8
+CEI A JR P
+stand stand male 73
+AHMV ABCDEFGHIJKY medium
+ unknown
+F vul B
+#2112
+miner conniving clean thief~
+a conniving miner~
+A conniving miner conspires to duck out on his work.
+~
+An oddly clean miner~
+A conniving dwarf sneaks about the quarry ducking his work. Suspiciously
+clean, the clever fellow has managed to elude the dirty business of
+mining for quite awhile now. His tell-tale cleanliness compared to his
+grubby co-workers is a dead giveaway to his layabout status. Luckily
+his youthful upbringing as a thief has come in handy. Quickly bored
+of the onerous life of a miner, he has regressed to his youthful
+habits of picking pockets and outright theft.
+~
+dwarf~
+AFG CD BJP -300 0
+25 16 11d22+730 12d6+242 9d2+22 pound
+-12 -12 -12 -9
+BHKV A LQa R
+stand stand male 83
+AHMV ABCDEFGHIJK medium
+ unknown
+M DEATH 2103 100~
+#2198
+bountyhunter~
+A bountyhunter mob~
+A bountyhunter mob hides here.
+~
+~
+~
+human~
+ABG GH DFJ 0 0
+50 0 50d8+100 50d8+100 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 2199 100~
+#2199
+rat long-tailed furry rodent~
+a long tailed furry rat~
+{R<BOUNTY>{x A long tailed furry rat scurries about.
+~
+~
+A long tailed furry rat scurries underfoot mindless of the foot traffic
+around it. A comon denzien of the  lands, the long tailed rat is a relatively
+harmless nuisance. Wherever there is food to be found the rat can be found.
+This particular one is quite large, a long hairless tail trails behind his
+plump furry body. Long delicate whiskers protrude from his snout framing jagged
+{ydirty{x teeth.
+~
+rat~
+AG 0 PV 200 0
+20 15 20d4+900 16d5+264 9d1+23 frbite
+-7 -7 -7 -5
+FHMN A 0 0
+stand stand male 0
+AGV ACDEFHJK medium
+ unknown
+#0
+
+
+
+#OBJECTS
+#2100
+overalls dirty~
+dirty cotton overalls~
+A pair of dirty cotton overalls lie here.~
+cotton~
+0
+armor 0 0 AD
+AB B AB B 1
+20 4 40 A
+#2101
+tool belt bulky~
+a bulky tool-belt~
+A bulky leather tool-belt was dropped here.~
+leather~
+0
+armor 0 0 AL
+B A AB B 2
+20 8 70 G
+#2102
+tool rusted iron~
+a crescent shaped rusting iron tool~
+A rusting iron tool lies here.~
+iron~
+0
+weapon 0 0 NO
+exotic 3 6 crush 0
+20 8 40 A
+#2103
+pickaxe iron~
+a worn iron pickaxe~
+A wooden handled iron pickaxe lies here.~
+iron~
+0
+mining_tool 0 0 O
+CE 0 0 0 0
+20 10 50 A
+#2104
+helmet mining~
+a cumbersome mining helmet~
+A slightly dented mining helmet glows softly here.~
+copper~
+0
+armor A 0 AE
+C AB B A 3
+20 4 80 G
+#2105
+main gauche copper~
+a copper main-gauche~
+A plain copper main-gauche waits to be used.~
+copper~
+0
+weapon 0 0 AN
+dagger 2 7 pierce 0
+21 2 70 G
+A
+2 2
+A
+19 4
+A
+29 10
+#2106
+harness sweaty~
+a sweaty leather harness~
+A pile of foul smelling leathers lie here.~
+leather~
+0
+armor 0 0 AD
+AB AB C A 1
+22 5 80 G
+#2107
+whip barbed~
+a wickedly barbed leather whip~
+A cruel barbed leather whip lies here.~
+leather~
+0
+weapon 0 0 NO
+whip 3 7 slash 0
+22 3 100 G
+A
+19 6
+A
+12 10
+A
+28 8
+#2108
+topaz flawed~
+a raw flawed topaz~
+A tiny flawed topaz lies here.~
+topaz~
+0
+gem 0 0 AO
+0 0 0 0 0
+20 1 25 G
+#2109
+plate spiked bronze~
+spiked {yb{Dr{yo{Dn{yz{De{x plate~
+A set of spiked bronze plate lies here.~
+bronze~
+0
+armor 0 L AD
+AC C BC A 3
+28 12 400 G
+A
+1 2
+A
+5 2
+A
+13 25
+#2110
+anvil decrepit~
+a decrepit well-used anvil~
+A decrepit well-used anvil awaits here.~
+iron~
+0
+anvil 0 0 0
+CE 0 0 0 0
+20 0 0 W
+#2111
+legplates bronze~
+spiked {yb{Dr{yo{Dn{yz{De{x legplates~
+Spiked bronze legplates were dropped here.~
+bronze~
+0
+armor 0 L AF
+AC ABC AC B 3
+28 8 400 G
+#2112
+gauntlets heat resistant~
+{Rheat{x {Dresistant{x leather gauntlets~
+A pair of heavy leather gauntlets lie here.~
+leather~
+0
+armor Y 0 AH
+B C B A 1
+20 4 200 G
+A
+13 10
+A
+5 1
+#2113
+apron heat treated~
+a heat treated leather apron~
+A soot covered leather apron lies here.~
+leather~
+0
+armor 0 0 AK
+C C AB B 1
+20 4 100 A
+#2114
+chain tunic~
+a woven chain tunic~
+A chain tunic lies on the ground here.~
+bronze~
+0
+armor 0 0 AD
+AB C AB A 3
+20 5 200 G
+A
+1 1
+#2115
+greaves mesh~
+interwoven mesh greaves~
+A pair of mesh greaves gathers dust here.~
+bronze~
+0
+armor 0 0 AF
+B B C B 3
+20 4 200 P
+#2116
+hammer mithril~
+a mithril hammer~
+A short handled hammer was dropped here.~
+mithril~
+0
+weapon 0 0 AN
+mace 3 8 thwack O
+19 5 3100 G
+#2117
+dirk jagged mithril~
+a jagged mithril dirk~
+A slender, jagged dirk gleams keenly.~
+mithril~
+0
+weapon 0 0 AO
+dagger 2 5 pierce 0
+20 2 100 G
+A
+13 15
+A
+19 2
+#2118
+wristlet stealth~
+minor wristlet of {gs{Dt{ge{Da{gl{Dt{gh{x~
+A slender leather wristlet lies here.~
+leather~
+0
+armor F 0 AM
+AC AB AC A 1
+22 2 500 G
+A
+29 3
+A
+2 1
+#2119
+leathers lesser shadows~
+{Sl{me{Ss{ms{Se{mr {Sl{me{Sa{mt{Sh{me{Sr{ms {So{mf {Ss{mh{Sa{md{So{mw{Ss{x~
+(no description)~
+leather~
+0
+armor F 0 AD
+AB AC AB B 1
+22 4 400 G
+#2120
+goggles~
+a pair of battered safety goggles~
+A pair of battered safety goggles lie here.~
+glass~
+0
+armor Y 0 AE
+B B AB A 1
+20 2 90 A
+#2121
+axe crescent~
+a crescent shaped axe~
+A long handled crescent shaped axe lies here.~
+mithril~
+0
+weapon 0 0 AN
+axe 3 7 slash D
+26 8 89990 G
+A
+5 2
+A
+1 2
+A
+9 20
+A
+29 25
+A
+13 25
+A
+19 4
+#2122
+gems stolen~
+a small pile of stolen gems~
+A small pile of uncut gems lie here.~
+unknown~
+0
+treasure 0 F A
+0 0 0 0 0
+20 3 200 P
+#2124
+workorder~
+{CWork Order #2100{x~
+A tattered piece of paper lies here.~
+paper~
+0
+parchment 0 F A
+0 0 0 0 0
+20 1 0 G
+E
+order~
+Written on a grubby piece of paper in messy writing:
+By order of Marcus, chief overseer of the mines, this workorder
+is provided to the bearer to find and punish the thief who has
+been pilfering mine property.
+~
+#2125
+scale basilisk~
+{Dscale of the basilisk{x~
+An odd stone scale glows here with an eerie light.~
+stone~
+0
+armor A 0 AK
+B AB AB B 2
+20 5 100 G
+A
+13 15
+#2126
+workorder #2101~
+{CWork Order #2101{x~
+A crumpled piece of paper lies here.~
+paper~
+0
+parchment 0 F A
+0 0 0 0 0
+21 1 0 G
+E
+order~
+The grubby piece of paper has some messy writing on it:
+This entitles the bearer to investigate the problem existing in
+Shaft D. Per order of Marcus, head overseer of the Allerion Mine.
+~
+#2199
+poster rat~
+{RBounty Poster: Long-Tailed Furry Rat{x~
+A rolled up bounty poster lies here.~
+paper~
+0
+parchment 0 0 A
+0 0 0 0 0
+0 1 100 P
+#0
+
+
+
+#ROOMS
+#2100
+The Mountain's Edge~
+From here the mountain path dwindles away, as few trouble to come this
+far towards the edge. The mossy coverings of the ground give way to barren
+crags, as life is stripped from the rocky edge by the elements. The force of
+the wind picks up as one ascends farther towards the cliff face, blowing
+across small streams winding their way slowly downwards. 
+~
+0 0 5
+0
+1
+2
+D0
+~
+~
+0 0 2101
+D2
+~
+~
+0 0 4091
+M 25 H 25
+S
+#2101
+The Cliff Face~
+The very edge of the cliff looks out onto the expanse of a valley far
+below. The sheer face drops suddenly towards the valley below, making
+further progress impossible. Oddly enough, part of the ground seems smoother
+than its surroundings, with a dull glint that is not in keeping with the
+surroundings. There appears to be something..written..on a small plaque
+here. 
+~
+0 4 5
+0
+1
+2
+E
+plaque~
+The plaque is worn with age and is rusting away slowly, but the following
+can be read. --WARNING !  NLY AUTHO IZED MAINTEN NCE PERSON EL LEVEL 7 CLEA
+ENCE REQUIRED - OPEN HATCH BY TURNING CLOCKWISE 
+~
+D2
+~
+~
+0 0 2100
+D5
+~
+hatch~
+9 0 2102
+M 25 H 25
+S
+#2102
+The Chasm Entrance~
+The entrance is barely lit by the light the outside provides, showing a
+rounded hole with highly smoothed stone. A small ladder is set on the
+opposite side of the entrance leading down into the depths, where a faint
+light shines weakly. How deep the tunnel goes is uncertain, and the rust on
+the ladder and light cobwebs on the underside of the cover attests to its
+apparent disuse. It is obvious that nothing has disturbed this place in a
+long time. 
+~
+0 5 0
+0
+1
+2
+E
+ladder~
+How deep the tunnel goes is uncertain, and the rust on the ladder and
+light cobwebs on the underside of the cover attests to its apparent disuse.
+It is obvious that nothing has disturbed this place in a long time. 
+~
+D4
+~
+~
+9 0 2101
+D5
+~
+~
+0 0 2103
+M 25 H 25
+S
+#2103
+Further Down the Depths~
+The temperature drops slightly as the light begins to fade from above,
+denying this place of its warmth and brightness. Although below, which one
+would think should be getting darker, is in fact brightening slightly. There
+is a throbbing hum from sources unseen and the sounds of moving water mingle
+with the smell of dankness that begins to permeate the air. 
+~
+0 5 0
+0
+1
+2
+D4
+~
+~
+0 0 2102
+D5
+~
+~
+0 0 2104
+M 25 H 25
+S
+#2104
+The Long Drop~
+The ladder ends quite abruptly here, and by the jagged edges glinting
+dully in the half-light, it appears that it was meant to continue on but
+doesn't. The light is brighter but the distance to the ground, wherever it
+is, is not exactly certain. The sounds of water and thrumming are growing
+louder and the light is brighter than above. The choice is to abandon the
+journey here or to venture into the unknown. 
+~
+0 5 0
+0
+1
+2
+D4
+~
+~
+0 0 2103
+D5
+~
+~
+0 0 2105
+M 25 H 25
+S
+#2105
+Maintenance Tunnel Overlook~
+The catwalk sprawls above the lower level twenty feet below from which some
+of the rushing sounds emanate. Running water from a source unseen cascades like
+a waterfall into enormous containers sprawled below. The containers are dimly
+lit and have a dull yellow-green glow. Various pipings run to and fro like a
+maze showing signs of wear as well as the occasional drip of water,
+indadvertently showing their purpose. 
+~
+0 12 0
+0
+1
+2
+D3
+~
+~
+0 0 2106
+M 30 H 30
+S
+#2106
+Maintenance Tunnel Overlook~
+This catwalk sprawls above the lower level located twenty feet below from
+which some of the rushing sounds emanate. Running water from a source unseen
+cascades like a waterfall into enormous containers sprawled below. The
+containers are dimly lit and have a dull yellow-green glow. Various pipings
+run to and fro like a maze showing signs of wear as well as the occasional
+drip of water, inadvertently showing their purpose. 
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2105
+D3
+~
+~
+0 0 2107
+M 30 H 30
+S
+#2107
+Maintenance Tunnel Overlook~
+This catwalk sprawls above the lower level located twenty feet below from
+which some of the rushing sounds emanate. Running water from a source unseen
+cascades like a waterfall into enormous containers sprawled below. The
+containers are dimly lit and have a dull yellow-green glow. Various pipings
+run to and fro like a maze showing signs of wear as well as the occasional
+drip of water, inadvertently showing their purpose. 
+~
+0 12 0
+0
+1
+2
+D1
+~
+~
+0 0 2106
+D3
+~
+~
+0 0 2108
+M 30 H 30
+S
+#2108
+Maintenance Tunnel Overlook~
+This catwalk sprawls above the lower level located twenty feet below from
+which some of the rushing sounds emanate. Running water from a source unseen
+cascades like a waterfall into enormous containers sprawled below. The
+containers are dimly lit and have a dull yellow-green glow. Various pipings
+run to and fro like a maze showing signs of wear as well as the occasional
+drip of water, inadvertently showing their purpose. 
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2107
+D3
+~
+~
+0 0 2109
+M 30 H 30
+S
+#2109
+Maintenance Tunnel Overlook~
+A dull metallic clanking echoes down the catwalk as if something heavy is
+being dragged about. The steady drip from the pipings above mixes with the
+echoes creating an unsettling effect on ones nerves. Little pools of water
+have begun to congeal underfoot fed by the persistent leaky pipings from
+above.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2108
+D3
+~
+~
+0 0 2110
+M 25 H 25
+S
+#2110
+Maintenance Tunnel Overlook~
+A dull metallic clanking echoes down the catwalk as if something heavy is
+being dragged about. The steady drip from the pipings above mixes with the
+echoes creating an unsettling effect on ones nerves. Little pools of water
+have begun to congeal underfoot fed by the persistent leaky pipings from
+above.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2111
+D1
+~
+~
+0 0 2109
+M 30 H 30
+S
+#2111
+Maintenance Tunnel Overlook~
+A dull metallic clanking echoes down the catwalk as if something heavy is
+being dragged about. The steady drip from the pipings above mixes with the
+echoes creating an unsettling effect on ones nerves. Little pools of water
+have begun to congeal underfoot fed by the persistent leaky pipings from
+above.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2112
+D2
+~
+~
+0 0 2110
+M 30 H 30
+S
+#2112
+Maintenance Tunnel Overlook~
+A dull metallic clanking echoes down the catwalk as if something heavy is
+being dragged about. The steady drip from the pipings above mixes with the
+echoes creating an unsettling effect on ones nerves. Little pools of water
+have begun to congeal underfoot fed by the persistent leaky pipings from
+above.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2113
+D2
+~
+~
+0 0 2111
+M 30 H 30
+S
+#2113
+Maintenance Tunnel Overlook~
+Dirty pools of water collect underneath ancient copper pipings above
+the catwalk. Dwarven workers mill about the catwalk rapping apon the pipings
+sullenly attempting to correct the countless leaky fittings. Large long tailed
+rats scurry about scavenging for whatever they can find. The annoying rapping
+of metal on metal is quite annoying fostering a headache inducing atmosphere.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2114
+D3
+~
+~
+0 0 2112
+M 30 H 30
+S
+#2114
+Maintenance Tunnel Overlook~
+Dirty pools of water collect underneath ancient copper pipings above
+the catwalk. Dwarven workers mill about the catwalk rapping apon the pipings
+sullenly attempting to correct the countless leaky fittings. Large long tailed
+rats scurry about scavenging for whatever they can find. The annoying rapping
+of metal on metal is quite annoying fostering a headache inducing atmosphere.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2115
+D2
+~
+~
+0 0 2113
+M 30 H 30
+S
+#2115
+Maintenance Tunnel Overlook~
+Dirty pools of water collect underneath ancient copper pipings above
+the catwalk. Dwarven workers mill about the catwalk rapping apon the pipings
+sullenly attempting to correct the countless leaky fittings. Large long tailed
+rats scurry about scavenging for whatever they can find. The annoying rapping
+of metal on metal is quite annoying fostering a headache inducing atmosphere.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 2114
+D3
+~
+~
+0 0 2116
+M 30 H 30
+S
+#2116
+Maintenance Tunnel Overlook~
+Dirty pools of water collect underneath ancient copper pipings above
+the catwalk. Dwarven workers mill about the catwalk rapping apon the pipings
+sullenly attempting to correct the countless leaky fittings. Large long tailed
+rats scurry about scavenging for whatever they can find. The annoying rapping
+of metal on metal is quite annoying fostering a headache inducing atmosphere.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2117
+D1
+~
+~
+0 0 2115
+M 30 H 30
+S
+#2117
+Maintenance Tunnel Overlook~
+Dirty pools of water collect underneath ancient copper pipings above
+the catwalk. Dwarven workers mill about the catwalk rapping apon the pipings
+sullenly attempting to correct the countless leaky fittings. Large long tailed
+rats scurry about scavenging for whatever they can find. The annoying rapping
+of metal on metal is quite annoying fostering a headache inducing atmosphere.
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2118
+D2
+~
+~
+0 0 2116
+M 30 H 30
+S
+#2118
+A wide ramp leading downwards~
+A wide ramp leads downwards into the depths of the mountain here. Diffused
+lighting streams upward from the lamp accompanied by large streams of steam.
+The din of loud conversations and cursing floats upward from the ramp. Large
+groups of workers appear to be busily working on a series of strange
+contraptions scattered beneath the catwalk. 
+~
+0 8 0
+0
+1
+2
+D3
+~
+~
+0 0 2117
+D5
+~
+~
+0 0 2119
+M 30 H 30
+S
+#2119
+A wide ramp leading downwards~
+A wide ramp leads downwards into the depths of the mountain here. Diffused
+lighting streams upward from the lamp accompanied by large streams of steam.
+The din of loud conversations and cursing floats upward from the ramp. Large
+groups of workers appear to be busily working on a series of strange
+contraptions scattered beneath the catwalk. 
+~
+0 8 0
+0
+1
+2
+D4
+~
+~
+0 0 2118
+D5
+~
+~
+0 0 2120
+M 30 H 30
+S
+#2120
+A wide ramp leading downwards~
+A wide ramp leads downwards into the depths of the mountain here. Diffused
+lighting streams upward from the lamp accompanied by large streams of steam.
+The din of loud conversations and cursing floats upward from the ramp. Large
+groups of workers appear to be busily working on a series of strange
+contraptions scattered beneath the catwalk. 
+~
+0 8 0
+0
+1
+2
+D4
+~
+~
+0 0 2119
+D5
+~
+~
+0 0 2121
+M 30 H 30
+S
+#2121
+A wide ramp leading downwards~
+A wide ramp leads downwards into the depths of the mountain here. Diffused
+lighting streams upward from the lamp accompanied by large streams of steam.
+The din of loud conversations and cursing floats upward from the ramp. Large
+groups of workers appear to be busily working on a series of strange
+contraptions scattered beneath the catwalk. 
+~
+0 8 0
+0
+1
+2
+D4
+~
+~
+0 0 2120
+D5
+~
+~
+0 0 2122
+M 30 H 30
+S
+#2122
+Mining Quarry Level One~
+Workers mill about various mining contraptions pushing heavy wooden ore
+carts loaded with precious metals. The mines of Allerion are a busy workplace,
+smelting forges are scattered about the top floor of the mine strategically
+placed near down ramps to the mining shafts. Towering giant overseers keep a
+watchful eye over the smaller workforce primarily comprised of the dwarven
+race. A wide ramp ascends out of the quarry here to the surface above.
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2123
+D4
+~
+~
+0 0 2121
+M 30 H 30
+S
+#2123
+Mining Quarry Level One~
+Workers mill about various mining contraptions pushing heavy wooden ore
+carts loaded with precious metals. The mines of Allerion are a busy workplace,
+smelting forges are scattered about the top floor of the mine strategically
+placed near down ramps to the mining shafts. Towering giant overseers keep a
+watchful eye over the smaller workforce primarily comprised of the dwarven
+race. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2124
+D2
+~
+~
+0 0 2122
+M 30 H 30
+S
+#2124
+Mining Quarry Level One~
+Workers mill about various mining contraptions pushing heavy wooden ore
+carts loaded with precious metals. The mines of Allerion are a busy workplace,
+smelting forges are scattered about the top floor of the mine strategically
+placed near down ramps to the mining shafts. Towering giant overseers keep a
+watchful eye over the smaller workforce primarily comprised of the dwarven
+race. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2125
+D2
+~
+~
+0 0 2123
+M 30 H 30
+S
+#2125
+Mining Quarry Level One~
+Workers mill about various mining contraptions pushing heavy wooden ore
+carts loaded with precious metals. The mines of Allerion are a busy workplace,
+smelting forges are scattered about the top floor of the mine strategically
+placed near down ramps to the mining shafts. Towering giant overseers keep a
+watchful eye over the smaller workforce primarily comprised of the dwarven
+race. 
+~
+0 8 0
+0
+1
+2
+D0
+~
+~
+0 0 2126
+D1
+~
+~
+0 0 2141
+D2
+~
+~
+0 0 2124
+M 30 H 30
+S
+#2126
+Mining Quarry Level One~
+Wooden beams shore up the cold stone walls of the quarry framed around a
+downward sloping ramp leading into a deep shaft driven through solid stone.
+Miners push heavy ore carts laden with precious metals to smelting forges
+scattered about the main floor of the quarry. Giant foul-mouthed overseers
+curse at the workers keeping a watchful eye out for thieves and layabouts. 
+~
+0 12 0
+0
+1
+2
+D1
+~
+~
+0 0 2136
+D2
+~
+~
+0 0 2125
+D5
+~
+~
+0 0 2127
+M 30 H 30
+S
+#2127
+Shaft A~
+Precious metals gleam faintly in the light of the mining shaft. Dirty
+miners busily go about their business extracting the metals careful not to
+disturb the structural integrity of the mining shaft. This particular shaft has
+yielded primarily copper with some luckier strikes further towards the bottom
+of the shaft. Plump rats scurry about underfoot scavenging for anything they
+can find to survive off of. 
+~
+0 8 5
+0
+1
+2
+D4
+~
+~
+0 0 2126
+D5
+~
+~
+0 0 2128
+M 30 H 30
+S
+#2128
+Shaft A~
+Precious metals gleam faintly in the light of the mining shaft. Dirty miners
+busily go about their business extracting the metals careful not to damage the
+structural integrity of the mining shaft. This particular shaft has yielded
+primarily copper with a few luckier strikes further down towards the bottom of
+the shaft. 
+~
+0 8 5
+0
+1
+2
+D4
+~
+~
+0 0 2127
+D5
+~
+~
+0 0 2129
+M 30 H 30
+S
+#2129
+Shaft A~
+Precious metals gleam faintly in the light of the mining shaft. Dirty miners
+busily go about their business extracting the metals careful not to damage the
+structural integrity of the mining shaft. This particular shaft has yielded
+primarily copper with a few luckier strikes further down towards the bottom of
+the shaft. 
+~
+0 8 5
+0
+1
+2
+D4
+~
+~
+0 0 2128
+D5
+~
+~
+0 0 2130
+M 30 H 30
+S
+#2130
+Shaft A~
+Precious metals gleam faintly in the light of the mining shaft. Dirty miners
+busily go about their business extracting the metals careful not to damage the
+structural integrity of the mining shaft. This particular shaft has yielded
+primarily copper with a few luckier strikes further down towards the bottom of
+the shaft. 
+~
+0 8 5
+0
+1
+2
+D4
+~
+~
+0 0 2129
+D5
+~
+~
+0 0 2131
+M 30 H 30
+S
+#2131
+Approaching the bottom~
+The air in the tunnel is quite dusty, disturbed by the effors of the
+miners. Heavy ore carts trundle up the shaft laden with precious metals.
+Overzealous overseers bellow incessantly at the workers goading them ever
+onward in their labors. Large rats scurry by underfoot peaking interest in
+what exactly the large mammals are feeding off of. 
+~
+0 8 5
+0
+1
+2
+D4
+~
+~
+0 0 2130
+D5
+~
+~
+0 0 2132
+M 30 H 30
+S
+#2132
+Approaching the bottom~
+The air in the tunnel is quite dusty, disturbed by the effors of the
+miners. Heavy ore carts trundle up the shaft laden with precious metals.
+Overzealous overseers bellow incessantly at the workers goading them ever
+onward in their labors. Large rats scurry by underfoot peaking interest in
+what exactly the large mammals are feeding off of. 
+~
+0 8 5
+0
+1
+2
+D4
+~
+~
+0 0 2131
+D5
+~
+~
+0 0 2133
+M 30 H 30
+S
+#2133
+Approaching the bottom~
+The air in the tunnel is quite dusty, disturbed by the effors of the
+miners. Heavy ore carts trundle up the shaft laden with precious metals.
+Overzealous overseers bellow incessantly at the workers goading them ever
+onward in their labors. Large rats scurry by underfoot peaking interest in
+what exactly the large mammals are feeding off of. 
+~
+0 8 5
+0
+1
+2
+D4
+~
+~
+0 0 2132
+D5
+~
+~
+0 0 2134
+M 30 H 30
+S
+#2134
+Approaching the bottom~
+The air in the tunnel is quite dusty, disturbed by the effors of the
+miners. Heavy ore carts trundle up the shaft laden with precious metals.
+Overzealous overseers bellow incessantly at the workers goading them ever
+onward in their labors. Large rats scurry by underfoot peaking interest in
+what exactly the large mammals are feeding off of. 
+~
+0 8 5
+0
+1
+2
+D4
+~
+~
+0 0 2133
+D5
+~
+~
+0 0 2135
+M 30 H 30
+S
+#2135
+The bottom of Shaft A~
+The shaft ends abrupty in a square half finished chamber. Dust hangs heavily
+in the air, the sides of the shaft are rough and unfinished. A pile of
+discarded tools are carelessly left on the ground by the miners. The mining
+shaft ascends upwards for quite a distance leading towards the main quarry
+floor of the mine. Metal laden veins peek out from the exposed stone awaiting
+extraction from the miners. 
+~
+0 8 5
+0
+1
+2
+D4
+~
+~
+0 0 2134
+M 30 H 30
+S
+#2136
+Mining Quarry Level One~
+Workers mill about various mining contraptions pushing heavy wooden ore
+carts loaded with precious metals. The mines of Allerion are a busy workplace,
+smelting forges are scattered about the top floor of the mine strategically
+placed near down ramps to the mining shafts. Towering giant overseers keep a
+watchful eye over the smaller workforce primarily comprised of the dwarven
+race. 
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2137
+D2
+~
+~
+0 0 2141
+D3
+~
+~
+0 0 2126
+M 30 H 30
+S
+#2137
+Mining Quarry Level One~
+Workers mill about various mining contraptions pushing heavy wooden ore
+carts loaded with precious metals. The mines of Allerion are a busy workplace,
+smelting forges are scattered about the top floor of the mine strategically
+placed near down ramps to the mining shafts. Towering giant overseers keep a
+watchful eye over the smaller workforce primarily comprised of the dwarven
+race. 
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2138
+D2
+~
+~
+0 0 2142
+D3
+~
+~
+0 0 2136
+M 30 H 30
+S
+#2138
+Mining Quarry Level One~
+Workers mill about various mining contraptions pushing heavy wooden ore
+carts loaded with precious metals. The mines of Allerion are a busy workplace,
+smelting forges are scattered about the top floor of the mine strategically
+placed near down ramps to the mining shafts. Towering giant overseers keep a
+watchful eye over the smaller workforce primarily comprised of the dwarven
+race. 
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2139
+D2
+~
+~
+0 0 2143
+D3
+~
+~
+0 0 2137
+M 30 H 30
+S
+#2139
+Mining Quarry Level One~
+Workers mill about various mining contraptions pushing heavy wooden ore
+carts loaded with precious metals. The mines of Allerion are a busy workplace,
+smelting forges are scattered about the top floor of the mine strategically
+placed near down ramps to the mining shafts. Towering giant overseers keep a
+watchful eye over the smaller workforce primarily comprised of the dwarven
+race. 
+~
+0 8 0
+0
+1
+2
+D1
+~
+~
+0 0 2140
+D2
+~
+~
+0 0 2144
+D3
+~
+~
+0 0 2138
+M 30 H 30
+S
+#2140
+Mining Quarry Level One~
+Wooden beams shore up the cold stone walls of the quarry framed around a
+downward sloping ramp leading into a deep shaft driven through solid stone.
+Miners push heavy ore carts laden with precious metals to smelting forges
+scattered about the main floor of the quarry. Giant foul-mouthed overseers
+curse at the workers keeping a watchful eye out for thieves and layabouts. 
+~
+0 12 0
+0
+1
+2
+D2
+~
+~
+0 0 2145
+D3
+~
+~
+0 0 2139
+D5
+~
+~
+0 0 2146
+M 30 H 30
+S
+#2141
+Mining Quarry Level One~
+An uneasy tension grips the quarry floor as the workers bring the valuable
+raw ores to the various forges. Surly overseers keep a watchful eye out for
+thieves and layabouts amidst the workers. Violence runs high in the mines as
+the working enviroment is not the most pleasant. Theft is not unheard of and
+swiftly punished when caught. 
+~
+0 8 5
+0
+1
+2
+D0
+~
+~
+0 0 2136
+D1
+~
+~
+0 0 2142
+D3
+~
+~
+0 0 2125
+M 30 H 30
+S
+#2142
+Mining Quarry Level One~
+An uneasy tension grips the quarry floor as the workers bring the valuable
+raw ores to the various forges. Surly overseers keep a watchful eye out for
+thieves and layabouts amidst the workers. Violence runs high in the mines as
+the working enviroment is not the most pleasant. Theft is not unheard of and
+swiftly punished when caught. 
+~
+0 8 5
+0
+1
+2
+D0
+~
+~
+0 0 2137
+D1
+~
+~
+0 0 2143
+D3
+~
+~
+0 0 2141
+M 30 H 30
+S
+#2143
+Mining Quarry Level One~
+An uneasy tension grips the quarry floor as the workers bring the valuable
+raw ores to the various forges. Surly overseers keep a watchful eye out for
+thieves and layabouts amidst the workers. Violence runs high in the mines as
+the working enviroment is not the most pleasant. Theft is not unheard of and
+swiftly punished when caught. 
+~
+0 8 5
+0
+1
+2
+D0
+~
+~
+0 0 2138
+D1
+~
+~
+0 0 2144
+D3
+~
+~
+0 0 2142
+M 30 H 30
+S
+#2144
+Mining Quarry Level One~
+An uneasy tension grips the quarry floor as the workers bring the valuable
+raw ores to the various forges. Surly overseers keep a watchful eye out for
+thieves and layabouts amidst the workers. Violence runs high in the mines as
+the working enviroment is not the most pleasant. Theft is not unheard of and
+swiftly punished when caught. 
+~
+0 8 5
+0
+1
+2
+D0
+~
+~
+0 0 2139
+D1
+~
+~
+0 0 2145
+D3
+~
+~
+0 0 2143
+M 30 H 30
+S
+#2145
+Mining Quarry Level One~
+An uneasy tension grips the quarry floor as the workers bring the valuable
+raw ores to the various forges. Surly overseers keep a watchful eye out for
+thieves and layabouts amidst the workers. Violence runs high in the mines as
+the working enviroment is not the most pleasant. Theft is not unheard of and
+swiftly punished when caught. 
+~
+0 8 5
+0
+1
+2
+D0
+~
+~
+0 0 2140
+D3
+~
+~
+0 0 2144
+M 30 H 30
+S
+#2146
+Shaft D~
+Precious metals glint faintly in the dim lighting provided by oil lamps
+along the mining shaft. Plump rats scurry by underfoot nipping at their feet
+scavenging for anything they can lay their paws on. An odd rumor circulates
+through the shaft of odd creatures lurking about late at night. The lure of
+potential wealth in the mines has proven too great however for the miners to
+pay any heed to the potential dangers lurking in the shadows. 
+~
+0 12 5
+0
+1
+2
+D4
+~
+~
+0 0 2140
+D5
+~
+~
+0 0 2147
+M 30 H 30
+S
+#2147
+Shaft D~
+Precious metals glint faintly in the dim lighting provided by oil lamps
+along the mining shaft. Plump rats scurry by underfoot nipping at their feet
+scavenging for anything they can lay their paws on. An odd rumor circulates
+through the shaft of odd creatures lurking about late at night. The lure of
+potential wealth in the mines has proven too great however for the miners to
+pay any heed to the potential dangers lurking in the shadows. 
+~
+0 12 5
+0
+1
+2
+D4
+~
+~
+0 0 2146
+D5
+~
+~
+0 0 2148
+M 30 H 30
+S
+#2148
+Shaft D~
+Precious metals glint faintly in the dim lighting provided by oil lamps
+along the mining shaft. Plump rats scurry by underfoot nipping at their feet
+scavenging for anything they can lay their paws on. An odd rumor circulates
+through the shaft of odd creatures lurking about late at night. The lure of
+potential wealth in the mines has proven too great however for the miners to
+pay any heed to the potential dangers lurking in the shadows. 
+~
+0 12 5
+0
+1
+2
+D4
+~
+~
+0 0 2147
+D5
+~
+~
+0 0 2149
+M 30 H 30
+S
+#2149
+Shaft D~
+Precious metals glint faintly in the dim lighting provided by oil lamps
+along the mining shaft. Plump rats scurry by underfoot nipping at their feet
+scavenging for anything they can lay their paws on. An odd rumor circulates
+through the shaft of odd creatures lurking about late at night. The lure of
+potential wealth in the mines has proven too great however for the miners to
+pay any heed to the potential dangers lurking in the shadows. 
+~
+0 12 5
+0
+1
+2
+D4
+~
+~
+0 0 2148
+D5
+~
+~
+0 0 2150
+M 30 H 30
+S
+#2150
+The bottom of Shaft D~
+The shaft ends abruptly in a circular half finished chamber. Dust hangs
+heavily in the air, the sides of the chamber are rough and unfinished. A pile
+of discarded tools are carelessly left on the ground by the miners. The mining
+shaft extends upwards for quite a distance towards the main quarry floor of the
+mine. Metal laden veins peek out from the exposed stone awaiting extraction
+from the miners. 
+~
+0 8 5
+0
+1
+2
+D4
+~
+~
+0 0 2149
+M 30 H 30
+S
+#0
+
+
+
+#SPECIALS
+M 2112 spec_thief
+S
+
+
+
+#RESETS
+D 0 2101 5 1
+D 0 2102 4 1
+M 0 2198 1 2105 1 Load A bountyhunter mob
+M 0 2100 15 2109 3 Load a sullen dwarven worker
+E 0 2100 0 5 Dirty cotton overalls is loaded on the body of a sullen dwarven worker
+E 0 2101 0 12 A bulky tool-belt is loaded around the waist of a sullen dwarven worker
+E 0 2102 0 15 A crescent shaped rusting iron tool is loaded wielded of a sullen dwarven worker
+M 0 2100 15 2110 3 Load a sullen dwarven worker
+E 0 2100 0 5 Dirty cotton overalls is loaded on the body of a sullen dwarven worker
+E 0 2101 0 12 A bulky tool-belt is loaded around the waist of a sullen dwarven worker
+E 0 2102 0 15 A crescent shaped rusting iron tool is loaded wielded of a sullen dwarven worker
+M 0 2102 15 2113 2 Load a giant overseer
+E 0 2101 0 12 A bulky tool-belt is loaded around the waist of a giant overseer
+E 0 2107 0 15 A wickedly barbed leather whip is loaded wielded of a giant overseer
+E 0 2106 0 5 A sweaty leather harness is loaded on the body of a giant overseer
+M 0 2101 15 2115 4 Load a long tailed furry rat
+M 0 2101 15 2116 3 Load a long tailed furry rat
+M 0 2101 15 2117 3 Load a long tailed furry rat
+M 0 2101 15 2119 3 Load a long tailed furry rat
+M 0 2102 15 2120 2 Load a giant overseer
+M 0 2110 1 2122 1 Load Marcus, the senior overseer
+E 0 2111 0 7 Spiked {yb{dr{yo{dn{yz{de{x legplates is loaded on the legs of Marcus, the senior overseer
+E 0 2121 0 15 A crescent shaped axe is loaded wielded of Marcus, the senior overseer
+E 0 2109 0 5 Spiked {yb{dr{yo{dn{yz{de{x plate is loaded on the body of Marcus, the senior overseer
+M 0 2100 15 2122 3 Load a sullen dwarven worker
+E 0 2100 0 5 Dirty cotton overalls is loaded on the body of a sullen dwarven worker
+E 0 2101 0 12 A bulky tool-belt is loaded around the waist of a sullen dwarven worker
+E 0 2102 0 15 A crescent shaped rusting iron tool is loaded wielded of a sullen dwarven worker
+M 0 2101 15 2122 3 Load a long tailed furry rat
+O 0 2110 0 2124 A decrepit well-used anvil loaded to Mining Quarry Level One
+M 0 2103 20 2130 3 Load a dirty miner
+E 0 2103 0 18 A worn iron pickaxe is loaded held in the hands of a dirty miner
+E 0 2104 0 6 A cumbersome mining helmet is loaded over the head of a dirty miner
+E 0 2105 0 15 A copper main-gauche is loaded wielded of a dirty miner
+M 0 2101 20 2131 3 Load a long tailed furry rat
+M 0 2104 15 2134 2 Load a giant shaft supervisor
+E 0 2106 0 5 A sweaty leather harness is loaded on the body of a giant shaft supervisor
+E 0 2107 0 15 A wickedly barbed leather whip is loaded wielded of a giant shaft supervisor
+M 0 2106 20 2136 3 Load a quarry specialist
+E 0 2112 0 9 {rheat{x {dresistant{x leather gauntlets is loaded on the hands of a quarry specialist
+E 0 2113 0 11 A heat treated leather apron is loaded about the shoulders of a quarry specialist
+E 0 2120 0 6 A pair of battered safety goggles is loaded over the head of a quarry specialist
+M 0 2101 15 2136 3 Load a long tailed furry rat
+M 0 2103 20 2137 3 Load a dirty miner
+E 0 2100 0 5 Dirty cotton overalls is loaded on the body of a dirty miner
+E 0 2103 0 18 A worn iron pickaxe is loaded held in the hands of a dirty miner
+M 0 2112 15 2138 1 Load a conniving miner
+E 0 2117 0 15 A jagged mithril dirk is loaded wielded of a conniving miner
+E 0 2118 0 13 Minor wristlet of {gs{dt{ge{da{gl{dt{gh{x is loaded on the left wrist of a conniving miner
+E 0 2119 0 5 {sl{me{ss{ms{se{mr {sl{me{sa{mt{sh{me{sr{ms {so{mf {ss{mh{sa{md{so{mw{ss{x is loaded on the body of a conniving miner
+M 0 2103 20 2140 3 Load a dirty miner
+E 0 2100 0 5 Dirty cotton overalls is loaded on the body of a dirty miner
+E 0 2103 0 18 A worn iron pickaxe is loaded held in the hands of a dirty miner
+O 0 2110 0 2141 A decrepit well-used anvil loaded to Mining Quarry Level One
+M 0 2111 15 2142 3 Load an expert excavator
+E 0 2115 0 5 Interwoven mesh greaves is loaded on the body of an expert excavator
+E 0 2114 0 7 A woven chain tunic is loaded on the legs of an expert excavator
+E 0 2116 0 15 A mithril hammer is loaded wielded of an expert excavator
+M 0 2111 15 2144 3 Load an expert excavator
+E 0 2115 0 7 Interwoven mesh greaves is loaded on the legs of an expert excavator
+E 0 2114 0 5 A woven chain tunic is loaded on the body of an expert excavator
+M 0 2103 15 2147 3 Load a dirty miner
+E 0 2103 0 18 A worn iron pickaxe is loaded held in the hands of a dirty miner
+E 0 2100 0 5 Dirty cotton overalls is loaded on the body of a dirty miner
+E 0 2104 0 6 A cumbersome mining helmet is loaded over the head of a dirty miner
+M 0 2105 10 2150 2 Load a {ys{Dt{yo{Dn{ye{D b{ya{Ds{yi{Dl{yi{Ds{yk{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#2100
+if ispc $n
+mob echoat $n A tiny gem glitters next to the corpse.
+mob oload 2108 1 Room
+endif
+~
+#2101
+if carries $n 2122
+smile $n
+mob echoat $n You explain to Marcus about the gems.
+mob remove $n 2122
+say Good work!
+mob echoat $n You have completed the Area Quest "Retrieve the Stolen Gems!"
+else
+if ispc $n
+mob echoat $n The frazzled mountain giant grunts at you in greeting.
+emote sighs heavily with much exaggerated anguish.
+endif
+~
+#2102
+if ispc $n
+emote runs a large stubby hand through his greying hair.
+say My bloody job is at risk here.
+mob echoat $n {YA{yv{Ya{yi{Yl{ya{Yb{yl{Ye {yA{Yr{ye{Ya {yQ{Yu{ye{Ys{yt{Ys{x
+mob echoat $n {G(1){x Retrieve the Stolen Gems.
+mob echoat $n {G(2){x Investigate the problem with Shaft D.
+endif
+~
+#2103
+if carries $n 2124
+mob echoat $n You discover a small pile of stolen gems on the corpse!
+mob oload 2122 1 Room
+mob force $n get gems
+else
+mob echoat $n The thief won't be picking any more pockets from now on.
+endif
+~
+#2104
+if level $n < 18
+say This place is a little too hazardous for someone like you.
+say Come see me when you have more experience under your belt.
+else
+say Here's the situation.
+mob echoat $n Marcus explains that gems are going missing at an alarming rate.
+mob echoat $n He pulls a grubby paper out of his pocket.
+mob oload 2124 1 Room
+get workorder
+give workorder $n
+endif
+~
+#2199
+if carries $n 2199
+mob echoat $n Your bountyhunter poster quivers slightly. Your prey is nearby!
+mob goto 2135
+mob mload 2199
+mob goto 2105
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

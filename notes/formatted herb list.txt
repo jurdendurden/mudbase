@@ -1,0 +1,57 @@
+		catnip          VERY_COMMON     GRASS		
+		dandelion       VERY_COMMON     GRASS	
+		basil           COMMON          GRASS	
+		daffodil        COMMON          GRASS		
+		marigold        COMMON          GRASS		
+		adderstongue    UNCOMMON        GRASS			
+		angelica        UNCOMMON        GRASS	
+		aster           UNCOMMON        GRASS		
+		saffron         UNCOMMON        GRASS	
+		sage            UNCOMMON        GRASS	
+		jasmine         UNCOMMON        GRASS			
+		henbane         RARE            GRASS	
+	
+	
+		comfrey         COMMON          WATER			
+		agrimony        UNCOMMON        WATER			
+		butterbur       UNCOMMON        WATER		
+		coltsfoot       UNCOMMON        WATER			
+	
+	
+		birch           COMMON          FOREST	
+		blackberry      COMMON          FOREST	
+		camomile        COMMON          FOREST			
+		campion         COMMON          FOREST	
+		cowslip         COMMON          FOREST			
+		fern            COMMON          FOREST	
+		amaranth        UNCOMMON        FOREST	
+		anemone         UNCOMMON        FOREST	
+		holly           UNCOMMON        FOREST		
+		laurel          UNCOMMON        FOREST			
+		marjoram        UNCOMMON        FOREST	
+		mistletoe       UNCOMMON        FOREST		
+		peachtree       UNCOMMON        FOREST			
+		euphorbia       RARE            FOREST		
+		hellebore       RARE            FOREST			
+		moonwort        RARE            FOREST		
+		mullein         RARE            FOREST	
+	
+	
+		chickweed       COMMON          SWAMP		
+		hoarhound       UNCOMMON        SWAMP	
+		hemlock         RARE            SWAMP			
+		quince          RARE            SWAMP	
+		belladonna      VERY_RARE       SWAMP			
+		stinking arrach VERY_RARE       SWAMP			
+	
+	
+		cactus          VERY_COMMON     DESERT			
+		sandalwood      RARE            DESERT			
+	
+	
+		calamint        COMMON          HILL			
+		fennel          COMMON          HILL			
+		goldenrod       COMMON          HILL		
+		stickwort       COMMON          HILL		
+		milkweed        COMMON          HILL			
+		figwort         UNCOMMON        HILL		

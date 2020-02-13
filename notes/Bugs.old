@@ -1,0 +1,143 @@
+Sender  Weiland~
+Date    Sat Jan 16 10:17:47 2010~
+Stamp   1263655203
+Expire  1268839079
+To      Upro~
+Subject Exits?~
+Text
+Hey man noticed this today.. loaded Bara up to test some progs
+he couldn't seem to see any exits? So deleted him and created
+another test char.. same problem? Im char's seem to be fine.. they
+see the exits with no problem. Its not a light factor either tested
+Bara with a light before deleting em. Kinda odd all of a sudden.
+Maybe something with new forage code? Thought you should know.
+~
+
+Sender  Weiland~
+Date    Fri Jan 22 20:27:49 2010~
+Stamp   1264210194
+Expire  1269394082
+To      Upro~
+Subject yo-yo server~
+Text
+Hey man noticed an odd 'kill' bug.. i thought it was a weapon
+I did up at first or a death prog i was testing. After switching
+weapons/mob targets a few times i realized.. kill target crashes
+the mud for some reason. ?? not sure why sorry bout the yo yo 
+server. Anyway thought you should know.
+@
+~
+
+Sender  Weiland~
+Date    Fri Jan 22 21:01:35 2010~
+Stamp   1264212179
+Expire  1269396108
+To      Upro~
+Subject yo-yo pt.2~
+Text
+K tested it with mort pc.. might just be a bug with im's trying
+to fight npcs. Didn't seem to bother anything with a mort vs npc
+going. Never noticed that before ? Anyway ill keep digging in and
+see what else is going on.
+~
+
+Sender  Weiland~
+Date    Sun Jan 31 18:19:42 2010~
+Stamp   1264980072
+Expire  1270163991
+To      upro~
+Subject Mprog bug~
+Text
+Hey man how goes the weekend. Anyway I think i mentioned
+this bug before. For some reason when you go to edit progs or
+add new progs to mobs.. they all stop working lol. Not sure
+what the deal is with that. . I could have sworn you caught/
+fixed that one while back. Anyhoo thought you should know.
+Peace
+W
+~
+
+Sender  Upro~
+Date    Mon Feb  1 11:11:56 2010~
+Stamp   1265040762
+Expire  1270224727
+To      imm~
+Subject mprogs~
+Text
+Trying to track this down but having issues and as such I will have to
+continue looking. It's a more obscure bug but I should be able to figure
+it out soon enough.
+~
+
+Sender  Silence~
+Date    Fri Mar 19 19:23:08 2010~
+Stamp   1269041073
+Expire  1355440991
+To      all~
+Subject Bleeding~
+Text
+The big creature dies from massive amounts of blood loss.
+The big creature is bleeding to death.
+The big creature's claw misses you. [0]
+The big creature is bleeding to death.
+Disconnected from server.
+ 
+ 
+I'm assuming since he "died" and is still fighting, it
+caused a crash.
+--Silence Tyire
+@
+p
+note
+note catchup
+~
+
+Sender  Silence~
+Date    Fri Mar 19 21:34:55 2010~
+Stamp   1269048934
+Expire  1355448900
+To      all~
+Subject Scan~
+Text
+31
+You can scan through a closed door.
+... I've got X-Ray vision...
+--Silence Tyire
+@
+p
+...*MUTTER*...
+~
+
+Sender  Silence~
+Date    Sun Mar 21 11:58:08 2010~
+Stamp   1269187233
+Expire  1355587101
+To      upro all~
+Subject Newbie Store~
+Text
+Weiland and myself believe we have solved the problem
+with the store in the newbie arena.
+1)  He is holding the honeybun that doesn't have any
+wear flag.
+2) He is then trying to sell that object from his hands
+causing a crash.
+3) We both decided it must have something to do with
+the autowear for the random equipment code.
+Silence
+~
+
+Sender  Silence~
+Date    Sun Mar 21 12:50:47 2010~
+Stamp   1269190318
+Expire  1355590253
+To      all~
+Subject description~
+Text
+There is a simple room description I found that is
+clearly inaccurate...
+A broken down ivory fountain beckons just to the east in.........
+the fountain is clearly to the west. :D
+It's on Thralt Street and east of that broken fountain
+Silence
+~
+

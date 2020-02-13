@@ -1,0 +1,229 @@
+#PLAYER
+Name Grivvik~
+Id   1580421468
+LogO 1580424125
+Vers 11
+Blind 0
+Boon 0
+WalkDesc  port~
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race halfling~
+Sex  1
+Cla  3
+God	1
+Favored 0
+GuildRnk  0
+GuildPts  0
+WpnSpec	2
+Levl 2
+Sec  0
+Plyd 2657
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 672
+HMV  28 28 107 107 126 126
+Bleed 0
+Talent 0
+PP 0 0
+Gold 106
+Silv 550
+BAcct 0
+Bank 0
+Exp  2611
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 10
+Eyes 2
+Hair 32
+Haircut 64
+Facial 64
+Age 30
+Account Griv~
+Recall 1010
+Act  CDEGKQT
+Comm NOP
+Pos  8
+Prac 10
+Trai 10
+Alig  0
+Hit   1
+Dam   10
+ACs 80 80 80 80
+Attr 16 13 12 19 15 14
+AMod 4 0 0 0 0 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 26 107 126
+Cnd  0 0 18 18 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 19
+19 346
+20 -505282559
+18 251658240
+71 1073741824
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'spear'
+Sk 1 'staff'
+Sk 3 'short sword'
+Sk 75 'long sword'
+Sk 1 'bow'
+Sk 1 'crossbow'
+Sk 1 'whip'
+Sk 1 'berserk'
+Sk 75 'first aid'
+Sk 1 'hide'
+Sk 1 'sneak'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'fighter basics'
+Affc 'giant strength'   0  50  33   4  19          0
+Affc 'giant strength'   0  46  33   4   1          0
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 602
+Nest 0
+Wear 15
+Cost 360
+End
+
+#O
+Vnum 102
+Nest 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 608
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 605
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear -1
+Cost 72
+End
+
+#END

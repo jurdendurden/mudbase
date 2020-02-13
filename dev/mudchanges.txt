@@ -1,0 +1,163 @@
+1. extended who list race names to 10 chars, class names to 8.
+ 
+2. changed color to cause less epilepsy.
+ 
+3. souped up wiznet a tad.
+ 
+4. removed instances of 2nd/3rd attack in code and replaced with # of attacks based on class/level.
+ 
+5. removed skill customization from creation.
+ 
+6. you can now learn spells from scrolls.
+ 
+7. removed giants, added halflings, half orcs, and gnomes.
+ 
+8. modified starting stats.
+ 
+9. removed train 'hp' and 'mana'.
+ 
+10. modified hp per level on all classes.
+ 
+11. added varying starting ages based on race.
+ 
+12. added age based death based on race/constitution.
+ 
+13. imms with holylight on see obj vnums in rooms.
+ 
+14. added druids and rangers.
+ 
+15. adjusted mana gains and movement gains across the board.
+ 
+16. owhere shows the vnum of the object now. (THANK GOD)
+ 
+17. adjusted exp per level across the board.
+ 
+18. adjusted starting trains.
+ 
+19. changed damage messages to work off of actual damage not % of victim's health.
+ 
+20. warriors/thieves may not learn from scrolls.
+ 
+21. scrolls now sometimes randomly drop from mobs with spells inscribed on them.
+ 
+22. vorpal flag adds damage.
+ 
+23. coded addhours, addmin, and addxp commands.
+ 
+24. imms with holylight now see mob vnums in room too.
+ 
+25. terminated all channels with {x to avoid color bleeding.
+ 
+26. spruced up score a smidgeon.
+ 
+27. wizards now start with either magic missile, chill touch or burning hands.
+ 
+28. completely removed "default groups" from game.
+ 
+29. added druid/ranger basics. added skills/spells to other class basics groups.
+ 
+30. immortals no longer have cast lag.
+ 
+31. giant strength adds damage roll too now.
+ 
+32. added "knock" command for doors and such.
+ 
+33. added languages.
+ 
+34. added drunken speech.
+ 
+35. added charisma stat.
+ 
+36. coded in pretitles.
+ 
+37. coded in elemental specialization for wizards.
+ 
+38. you now start out with a little bit of money.
+ 
+39. you can no longer train stats if over level 9 or multi classed.
+ 
+40. you can now multi class your character.
+ 
+41. dwarves now get the axe skill for free regardless of class.
+ 
+42. added new spells: fear, knock, extension, audible glamor, shadow bolt, and shadow breath.
+ 
+43. you now see percentages in your spell lists.
+ 
+44. coded in weapon specialization for fighters.
+ 
+45. added new spells: confusion, web.
+ 
+46. infravision allows you to see creatures in the dark, unless they are otherwise invisible to you.
+ 
+47. infravision allows you to see room exits, as per the helpfile (didn't before).
+ 
+48. coded in bank accounts, also added ACT_BANKER for mobiles.
+ 
+49. coded in dual wielding.
+ 
+50. immortals now see which area they are in at all times.
+ 
+51. stats are now randomly rolled in creation, starting trains reduced due to this.
+ 
+52. scan command added.
+ 
+53. added new spell: silence.
+ 
+54. the game will now keep track of max players on per day/ever.
+ 
+55. added scribe skill.
+ 
+56. skillstat/spellstat added for imms of appropriate level.
+
+57. added traps, trap removal, and trap detecting.
+
+58. added object conditions.
+
+59. added repair ability, and made blacksmith able to repair.
+
+60. parrying, shield blocking, and attacking can damage your weapon/shield.
+
+61. you can now parry with both weapons, not just main hand.
+
+62. added counter skill.
+
+63. added swim skill, and the possibility of drowning.
+
+64. added new skills: butcher/skin.
+
+65. you can now remove all, instead of removing one piece of eq at a time.
+
+66. added imm function checkwpn, which searches mud for weapons of specified name/level/both.
+
+67. quite possibly fixed a huge bug in do_who which was bleeding buffers into the who list.
+
+68. fixed a bug which caused the area list to have color strewn all about it.
+
+69. added several new sectors to olc.
+
+70. added recording of player kills/deaths and mob kills.
+
+71. added new spell: mana shield.
+
+72. added ability to make wands into other items (rings, etc..)
+
+73. coded in indestructable flag for items.
+
+74. only bipeds/dragons drop money/scrolls.
+
+75. new level cap is 40 single class, 25/15 for multiclass.
+
+76. char creation beefed up a bit.
+
+77. deities introduced.
+
+78. wiznet beeps at you when people log in now (so i can tell when people are on and i'm stuck in the shell)
+
+79. hedit fixed to no longer copy helpfiles over areas.
+
+80. instaroom command added.
+
+81. ooc channel added.
+
+82. added finger command to get information of offline players.

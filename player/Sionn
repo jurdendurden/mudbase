@@ -1,0 +1,1129 @@
+#PLAYER
+Name Sionn~
+Id   1579401425
+LogO 1579764452
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race drow~
+Clan conclave~
+Clan_Rank 5
+Clan_Points 0
+Sex  1
+Cla  0
+God	1
+Favored 0
+GuildRnk  2
+GuildPts  1239
+ElemSpec   3
+Levl 11
+Sec  0
+Plyd 23052
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 1010
+HMV  88 88 213 213 137 184
+Bleed 0
+Talent 1
+PP 110 110
+Gold 278
+Silv 3824
+BAcct 0
+Bank 0
+Exp  892135
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 293
+Eyes 64
+Hair 16
+Haircut 32
+Facial 8
+Age 80
+Account ~
+Recall 1010
+Act  CDEGHKQT
+AfBy J
+Comm NOP
+Pos  8
+Alig  -750
+ACs 85 94 82 90
+Attr 13 23 18 22 16 15
+AMod 0 2 2 1 2 0
+Pass ~
+Titl .~
+PreT ~
+Cond	1
+Pnts 0
+TSex 1
+LLev 5
+HMVP 69 182 180
+Cnd  0 50 32 77 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 518
+34 28800
+70 64
+281 256
+127 131070
+126 -1
+816 -1
+818 14
+817 -17809409
+815 -1048575
+64 1677705202
+63 -126058497
+62 -65535
+74 16777212
+73 268419070
+33 1075806780
+71 -268403199
+72 -547765
+18 -1090519039
+20 1966206
+19 -1029
+31 -255
+32 218103530
+42 4177920
+68 -16777215
+69 134217598
+90 -1074790399
+91 126
+128 -260046863
+129 8388606
+124 1
+125 -33562625
+-1 -1
+Boards       7 General 1579043652 Changes 1579761115 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 25 'armor'
+Sk 25 'detect invis'
+Sk 1 'detect magic'
+Sk 25 'invisibility'
+Sk 66 'magic missile'
+Sk 1 'audible glamor'
+Sk 96 'dagger'
+Sk 1 'staff'
+Sk 76 'first aid'
+Sk 52 'lore'
+Sk 1 'sneak'
+Sk 50 'scrolls'
+Sk 49 'wands'
+Sk 5 'recall'
+Sk 1 'spellcraft'
+Gr 'rom basics'
+Gr 'wizard basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+-25 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 615
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 823
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 557
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 601
+Nest 0
+Cond 88
+Wear -1
+Cost 210
+End
+
+#O
+Vnum 102
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 605
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 606
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 611
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 14
+Cost 48
+End
+
+#O
+Vnum 615
+Nest 0
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 35
+Nest 0
+Name a floating sphere of cure light~
+ShD  a floating sphere of cure light~
+Desc a floating sphere of cure light~
+ExtF 64
+Extra2Flags 131072
+WeaF 65537
+Wear -1
+Lev  4
+Cost 1249
+Val  6 13 11 26 0
+Spell 3 'cure light'
+End
+
+#O
+Vnum 1067
+Nest 0
+Wear 4
+Cost 100
+End
+
+#O
+Vnum 38
+Nest 0
+Name a gray pouch~
+ShD  a gray pouch~
+Desc a gray pouch~
+ExtF 64
+Wt   4
+Material hide~
+Wear -1
+Cost 3230
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1  13  13          0
+Affc 'reserved'   0   0  -1   2  29          0
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 35
+Nest 0
+Name a floating sphere of refresh~
+ShD  a floating sphere of refresh~
+Desc a floating sphere of refresh~
+ExtF 16777281
+WeaF 65537
+Wear -1
+Lev  2
+Cost 250
+Val  1 10 7 78 0
+Spell 3 'refresh'
+End
+
+#O
+Vnum 38
+Nest 0
+Name a gold colored pack~
+ShD  a gold colored pack~
+Desc a gold colored pack~
+ExtF 64
+Wt   3
+Material velvet~
+Wear -1
+Cost 540
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   2  13          0
+End
+
+#O
+Vnum 2312
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2301
+Nest 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 2302
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 2310
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2305
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2314
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 18
+Nest 0
+Name a knife of longwalking~
+ShD  a knife of longwalking~
+Desc a knife of longwalking~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   4
+Cond 92
+Material gold~
+Wear 15
+Lev  6
+Cost 2780
+Val  2 2 8 2 0
+Affc 'reserved'   0   0  -1  -2  17          0
+Affc 'reserved'   0   0  -1   4  14          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the mittens of toughness~
+ShD  the mittens of toughness~
+Desc the mittens of toughness~
+ExtF 64
+WeaF 129
+Ityp 9
+Wt   6
+Material wool~
+Wear -1
+Lev  8
+Cost 2950
+Val  6 6 7 6 0
+Affc 'reserved'   0   0  -1   2  19          0
+Affc 'reserved'   0   0  -1   5  13          0
+End
+
+#O
+Vnum 38
+Nest 0
+Name a rose belt pouch~
+ShD  a rose belt pouch~
+Desc a rose belt pouch~
+ExtF 64
+Wt   2
+Material silk~
+Wear -1
+Cost 1580
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   9  14          0
+End
+
+#O
+Vnum 1006
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1006
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2301
+Nest 0
+Wear 6
+Cost 20
+End
+
+#O
+Vnum 2302
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 6
+Nest 0
+Name a scroll of cure serious~
+ShD  a scroll of cure serious~
+Desc a scroll of cure serious~
+ExtF 16777280
+Wear -1
+Lev  5
+Time 1285
+Cost 1000
+Val  6 28 0 0 0
+Spell 1 'cure serious'
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 35
+Nest 0
+Name the gloves of cure light~
+ShD  the gloves of cure light~
+Desc the gloves of cure light~
+ExtF 66
+WeaF 129
+Wear 9
+Lev  5
+Cost 1251
+Val  5 17 13 26 0
+Spell 3 'cure light'
+End
+
+#O
+Vnum 35
+Nest 0
+Name a floating sphere of sanctuary~
+ShD  a floating sphere of sanctuary~
+Desc a floating sphere of sanctuary~
+ExtF 16777280
+WeaF 65537
+Wear 19
+Lev  7
+Cost 1999
+Val  7 16 8 80 0
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2305
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2314
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 2305
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2314
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 2305
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2314
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 2305
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2314
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 2305
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2314
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 38
+Nest 0
+Name a crimson large bag~
+ShD  a crimson large bag~
+Desc a crimson large bag~
+ExtF 64
+Wt   3
+Material hide~
+Wear -1
+Cost 2630
+Affc 'reserved'   0   0  -1   5  14          0
+Affc 'reserved'   0   0  -1  -2  24          0
+End
+
+#O
+Vnum 1
+Nest 1
+Cond 89
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 28
+Nest 0
+Name a transparent, vaporous potion of cure serious~
+ShD  a transparent, vaporous potion of cure serious~
+Desc a transparent, vaporous potion of cure serious~
+ExtF 1073741888
+Wear -1
+Lev  5
+Time 678
+Cost 750
+Val  5 28 0 0 0
+Spell 1 'cure serious'
+End
+
+#O
+Vnum 38
+Nest 0
+Name a indigo sack~
+ShD  a indigo sack~
+Desc a indigo sack~
+ExtF 64
+Wt   3
+Material hide~
+Wear -1
+Cost 3030
+Affc 'reserved'   0   0  -1   1   5          0
+End
+
+#O
+Vnum 5
+Nest 1
+ShD  1 silver coins and 1 gold coins~
+Wt   0
+Cond 82
+Wear -1
+Cost 101
+Val  1 1 0 0 0
+End
+
+#O
+Vnum 6
+Nest 0
+Name a scroll of feather fall~
+ShD  a scroll of feather fall~
+Desc a scroll of feather fall~
+ExtF 64
+Extra2Flags 131072
+Wear -1
+Lev  41
+Time 1211
+Cost 8200
+Val  41 222 0 0 0
+Spell 1 'feather fall'
+End
+
+#O
+Vnum 2210
+Nest 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 2211
+Nest 0
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 1067
+Nest 0
+Wear 3
+Cost 100
+End
+
+#O
+Vnum 1012
+Nest 0
+Wear -1
+Cost 500
+Val  5 5 4 66 0
+Spell 3 'magic missile'
+End
+
+#O
+Vnum 18
+Nest 0
+Name a knout of inhumanity~
+ShD  a knout of inhumanity~
+Desc a knout of inhumanity~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   3
+Material platinum~
+Wear -1
+Lev  8
+Cost 3430
+Val  7 1 5 3 0
+Affc 'reserved'   0   0  -1   1   5          0
+Affc 'reserved'   0   0  -1   2  28          0
+End
+
+#O
+Vnum 2210
+Nest 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 2211
+Nest 0
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 38
+Nest 0
+Name a lilac pack~
+ShD  a lilac pack~
+Desc a lilac pack~
+ExtF 64
+Wt   3
+Material wool~
+Wear -1
+Cost 2240
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   1   3          0
+Affc 'reserved'   0   0  -1   1  18          0
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 2210
+Nest 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 2211
+Nest 0
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 18
+Nest 0
+Name a battle axe of enlightenment~
+ShD  a battle axe of enlightenment~
+Desc a battle axe of enlightenment~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   13
+Material copper~
+Wear -1
+Lev  9
+Cost 5910
+Val  5 2 6 3 0
+Affc 'reserved'   0   0  -1   2   4          0
+Affc 'reserved'   0   0  -1   2  18          0
+Affc 'reserved'   0   0  -1  -2  24          0
+End
+
+#O
+Vnum 28
+Nest 0
+Name a phosphorescent, watery potion of cure serious~
+ShD  a phosphorescent, watery potion of cure serious~
+Desc a phosphorescent, watery potion of cure serious~
+ExtF 64
+Extra2Flags 131072
+Wear -1
+Lev  5
+Time 721
+Cost 749
+Val  5 28 0 0 0
+Spell 1 'cure serious'
+End
+
+#O
+Vnum 2902
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a belt of striding~
+ShD  a belt of striding~
+Desc a belt of striding~
+ExtF 64
+WeaF 2049
+Ityp 9
+Wt   5
+Material platinum~
+Wear -1
+Lev  7
+Cost 780
+Val  12 12 12 11 5
+Affc 'reserved'   0   0  -1   2  14          0
+End
+
+#O
+Vnum 38
+Nest 0
+Name a scarlet belt pouch~
+ShD  a scarlet belt pouch~
+Desc a scarlet belt pouch~
+ExtF 64
+Wt   4
+Material hide~
+Wear -1
+Cost 3780
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1  -2  24          0
+Affc 'reserved'   0   0  -1   2  18          0
+End
+
+#O
+Vnum 6
+Nest 0
+Name a scroll of remove curse~
+ShD  a scroll of remove curse~
+Desc a scroll of remove curse~
+ExtF 65
+Wear 18
+Lev  5
+Time 1382
+Cost 1000
+Val  6 79 0 0 0
+Spell 1 'remove curse'
+End
+
+#O
+Vnum 42
+Nest 0
+ExtF 34078849
+Wear -1
+Time 3
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a long sword of protection~
+ShD  a long sword of protection~
+Desc a long sword of protection~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   8
+Material gold~
+Wear -1
+Lev  11
+Cost 4260
+Val  12 3 7 3 0
+Affc 'reserved'   0   0  -1  -2  17          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the fuchsia sandals of dexterity~
+ShD  the fuchsia sandals of dexterity~
+Desc the fuchsia sandals of dexterity~
+ExtF 64
+WeaF 65
+Ityp 9
+Wt   4
+Material wool~
+Wear 8
+Lev  5
+Cost 1380
+Val  1 1 1 1 0
+Affc 'reserved'   0   0  -1   1   2          0
+End
+
+#O
+Vnum 42
+Nest 0
+ExtF 34078849
+Wear 0
+Time 1
+Cost 0
+End
+
+#O
+Vnum 2214
+Nest 0
+Wear 5
+Cost 150
+End
+
+#O
+Vnum 2215
+Nest 0
+Wear 7
+Cost 120
+End
+
+#O
+Vnum 2216
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 2217
+Nest 0
+Wear 13
+Cost 70
+End
+
+#O
+Vnum 1006
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1006
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 1006
+Nest 0
+Wear -1
+Cost 30
+End
+
+#END

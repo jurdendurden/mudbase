@@ -1,0 +1,377 @@
+#PLAYER
+Name Kaor~
+Id   1581276505
+LogO 1581364329
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race tiefling~
+Sex  1
+Cla  2
+God	9
+Favored 0
+GuildRnk  0
+GuildPts  166
+Levl 5
+Sec  0
+Plyd 2937
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 639
+HMV  45 45 119 119 144 144
+Bleed 0
+Talent 0
+PP 0 0
+Gold 160
+Silv 746
+BAcct 0
+Bank 0
+Exp  13927
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 42
+Age 17
+Account Gwarr~
+Recall 1010
+Act  CDEGHKQT
+AfBy TVZ
+Comm NOP
+Pos  8
+Prac 5
+Save  5
+Alig  -750
+Hit   17
+Dam   8
+ACs -34 -36 -36 -26
+Attr 18 15 14 25 19 13
+AMod 4 1 1 5 1 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 25 119 144
+Cnd  0 0 18 18 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 37
+19 -519554049
+20 540934162
+31 262144
+18 -1627389951
+71 1073741824
+33 8
+32 512
+-1 -1
+Boards       7 General 1579918964 Changes 1581045612 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'protection good'
+Sk 17 'detect traps'
+Sk 25 'dagger'
+Sk 1 'crossbow'
+Sk 33 'backstab'
+Sk 1 'lay trap'
+Sk 17 'remove trap'
+Sk 75 'first aid'
+Sk 16 'peek'
+Sk 17 'steal'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Sk 16 'detect secret'
+Gr 'rom basics'
+Gr 'thief basics'
+Affc 'giant strength'   0  49  39   4   1          0
+Affc 'giant strength'   0  50  39   4  19          0
+Affc 'haste'   0  48   0   4   2    2097152
+Affc 'armor'   0  50  11 -20  17          0
+Affc 'shield'   0  53  48 -20  17          0
+Affc 'vocal shield'   0  51   7 -30  17          0
+Affc 'cacophonic shield'   0  52   4 -40  17          0
+Affc 'bless'   0  49  45   6  18          0
+Affc 'bless'   0  51  45   6  24          0
+Affc 'fly'   0  48  42   0   0     524288
+Affc 'resistance'   0  49  13  -1  20          0
+Affc 'enlarge person'   0  49   0   1   0          0
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 601
+Nest 0
+Wear 15
+Cost 210
+End
+
+#O
+Vnum 102
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 608
+Nest 0
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 13
+Cost 48
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 35
+Nest 0
+Name a floating sphere of cone of sound~
+ShD  a floating sphere of cone of sound~
+Desc a floating sphere of cone of sound~
+ExtF 64
+WeaF 65537
+Wear 19
+Lev  2
+Cost 250
+Val  2 12 6 173 0
+Spell 3 'cone of sound'
+End
+
+#O
+Vnum 607
+Nest 0
+Wear 7
+Cost 72
+End
+
+#O
+Vnum 612
+Nest 0
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 609
+Nest 0
+Wear 9
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear 10
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 14
+Cost 48
+End
+
+#O
+Vnum 18
+Nest 0
+Name a candle of grace~
+ShD  a candle of grace~
+Desc a candle of grace~
+ExtF 64
+WeaF 16385
+Ityp 1
+Material diamond~
+Wear 0
+Lev  4
+Cost 2440
+Val  0 1 521 0 0
+Affc 'reserved'   0   0  -1  -1  17          0
+Affc 'reserved'   0   0  -1   1   2          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the sabatons of charm~
+ShD  the sabatons of charm~
+Desc the sabatons of charm~
+ExtF 64
+WeaF 65
+Ityp 9
+Wt   25
+Material gold~
+Wear -1
+Lev  4
+Cost 3190
+Val  6 6 6 6 5
+Affc 'reserved'   0   0  -1   1  30          0
+Affc 'reserved'   0   0  -1   2  26          0
+End
+
+#O
+Vnum 615
+Nest 0
+Wear 18
+Cost 1140
+End
+
+#O
+Vnum 6
+Nest 0
+Name a mystic scroll of cure light~
+ShD  a mystic scroll of cure light~
+Desc a mystic scroll of cure light~
+ExtF 64
+Wear -1
+Lev  1
+Cost 200
+Val  1 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 28
+Nest 0
+Name a flecked, smoky potion of cure light~
+ShD  a flecked, smoky potion of cure light~
+Desc a flecked, smoky potion of cure light~
+ExtF 65
+Wear -1
+Lev  3
+Cost 449
+Val  2 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 28
+Nest 0
+Name a layered, fuming potion of cure light~
+ShD  a layered, fuming potion of cure light~
+Desc a layered, fuming potion of cure light~
+ExtF 65
+Wear -1
+Lev  2
+Cost 300
+Val  1 26 0 0 0
+Spell 1 'cure light'
+End
+
+#END

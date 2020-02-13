@@ -1,0 +1,74 @@
+#AREADATA
+Deprecated 0
+Name Clanhall: Ravager~
+Builders None~
+VNUMs 9300 9399
+Levels 5 40
+Credits Upro~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 1
+Flags 34
+Faction (null)~
+History (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9300
+{RRavager{x Clanhall~
+~
+0 1074790400 0
+0
+0
+0
+D0
+~
+~
+9 0 2015
+M 75 H 75
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 9300 0 1
+O 0 53 0 9300 The {rravager{x clan vault loaded to {RRavager{x Clanhall
+O 0 44 0 9300 An orb of the {rravager{x clan loaded to {RRavager{x Clanhall
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

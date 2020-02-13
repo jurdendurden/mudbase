@@ -1,0 +1,3112 @@
+#AREADATA
+Deprecated 0
+Name Greenrock Barrows~
+Builders Upro Weiland~
+VNUMs 2300 2399
+Levels 1 8
+Credits Weiland~
+Climate 0
+Plane 0
+PrimaryResource gold~
+Security 9
+Flags 32
+Faction (null)~
+History The hills to the south of the city of Renfall are flush with local
+wildlife. The hills are home to a local community of trappers that
+have lived there for generations. Subsisting off the local wildlife
+for their primary economy, the trappers lead a peaceful meagre lifestyle.
+There are a number of low level quests scattered about the area designed
+for the entry level player in mind.
+~
+End
+
+
+
+#MOBILES
+#2300
+woman tall Clea~
+Clea Bergnon~
+A tall middle aged woman tends to the sick and needy.
+~
+(null)~
+Clea Bergnon is a tall middle-aged woman of elvish descent. Clad in a
+simple white dress, Clea provides the trappers with a gentle smile and
+a healing hand to them when injured or sick. Long auburn hair cascades
+down her back almost to her hips with just a touch of gray beginning
+to show at her temples. Clea is one of the most loved and respected
+member of this small hunting community. It would be ill advised to 
+attempt any violence with her here. The trappers would not take kindly
+to it and Clea is more then capable of defending herself if necessary.
+~
+elf~
+ABGa 0 DFJ 1000 0
+20 0 10d40+150 20d10+300 4d5+10 punch
+0 0 0 0
+0 ABZ Bb IZ
+stand stand female 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 2303 80~
+#2301
+Ingrid Tertsen~
+Ingrid the Cook~
+Ingrid bustles about the fire preparing meals.
+~
+(null)~
+Ingrid Tertsen is a heavy set elvish woman with graying hair done up in
+a tight bun. Her hands are a blur of activity as she tends the roaring
+fire built in the center of the tent. She keeps up a steady routine of
+preparing meat from a large counter next to the fire. One eye is kept on
+the doorway as she awaits her next customer.
+~
+elf~
+AB C J 500 0
+25 0 10d61+420 0d0+0 5d4+14 punch
+0 0 0 0
+0 AB BCDb IZ
+stand stand female 300
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 2301 75~
+#2302
+elven trader~
+an elven trader~
+An elven trader attempts to barter amidst the trappers.
+~
+(null)~
+A young man of elvish descent attempts to barter amidst the trappers.
+Dressed in light travel attire and of course armed, he has made the
+journey from the city to try and trade some of his wares for the
+trapper's hides and animal meat. A slight smile covers his plain face
+as he juggles some financial figures over in his head.
+~
+elf~
+A 0 DFJ 300 0
+25 5 25d8+50 25d8+100 4d5+15 punch
+0 0 0 0
+0 AB BCDb IZ
+stand stand male 2000
+AHMV ABCDEFGHIJK medium
+ unknown
+#2303
+white rabbit~
+a white rabbit~
+A plump white rabbit bounds about.
+~
+(null)~
+A plump white rabbit bounds about through the knee lenghth grass. Plush
+white fur covers his round little body. Rabbit hide is relatively cheap
+due to its abundant availability and is widely used for accessories in
+the region.
+~
+rabbit~
+AG 0 0 0 0
+1 1 1d2+10 0d0+0 1d2+1 bite
+0 0 0 0
+FH 0 0 0
+stand stand male 0
+AGV ACDEFHJK medium
+ unknown
+#2304
+brown bunny~
+a brown bunny~
+A brown bunny hops through the green grass.
+~
+(null)~
+A plump bunny with brown fur wanders by with her furry tail held high.
+Long thin whiskers stir in the breeze as she calmly looks about. Red
+beady eyes almost seem to have a measure of intelligence as she calmly
+nibbles on some grass.
+~
+rabbit~
+AG 0 0 500 0
+1 1 1d3+15 0d0+0 1d2+3 bite
+0 0 0 0
+FH 0 0 0
+stand stand female 0
+AGV ACDEFHJK medium
+ unknown
+#2305
+Estvan old hunter~
+Estvan the Old~
+An old hunter sits here in mid-slumber.
+~
+(null)~
+Estvan is one of the oldest trappers in the area who has assumed a role
+as mentor and teacher to the younger folks. A once robust bear of a man,
+age and hard living has reduced him to the current state he is in. Long
+raven black hair has been replaced with mostly grey now but he is still
+quite an imposing figure. He is content to pass along what he has learned
+to the younger trappers in the area and is not averse to training new
+people in some basic fundamentals.
+~
+human~
+ABGK F DFJ 500 0
+25 8 10d25+200 25d10+100 3d30+20 punch
+0 0 0 0
+0 ABD 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium
+ unknown
+M SPEECH 2310 help~
+M GREET 2302 100~
+#2306
+elven trapper~
+a young elven trapper~
+A young elven trapper stalks his prey.
+~
+(null)~
+This young elven man is barely out of his teens. Still learning the
+secrets of the trappers, he has not had much success. A thin bead of
+sweat drips down his face as he tries to blend in with his surroundings.
+Hopefully today will be his lucky day!
+~
+elf~
+AG 0 J 500 0
+3 0 3d8+6 3d8+100 1d3+2 punch
+0 0 0 0
+0 0 Bb IZ
+stand stand male 15
+AHMV ABCDEFGHIJK medium
+ unknown
+#2307
+alchemist apprentice~
+an alchemist apprentice~
+An alchemist apprentice forages for herbs.
+~
+A young alchemist apprentice~
+A young woman from the nearby city forages the area for useful herbs.
+Dressed in simple travel gear and her trusty backpack, she carefully
+scans the area for a suitable place to forage. The Green Hills area
+is well known for its abundant wildlife and plentiful herbs. Many of
+these herbs are used in the creation of potions, medicines and as
+cooking ingredients.
+~
+human~
+AG C 0 500 0
+3 2 3d8+6 3d8+100 1d3+2 none
+0 0 0 0
+0 0 0 0
+stand stand female 10
+AHMV ABCDEFGHIJK medium
+ unknown
+#2308
+small minx~
+a small minx~
+A small grey minx pads through the grass.
+~
+(null)~
+A small grey minx pads silently about through the grass. His lustrous
+hide is highly prized by the trappers. The unique properties of his
+hide are widely sought by furriers due to its compatablity with magical
+energies. He is a wily foe despite his small size and is not an easy
+target.
+~
+cat~
+AG 0 Z 500 0
+5 2 5d8+10 5d8+100 1d3+2 claw
+0 0 0 0
+FH 0 0 0
+stand stand male 0
+AGV ACDEFHJKQV medium
+ unknown
+F par U
+M DEATH 2304 60~
+#2309
+boy young Billy~
+a young boy~
+A young boy searches frantically for his father.
+~
+(null)~
+A young boy from the nearby city seems to be searching for someone.
+His young face is filthy from his search, his face frozen in panic.
+He has sworn to find his father who has been missing for days now and
+will not give up his search until he finds out the truth.
+~
+human~
+ABG G 0 900 0
+3 3 12d10+20 0d0+0 12d10+20 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 2308 100~
+M SPEECH 2309 story~
+#2310
+Gustav Sihere~
+Gustav Sihere~
+A stout dwarf works up a sweat here.
+~
+(null)~
+Gustav Sihere works up a sweat going through some training exercises.
+A young dwarf raised by the trappers, he had grown weary of the hunting
+life and travelled extensively. Growing homesick he has returned recently
+to visit with family and friends in the area. He uses this tent to keep
+up his training regimen he has picked up in his travels. He is not averse
+to instructing others in physical fitness for a small amount of coin.
+~
+dwarf~
+ABGJ 0 DJ 500 0
+25 0 25d8+50 25d8+100 0d0+0 none
+0 0 0 0
+0 0 LQa R
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#2311
+sky blue finch~
+a {Csky{x {Bblue{x{w finch{x~
+A {Csky{x {Bblue{x finch flies from tree to tree.
+~
+(null)~
+A sky blue finch flies about from tree to tree. A blur of activity,
+the finch swoops about in the sky and comes down to ground level in
+an erratic pattern. He can't seem to make up his mind what he wants
+to do.
+~
+song bird~
+AG 0 T 500 0
+3 3 3d8+6 3d8+100 1d3+2 peck
+0 0 0 0
+FH 0 0 0
+stand stand male 0
+AGW ACDEFHKP medium
+ unknown
+#2312
+spotted doe~
+{wa spotted doe{x~
+A white and brown spotted doe nibbles on the grass.
+~
+(null)~
+A small white and brown spotted doe stand here somewhat nervously.
+Her bushy white tail quivers slightly as she studies the area. In
+between glances she nibbles at some nearby grass and seems to be
+ready to bolt at any minute.
+~
+deer~
+AG 0 Z 500 0
+4 0 4d8+8 4d8+100 1d5+3 none
+0 0 0 0
+FH 0 0 0
+stand stand female 0
+AGV ACDEFJKQV medium
+ unknown
+#2313
+dwarven hunter~
+a dwarven hunter~
+A silent dwarven hunter blends into the grass.
+~
+(null)~
+A grizzled looking dwarf stands silently in the shadows. He is almost
+invisible as he blends into his natural surroundings. His dark grey
+eyes narrow as he watches the patterns of the animals moving about.
+He seems to be pondering his next target as he patiently waits for
+the right prey to cross his path.
+~
+dwarf~
+AG C J 500 0
+4 2 4d8+8 4d8+100 1d5+3 punch
+0 0 0 0
+0 0 LQa R
+stand stand male 20
+AHMV ABCDEFGHIJK medium
+ unknown
+#2314
+cheerful bard~
+a cheerful bard~
+A cheerful bard wanders the path through the Green Hills.
+~
+(null)~
+This cheerful fellow carries a ready grin on his ruddy face. He hums a
+gentle tune under his breath as he takes in the scenery around the path.
+He has a slight jig in his step and a twinkle in his eye as he enjoys
+his trek towards the city of Xandira.
+~
+elf~
+AG 0 J 500 0
+4 0 4d8+8 4d8+100 0d0+0 none
+0 0 0 0
+0 0 BIb BIPZ
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#2315
+bald monk~
+a bald monk~
+A bald monk continues her pilgrimage to Renfall.
+~
+(null)~
+This woman would probably be fairly attractive if she wasn't completely
+bald. Young, roughly in her twenties, she is off on a solitary pilgrimage
+to the nearby city of Renfall. Bright green eyes seem to shine brightly
+from her deeply tanned face. Totally expressionless, she seems to be
+oblivious to nature's charms all about her.
+~
+human~
+AG 0 0 500 0
+5 2 5d8+10 5d8+100 2d3+2 punch
+0 0 0 0
+0 0 0 0
+stand stand female 15
+AHMV ABCDEFGHIJK medium
+ unknown
+#2316
+scruffy fellow~
+a scruffy fellow~
+A scruffy fellow makes his way down the path.
+~
+(null)~
+This pudgy little fellow seems to be intent on not attracting attention
+to himself. He keeps his eyes on the road and his hands appear to be
+shoved deep into his pockets. Something just seems to be really shifty
+about this unassuming little hobbit.
+~
+halfling~
+AG C PQ -300 0
+4 2 4d8+8 4d8+100 2d3+1 punch
+0 0 0 0
+F 0 P 0
+stand stand male 15
+AHMV ABCDEFGHIJK medium
+ unknown
+F vul BR
+#2320
+skinner Gerard~
+Gerard the skinner~
+Gerard the Skinner goes about his business here.
+~
+(null)~
+Gerard is a large mountain of a man of mixed race who has the unenviable
+task of preparing the carcasses of the animals. He spends his days in
+this cramped tent removing the valuable hides for the trappers and
+preparing the meat for Ingrid the Cook. He is generally kept very busy
+and has no time for any nonsense.
+~
+human~
+ABG 0 J 300 0
+25 5 25d8+50 25d8+100 0d0+0 punch
+0 0 0 0
+0 AB 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK medium
+ unknown
+#2321
+woman mystic Mystara~
+Mystara the mystic~
+A tall woman in flowing robes stands here.
+~
+(null)~
+A tall woman with long blonde hair stands here amidst piles of clutter.
+Her pale features are quite lovely, from her perfectly symetrical face
+to the rounded dimples in her cheeks. Flashing jade green eyes seem to
+instantly judge your worth as they lock firmly onto yours.
+~
+human~
+ABG 0 DH 500 0
+50 0 50d8+100 50d8+100 5d10+25 blast
+0 0 0 0
+0 K 0 0
+stand stand female 2500
+AHMV ABCDEFGHIJK medium
+ unknown
+M SPEECH 2305 mysteries~
+M GREET 2306 100~
+#2322
+trapper weary~
+a weary trapper~
+A weary trapper relaxes after a long day.
+~
+(null)~
+A weary trapper tries to relax after a long day in the fields. His skin
+is a dark bronze from long afternoons spent in the sun. He runs a calloused
+hand through his tangled hair as he stifles a long yawn. The trappers life
+is not an easy one but he prefers it over a more regimented city lifestyle.
+He's his own master and doesn't have to answer to anyone. 
+~
+human~
+ABG C 0 300 0
+3 2 3d8+6 3d8+100 1d3+3 punch
+0 0 0 0
+0 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium
+ unknown
+#2333
+trapper hungy~
+a hungry trapper~
+A hungry trapper eagerly consumes his meal.
+~
+(null)~
+A hungry trapper eagerly consumes his meal after a long days
+work. Still grubby from his foray into the fields he is intent
+on enjoying his meal. His tired face lights up as he recounts a
+recent incident to a nearby friend as he gulps his food. His next
+stop will be a well deserved rest in a nearby tent for the night.
+~
+dwarf~
+ABG C J 200 0
+3 3 3d8+6 3d8+100 1d3+2 punch
+0 0 0 0
+0 0 LQa R
+stand stand male 10
+AHMV ABCDEFGHIJK medium
+ unknown
+#2334
+crow black~
+a black crow~
+A large black crow raises a ruckus here.
+~
+(null)~
+A loud black crow raises a ruckus calling out for all to hear.
+The boisterous fellow is quite large, much larger then the
+average birds in the area. It's beady eyes dart about as it
+preens its midnight black plumage. The crow is quite the bully
+berating all that comes near with its piercing caws.
+~
+crow~
+AG 0 T 0 0
+4 2 4d8+8 4d8+100 2d1+2 peck
+0 0 0 0
+FH 0 0 0
+stand stand male 0
+AGW ACDEFHKP medium
+ unknown
+#2335
+squirrel plump~
+a plump brown squirrel~
+A plump brown squirrel forages for nuts.
+~
+(null)~
+A plump brown squirrel scurries about the trees of the fields.
+His long bushy tail flails about behind him as his plump body
+quivers with excitement. A virtual eating machine, its a wonder
+any tree branch can hold this plump critter as he moves about
+the area.
+~
+animal~
+AG 0 0 0 0
+4 4 4d8+8 4d8+100 2d3+2 bite
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AGHMV ABCDEFGHIJKUV medium
+ unknown
+#2399
+elderberry bush~
+a wild elderberry bush~
+A wild {Melderberry{x{w bush thrives here.
+~
+(null)~
+A wild elderberry thrives nicely here in the corner of the lush field.
+Its long thorny branches are in full bloom, plump elderberries dangle
+from its green limbs awaiting the right person to pluck them.
+~
+imp~
+ABG GI J 0 0
+20 0 20d8+40 20d8+100 0d0+0 none
+0 0 0 0
+0 Q L N
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 2311 100~
+#0
+
+
+
+#OBJECTS
+#2300
+pool rainwater~
+a pool of rainwater~
+A {Cclear pool{x of {Crainwater{x shines here.~
+unknown~
+0
+fountain 0 0 0
+9999 9999 'water' 0 0
+0 0 0 P
+E
+pool~
+The clear surface of the pool is marred only by a few fallen
+leaves. The pool appears to be quite deep nestled around the
+craggy roots of the large elm. The ground around the pool is
+covered with a myriad of animal tracks indicating it is a 
+heavily visited spot by the denizens of the meadow.
+~
+#2301
+cap deerskin~
+a deerskin cap~
+A round deerskin cap lies here.~
+hide~
+0
+armor 0 0 AE
+A 0 A 0 1
+2 2 20 G
+A
+13 3
+#2302
+tunic deerskin~
+a deerskin tunic~
+A poorly stitched deerskin tunic~
+hide~
+0
+armor 0 0 AD
+B A A 0 1
+2 3 25 G
+#2303
+leggings deerskin~
+a pair of deerskin leggings~
+A pair of hide leggings were dropped here.~
+hide~
+0
+armor 0 0 AF
+B 0 A 0 1
+2 2 20 P
+A
+13 2
+#2304
+hat cotton~
+a cotton hat~
+A cheap cotton hat was dropped here.~
+cotton~
+0
+armor 0 0 AE
+A 0 A 0 1
+2 1 5 P
+#2305
+overalls cotton~
+a pair of cotton overalls~
+A dirty pair of cotton overalls lie here.~
+cotton~
+0
+armor 0 0 AD
+A 0 A 0 1
+1 3 10 G
+#2306
+basket wicker~
+a wicker basket~
+A small wicker basket lies here.~
+wood~
+0
+container 0 0 AO
+10 A 0 0 0
+1 2 5 G
+#2307
+backpack leather~
+a small leather backpack~
+A small leather backpack was dropped here.~
+hide~
+0
+container 0 0 AK
+20 A 0 20 0
+1 2 10 G
+#2308
+rabbit stew~
+a steaming bowl of rabbit stew~
+A steaming bowl of rabbit stew was left here.~
+unknown~
+0
+food 0 0 A
+AC AC 0 0 0
+1 1 5 P
+#2309
+furs pile~
+a pile of furs~
+A pile of furs were left here.~
+unknown~
+0
+furniture 0 0 0
+B EHI DGJ DEFG DEFG
+1 0 0 P
+E
+furs~
+The pile of furs is a jumbled mess but would serve as
+a makeshift bed.
+~
+#2310
+knife skinning~
+a bone skinning knife~
+A long sharped bone lies here.~
+bone~
+0
+weapon 0 0 AN
+exotic 2 2 pierce 0
+2 1 10 G
+E
+knife~
+The knife is quite small but very sharp, it
+appears to be a long antler of a deer treated
+for durability. Its tip has been filed down to a
+keen edge and fits quite nicely in the palm of your
+hand. Its outer edge can be used for the skinning of
+small animals.
+~
+#2311
+belt deer hide~
+a belt of deer hide~
+A narrow hide belt lies here.~
+hide~
+0
+armor 0 0 AL
+A 0 A 0 1
+3 2 15 G
+A
+13 3
+#2312
+cloak concealing~
+a concealing cloak~
+A light {ggreen{x hooded cloak lies here.~
+cotton~
+0
+armor 0 0 AK
+A B A B 1
+3 2 10 P
+E
+cloak~
+The cloak is of a cheap cotton dyed a light green
+color. Hunters prefer the cloak for its light weight
+nature and tend to dye it to blend in with the forest.
+~
+#2313
+longbow oak~
+a longbow of oak~
+A large longbow made of oak lies here.~
+wood~
+0
+weapon 0 0 AN
+exotic 2 3 blast F
+3 5 30 G
+#2314
+elderberry plump~
+a plump {Me{ml{Md{me{Mr{mb{Me{mr{Mr{my{x~
+A plump elderberry lies here.~
+unknown~
+0
+herb 0 F AO
+0 0 0 0 0
+1 1 2 P
+#2315
+knife travelers~
+a traveler's knife~
+A small travel knife lies here.~
+copper~
+0
+weapon 0 0 AN
+dagger 2 3 pierce 0
+3 2 25 P
+#2316
+canteen~
+a small leather canteen~
+A small canteen was dropped here.~
+leather~
+0
+drink 0 0 AO
+5 5 'water' 0 0
+2 1 15 P
+#2317
+candle thick~
+a thick white candle~
+A thick wax candle was dropped here.~
+wax~
+0
+light 0 0 AO
+0 0 ABCD 0 0
+2 1 10 P
+#2318
+gloves studded~
+studded leather gloves~
+A pair of studded leather gloves lie here.~
+leather~
+0
+armor 0 0 AH
+A 0 A 0 1
+5 2 30 G
+A
+13 3
+E
+gloves~
+These cheap leather gloves have been reinforced
+with several heavy studs for extra punching power.
+~
+#2319
+minx paw~
+the paw of a grey minx~
+The severed paw of a grey minx lies here.~
+unknown~
+0
+weapon 0 F AN
+exotic 2 3 claw 0
+4 2 15 P
+#2320
+minx talisman~
+talisman of the Minx~
+An odd handmade talisman lies here.~
+bone~
+0
+jewelry 0 0 AC
+0 0 0 0 0
+3 2 25 P
+A
+12 3
+A
+13 3
+A
+3 1
+#2321
+guide beginner's foraging~
+a beginner's guide to foraging~
+A thin volume on foraging lies here.~
+paper~
+0
+parchment 0 0 AO
+0 0 0 0 0
+1 2 0 P
+E
+guide~
+The guide is written in dense alchemical prose that quickly
+makes your eyes droop...
+One short paragraph details the medicinal benefits of the
+common elderberry not withstanding its unique tangy taste.
+With this small bit of knowledge obtained you feel confident
+you will be able to find the elderberry without too much
+difficulty...
+~
+#2330
+recipe healing~
+recipe: cure serious~
+A minor healing recipe lies here.~
+paper~
+0
+alchemy_recipe 0 0 AO
+0 A AC CDE 0
+3 1 2 P
+E
+recipe~
+The recipe contains a small table of required herbs on it.
+In tiny cursive writing it reads:
+"With the appropriate empty flask and of course an alchemy lab,
+Brew catnip,dandelion and adderstongue to produce the end result."
+~
+#2331
+flask empty~
+a tiny empty flask~
+A tiny glass flask lies here.~
+glass~
+0
+flask 0 0 AO
+0 0 0 0 0
+2 1 30 P
+E
+flask~
+The tiny glass flask is a mainstay for all budding alchemists.
+Generally the potentcy of the brew is defined in part by the quality
+of the flask. This inexpensive one could potentially hold a spell of
+relatively low level and effectiveness.
+~
+#2390
+ring beta tester~
+the ring of the beta tester~
+A cheap plain ring lies discarded here.~
+silver~
+0
+jewelry 0 0 AB
+0 0 0 0 0
+1 1 25 P
+A
+12 15
+A
+13 15
+#2397
+adventurer portal~
+a shimmering portal~
+A shimmering portal leads to the Adventurer's Academy.~
+unknown~
+0
+portal 0 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 DEGJ 0
+0 0 0 P
+#2398
+bonfire~
+a roaring bonfire~
+A roaring bonfire fills the area with its warmth and light.~
+wood~
+0
+light 0 0 0
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#2399
+flask silver~
+a battered silver flask~
+A battered silver flask was dropped here.~
+silver~
+0
+potion 0 0 AO
+5 'sanctuary' 'cure light' 'reserved' 'reserved'
+1 2 10 P
+#0
+
+
+
+#ROOMS
+#2300
+A wide dirt path~
+Rolling hills covered by green grass and tall trees stretch off into the
+visible horizon. The ground is firm underfoot with a bouyant spring to it. Soft
+breezes stir the land sending a pleasant tingle of excitement through your
+flesh. The trees move with a silent rhythm set into motion by the errant
+breeze. 
+~
+0 4 2
+0
+1
+2
+D0
+~
+~
+0 0 2301
+D2
+~
+~
+0 0 2356
+M 30 H 30
+S
+#2301
+A wide dirt path~
+Lush green grass sways gently under the caress of unseen breezes. A series
+of small tents have been erected to the north. Local trappers in the area have
+established a small community there. Merchants from the nearby city of Renfall
+stop there to barter with the trappers. It might be a good place to rest and
+perhaps stock up on supplies. 
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2302
+D2
+~
+~
+0 0 2300
+M 20 H 20
+S
+#2302
+A gathering of tents~
+A small gathering of tents comprised of animal hides and wood have arisen
+here over the years. Local trappers use it to rest up and resupply between
+expeditions in the fields near here. Merchants from the city stop by regularly
+to barter with the trappers. This would probably be a good place to gather some
+information and food. 
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2317
+D1
+~
+~
+0 0 2307
+D2
+~
+~
+0 0 2301
+D3
+~
+~
+0 0 2303
+M 20 H 20
+S
+#2303
+A path between tents~
+A small path winds between several tents pitched off to the side of
+the path. Conversations can be heard coming from within the tents as
+trappers rest up between hunting expeditions. A large tent with its 
+flaps pinned open to the top stands directly west of here. The tent
+to the north is occupied by Gerard the Skinner. He deals with the
+tedious work of preparing the hides and meat of the animals brought
+to him by the trappers.
+~
+0 0 2
+0
+1
+2
+E
+tent~
+A large tent made of animal hides with a wood frame sits here. Two large
+flaps act as a door to keep out cold night air.
+~
+D0
+~
+flaps~
+1 0 2304
+D1
+~
+~
+0 0 2302
+D2
+~
+tent~
+9 0 2306
+D3
+~
+~
+0 0 2305
+M 20 H 20
+S
+#2304
+The skinners' tent~
+The interior of the tent is lit by several wooden torches hung from
+the supports of the tent. Wooden racks fill the majority of the tent
+stretching out the hides of various animals. With the abundance of
+wildlife in the area, skins and hides are a valuable commodity traded
+with the nearby city of Renfall. The hunters bring the fallen animals
+to the tent for the skilled hands of the skinner to work his magic.
+~
+0 8 0
+0
+1
+2
+D2
+~
+flaps~
+1 0 2303
+M 20 H 20
+S
+#2305
+The healer's tent~
+A local woman by the name of Clea Bergnon has taken up residence here.
+Clea provides a welcome smile and a gentle healing hand to the trappers
+after hunting mishaps or in the case of illness or death. Several piles
+of animal fur have been arranged around the spacious tent to provide a
+comfortable resting place as she tends to the sick and injured. Several
+candles burn steadily on a nearby table releasing pleasant aromas into
+the tent.
+~
+0 1036 0
+0
+1
+2
+D1
+~
+~
+0 0 2303
+M 20 H 20
+S
+#2306
+A darkened tent~
+The tent is dark, animal hides have been scattered on the
+bare ground to provide makeshift bedding. A spent campfire in
+the middle of the tent is positioned beneath a closeable flap
+in the overhead roof. The accomodations are meager at best but
+sufficient for a quick respite between hunting expeditions into
+the nearby fields.
+~
+0 8 0
+0
+1
+2
+D0
+~
+tent~
+9 0 2303
+M 20 H 20
+S
+#2307
+A path between tents~
+A narrow dirt path leads between similar wood frame tents, all showing
+signs of age and disrepair. The tents have been cobbled together out of
+animal hides and scraps of wood from the fields. The hides have been
+stretched tight over the wood and cured to slow the aging process.
+Animal fat is then applied to the hides to help with waterproofing with
+mixed results.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+5 0 2308
+D1
+~
+~
+0 0 2310
+D2
+~
+flaps~
+5 0 2309
+D3
+~
+~
+0 0 2302
+M 20 H 20
+S
+#2308
+A cluttered tent~
+All kinds of junk have been gathered together here in this tent. Furs 
+awaiting buyers have been dumped into one huge pile. What looks to be
+the stripped bones of various animals have been sorted into various
+piles in another corner of the tent. Very little is not reused from the 
+creatures that roam about the Green Hills, from hide to bones.
+~
+0 8 0
+0
+1
+2
+D2
+~
+tent~
+5 0 2307
+M 20 H 20
+S
+#2309
+A quiet tent~
+This small tent seems to be fairly clean and appears to be unused. A
+pile of soft animal fur suitable for sleeping on has been left in one
+corner of the tent. Perhaps this would be a good place to rest up in
+between travels undisturbed. There appears to be little else of value
+in here.
+~
+0 8 0
+0
+1
+2
+D0
+~
+flaps~
+5 0 2307
+M 20 H 20
+S
+#2310
+A path between tents~
+A small path winds past tents comprised of animal hides and wood frames.
+From the sounds of the snoring coming from the tents nearby somebody is
+deep in slumber within. The life of the hunter is a profitable one in 
+these parts but that doesn't make it an easy one. Their lives are ones
+of constant struggle with nature's denizens and do not always end on a
+pleasant note.
+~
+0 0 2
+0
+1
+2
+D0
+~
+flap~
+1 0 2311
+D1
+~
+~
+0 0 2314
+D2
+~
+tent~
+1 0 2312
+D3
+~
+~
+0 0 2307
+M 20 H 20
+S
+#2311
+A cluttered tent~
+Piles of animal furs are heaped on the dirt floor serving as
+sleeping areas for the weary trappers. A dead pile of ash marks
+a recent fire in the center of the roomy tent. The air inside the
+tent is rank with body odor and dead animals, not a pleasant mix.
+A bath house would be a welcome addition to this little community!
+~
+0 8 0
+0
+1
+2
+D2
+~
+flap~
+1 0 2310
+M 20 H 20
+S
+#2312
+A well-lit tent~
+The roomy tent is well-lit, a roaring fire blazing in
+the center of the tent under an open flap in the tent's roof.
+Animal hides are piled along the sides of the tent for the
+trappers to rest on and enjoy a hot meal in between trips to
+the nearby fields. Despite the bare nature of the tent, a 
+feeling of belonging and togetherness permeate the air inside
+the tent.
+~
+0 8 0
+0
+1
+2
+D0
+~
+tent~
+1 0 2310
+M 20 H 20
+S
+#2314
+A path between tents~
+A dirt path winds its way past small tents of animal hide strung on
+wood frames. Trappers have used this area over the years due to its
+abundance of local wildlife. Local merchants from the nearby city of
+Xandira stop by to trade with the trappers for the hides and meat the
+animals provide. Much of the local clothing is crafted from the hides
+and furs gathered by the trappers.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2315
+D1
+~
+~
+0 0 2316
+D3
+~
+~
+0 0 2310
+M 20 H 20
+S
+#2315
+The cook's tent~
+This expansive tent is run by Ingrid Tertsen, one of the trapper's wives.
+Ingrid runs a clean little business here preparing and cooking the various
+meats brought here by the trappers. She makes quite a good bit of coin 
+dealing with the trappers and the travellers that stop by her tent for a
+quick meal.
+~
+0 8 0
+0
+1
+2
+D2
+~
+~
+0 0 2314
+M 20 H 20
+S
+#2316
+The old trapper's tent~
+The interior of the tent is quite large compared to the others.
+The dirt floor is covered by a large bear pelt, its owner quite a
+large specimen when alive. A scarred wooden table sits on one wall
+opposite a large canvas cot covered with animal furs. A pile of
+well worn books are piled high in the opposite corner, the owner of
+the tent is obviously a little more literate then the average trapper.
+~
+0 8 0
+0
+1
+2
+D3
+~
+~
+0 0 2314
+M 20 H 20
+S
+#2317
+A wide dirt path~
+A wide dirt path winds its way past lush green fields filled with small
+local wildlife. Directly to the south a small huddle of tents setup by trappers
+in the area is visible. The Green Hills area is well known in these parts for
+its abundance of local game and useful flora. Many a local in the area has made
+his or her fortune by hunting in these parts. 
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2319
+D1
+~
+~
+0 0 2318
+D2
+~
+~
+0 0 2302
+M 20 H 20
+S
+#2318
+Mystara's Tent~
+Mystara is a local woman who lives among the trappers trading in the various
+odds and ends that they come across. She uses the claws and talons of the
+various creatures as well as the hides to fashion many different useful things.
+Little is really known about Mystara's past history and she refuses to discuss
+it with anyone. 
+~
+0 8 0
+0
+1
+2
+D3
+~
+~
+0 0 2317
+M 20 H 20
+S
+#2319
+A wide dirt path~
+Lush green grass sways gently under a soft breeze beneath large trees. Small
+wildlife can be seen in all shapes and sizes bounding about in the tall grass.
+Many use this area for hunting and trapping the little creatures that call this
+place home. With a little consideration of ones prey, much can be can be found
+here be it in valuable hides, meat or rare reagents for magical potions. 
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2320
+D2
+~
+~
+0 0 2317
+M 20 H 20
+S
+#2320
+A wide dirt path~
+Lush green grass sways silently in a large
+wooded meadow to the west.  A wide dirt path
+makes its way past rolling hills towards a
+jumble of small tents to the south.  Far off
+to the north the outer stone walls of the city
+of Renfall are barely visible.  A plump brown
+bunny darts across the path and vanishes in
+the tall grass to the west.  
+~
+0 4 2
+0
+1
+2
+D0
+~
+~
+0 0 2336
+D2
+~
+~
+0 0 2319
+D3
+~
+~
+0 0 2321
+M 20 H 20
+S
+#2321
+A lush {gg{x{Gr{x{ge{x{Ge{x{gn{x meadow{x~
+Lush green grass sways gently under a soft breeze beneath large trees.
+Small wildlife can be seen in all shapes and sizes bounding about in
+the tall grass. Many use this area for hunting and trapping the little
+creatures that call this place home. With a little consideration of ones
+prey, much can be can be found here be it in valuable hides, meat or
+rare reagents for magical potions.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2329
+D1
+~
+~
+0 0 2320
+D3
+~
+~
+0 0 2322
+M 20 H 20
+S
+#2322
+{wA lush {gg{Gr{ge{Ge{gn{x {wmeadow{x~
+Lush green grass sways gently from a gentle breeze from the north. Tall
+trees stretch their limbs up into the heavens. Small birds flit about
+the overhead branches calling to their brethren. The rich soil in the
+area is fertile breeding ground for many native herbs used in cooking
+and potion creation.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2328
+D1
+~
+~
+0 0 2321
+D3
+~
+~
+0 0 2324
+M 20 H 20
+S
+#2324
+A lush {gg{Gr{ge{Ge{gn{x meadow{x~
+Dry leaves crackle underfoot spread out amidst the green grass. Small
+animals frolic peacefully amidst the knee length grass oblivious to
+the trappers who hunt them. Colorful birds fly amidst the overhead
+tree branches darting from nest to nest stirring the leaves. There is
+evidence of several broken discarded traps left behind by the trappers
+amidst the grass.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2327
+D1
+~
+~
+0 0 2322
+D3
+~
+~
+0 0 2325
+M 20 H 20
+S
+#2325
+A lush {gg{Gr{ge{Ge{gn{x meadow~
+Tall trees cast their leaves down into the lush green grass below. Small
+birds loft through the overhead branches stirring the leaves in their
+flight. The fertile soil underfoot is spongy with a nice spring to it.
+Nature has done a great job in this part of the region displaying its
+green thumb. A dense tree line borders the meadow acting as a natural
+barrier around it.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2326
+D1
+~
+~
+0 0 2324
+M 20 H 20
+S
+#2326
+A lush {gg{Gr{ge{Ge{gn{x{w meadow{x~
+Small animals frolic about in lush green grass amidst towering trees.
+Dry leaves crackle loudly underfoot, cast down from the tall trees.
+Native flora flourishes amidst the grass nurtured by the abundant sun
+and rainfall in the region. Many people forage the fertile soil ever 
+in search of valuable herbs used as reagents in potions and cooking 
+recipes.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2330
+D1
+~
+~
+0 0 2327
+D2
+~
+~
+0 0 2325
+M 20 H 20
+S
+#2327
+A lush {gg{Gr{ge{Ge{gn{x{w meadow{x~
+The grass is slightly damp from a recent rainfall releasing a pleasant
+somewhat musky odor. Small animals dart about tumbling through the grass
+playing with their friends. Dry leaves from the overhead trees cover the
+grass under the trees stirred by errant breezes. A plethora of native
+herbs can be seen growing freely amidst the fertile soil.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2331
+D1
+~
+~
+0 0 2328
+D2
+~
+~
+0 0 2324
+D3
+~
+~
+0 0 2326
+M 20 H 20
+S
+#2328
+A lush {gg{Gr{ge{Ge{gn{x{w meadow{x~
+Tall green grass stirs gently under the caress of passing air currents. 
+Small animals scurry about oblivious to the presence of the trappers who
+stalk them for their hides.  Others prefer to forage the area in search of
+equally valuable herbs and reagents. Everything seems to be in harmony here,
+the creatures who live here and the trappers who derive their living from
+them.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2332
+D1
+~
+~
+0 0 2329
+D2
+~
+~
+0 0 2322
+D3
+~
+~
+0 0 2327
+M 20 H 20
+S
+#2329
+A lush {gg{Gr{ge{Ge{gn{x{w meadow{x~
+Dry leaves crackle loudly underfoot cast down from the tree limbs above.
+Small animals dart about through the grass providing the trappers in the
+area with easy lucrative prey. The Green Hills area has been blessed by
+natures bounty with its teeming wildlife to its plethora of native flora.
+There are few regions in the area that are lucky enough to have such a
+benign display of nature's kindness.
+~
+0 0 2
+0
+1
+2
+D2
+~
+~
+0 0 2321
+D3
+~
+~
+0 0 2328
+M 20 H 20
+S
+#2330
+A lush {gg{Gr{ge{Ge{gn{x{w meadow{x~
+A large elm tree stands out over the others to the north of here. A dim
+reflection shines off a pool of water at the base of it. The grass in the
+area all appears to show heavy traffic leading towards the elm. No doubt
+rain water collects there for the animals to enjoy. Perhaps a refreshing
+cool drink is in order?
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2335
+D1
+~
+~
+0 0 2331
+D2
+~
+~
+0 0 2326
+M 20 H 20
+S
+#2331
+A lush {gg{Gr{ge{Ge{gn{x{w meadow{x~
+Lush green grass sways silently stirred by errant passing breezes.
+A plethora of native herbs and wild flowers grow nicely in the rich
+brown loam. Herbalists love the area for its ready availability of easy
+to find resources. The animals bounding about in the grass provide the
+trappers with their meat and hides while subsisting off the bouny of the
+meadow.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2332
+D2
+~
+~
+0 0 2327
+D3
+~
+~
+0 0 2330
+M 20 H 20
+S
+#2332
+A lush {gg{Gr{ge{Ge{gn{x{w meadow{x~
+Dry leaves crackle loudly underfoot amidst the tall lush grass. A
+tall elm to the northwest towers above the others like a leafy beacon.
+A dim glimmer comes from a pool of water at the base of the giant elm.
+Fragrant wildflowers release their poignant pollens into the air to
+be spread about the meadow. A bare grassy area to the east marks the
+outer perimeter of the tree lined meadow.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2334
+D2
+~
+~
+0 0 2328
+D3
+~
+~
+0 0 2331
+M 20 H 20
+S
+#2333
+Along the Western Road~
+A hard packed dirt road follows the western route out of the city of
+Renfall. Tall grass along the road is neatly trimmed back curtesy of
+the city. The road carves its way past a series of fertile green fields
+teeming with woodland creatures. A crisp northern breeze stirs wildflowers
+along the road releasing their fragrant pollens into the air.
+~
+0 0 11
+0
+1
+2
+D1
+~
+~
+0 0 2354
+D3
+~
+~
+0 0 2360
+M 30 H 30
+S
+#2334
+A barren corner of the meadow~
+The grass is all matted here, withering and browning under
+the shade of the tall trees. The loam underfoot is a curious
+grey color unlike the rich brown of the majority of the meadow.
+Perhaps something underground is leaching away the nutrients in the
+loam creating this barren patch of the meadow.
+~
+0 0 2
+0
+1
+2
+D3
+~
+~
+0 0 2332
+M 20 H 20
+S
+#2335
+Under a giant elm~
+Native flora flourishes amidst the tall green grass. Large trees cast
+their leaves down to the ground below stirred by errant breezes. A pool
+of rainwater has collected at the base of a large elm here. The grass
+shows heavy traffic leading up to the pool. A few leaves float about
+on the surface of the otherwise clear pool of water.
+~
+0 0 2
+0
+1
+2
+D2
+~
+~
+0 0 2330
+M 20 H 20
+S
+#2336
+A wide dirt path~
+Lush green grass sways gently along the path caressed by the passing air
+currents. A large elm towers above the others in a tree lined meadow not far to
+the south. The air is fresh and invigorating, a recent rain has left small
+puddles along the path. Small birds call out in the tree limbs overheard
+talking with their avian neighbors. 
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2337
+D2
+~
+~
+0 0 2320
+M 20 H 20
+S
+#2337
+A wide dirt path~
+Dense tree growth along the path is broken by verdant green meadows
+of lush tall grass. Not far to the south a cluster of makeshift tents
+is barely visible. A local community of trappers use the nearby meadows
+to support a meagre lifestyle apart from the nearby city of Renfall. A
+{Csky{x {Bblue{x finch swoops by high overhad and enters the tangled treeline
+to the south.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2338
+D2
+~
+~
+0 0 2336
+M 30 H 30
+S
+#2338
+A wide dirt path~
+An open field ringed by trees leads off the path to the east. Small wildlife
+can be seen milling about in the lush grass. A few shadowy silhouettes of local
+trappers can be seen stalking the small animals along the treeline. A light
+northerly breeze stirs fallen leaves along the path carrying them off into the
+tall grass of the field. 
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2383
+D1
+~
+~
+0 0 2339
+D2
+~
+~
+0 0 2337
+M 20 H 20
+S
+#2339
+A lush {Gg{gr{Ge{ge{Gn{x{w field{x~
+The shadows of trappers are scarcely visible as they blend in with the
+tall grass stalking their prey. Small animals mill about oblivious to
+the danger. Soft breezes carry dry leaves high up into the air on random
+flights of fancy. A multitude of herbs appear to be growing freely amidst
+the lush green grass.
+~
+0 4 2
+0
+1
+2
+D1
+~
+~
+0 0 2340
+D3
+~
+~
+0 0 2338
+M 20 H 20
+S
+#2340
+A lush {Gg{gr{Ge{ge{Gn{x {wfield{x~
+Dry leaves from the trees crackle loudly underfoot. Soft breezes carry
+the leaves off into the air following the wind currents. The tall green
+grass has a pleasant musky scent to it. Multicolored herbs grow in
+abundance throughout the grass waiting to be be picked.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2341
+D3
+~
+~
+0 0 2339
+M 20 H 20
+S
+#2341
+A lush {Gg{gr{Ge{ge{Gn{x {wfield{x~
+Tall green grass sways gently in the fresh breeze circulating through
+the area. Tree limbs sway in a steady motion moved by the invisible
+hands of the wind. Birds fly from tree to tree calling to their mates
+and visiting the nests of their friends. A rather large black crow caws
+loudly nearby berating someone for their indiscretions.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2342
+D2
+~
+~
+0 0 2350
+D3
+~
+~
+0 0 2340
+M 20 H 20
+S
+#2342
+A lush {Gg{gr{Ge{ge{Gn{x {wfield{x~
+Green knee length grass sways gently under the caress of errant breezes. 
+Small animals bound about in the grass rolling around and paying no heed 
+to the trappers in their midst. Herbs large and small can be seen growing
+virtually everywhere in the rich brown loam of the field.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2343
+D2
+~
+~
+0 0 2349
+D3
+~
+~
+0 0 2341
+M 20 H 20
+S
+#2343
+A lush {Gg{gr{Ge{ge{Gn{x {wfield{x~
+Trappers of various ages and races pace off in the grass silently on
+the lookout for their prey. Birds flitter about the tree limbs overhead
+stirring the leaves. The grass underfoot is a vivid green and adds an
+almost springy carpet to the rich brown loam of the field.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2344
+D2
+~
+~
+0 0 2348
+D3
+~
+~
+0 0 2342
+M 20 H 20
+S
+#2344
+A lush {Gg{gr{Ge{ge{Gn{x {wfield{x~
+The high green grass is abuzz with wildlife as many small creatures make
+their way about. Tree limbs overhead sway gently stirred by a fresh breeze
+scattering their leaves to the ground below. The small brown caps of the
+native mugwort, a common herb in the region, sprinkles the grass in random
+patterns.
+~
+0 0 2
+0
+1
+2
+D1
+~
+~
+0 0 2345
+D2
+~
+~
+0 0 2347
+D3
+~
+~
+0 0 2343
+M 20 H 20
+S
+#2345
+A lush {Gg{gr{Ge{ge{Gn{x {wfield{x~
+Tall trees hem in the border of the meadow preventing further travel.
+The tall grass sways gently stirred by the passing breezes. Fragrant
+wildflowers grow amidst the grass nurtured by the rich brown loam of
+the meadow. The air is sweet with the fragrant pollens released by
+the native wildflowers. A wild {Melderberry{x bush grows here under the
+shade of the tall trees like a giant colorful spider web.
+~
+0 4 2
+0
+1
+2
+D2
+~
+~
+0 0 2346
+D3
+~
+~
+0 0 2344
+M 20 H 20
+R ACT 2311 arrived~
+S
+#2346
+A lush {Gg{gr{Ge{ge{Gn{x {wfield{x~
+Fragrant wildflowers mix with the rampant growth of wild herbs
+amidst tall lush grass. The rich loam of the field provides
+bountiful nourishment for all nature of native fauna to prosper.
+The native creatures enjoy nature's bounty providing a steady
+stream of easily captured hides and meats for the local trapping
+community.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2345
+D3
+~
+~
+0 0 2347
+M 20 H 20
+S
+#2347
+A lush {Gg{gr{Ge{ge{Gn{x {wfield{x~
+A few puddles of rain water lie amidst the tall grass after
+a recent rain. Fallen leaves amidst the grass crackle underfoot
+cast down by the trees. The dense tree growth along the edge of
+the field acts as a natural barrier encircling the boundaries of
+the field. Native herbs flourish in the rich brown loam offering
+themselves up for harvesting.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2344
+D1
+~
+~
+0 0 2346
+D3
+~
+~
+0 0 2348
+M 20 H 20
+S
+#2348
+A lush {Gg{gr{Ge{ge{Gn{x {wfield{x~
+A steady breeze moves through the lush green grass stirring dead 
+leaves and fallen branches. The grass is somewhat damp here, a few
+scattered pools of water lie amidst the grass. Several black crows
+can be seen rambling about in the limbs of a large elm high overhead.
+A plump rabbit chases after a lovely white hare intent on whatever it
+is rabbits get into to.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2343
+D1
+~
+~
+0 0 2347
+D3
+~
+~
+0 0 2349
+M 20 H 20
+S
+#2349
+A lush {Gg{gr{Ge{ge{Gn{x {wfield{x~
+Dry leaves crackle loudly underfoot intermingled with the knee 
+length grass. Multihued herbs grow rampant enjoying a harmonious
+symbiotic bond with the fertile brown soil. Silent figures can be
+observed blending in with the trees as trappers stalk their prey.
+A spotted doe wanders by, pausing to nibble on some herbs under an
+elm.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2342
+D1
+~
+~
+0 0 2348
+D3
+~
+~
+0 0 2350
+M 20 H 20
+S
+#2350
+A lush {Gg{gr{Ge{ge{Gn{x {wfield{x~
+Tall trees cast their falling leaves down into the grass below. A
+{Csky{x{B blue{x{w finch drifts by calling softly in its native tongue. Small
+animals forage about for food in the grass enjoying natures bounty.
+A plump squirrel darts up a nearby tree clutching a large {melderberry{x
+tightly.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2341
+D1
+~
+~
+0 0 2349
+M 20 H 20
+S
+#2351
+A wide dirt path~
+Open fields and meadows stretch off into the horizon over softly
+rolling countryside. A crisp breeze rifles through fallen leaves
+along the trail carrying them off into the tall grass. Small
+woodland creatures dart about the path foraging for food. The path
+climbs a slight hilltop towards the nearby city of Renfall to the north.
+~
+0 0 2
+0
+1
+2
+D0
+~
+~
+0 0 2352
+D2
+~
+~
+0 0 2378
+M 20 H 20
+S
+#2352
+A wide dirt path~
+A wide dirt path winds its way past lush green grass teeming with
+small woodland creatures. Tall grass sways silently stirred by a
+light northern breeze. The outer stone walls of the city of Renfall
+beckon to the north. A small huddle of tents house a local community
+of trappers to the near south.
+~
+0 0 4
+0
+1
+2
+D0
+~
+~
+0 0 2353
+D2
+~
+~
+0 0 2351
+M 20 H 20
+S
+#2353
+A wide dirt path~
+Tall trees sway silently along the wide dirt path leading through
+lush green fields and meadows. The path rolls along gently following
+the natural contours of the land. Not far to the northeast, the tall
+stone walls of the city of Renfall shelters its inhabitants. A crisp
+northerly breeze stirs the land carrying the fragrant scents of wild
+flowers.
+~
+0 0 4
+0
+1
+2
+E
+sign~
+The large sign bears the offical seal of the city of
+Renfall. In large bold letters it proclaims:
+By order of the city of Renfall do not enter the Ebonshear
+Forest! Sightings of gnolls and bugbears have increased
+recently in that area and your safety can not be guaranteed.
+You have been warned!
+~
+D0
+~
+~
+0 0 2354
+D2
+~
+~
+0 0 2352
+M 20 H 20
+S
+#2354
+Along the Western Road~
+A wide dirt path to the south passes through the rolling fields
+and tall grass of the Green Hills. To the east the open outer gates
+of the city of Renfall welcome the weary traveller. The western road
+traverses the outskirts of the Ebonshear Forest towards an abandoned
+milita garrison on the western horizon.
+~
+0 0 11
+0
+1
+2
+D1
+~
+~
+0 0 2355
+D2
+~
+~
+0 0 2353
+D3
+~
+~
+0 0 2333
+M 30 H 30
+S
+#2355
+Before the Western Gatehouse~
+The western gatehouse to the city of Renfall towers over the road
+here. Comprised of large stone and mortar, an elaborate system of
+gears and pulleys within the gathouse controls the city gate which
+is currently open. The western road leads off towards the lush fields
+of the Green Hills not far from here. The silhouttes of a few stawart
+guards of the city move about guarding the open gatehouse.
+~
+0 4 11
+0
+1
+2
+D1
+~
+~
+0 0 1041
+D3
+~
+~
+0 0 2354
+M 30 H 30
+S
+#2356
+A wide dirt path~
+The wide dirt path travels along gentle rolling hills past lush green fields
+and meadows of tall grass. A crisp northern breeze stirs fallen leaves along
+the path stirred into motion under its gentle caress. A cluster of ramshackle
+tents to the north is the center of a small trapping community. Far to the
+north the city of Renfall beckons to the weary traveller promising fine dining
+and comfortable lodging. 
+~
+0 0 4
+0
+1
+2
+D0
+~
+~
+0 0 2300
+D2
+~
+~
+0 0 2357
+M 20 H 20
+S
+#2357
+A wide dirt path~
+An opening in the tree lined path leads off into the dim shadows of the
+Ebonshear Forest. A large warning {Rsign{x advises all intrepid adventurers to
+read it carefully before proceeding further. The gentle babble of the River
+Sienne beckons just to the south of here. A curious grey squirrel pauses then
+impulsively darts into dim shadows of the Ebonshear Forest. 
+~
+0 0 4
+0
+1
+2
+E
+sign~
+The sign bears the official seal of the city of Renfall
+In bold letters it proclaims the following:
+Extreme caution is advised in entering the Ebonshear Forest!
+The city of Renfall can not guarantee your safe travel at
+this time. Sightings of wild gnolls and bugbears have been
+spotted and great caution is advised while travelling through
+the forest. Enter at your own risk!
+The official seal of the city of Renfall is attached firmly
+to the bottom of the sign.
+~
+D0
+~
+~
+0 0 2356
+D2
+~
+~
+0 0 2359
+D3
+~
+~
+0 0 2358
+M 20 H 20
+S
+#2358
+Outskirts of the Ebonshear Forest~
+Fallen leaves and leafy debris crunch loudly underfoot echoing
+off down the dimly lit path. Tall trees grip the path tightly
+casting odd shadows in their wake. What sunlight manages to
+penetrate the heavy tree cover does little to alleviate the
+sense of gloom that hangs heavy in the air. A wide dirt path
+beckons to the east leading out of the dreary forboding forest.
+~
+0 4 3
+0
+1
+2
+D1
+~
+~
+0 0 2357
+D3
+~
+~
+0 0 2200
+M 20 H 20
+S
+#2359
+Before a washed out bridge~
+A wide dirt path leads off into the gentle rolling hills to the north. Heavy
+tree growth marks the tips of the mysterious Ebonshear Forest where danger is
+rumored to lurk for the unwary. The gentle babble of the River Sienne murmurs
+along here past a rickety washed out bridge. Another way of crossing the rapid
+river will have to be found. The river can be followed both east and west. 
+~
+0 0 13
+0
+1
+2
+E
+bridge~
+A new looking sign has been hung preventing access across
+the damaged bridge. A recent heavy rainstorm has swelled the
+river causing massive damage to the bridge. Until the city can
+repair the bridge another way will have to be found to cross 
+over the river.
+~
+D0
+~
+~
+0 0 2357
+D1
+~
+~
+0 0 2370
+D3
+~
+~
+0 0 2400
+M 20 H 20
+S
+#2360
+Along the Western Road~
+A hard packed dirt road leads away from the city gates of Renfall
+towards a small militia garrison in the distance. Freshly trimmed green
+grass along the road is dotted with colorful wildflowers. Small woodland
+creatures mill about in the grass foraging for nuts and berries. The road
+rises slightly over a gentle hilltop framed by ancient oaks.
+~
+0 0 11
+0
+1
+2
+D1
+~
+~
+0 0 2333
+D3
+~
+~
+0 0 2361
+M 30 H 30
+S
+#2361
+Along the Western Road~
+The gates to a large gated garrison are nestled within the protective
+grasp of a reinforced wood and stone wall to the north. An aura of secrecy
+hovers over the garrison, only those who have been summoned have seen
+its inner environs. The road to the east leads to the inner open gates
+of the city of Renfall.
+~
+0 0 11
+0
+1
+2
+D1
+~
+~
+0 0 2360
+D3
+~
+~
+0 0 2362
+M 30 H 30
+S
+#2362
+Along the Western Road~
+The gates to the odd garrison are nestled with a reinforced wall of stone
+and wood to the near north. A steady stream of unknown people of all races
+have been seen leaving the garrison as of late heading out into the awaiting
+countryside. A large steel gate guards the entrance to the garrison barring
+entrance to the uninvited.
+~
+0 0 11
+0
+1
+2
+D0
+~
+~
+0 0 2363
+D1
+~
+~
+0 0 2361
+D3
+~
+~
+1 0 2384
+M 30 H 30
+S
+#2363
+Before the garrison of Renfall~
+A large steel gate bars further travel into the garrison here. Inset into a
+heavily reinforced wood and stone outer wall, the security of the garrison
+is quite intriguing. Why such tight security within a relatively peaceful
+area begs for further investigation by the curious.
+~
+0 0 11
+0
+1
+2
+D2
+~
+~
+0 0 2362
+M 30 H 30
+S
+#2370
+Along a riverbank~
+~
+0 0 13
+0
+0
+0
+D1
+~
+~
+0 0 2371
+D3
+~
+~
+0 0 2359
+M 25 H 25
+S
+#2371
+Along a riverbank~
+~
+0 0 13
+0
+0
+0
+D1
+~
+~
+0 0 2372
+D3
+~
+~
+0 0 2370
+M 25 H 25
+S
+#2372
+Along a riverbank~
+~
+0 0 13
+0
+0
+0
+D1
+~
+~
+0 0 2373
+D3
+~
+~
+0 0 2371
+M 25 H 25
+S
+#2373
+Along a riverbank~
+~
+0 0 13
+0
+0
+0
+D1
+~
+~
+0 0 2374
+D3
+~
+~
+0 0 2372
+M 25 H 25
+S
+#2374
+Along a riverbank~
+~
+0 0 13
+0
+0
+0
+D2
+~
+~
+0 0 2375
+D3
+~
+~
+0 0 2373
+M 25 H 25
+S
+#2375
+Along a riverbank~
+~
+0 0 13
+0
+0
+0
+D0
+~
+~
+0 0 2374
+D1
+~
+~
+0 0 2376
+M 25 H 25
+S
+#2376
+Along a riverbank~
+~
+0 0 13
+0
+0
+0
+D1
+~
+~
+0 0 2377
+D3
+~
+~
+0 0 2375
+M 25 H 25
+S
+#2377
+Along a riverbank~
+~
+0 0 13
+0
+0
+0
+D1
+~
+~
+0 0 1365
+D3
+~
+~
+0 0 2376
+M 25 H 25
+S
+#2378
+Greenrock Barrows~
+~
+0 0 4
+0
+0
+0
+D0
+~
+~
+0 0 2351
+D2
+~
+~
+0 0 2379
+M 25 H 25
+S
+#2379
+Greenrock Barrows~
+~
+0 0 4
+0
+0
+0
+D0
+~
+~
+0 0 2378
+D2
+~
+~
+0 0 2380
+M 25 H 25
+S
+#2380
+Greenrock Barrows~
+~
+0 0 4
+0
+0
+0
+D0
+~
+~
+0 0 2379
+D2
+~
+~
+0 0 2381
+M 25 H 25
+S
+#2381
+Greenrock Barrows~
+~
+0 0 4
+0
+0
+0
+D0
+~
+~
+0 0 2380
+D2
+~
+~
+0 0 2382
+M 25 H 25
+S
+#2382
+Greenrock Barrows~
+~
+0 0 4
+0
+0
+0
+D0
+~
+~
+0 0 2381
+D2
+~
+~
+0 0 2383
+M 25 H 25
+S
+#2383
+Greenrock Barrows~
+~
+0 0 4
+0
+0
+0
+D0
+~
+~
+0 0 2382
+D2
+~
+~
+0 0 2338
+M 25 H 25
+S
+#2384
+~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+1 0 2362
+D3
+~
+~
+0 0 2385
+M 25 H 25
+S
+#2385
+~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 2384
+D3
+~
+~
+0 0 2386
+M 25 H 25
+S
+#2386
+~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 2385
+D3
+~
+~
+0 0 2387
+M 25 H 25
+S
+#2387
+~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 2386
+D3
+~
+~
+0 0 2388
+M 25 H 25
+S
+#2388
+~
+~
+0 0 2
+0
+0
+0
+D1
+~
+~
+0 0 2387
+D3
+~
+~
+0 0 2389
+M 25 H 25
+S
+#2389
+~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 2390
+D1
+~
+~
+0 0 2388
+M 25 H 25
+S
+#2390
+~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 2391
+D2
+~
+~
+0 0 2389
+M 25 H 25
+S
+#2391
+~
+~
+0 0 2
+0
+0
+0
+D0
+~
+~
+0 0 4101
+D2
+~
+~
+0 0 2390
+M 25 H 25
+S
+#2399
+~
+~
+0 4 0
+0
+1
+2
+M 10 H 10
+S
+#0
+
+
+
+#SPECIALS
+M 2300 spec_cast_adept
+M 2316 spec_thief
+M 2321 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 2303 0 1
+D 0 2303 2 1
+D 0 2304 2 1
+D 0 2306 0 1
+D 0 2307 0 1
+D 0 2307 2 1
+D 0 2308 2 1
+D 0 2309 0 1
+D 0 2310 0 1
+D 0 2310 2 1
+D 0 2311 2 1
+D 0 2312 0 1
+D 0 2362 3 1
+D 0 2384 1 1
+O 0 2397 0 2302 A shimmering portal loaded to A gathering of tents
+O 0 2398 0 2302 A roaring bonfire loaded to A gathering of tents
+M 0 2320 1 2304 3 Load Gerard the skinner
+O 0 2309 0 2305 A pile of furs loaded to The healer's tent
+M 0 2300 1 2305 3 Load Clea Bergnon
+O 0 2309 0 2311 A pile of furs loaded to A cluttered tent
+M 0 2322 10 2311 2 Load a weary trapper
+O 0 2309 0 2312 A pile of furs loaded to A well-lit tent
+O 0 2309 0 2312 A pile of furs loaded to A well-lit tent
+M 0 2333 10 2312 3 Load a hungry trapper
+E 0 2302 0 5 A deerskin tunic is loaded on the body of a hungry trapper
+G 0 2308 0 A steaming bowl of rabbit stew is given to a hungry trapper
+M 0 2301 1 2315 3 Load Ingrid the Cook
+G 0 2308 0 A steaming bowl of rabbit stew is given to Ingrid the Cook
+M 0 2305 1 2316 3 Load Estvan the Old
+M 0 2321 1 2318 3 Load Mystara the mystic
+M 0 2302 1 2319 1 Load an elven trader
+G 0 2307 0 A small leather backpack is given to an elven trader
+G 0 2315 0 A traveler's knife is given to an elven trader
+G 0 2316 0 A small leather canteen is given to an elven trader
+G 0 2317 0 A thick white candle is given to an elven trader
+M 0 2306 10 2321 2 Load a young elven trapper
+E 0 2301 0 6 A deerskin cap is loaded over the head of a young elven trapper
+E 0 2302 0 5 A deerskin tunic is loaded on the body of a young elven trapper
+E 0 2310 0 15 A bone skinning knife is loaded wielded of a young elven trapper
+G 0 2331 0 A tiny empty flask is given to a young elven trapper
+M 0 2303 25 2322 2 Load a white rabbit
+M 0 2304 25 2322 2 Load a brown bunny
+M 0 2304 12 2325 2 Load a brown bunny
+M 0 2304 25 2326 2 Load a brown bunny
+M 0 2311 25 2326 2 Load a {Csky{x {Bblue{x{w finch{x
+M 0 2312 4 2326 2 Load {wa spotted doe{x
+M 0 2307 20 2326 5 Load an alchemist apprentice
+E 0 2304 0 6 A cotton hat is loaded over the head of an alchemist apprentice
+E 0 2305 0 5 A pair of cotton overalls is loaded on the body of an alchemist apprentice
+E 0 2307 0 11 A small leather backpack is loaded about the shoulders of an alchemist apprentice
+G 0 2331 0 A tiny empty flask is given to an alchemist apprentice
+G 0 2314 0 A plump {me{ml{md{me{mr{mb{me{mr{mr{my{x is given to an alchemist apprentice
+M 0 2303 25 2328 2 Load a white rabbit
+M 0 2303 10 2330 2 Load a white rabbit
+M 0 2303 25 2332 2 Load a white rabbit
+M 0 2316 15 2333 2 Load a scruffy fellow
+O 0 2300 0 2335 A pool of rainwater loaded to Under a giant elm
+M 0 2303 15 2335 2 Load a white rabbit
+M 0 2315 10 2336 2 Load a bald monk
+M 0 2335 12 2341 2 Load a plump brown squirrel
+M 0 2334 25 2345 3 Load a black crow
+M 0 2309 1 2345 1 Load a young boy
+E 0 2317 0 18 A thick white candle is loaded held in the hands of a young boy
+M 0 2399 1 2345 1 Load a wild elderberry bush
+M 0 2308 10 2346 2 Load a small minx
+M 0 2311 25 2346 2 Load a {Csky{x {Bblue{x{w finch{x
+M 0 2303 25 2346 2 Load a white rabbit
+M 0 2334 25 2347 2 Load a black crow
+M 0 2312 25 2348 3 Load {wa spotted doe{x
+M 0 2304 25 2348 3 Load a brown bunny
+M 0 2313 10 2348 2 Load a dwarven hunter
+E 0 2313 0 15 A longbow of oak is loaded wielded of a dwarven hunter
+E 0 2312 0 11 A concealing cloak is loaded about the shoulders of a dwarven hunter
+E 0 2311 0 12 A belt of deer hide is loaded around the waist of a dwarven hunter
+M 0 2308 1 2349 1 Load a small minx
+S
+
+
+
+#SHOPS
+2301 19 17 0 0 0 110 100 0 23
+0
+2302 5 9 17 8 1 100 100 0 23
+0
+0
+
+
+
+#MOBPROGS
+#2300
+if ispc $n
+emote calmly looks at you as you enter.
+say How are you today?
+say Have you come to explore the {Cmysteries{x{w of the fields?
+eyebrow $n
+endif
+~
+#2301
+if carries $n 2201
+say Ahh you've found a frang's leg!
+mob remove $n 2201
+mob junk 2201
+mob echoat $n You hand Ingrid the frang's leg.
+mob echoat $n Ingrid takes the frang's leg and tosses it into a pot.
+emote rubs her belly.
+say That will make a delicious meal later!
+mob echoat $n You have completed Area Quest: {RFrang Leg Surprise!{x
+if level $n < 10
+mob addgp $n 40
+else
+if level $n > 10
+mob echoat $n {RYou are too high level to receive full payout for this quest.{x
+comfort $n
+say Here have some free stew for your efforts honey.
+mob oload 2308 1 Room
+mob force $n get stew
+else
+if level $n < 8
+smile $n
+say Why you look hungry dear.
+say Why don't you try some of my rabbit stew?
+emote stirs a large ladle in a giant pot.
+else
+if level $n > 8
+sigh
+say Ahh I'm running out of frang legs.
+say Perhap's if you run across any in your travels?
+say I could possibly make it worth your while?
+endif
+endif
+endif
+endif
+endif
+~
+#2302
+if carries $n 2314
+smile $n
+mob echoat $n You hand the elderberry over to Estvan.
+mob remove $n 2314
+mob junk elderberry
+mob echoat $n Estvan gulps down the elderberry in one bite!
+emote burps loudly!
+mob oload 2499
+mob oload 2330
+say A little token of my appreciation.
+give ring $n
+give recipe $n
+if level $n < 5
+mob addgp $n 25
+mob echoat $n You have completed the Area Quest: {GFind the elderberry!{x
+mob oload 1070 1 Room
+mob echoat $n Estvan gives you a friendly smile.
+mob echoat $n Estvan fumbles around on the table for something.
+get log
+give log $n
+mob echoat $n {yYou have acquired Guild Quest Item: Travel Log!{x
+say Look that over when your not busy. It makes for interesting reading.
+cackle
+end
+endif
+if level $n > 5
+mob echoat $n You have completed the Area Quest: {GFind the elderberry!{x
+mob echoat $n {RYou are too high level to receive full payout from this quest.{x
+Say Now your probably wondering what next?
+say Perhaps a visit with Mystara would do the trick?
+say Mystara can be found close to my hut.
+say She may have something interesting for you to do.
+end
+endif
+else
+if ispc $n
+yawn
+say Why hello young one.
+say It's nice to see a new face around here.
+say Perhaps you could {Chelp{x an old man out?
+endif
+endif
+end
+~
+#2303
+if ispc $n
+smile $n
+Say Hello there you look to be tired.
+say Why don't you rest for a moment?
+emote points towards a pile of furs on the ground.
+endif
+~
+#2304
+mob echoat $n The severed paw of the minx plops on the ground.
+mob oload 2319 4 Room
+mob echoaround $n The severed paw of the minx lands on the ground with a plop!
+~
+#2305
+if level $n < 10
+or isimmort $n
+smile
+say I collect trophies from the fields nearby.
+say If you come across anything unusual
+say Bring them to me and perhaps I can make use of them.
+say The items in question will have a {C[Q]{x{w on them.
+say Anything else I will have little use for.
+else
+say You appear to be doing well $n.
+say I knew you had potential when I first laid eyes on you.
+say When the time is right, I'm sure you'll be of service to me.
+grin $n
+endif
+~
+#2306
+if carries $n 2319
+mob echoat $n Mystara eye's widen with delight.
+mob echoat $n With some trepidation you hand over the paw of the minx...
+mob remove $n 2319
+mob junk all
+mob echoat $n Mystara studies the paw carefully...
+mob echoat $n A look of excitement seems to fill her lovely face...
+say Ahh excellent find! I've been wanting to try something.
+mob echoat $n Mystara closes her eyes as she seems to be remembering something...
+mob echoat $n Mystara opens her eyes and utters a single word in a deep gutteral tongue..
+mob echoat $n The paw glows with a flash of light!
+mob echoaround $n The paw glows with a flash of light!
+mob echoat $n A small handmade talisman materializes!
+mob echoaround $n A small handmade talisman materializes!
+mob junk all
+mob oload 2320 1 Room
+get talisman
+say I hope this will aid you in your journeys.
+give talisman $n
+mob echoat $n You have completed Area Quest: {GPaw of the Minx{x
+if level $n < 8
+mob addgp $n 30
+smile
+end
+endif
+if level $n > 8
+mob echoat $n {RYou are too high level to receive full payout for this quest!{x
+say Have you met Ingrid?
+say I believe she's looking for some {Cfrang{x legs.
+say She lives in a tent near to Estvan.
+wink $n
+end
+endif
+else
+if ispc $n
+mob echoat $n Mystara gives you a slightly cynical smile.
+say Have you come to explore the mysteries of the Greenrock Barrows?
+endif
+endif
+end
+~
+#2307
+if ispc $n
+say I'm sorry this is of no use to me.
+give $o to $n
+endif
+~
+#2308
+if carries $n 2218
+say Where did you get that?
+Emote points at the engagement ring.
+mob echoat $n You relate to Billy how you discovered the ring.
+mob echoaround $n $N relates to Billy how they found the ring.
+mob echoat $n You give the ring to a tearful Billy.
+mob echoaround $n $N gives the ring to a tearful Billy.
+mob remove $n 2218
+mob oload 2399 1 none
+say Here take this.
+give flask $n
+mob addgp $n 400
+mob echoat $n Billy waves in thanks.
+mob echoat $n Billy leaves for Renfall to tell his mother the news.
+mob goto 2399
+mob purge Billy
+else
+if level $n < 6
+or isimmort $n
+tell $n Hello.
+mob echoat $n The young boy peers around as if searching for someone.
+mob echoaround $n The young boy peers around as if searching for someone.
+say I'm searching for my father, my mother is getting worried about him.
+say Perhaps you have time to hear my {Cstory{x{w?
+mob echoat $n The boy looks at you with tear filled eyes.
+endif
+endif
+~
+#2309
+if ispc $n
+smile 
+say My dad, he's one of the best trappers in these parts.
+say He left our house about two weeks ago to meet a friend in this area.
+say He was only supposed to be gone for two days.
+scowl
+say ITS BEEN TWO WEEKS NOW!
+say My mom, she's worried sick about him. So I left Renfall to go look for him.
+say If you happen to see him, he's always wearing an engagement ring, my mom gave that to him.
+say Could you tell him his son Billy is looking for him?
+say I'll be waiting around here.. but I can't stay away from the city too long.
+endif
+~
+#2310
+if level $n < 8
+or isimmort $n
+say Ah excellent! I knew you were a helpful sort!
+say Not far from here there is a blooming elderberry bush.
+Say I could really go for an elderberry from that bush.
+smile
+say This will help you identify said item.
+emote fumbles around on the table looking for something.
+mob oload 2321 1 Room
+get guide
+give guide $n
+else
+say Ahh you're too busy to help, I'd think.
+say Perhaps another time then.
+endif
+~
+#2311
+if carries $n 2321
+mob oload 2314 1 Room
+mob echoat $n You pluck a plump {Melderberry{x{w from the wild bush.
+mob force $n get elderberry
+mob echoat $n This is just what Estvan was looking for!
+mob echoat $n Satisfied with your find you discard your guide to foraging.
+mob echoat $n {CTip: {GReturn to Estvan to complete {RArea Quest: {GFind the Elderberry!{x
+mob remove $n 2321
+else
+mob echoat $n A soft breeze stirs the leaves of a wild elderberry bush.
+endif
+ 
+~
+#2312
+if $n carries 2314
+say Ahh excellent find.
+mob echoat $n You hand the elderberry to Estvan.
+mob force $n give elderberry
+mob echoat $n Estvan gulps the elderberry down in one bite!
+emote burps loudly!
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#2311
+if has $n 2321
+mob echoat $n A plump elderberry begs to be picked!
+mob oload 2314 1 Room
+endif
+~
+#0
+
+#$

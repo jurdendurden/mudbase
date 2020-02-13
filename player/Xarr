@@ -1,0 +1,453 @@
+#PLAYER
+Name Xarr~
+Id   1579724843
+LogO 1581276485
+Vers 11
+Blind 0
+Boon 7
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race gnome~
+Clan loner~
+Clan_Rank 0
+Clan_Points 0
+Sex  1
+Cla  0
+God	3
+Favored 0
+GuildRnk  1
+GuildPts  231
+ElemSpec   1
+Levl 11
+Sec  0
+Plyd 25214
+Email jgates33@gmail.com~
+Citizen Renfall~
+Scro 22
+Room 1100
+HMV  104 104 247 247 178 180
+Bleed 0
+Talent 0
+PP 0 0
+Gold 2
+Silv 1505
+BAcct 1
+Bank 1010
+Exp  1005734
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 602
+Eyes 32
+Haircut 1
+Facial 64
+Age 44
+Account Gwarr~
+Recall 1010
+Act  CDEFGKQT
+Comm NOP
+Pos  8
+Trai 2
+Alig  -250
+Hit   2
+ACs 81 92 78 84
+Attr 18 23 20 17 18 15
+AMod 0 1 3 0 0 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 6
+HMVP 91 216 180
+Cnd  0 0 263 401 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 671
+69 67108862
+68 -16777216
+72 -524801
+74 16777212
+73 134217726
+32 2096702
+21 30
+19 -1
+20 -129
+18 -1090519039
+31 -33023
+71 -268403199
+34 28800
+33 1074758204
+62 458752
+63 1895332867
+64 -1811955743
+815 -1048575
+817 -1342177279
+816 240
+65 2046
+90 -1074790399
+91 -268546562
+128 -260046879
+129 2147483647
+124 1
+125 -33562625
+126 1048574
+42 -1
+41 -1
+43 16777214
+37 -65535
+39 -1
+40 -528498689
+38 -1
+281 256
+130 4
+70 65472
+-1 -1
+Boards       7 General 1579918964 Changes 1581045612 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 26 'armor'
+Sk 59 'burning hands'
+Sk 26 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'recharge'
+Sk 1 'summon'
+Sk 1 'manavert'
+Sk 26 'audible glamor'
+Sk 1 'confusion'
+Sk 1 'mana shield'
+Sk 15 'gaseous form'
+Sk 13 'resist scrying'
+Sk 89 'dagger'
+Sk 26 'staff'
+Sk 76 'first aid'
+Sk 45 'lore'
+Sk 56 'meditation'
+Sk 50 'scrolls'
+Sk 1 'wands'
+Sk 15 'recall'
+Gr 'rom basics'
+Gr 'wizard basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+-104 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 611
+Nest 0
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 18
+Nest 0
+Name a skean of wisdom~
+ShD  a skean of wisdom~
+Desc a skean of wisdom~
+ExtF 64
+WeaF 8193
+Ityp 5
+Wt   3
+Material silver~
+Wear 15
+Lev  5
+Cost 3350
+Val  2 1 7 2 0
+Affc 'reserved'   0   0  -1   1   3          0
+Affc 'reserved'   0   0  -1   2   4          0
+End
+
+#O
+Vnum 615
+Nest 0
+Cond 99
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 1067
+Nest 0
+Wear 4
+Cost 100
+End
+
+#O
+Vnum 2304
+Nest 0
+Wear 6
+Cost 5
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1040
+Nest 0
+Wear -1
+Time 879
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 2220
+Nest 0
+Wear 3
+Cost 230
+End
+
+#O
+Vnum 2222
+Nest 0
+Wear 12
+Cost 1900
+End
+
+#O
+Vnum 2215
+Nest 0
+Wear 7
+Cost 120
+End
+
+#O
+Vnum 2214
+Nest 0
+Wear 5
+Cost 150
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1074
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1040
+Nest 0
+Wear -1
+Time 755
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 0
+Wear -1
+Time 733
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 0
+Wear -1
+Time 931
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 0
+Wear -1
+Time 559
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 0
+Wear 18
+Time 938
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 35
+Nest 0
+Name a floating sphere of flame arrow~
+ShD  a floating sphere of flame arrow~
+Desc a floating sphere of flame arrow~
+ExtF 66
+WeaF 65537
+Wear 19
+Lev  8
+Cost 1999
+Val  7 9 8 123 0
+Spell 3 'flame arrow'
+End
+
+#END

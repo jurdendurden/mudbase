@@ -1,0 +1,12 @@
+#GAME
+MostOn 0
+Mkills 0
+Mkiller (null)~
+Explored 0
+Explorer (null)~
+MostHours 0
+MostHour (null)~
+End
+
+#END
+

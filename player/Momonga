@@ -1,0 +1,1121 @@
+#PLAYER
+Name Momonga~
+Id   1579386425
+LogO 1579765170
+Vers 11
+Blind 0
+Boon 8
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race human~
+Clan loner~
+Clan_Rank 0
+Clan_Points 0
+Sex  1
+Cla  1
+God	1
+Favored 0
+GuildRnk  0
+GuildPts  0
+Levl 47
+Sec  0
+Plyd 2385
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 2853
+HMV  318 1182 356 1041 1199 1199
+Bleed 0
+Talent 0
+PP 0 0
+Gold 198
+Silv 4770
+BAcct 0
+Bank 0
+Exp  31859000
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 7
+Eyes 64
+Haircut 1
+Facial 4
+Age 18
+Account ~
+Recall 1010
+Act  CDEGKNQT
+AfBy ACDEGH
+Comm NOP
+Wizn A
+Pos  4
+Prac 190
+Trai 53
+Save  -9
+Alig  -800
+Hit   2
+Dam   10
+ACs -178 -170 -171 -101
+Attr 16 16 16 11 16 13
+AMod 5 8 0 0 16 8
+Pass ~
+Titl .~
+PreT ~
+Cond	1
+Pnts 0
+TSex 1
+LLev 0
+HMVP 1051 1000 1000
+Cnd  0 60 60 60 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 10
+89 992
+817 8192
+31 262144
+0 2
+71 1073741824
+3 131072
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 100 'reserved'
+Sk 100 'acid blast'
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 100 'blindness'
+Sk 100 'burning hands'
+Sk 100 'call lightning'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 100 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'chain lightning'
+Sk 100 'change sex'
+Sk 100 'charm person'
+Sk 100 'chill touch'
+Sk 100 'colour spray'
+Sk 100 'continual light'
+Sk 100 'control weather'
+Sk 100 'create food'
+Sk 100 'create rose'
+Sk 100 'create spring'
+Sk 100 'create water'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 100 'cure serious'
+Sk 100 'curse'
+Sk 100 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect hidden'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'dispel magic'
+Sk 100 'earthquake'
+Sk 100 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 100 'energy drain'
+Sk 100 'faerie fire'
+Sk 100 'faerie fog'
+Sk 100 'farsight'
+Sk 100 'fireball'
+Sk 100 'fireproof'
+Sk 100 'flamestrike'
+Sk 100 'fly'
+Sk 100 'floating disc'
+Sk 100 'frenzy'
+Sk 100 'gate'
+Sk 100 'giant strength'
+Sk 100 'harm'
+Sk 100 'haste'
+Sk 100 'heal'
+Sk 100 'heat metal'
+Sk 100 'holy word'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'lightning bolt'
+Sk 100 'locate object'
+Sk 100 'magic missile'
+Sk 100 'mass healing'
+Sk 100 'mass invis'
+Sk 100 'nexus'
+Sk 100 'pass door'
+Sk 100 'plague'
+Sk 100 'poison'
+Sk 100 'portal'
+Sk 100 'protection evil'
+Sk 100 'protection good'
+Sk 100 'ray of truth'
+Sk 100 'recharge'
+Sk 100 'refresh'
+Sk 100 'remove curse'
+Sk 100 'sanctuary'
+Sk 100 'shield'
+Sk 100 'shocking grasp'
+Sk 100 'sleep'
+Sk 100 'slow'
+Sk 100 'stone skin'
+Sk 100 'summon'
+Sk 100 'teleport'
+Sk 100 'ventriloquate'
+Sk 100 'weaken'
+Sk 100 'word of recall'
+Sk 100 'shadow bolt'
+Sk 100 'manavert'
+Sk 100 'acid breath'
+Sk 100 'fire breath'
+Sk 100 'frost breath'
+Sk 100 'gas breath'
+Sk 100 'lightning breath'
+Sk 100 'shadow breath'
+Sk 100 'energy breath'
+Sk 100 'general purpose'
+Sk 100 'high explosive'
+Sk 100 'knock'
+Sk 100 'fear'
+Sk 100 'audible glamor'
+Sk 100 'extension'
+Sk 100 'confusion'
+Sk 100 'web'
+Sk 100 'silence'
+Sk 100 'scry'
+Sk 100 'detect scrying'
+Sk 100 'displacement'
+Sk 100 'disrupt undead'
+Sk 100 'enlarge person'
+Sk 100 'etherealness'
+Sk 100 'feeblemind'
+Sk 100 'paralyzation'
+Sk 100 'detect undead'
+Sk 100 'detect traps'
+Sk 100 'mana shield'
+Sk 100 'embalm'
+Sk 100 'acid arrow'
+Sk 100 'flame arrow'
+Sk 100 'frost arrow'
+Sk 100 'blink'
+Sk 100 'disintegrate'
+Sk 100 'stone meld'
+Sk 100 'barkskin'
+Sk 100 'shillelagh'
+Sk 100 'entangle'
+Sk 100 'detect plants'
+Sk 100 'resistance'
+Sk 100 'sunbeam'
+Sk 100 'fire seeds'
+Sk 100 'thorns'
+Sk 100 'animal growth'
+Sk 100 'changestaff'
+Sk 100 'water breathing'
+Sk 100 'regeneration'
+Sk 100 'transmute metal'
+Sk 100 'summon monster'
+Sk 100 'summon fire'
+Sk 100 'summon water'
+Sk 100 'summon air'
+Sk 100 'summon earth'
+Sk 100 'blade barrier'
+Sk 100 'globe of invulnerability'
+Sk 100 'gaseous form'
+Sk 100 'ghoul touch'
+Sk 100 'forbiddance'
+Sk 100 'explosive runes'
+Sk 100 'fire storm'
+Sk 100 'gust of wind'
+Sk 100 'ice storm'
+Sk 100 'meteor swarm'
+Sk 100 'nightmare'
+Sk 100 'create fire'
+Sk 100 'resist scrying'
+Sk 100 'astral spell'
+Sk 100 'animate object'
+Sk 100 'banshee wail'
+Sk 100 'copy'
+Sk 100 'chromatic orb'
+Sk 100 'corpse visage'
+Sk 100 'death recall'
+Sk 100 'negative plane protection'
+Sk 100 'obscure object'
+Sk 100 'timestop'
+Sk 100 'planar door'
+Sk 100 'free action'
+Sk 100 'cone of cold'
+Sk 100 'cone of shadow'
+Sk 100 'cone of sound'
+Sk 100 'cone of silence'
+Sk 100 'pass without trace'
+Sk 100 'searing light'
+Sk 100 'sunburst'
+Sk 100 'strength'
+Sk 100 'intelligence'
+Sk 100 'wisdom'
+Sk 100 'dexterity'
+Sk 100 'constitution'
+Sk 100 'charisma'
+Sk 100 'wrath of the ancients'
+Sk 100 'lay hands'
+Sk 100 'aid'
+Sk 100 'retribution'
+Sk 100 'holy forge'
+Sk 100 'flaming forge'
+Sk 100 'vampiric forge'
+Sk 100 'lightning forge'
+Sk 100 'frost forge'
+Sk 100 'antimagic shell'
+Sk 100 'earth ward'
+Sk 100 'dimensional mine'
+Sk 100 'shocking web'
+Sk 100 'geyser'
+Sk 100 'shocking runes'
+Sk 100 'animate weapon'
+Sk 100 'hardstaff'
+Sk 100 'finger of death'
+Sk 100 'remove paralysis'
+Sk 100 'alarm'
+Sk 100 'animate dead'
+Sk 100 'raise dead'
+Sk 100 'blasphemy'
+Sk 100 'wither'
+Sk 100 'bless water'
+Sk 100 'deafness'
+Sk 100 'disenchant'
+Sk 100 'command undead'
+Sk 100 'commune nature'
+Sk 100 'darkness'
+Sk 100 'erase'
+Sk 100 'rehydrate'
+Sk 100 'frostbite'
+Sk 100 'monsoon'
+Sk 100 'frostbolt'
+Sk 100 'transfer life'
+Sk 100 'comprehend languages'
+Sk 100 'dimensional anchor'
+Sk 100 'elemental protection'
+Sk 100 'feather fall'
+Sk 100 'bleeding touch'
+Sk 100 'spectral hand'
+Sk 100 'vocal shield'
+Sk 100 'adagio'
+Sk 100 'crescendo'
+Sk 100 'audible intoxication'
+Sk 100 'nourishing ballad'
+Sk 100 'motivation'
+Sk 100 'vitalizing verse'
+Sk 100 'ballad of the banshee'
+Sk 100 'hypnotic verse'
+Sk 100 'insidious chord'
+Sk 100 'calming verse'
+Sk 100 'diminishing scale'
+Sk 100 'aggressive staccato'
+Sk 100 'assisted coda'
+Sk 100 'dynamic diapason'
+Sk 100 'tribute to gnomish ingenuity'
+Sk 100 'quicken tempo'
+Sk 100 'orbitting rhythm and lead'
+Sk 100 'suggestive verse'
+Sk 100 'melody of masked intent'
+Sk 100 'forgetful lullaby'
+Sk 100 'hymn to the fallen'
+Sk 100 'contradicting melody'
+Sk 100 'cacophonic shield'
+Sk 100 'dissonant chord'
+Sk 100 'dirge of dischord'
+Sk 100 'harmonic chorus'
+Sk 100 'improvisation'
+Sk 100 'repulsive din'
+Sk 100 'infernal threnody'
+Sk 100 'listening jewel'
+Sk 100 'wail of doom'
+Sk 100 'resonating echo'
+Sk 100 'selective hearing'
+Sk 100 'sacred euphony'
+Sk 100 'adrenaline control'
+Sk 100 'agitation'
+Sk 100 'animate shadow'
+Sk 100 'aura sight'
+Sk 100 'aversion'
+Sk 100 'awe'
+Sk 100 'ballistic attack'
+Sk 100 'banishment'
+Sk 100 'biofeedback'
+Sk 100 'body equilibrium'
+Sk 100 'body weaponry'
+Sk 100 'chemical simulation'
+Sk 100 'clairaudience'
+Sk 100 'clairvoyance'
+Sk 100 'clear thoughts'
+Sk 100 'fighting mind'
+Sk 100 'contact'
+Sk 100 'control flame'
+Sk 100 'daydream'
+Sk 100 'death field'
+Sk 100 'detonate'
+Sk 100 'domination'
+Sk 100 'ectoplasmic form'
+Sk 100 'ego whip'
+Sk 100 'ejection'
+Sk 100 'energy containment'
+Sk 100 'enhanced strength'
+Sk 100 'expansion'
+Sk 100 'flesh armor'
+Sk 100 'immovability'
+Sk 100 'inertial barrier'
+Sk 100 'intellect fortress'
+Sk 100 'heightened senses'
+Sk 100 'know location'
+Sk 100 'lend health'
+Sk 100 'levitate'
+Sk 100 'mental barrier'
+Sk 100 'metabolic reconfiguration'
+Sk 100 'mind over body'
+Sk 100 'mind thrust'
+Sk 100 'mindwipe'
+Sk 100 'probe'
+Sk 100 'psychic drain'
+Sk 100 'reduction'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 100 'shield block'
+Sk 100 'spear'
+Sk 100 'staff'
+Sk 100 'short sword'
+Sk 100 'long sword'
+Sk 100 'bow'
+Sk 100 'crossbow'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'bash'
+Sk 100 'shield bash'
+Sk 100 'caltrops'
+Sk 100 'throw'
+Sk 100 'power grip'
+Sk 100 'berserk'
+Sk 100 'bloodlust'
+Sk 100 'battlecry'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'scribe'
+Sk 100 'lay trap'
+Sk 100 'remove trap'
+Sk 100 'repair'
+Sk 100 'forage'
+Sk 100 'plant'
+Sk 100 'mine'
+Sk 100 'prospecting'
+Sk 100 'woodcutting'
+Sk 100 'cooking'
+Sk 100 'agriculture'
+Sk 100 'herbalism'
+Sk 100 'alchemy'
+Sk 100 'first aid'
+Sk 100 'parry'
+Sk 100 'rescue'
+Sk 100 'trip'
+Sk 100 'blind fighting'
+Sk 100 'counter'
+Sk 100 'riposte'
+Sk 100 'kidney punch'
+Sk 100 'earclap'
+Sk 100 'gouge'
+Sk 100 'sharpen'
+Sk 100 'hapkido'
+Sk 100 'martial arts'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'lore'
+Sk 100 'meditation'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 100 'scrolls'
+Sk 100 'wands'
+Sk 100 'recall'
+Sk 100 'seafaring'
+Sk 100 'swim'
+Sk 100 'butcher'
+Sk 100 'tailoring'
+Sk 100 'blacksmithing'
+Sk 100 'jewelcrafting'
+Sk 100 'find trap'
+Sk 100 'turn undead'
+Sk 100 'engage'
+Sk 100 'dual wield'
+Sk 100 'detect secret'
+Sk 100 'riding'
+Sk 100 'tracking'
+Sk 100 'imbue'
+Sk 100 'spellcraft'
+Sk 100 'inlay'
+Sk 100 'iron fist'
+Sk 100 'iron skin'
+Sk 100 'iron will'
+Sk 100 'palm strike'
+Sk 100 'hand parry'
+Sk 100 'presence of mind'
+Sk 100 'evasion'
+Sk 100 'pressure point'
+Sk 100 'stun fist'
+Sk 100 'balance'
+Sk 100 'channel'
+Sk 100 'energy blast'
+Sk 100 'lute'
+Sk 100 'piccolo'
+Sk 100 'horn'
+Sk 100 'drums'
+Sk 100 'harp'
+Gr 'rom basics'
+Gr 'cleric basics'
+Affc 'negative plane protection'   0  46  31   0   0          0
+Affc 'elemental protection'   0  41  31   0   0        221
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 102
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a supreme blackjack of witchcraft~
+ShD  a supreme blackjack of witchcraft~
+Desc a supreme blackjack of witchcraft~
+ExtF 64
+Extra2Flags 4
+WeaF 8193
+Ityp 5
+Wt   12
+Cond 99
+Material gold~
+Wear 15
+Lev  30
+Cost 32260
+Val  4 4 10 1 0
+Affc 'reserved'   0   0  -1   4   5          0
+Affc 'reserved'   0   0  -1   4  26          0
+Affc 'reserved'   0   0  -1  16  12          0
+Affc 'reserved'   0   0  -1  -2  24          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a resplendent light blue rampart of hardiness~
+ShD  a resplendent light blue rampart of hardiness~
+Desc a resplendent light blue rampart of hardiness~
+ExtF 64
+Extra2Flags 4
+WeaF 513
+Ityp 9
+Wt   6
+Material leather~
+Wear 16
+Lev  37
+Cost 33880
+Val  22 18 19 18 1
+Affc 'reserved'   0   0  -1   5   5          0
+Affc 'reserved'   0   0  -1  17  13          0
+Affc 'reserved'   0   0  -1  -3  24          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name an exceptional signet of longwalking~
+ShD  an exceptional signet of longwalking~
+Desc an exceptional signet of longwalking~
+ExtF 64
+Extra2Flags 8
+WeaF 3
+Ityp 9
+Wt   5
+Material leather~
+Wear 2
+Lev  42
+Cost 41170
+Val  18 19 23 14 1
+Affc 'reserved'   0   0  -1  33  13          0
+Affc 'reserved'   0   0  -1  46  14          0
+Affc 'reserved'   0   0  -1   2  18          0
+Affc 'reserved'   0   0  -1   3  19          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a supreme vermillion robe of constitution~
+ShD  a supreme vermillion robe of constitution~
+Desc a supreme vermillion robe of constitution~
+ExtF 4160
+WeaF 9
+Ityp 9
+Wt   5
+Material leather~
+Wear 5
+Lev  42
+Cost 25430
+Val  22 19 20 14 1
+Affc 'reserved'   0   0  -1   4   5          0
+Affc 'reserved'   0   0  -1  -2  24          0
+Affc 'reserved'   0   0  -1   4  30          0
+Affc 'curse'   1  43  66   2  20       4096
+End
+
+#O
+Vnum 18
+Nest 0
+Name the vermillion sabatons of longwalking~
+ShD  the vermillion sabatons of longwalking~
+Desc the vermillion sabatons of longwalking~
+ExtF 64
+WeaF 65
+Ityp 9
+Wt   5
+Material leather~
+Wear 8
+Lev  40
+Cost 25860
+Val  21 18 21 13 1
+Affc 'reserved'   0   0  -1  34  14          0
+Affc 'reserved'   0   0  -1  -4  17          0
+Affc 'reserved'   0   0  -1   2  30          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a well crafted vermillion ring of longwalking~
+ShD  a well crafted vermillion ring of longwalking~
+Desc a well crafted vermillion ring of longwalking~
+ExtF 64
+Extra2Flags 4
+WeaF 3
+Ityp 9
+Wt   5
+Material leather~
+Wear 1
+Lev  42
+Cost 34460
+Val  21 21 18 13 1
+Affc 'reserved'   0   0  -1   2  26          0
+Affc 'reserved'   0   0  -1  45  14          0
+Affc 'reserved'   0   0  -1  -4  24          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the vermillion greaves of exactitude~
+ShD  the vermillion greaves of exactitude~
+Desc the vermillion greaves of exactitude~
+ExtF 64
+WeaF 33
+Ityp 9
+Wt   5
+Material leather~
+Wear -1
+Lev  39
+Cost 17830
+Val  18 18 20 14 1
+Affc 'reserved'   0   0  -1   5  18          0
+Affc 'reserved'   0   0  -1  -2  24          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the masterwork vermillion kote of might~
+ShD  the masterwork vermillion kote of might~
+Desc the masterwork vermillion kote of might~
+ExtF 64
+Extra2Flags 4
+WeaF 257
+Ityp 9
+Wt   6
+Material leather~
+Wear -1
+Lev  39
+Cost 35020
+Val  22 19 18 16 1
+Affc 'reserved'   0   0  -1   4   1          0
+Affc 'reserved'   0   0  -1   4   2          0
+Affc 'reserved'   0   0  -1  -2  17          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a lordly ebony coat of hardiness~
+ShD  a lordly ebony coat of hardiness~
+Desc a lordly ebony coat of hardiness~
+ExtF 64
+Extra2Flags 4
+WeaF 1025
+Ityp 9
+Wt   6
+Material leather~
+Wear -1
+Lev  41
+Cost 31800
+Val  23 21 21 15 1
+Affc 'reserved'   0   0  -1   2  26          0
+Affc 'reserved'   0   0  -1  15  13          0
+Affc 'reserved'   0   0  -1   4  18          0
+Affc 'reserved'   0   0  -1   4  30          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the splendid ebony gloves of wizardry~
+ShD  the splendid ebony gloves of wizardry~
+Desc the splendid ebony gloves of wizardry~
+ExtF 64
+Extra2Flags 4
+WeaF 129
+Ityp 9
+Wt   4
+Material leather~
+Wear 9
+Lev  42
+Cost 33150
+Val  18 19 23 13 1
+Affc 'reserved'   0   0  -1   3   3          0
+Affc 'reserved'   0   0  -1  25  12          0
+Affc 'reserved'   0   0  -1   5  19          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the fine pantaloons of penetration~
+ShD  the fine pantaloons of penetration~
+Desc the fine pantaloons of penetration~
+ExtF 64
+Extra2Flags 4
+WeaF 33
+Ityp 9
+Wt   5
+Material leather~
+Wear 7
+Lev  42
+Cost 34900
+Val  22 23 19 13 1
+Affc 'reserved'   0   0  -1   5   1          0
+Affc 'reserved'   0   0  -1  15  28          0
+Affc 'reserved'   0   0  -1   4  30          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the mighty sleeves of penetration~
+ShD  the mighty sleeves of penetration~
+Desc the mighty sleeves of penetration~
+ExtF 64
+WeaF 257
+Ityp 9
+Wt   4
+Material leather~
+Wear -1
+Lev  42
+Cost 26910
+Val  23 22 18 15 1
+Affc 'reserved'   0   0  -1   3   1          0
+Affc 'reserved'   0   0  -1  -5  24          0
+Affc 'reserved'   0   0  -1  10  29          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a cerulean habit of wandering~
+ShD  a cerulean habit of wandering~
+Desc a cerulean habit of wandering~
+ExtF 64
+WeaF 1025
+Ityp 9
+Wt   6
+Material leather~
+Wear 11
+Lev  41
+Cost 25970
+Val  18 20 20 17 1
+Affc 'reserved'   0   0  -1   3   5          0
+Affc 'reserved'   0   0  -1  29  14          0
+Affc 'reserved'   0   0  -1  20  28          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the magnificent cerulean arm guards of longwalking~
+ShD  the magnificent cerulean arm guards of longwalking~
+Desc the magnificent cerulean arm guards of longwalking~
+ExtF 64
+Extra2Flags 4
+WeaF 257
+Ityp 9
+Wt   6
+Material leather~
+Wear -1
+Lev  42
+Cost 39390
+Val  18 22 18 14 1
+Affc 'reserved'   0   0  -1  47  14          0
+Affc 'reserved'   0   0  -1  -5  24          0
+Affc 'reserved'   0   0  -1  25  29          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a mantle of voyaging~
+ShD  a mantle of voyaging~
+Desc a mantle of voyaging~
+ExtF 64
+WeaF 5
+Ityp 9
+Wt   5
+Material leather~
+Wear 3
+Lev  39
+Cost 24460
+Val  21 19 19 15 1
+Affc 'reserved'   0   0  -1  45  14          0
+Affc 'reserved'   0   0  -1   2  19          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a masterwork silver colored ribbon of toughness~
+ShD  a masterwork silver colored ribbon of toughness~
+Desc a masterwork silver colored ribbon of toughness~
+ExtF 64
+Extra2Flags 4
+WeaF 2049
+Ityp 9
+Wt   5
+Material leather~
+Wear 12
+Lev  42
+Cost 35640
+Val  18 23 22 13 1
+Affc 'reserved'   0   0  -1   5   3          0
+Affc 'reserved'   0   0  -1  43  13          0
+Affc 'reserved'   0   0  -1  -3  17          0
+Affc 'reserved'   0   0  -1  20  29          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name the sleeves of toughness~
+ShD  the sleeves of toughness~
+Desc the sleeves of toughness~
+ExtF 64
+WeaF 257
+Ityp 9
+Wt   5
+Material leather~
+Wear 10
+Lev  41
+Cost 25610
+Val  22 20 19 17 1
+Affc 'reserved'   0   0  -1   2  26          0
+Affc 'reserved'   0   0  -1  38  13          0
+Affc 'reserved'   0   0  -1  -3  17          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a rough diamond~
+ShD  a rough diamond~
+Desc a rough diamond~
+WeaF 16385
+Ityp 32
+Material diamond~
+Wear -1
+Lev  26
+Cost 11640
+End
+
+#O
+Vnum 18
+Nest 0
+Name the supreme kote of astounding vigor~
+ShD  the supreme kote of astounding vigor~
+Desc the supreme kote of astounding vigor~
+ExtF 64
+Extra2Flags 4
+WeaF 257
+Ityp 9
+Wt   5
+Material iron~
+Wear -1
+Lev  28
+Cost 31090
+Val  15 16 16 14 5
+Affc 'reserved'   0   0  -1  -1  24          0
+Affc 'reserved'   0   0  -1  -3  17          0
+Affc 'reserved'   0   0  -1   4   5          0
+End
+
+#O
+Vnum 38
+Nest 0
+Name a light green silk pack~
+ShD  a light green silk pack~
+Desc a light green silk pack~
+ExtF 64
+WeaF 1025
+Wt   3
+Material silk~
+Wear -1
+Cost 28190
+Affc 'reserved'   0   0  -1   1  30          0
+Affc 'reserved'   0   0  -1   6  28          0
+Affc 'reserved'   0   0  -1  -4  24          0
+Affc 'reserved'   0   0  -1   2   5          0
+End
+
+#O
+Vnum 6
+Nest 1
+Name a flowery vellum scroll of obscure object~
+ShD  a flowery vellum scroll of obscure object~
+Desc a flowery vellum scroll of obscure object~
+ExtF 16777280
+Wear -1
+Lev  28
+Cost 5800
+Val  29 166 0 0 0
+Spell 1 'obscure object'
+End
+
+#O
+Vnum 5
+Nest 1
+ShD  156 silver coins and 54 gold coins~
+Wt   17
+Cond 98
+Wear -1
+Cost 5556
+Val  156 54 0 0 0
+End
+
+#O
+Vnum 38
+Nest 0
+Name an ebony velvet belt pouch~
+ShD  an ebony velvet belt pouch~
+Desc an ebony velvet belt pouch~
+ExtF 64
+WeaF 2049
+Wt   3
+Material velvet~
+Wear -1
+Cost 13630
+Affc 'reserved'   0   0  -1   6  29          0
+Affc 'reserved'   0   0  -1  18  13          0
+End
+
+#O
+Vnum 6
+Nest 1
+Name a weathered scroll of detect traps~
+ShD  a weathered scroll of detect traps~
+Desc a weathered scroll of detect traps~
+ExtF 64
+Wear -1
+Lev  30
+Cost 5801
+Val  30 118 0 0 0
+Spell 1 'detect traps'
+End
+
+#O
+Vnum 5
+Nest 1
+ShD  308 silver coins and 40 gold coins~
+Wt   23
+Cond 96
+Wear -1
+Cost 4308
+Val  308 40 0 0 0
+End
+
+#O
+Vnum 38
+Nest 0
+Name an ebony cotton pouch~
+ShD  an ebony cotton pouch~
+Desc an ebony cotton pouch~
+ExtF 64
+WeaF 2049
+Wt   3
+Material cotton~
+Wear -1
+Cost 15240
+Affc 'reserved'   0   0  -1  12  29          0
+Affc 'reserved'   0   0  -1   2   5          0
+End
+
+#O
+Vnum 4
+Nest 1
+ShD  220 silver coins~
+Wt   11
+Cond 95
+Wear -1
+Cost 220
+Val  220 0 0 0 0
+End
+
+#O
+Vnum 2835
+Nest 0
+Wear -1
+Cost 1750
+End
+
+#O
+Vnum 2832
+Nest 0
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 2835
+Nest 0
+Wear -1
+Cost 1750
+End
+
+#O
+Vnum 2832
+Nest 0
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 2840
+Nest 0
+Wear -1
+Cost 160
+End
+
+#O
+Vnum 2835
+Nest 0
+Wear -1
+Cost 1750
+End
+
+#O
+Vnum 2840
+Nest 0
+Wear -1
+Cost 160
+End
+
+#O
+Vnum 2835
+Nest 0
+Wear -1
+Cost 1750
+End
+
+#O
+Vnum 2835
+Nest 0
+Wear -1
+Cost 1750
+End
+
+#O
+Vnum 2836
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 2837
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 2832
+Nest 0
+Wear -1
+Cost 1200
+End
+
+#END

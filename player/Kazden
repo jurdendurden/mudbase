@@ -1,0 +1,194 @@
+#PLAYER
+Name Kazden~
+Id   1580090326
+LogO 1580090507
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race human~
+Sex  1
+Cla  3
+God	9
+Favored 0
+GuildRnk  0
+GuildPts  0
+WpnSpec	6
+Levl 1
+Sec  0
+Plyd 181
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 2302
+HMV  22 22 100 100 120 120
+Bleed 0
+Talent 0
+PP 0 0
+Gold 113
+Silv 100
+BAcct 0
+Bank 0
+Exp  10
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 0
+Eyes 1
+Hair 16
+Haircut 16
+Facial 1
+Age 19
+Account Vazbol~
+Recall 1010
+Act  CDEGKQT
+Comm NOP
+Pos  8
+Prac 6
+Trai 9
+Alig  1000
+Hit   1
+Dam   6
+ACs 80 80 80 80
+Attr 13 14 14 14 14 15
+AMod 0 0 0 0 0 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 20 100 120
+Cnd  0 56 58 58 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 1
+71 1073741824
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 75 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'spear'
+Sk 1 'staff'
+Sk 1 'short sword'
+Sk 1 'long sword'
+Sk 1 'bow'
+Sk 1 'crossbow'
+Sk 1 'whip'
+Sk 1 'berserk'
+Sk 75 'first aid'
+Sk 1 'lore'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'fighter basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 619
+Nest 0
+Wear 15
+Cost 350
+End
+
+#O
+Vnum 102
+Nest 0
+Wear 16
+Cost 0
+End
+
+#END

@@ -1,0 +1,416 @@
+#PLAYER
+Name Hitsu~
+Id   1579892846
+LogO 1580108154
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race minotaur~
+Clan loner~
+Clan_Rank 0
+Clan_Points 0
+Sex  1
+Cla  8
+God	7
+Favored 0
+GuildRnk  1
+GuildPts  229
+Levl 12
+Sec  0
+Plyd 6073
+Email (null)~
+Citizen (null)~
+Scro 98
+Room 1010
+HMV  154 154 192 192 208 208
+Bleed 0
+Talent 0
+PP 0 0
+Gold 126
+Silv 4153
+BAcct 0
+Bank 0
+Exp  1199997
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 408
+Eyes 16
+Haircut 1
+Facial 1
+Age 41
+Account Drisen~
+Recall 1010
+Act  CDEGKQT
+AfBy J
+Comm NOP
+Pos  8
+Prac 6
+Trai 1
+Alig  0
+Hit   8
+Dam   2
+ACs 74 72 72 81
+Attr 21 13 17 20 21 12
+AMod 0 5 5 0 5 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 1
+HMVP 121 167 208
+Cnd  0 0 907 733 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 256
+71 1879080448
+18 520093696
+20 -131043
+19 536903674
+31 4130560
+21 30
+73 134184966
+68 -16777215
+32 1048110
+72 537108481
+69 33554302
+74 16776192
+128 -264241311
+129 8388510
+124 1
+125 -33562625
+126 4194302
+281 256
+90 -1074790399
+91 99454
+-1 -1
+Alias id lore~
+Boards       7 General 1579918964 Changes 1579890291 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'bless'
+Sk 1 'axe'
+Sk 1 'staff'
+Sk 65 'dodge'
+Sk 84 'enhanced damage'
+Sk 93 'hand to hand'
+Sk 50 'kick'
+Sk 75 'first aid'
+Sk 20 'lore'
+Sk 50 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Sk 54 'hand parry'
+Gr 'rom basics'
+Gr 'monk basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 38
+Nest 0
+Name a maroon hide sack~
+ShD  a maroon hide sack~
+Desc a maroon hide sack~
+ExtF 64
+WeaF 16385
+Wt   4
+Material hide~
+Wear -1
+Cost 10
+Val  10 1 0 30 50
+Affc 'reserved'   0   0  -1   1   1          0
+End
+
+#O
+Vnum 6
+Nest 1
+Name a bloodstained scroll of create food~
+ShD  a bloodstained scroll of create food~
+Desc a bloodstained scroll of create food~
+ExtF 1073741889
+Extra2Flags 131072
+Wear -1
+Lev  1
+Cost 401
+Val  1 19 0 0 0
+Spell 1 'create food'
+End
+
+#O
+Vnum 103
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1039
+Nest 1
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 1
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 1
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 6
+Nest 1
+Name a cheeselike sealed scroll of gate~
+ShD  a cheeselike sealed scroll of gate~
+Desc a cheeselike sealed scroll of gate~
+ExtF 1073741889
+Wear -1
+Lev  9
+Cost 1601
+Val  8 53 0 0 0
+Spell 1 'gate'
+End
+
+#O
+Vnum 2902
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 2902
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 611
+Nest 0
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 35
+Nest 0
+Name a floating sphere of cure light~
+ShD  a floating sphere of cure light~
+Desc a floating sphere of cure light~
+ExtF 64
+WeaF 65537
+Wear 19
+Lev  2
+Cost 499
+Val  2 11 11 26 0
+Spell 3 'cure light'
+End
+
+#O
+Vnum 608
+Nest 0
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 13
+Cost 48
+End
+
+#O
+Vnum 612
+Nest 0
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 609
+Nest 0
+Wear 9
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 14
+Cost 48
+End
+
+#O
+Vnum 615
+Nest 0
+Wear 18
+Cost 1140
+End
+
+#O
+Vnum 1035
+Nest 0
+Wear 6
+Cost 250
+End
+
+#O
+Vnum 1034
+Nest 0
+Wear 5
+Cost 400
+End
+
+#O
+Vnum 1033
+Nest 0
+Wear 7
+Cost 300
+End
+
+#O
+Vnum 1032
+Nest 0
+Wear 10
+Cost 200
+End
+
+#O
+Vnum 42
+Nest 0
+Wear 0
+Cost 0
+End
+
+#END

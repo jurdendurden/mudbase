@@ -1,0 +1,9 @@
+All necromancer spells should give you evil alignment modifiers. (maybe only if you're good and
+trying to cast it.)
+
+finger of death
+animate corpse
+
+
+
+psions cannot wear helmets while casting psionic spells

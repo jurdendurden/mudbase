@@ -1,0 +1,2270 @@
+#AREADATA
+Deprecated 0
+Name Mosgha Woods~
+Builders Upro Kyro~
+VNUMs 2000 2099
+Levels 2 10
+Credits Upro~
+Climate 1
+Plane 0
+PrimaryResource (null)~
+Security 9
+Flags 32
+Faction golthek~
+History The Mosgha Woods has long been left to it's own design by neighboring
+civilization, due to the overgrowth of the plantlife, the overpopulation of
+evil monsters, and the odd cave that many have heard leads to the depths of
+hell itself. 
+~
+End
+
+
+
+#MOBILES
+#2000
+hair spider giant~
+a giant spider~
+A very large and hairy spider is here.
+~
+(null)~
+~
+spider~
+AFG B Z 0 0
+3 1 2d8+10 1d1+1 1d2+2 digestion
+5 10 5 15
+F 0 FI EH
+stand stand none 0
+ABGO ACK medium
+ unknown
+#2001
+wolf~
+a wolf~
+A hungry looking wolf is here.
+~
+(null)~
+A wolf of average size is here, sniffing the air for the scent of meat. 
+This wolf appears to be hungry, better stear clear...  
+~
+wolf~
+AFG B Z 0 0
+5 2 2d8+15 1d1+1 1d4+2 bite
+5 5 5 15
+FH 0 0 0
+stand stand male 0
+AGV ACDEFJKQV medium
+ unknown
+#2002
+checkpoint guard~
+a checkpoint guard~
+A human guard outfitted in chain mail awaits trouble.
+~
+(null)~
+This guard appears to have been away from home for a while.  His scraggly
+beard is unkempt and growing quite long, and he emits a rather pungent smell
+of body odor stemming from several long days of rotation in the arid
+climate.  
+~
+human~
+ABG 0 0 0 0
+8 5 8d8+16 8d8+100 2d10+3 slash
+2 2 2 5
+CFKN AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#2003
+centipede~
+a giant centipede~
+A giant centipede makes it way through the underbrush.
+~
+(null)~
+This is definately a fearsome insect, as it's body spans nearly five feet
+in length, it's legs appearing more like long daggers than anything else.  
+~
+centipede~
+AG 0 Z 0 0
+4 0 4d8+8 4d8+100 1d4+2 bite
+5 5 5 5
+H 0 FI E
+stand stand none 0
+ABGO ACK medium
+ unknown
+#2004
+Hooded Figure~
+A hooded figure~
+A hooded figure is standing here
+~
+~
+~
+human~
+ABG 0 DFHN 1000 0
+10 0 10d8+20 10d8+100 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M GREET 2000 100~
+#2005
+angel of light~
+Angel of Light~
+Angel of Light
+~
+~
+~
+human~
+AGIQR 0 0 0 0
+50 0 5d8+10 5d8+100 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+ACHMV ABCDEFGHIJK medium
+ unknown
+#2006
+skeleton~
+a scraggly skeleton~
+A scraggly skeleton wanders aimlessly for eternity.
+~
+~
+This skeleton is wearing the tattered remnants of the clothing it had on at
+the time of death. The rags hang in matted lumps, draped around ribs and laced
+through bony fingertips, creating an eerie vision to behold. 
+~
+skeleton~
+AG C J -500 0
+4 2 3d8+16 4d8+100 1d2+2 crush
+0 0 0 0
+R M 0 NS
+stand stand none 50
+ABHM ABCDEFGHIJKUV medium
+ unknown
+F vul H
+F for V
+#2016
+scruffy fellow~
+a scruffy fellow~
+A scruffy fellow makes his way down the path.
+~
+(null)~
+This pudgy little fellow seems to be intent on not attracting attention
+to himself. He keeps his eyes on the road and his hands appear to be
+shoved deep into his pockets. Something just seems to be really shifty
+about this unassuming little hobbit.
+~
+halfling~
+AG 0 PQ 0 0
+4 0 4d8+8 4d8+100 0d0+0 none
+0 0 0 0
+0 0 LP BR
+stand stand male 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#2095
+basilisk small~
+a small, scaled basilisk~
+A small, scaled basilisk scuttles about.
+~
+a small, scaled basilisk~
+This reptilian creatures scuttles about on four pairs of legs, the entire
+length of it's body covered in scales of a deep bronze color. It's forked
+tongue flicks in and out of it's mouth from time to time, as it navigates
+through the dark. 
+~
+basilisk~
+AFG BD JPZ -250 0
+12 10 4d8+102 7d5+121 1d8+8 bite
+3 3 3 3
+0 AB H F
+stand stand none 0
+AHX ABCDEFHIJKY small
+ unknown
+F for MV
+F par G
+#2096
+dragon blue~
+a fat blue wyrm~
+A rather obese {bblue{x wyrm sits picking it's teeth.
+~
+~
+~
+blue dragon~
+AG CDE HJTV -750 0
+42 29 38d30+3478 26d14+1177 11d2+36 claw
+-39 -39 -39 -29
+CHVW J 0 F
+stand stand male 144
+AHZ ACDEFGHIJKPQUVX huge
+ unknown
+F res BCER
+F vul ab
+#2097
+dragon blue~
+a fat blue dragon~
+A rather obese {bblue{x dragon sits picking it's teeth.
+~
+~
+~
+blue dragon~
+AG CD HJTV 0 0
+35 21 30d18+1692 21d9+572 4d5+20 cleave
+-20 -20 -20 -15
+CHVW J BCER Fab
+stand stand male 30
+AHMVZ ABCDEFGHIJKPQUVX huge
+ unknown
+#2098
+beholder~
+a young beholder~
+A small beholder is floating here.
+~
+an enraged orb with eight writhing eyestalks~
+~
+beholder~
+AFG BCE HJTZ -750 0
+14 9 7d8+220 8d6+166 4d3+10 chomp
+0 0 0 0
+FH AB CP GS
+stand stand none 142
+A AEKLM medium
+ unknown
+#2099
+beholder~
+a beholder of chaos~
+A floating beholder, with eight deadly eyes, is here.
+~
+a sickly beholder with eight eyestalks~
+~
+beholder~
+AG CDE HJV 0 0
+40 19 24d39+2824 26d6+526 11d1+27 charge
+-27 -27 -27 -20
+FH AB CP GS
+stand stand none 25
+A AEKLM medium
+ unknown
+#0
+
+
+
+#OBJECTS
+#2000
+mandible spider~
+a spider's mandible~
+This appears to be the mandible of a giant spider.~
+unknown~
+0
+trash 0 F AO
+0 0 0 0 0
+0 0 0 P
+#2001
+wooden chest~
+a large wooden chest~
+A large wooden chest with thick leather straps and a sturdy lock.~
+wood~
+0
+container 0 0 A
+50 ACD 2002 15000 50
+17 50 500 P
+#2002
+key copper~
+a copper key~
+A somewhat tarnished {ycopper{x key.~
+copper~
+0
+key 0 0 A
+0 0 0 0 0
+3 1 0 P
+#2010
+emerald bracer~
+an enchanted {Gemerald{x bracer~
+A gleaming bracer waits to be worn.~
+diamond~
+0
+armor G 0 A
+BC BC BC BD 0
+17 2 2700 P
+A
+13 5
+A
+12 10
+A
+20 -2
+A
+28 8
+A
+30 6
+#2011
+amethyst bracer~
+an enchanted {Bamethyst{x bracer~
+A gleaming bracer waits to be worn.~
+amethyst~
+0
+armor G 0 AM
+BC BC BC BD 0
+17 2 2700 P
+A
+13 5
+A
+12 20
+A
+28 6
+A
+30 3
+#2012
+emerald bracer~
+an enchanted {Gemerald{x bracer~
+A gleaming bracer waits to be worn.~
+unknown~
+0
+armor G 0 A
+BC BC BC BD 0
+17 2 2700 P
+#2098
+no name~
+(no short description)~
+(no description)~
+unknown~
+0
+trash 0 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#2048
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2049
+D1
+~
+~
+0 0 2057
+D2
+~
+~
+0 0 2047
+D3
+~
+~
+0 0 2039
+M 100 H 3
+S
+#2049
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2058
+D2
+~
+~
+0 0 2048
+M 100 H 3
+S
+#2050
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D3
+~
+~
+0 0 2041
+M 100 H 3
+S
+#2051
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2052
+D1
+~
+~
+0 0 2060
+M 100 H 3
+S
+#2052
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2061
+D2
+~
+~
+0 0 2051
+D3
+~
+~
+0 0 2043
+M 100 H 3
+S
+#2053
+Outskirts of the Mosgha Woods~
+Once again, the forest has taken over here, and even though the plains to
+the east are quite visible through what little space between vegetation is
+apparent, there is still no way to travel eastward.  North is slightly less
+treacherous, but still a rough walk indeed.  
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2054
+D3
+~
+~
+0 0 2044
+D5
+~
+~
+9 0 9400
+M 100 H 3
+S
+#2054
+Outskirts of the Mosgha Woods~
+Vegetation and encroachment seem to have taken over most
+of the area. A few faint tracks are in the mud, which seems 
+to only be getting thicker. The trees are starting to get
+taller and the sky seems to be getting smaller.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2055
+D2
+~
+~
+0 0 2053
+D3
+~
+~
+0 0 2045
+M 100 H 3
+S
+#2055
+Outskirts of the Mosgha Woods~
+Tracks lead everywhere in the thick mud. The path seems
+almost non traveled except by the many animals that
+inhabit the forest. Moss and small plants cover most
+of the ground.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2056
+D2
+~
+~
+0 0 2054
+D3
+~
+~
+0 0 2046
+M 100 H 3
+S
+#2056
+Outskirts of the Mosgha Woods~
+Even the breeze flowing through the treetops is dark and gloomy. Strange
+noises come from all direction. The leaves on the ground might make
+rustling sounds if they were not soaked down with mud. In each direction,
+the forest seems to grow darker and darker.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2057
+D2
+~
+~
+0 0 2055
+D3
+~
+~
+0 0 2047
+M 100 H 3
+S
+#2057
+Outskirts of the Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2058
+D2
+~
+~
+0 0 2056
+D3
+~
+~
+0 0 2048
+M 100 H 3
+S
+#2058
+Outskirts of the Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2059
+D2
+~
+~
+0 0 2057
+D3
+~
+~
+0 0 2049
+M 100 H 3
+S
+#2059
+Outskirts of the Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2060
+D2
+~
+~
+0 0 2058
+M 100 H 3
+S
+#2060
+Outskirts of the Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2061
+D2
+~
+~
+0 0 2059
+D3
+~
+~
+0 0 2051
+M 100 H 3
+S
+#2061
+Outskirts of the Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 26100
+D2
+~
+~
+0 0 2060
+D3
+~
+~
+0 0 2052
+M 100 H 3
+S
+#2062
+~
+~
+0 4 0
+0
+1
+2
+M 25 H 25
+S
+#2063
+A Steeply Declining Tunnel~
+~
+0 4 18
+0
+1
+2
+D0
+~
+~
+0 0 2064
+D4
+~
+~
+5 0 2038
+M 25 H 25
+S
+#2064
+A steeply declining tunnel~
+~
+0 4 18
+0
+1
+2
+D0
+~
+~
+0 0 2065
+D2
+~
+~
+0 0 2063
+M 25 H 25
+S
+#2065
+A steeply declining tunnel~
+~
+0 4 18
+0
+1
+2
+D2
+~
+~
+0 0 2064
+D5
+~
+~
+0 0 2066
+M 25 H 25
+S
+#2066
+An underground tunnel~
+~
+0 4 18
+0
+1
+2
+D0
+~
+~
+0 0 2067
+D4
+~
+~
+0 0 2065
+M 25 H 25
+S
+#2067
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D0
+~
+~
+0 0 2068
+D2
+~
+~
+0 0 2066
+M 25 H 25
+S
+#2068
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D0
+~
+~
+0 0 2069
+D1
+~
+~
+0 0 2079
+D2
+~
+~
+0 0 2067
+M 25 H 25
+S
+#2069
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D2
+~
+~
+0 0 2068
+D3
+~
+~
+0 0 2070
+M 25 H 25
+S
+#2070
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D1
+~
+~
+0 0 2069
+D3
+~
+~
+0 0 2071
+M 25 H 25
+S
+#2071
+Top of a crevice~
+~
+0 0 18
+0
+1
+2
+D1
+~
+~
+0 0 2070
+D5
+~
+~
+0 0 2072
+M 25 H 25
+S
+#2072
+Bottom of a crevice~
+~
+0 0 18
+0
+1
+2
+D3
+~
+~
+0 0 2073
+D4
+~
+~
+0 0 2071
+M 25 H 25
+S
+#2073
+A lair~
+Mold and lichen cover the floor and walls
+here, and a pervasive stench fills the air,
+most likely stemming from the various bones
+and gore strewn about.  {x {x {x {x {x {x {x
+{x~
+0 0 18
+0
+1
+2
+D0
+~
+~
+0 0 2077
+D1
+~
+~
+0 0 2072
+D2
+~
+~
+0 0 2074
+D3
+~
+~
+0 0 2076
+M 25 H 25
+S
+#2074
+A lair~
+Mold and lichen cover the floor and walls
+here, and a pervasive stench fills the air,
+most likely stemming from the various bones
+and gore strewn about.  {x {x {x {x
+{x~
+0 0 18
+0
+1
+2
+D0
+~
+~
+0 0 2073
+D3
+~
+~
+0 0 2075
+M 25 H 25
+S
+#2075
+A lair~
+Mold and lichen cover the floor and walls
+here, and a pervasive stench fills the air,
+most likely stemming from the various bones
+and gore strewn about.  {x {x {x {x
+{x~
+0 0 18
+0
+1
+2
+D0
+~
+~
+0 0 2076
+D1
+~
+~
+0 0 2074
+M 25 H 25
+S
+#2076
+A lair~
+Mold and lichen cover the floor and walls
+here, and a pervasive stench fills the air,
+most likely stemming from the various bones
+and gore strewn about.  {x {x {x {x
+{x~
+0 0 18
+0
+1
+2
+D0
+~
+~
+0 0 2078
+D1
+~
+~
+0 0 2073
+D2
+~
+~
+0 0 2075
+M 25 H 25
+S
+#2077
+A lair~
+Mold and lichen cover the floor and walls
+here, and a pervasive stench fills the air,
+most likely stemming from the various bones
+and gore strewn about.  {x {x {x
+{x~
+0 0 18
+0
+1
+2
+D2
+~
+~
+0 0 2073
+D3
+~
+~
+0 0 2078
+M 25 H 25
+S
+#2078
+A lair~
+Mold and lichen cover the floor and walls
+here, and a pervasive stench fills the air,
+most likely stemming from the various bones
+and gore strewn about.  {x {x {x {x
+{x~
+0 0 18
+0
+1
+2
+D1
+~
+~
+0 0 2077
+D2
+~
+~
+0 0 2076
+M 25 H 25
+S
+#2079
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D1
+~
+~
+0 0 2080
+D3
+~
+~
+0 0 2068
+M 25 H 25
+S
+#2080
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D3
+~
+~
+0 0 2079
+D5
+~
+~
+0 0 2081
+M 25 H 25
+S
+#2081
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D1
+~
+~
+0 0 2082
+D4
+~
+~
+0 0 2080
+M 25 H 25
+S
+#2082
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D1
+~
+~
+0 0 2083
+D3
+~
+~
+0 0 2081
+M 25 H 25
+S
+#2083
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D0
+~
+~
+0 0 2084
+D3
+~
+~
+0 0 2082
+M 25 H 25
+S
+#2084
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D2
+~
+~
+0 0 2083
+D5
+~
+~
+0 0 2085
+M 25 H 25
+S
+#2085
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D4
+~
+~
+0 0 2084
+D5
+~
+~
+0 0 2086
+M 25 H 25
+S
+#2086
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D4
+~
+~
+0 0 2085
+D5
+~
+~
+0 0 2087
+M 25 H 25
+S
+#2087
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D4
+~
+~
+0 0 2086
+D5
+~
+~
+0 0 2088
+M 25 H 25
+S
+#2088
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D1
+~
+~
+0 0 2089
+D4
+~
+~
+0 0 2087
+M 25 H 25
+S
+#2089
+An underground tunnel~
+~
+0 0 18
+0
+1
+2
+D1
+~
+~
+0 0 2090
+D3
+~
+~
+0 0 2088
+M 25 H 25
+S
+#2090
+This is where it will connect to the underdark~
+~
+0 0 18
+0
+1
+2
+D3
+~
+~
+0 0 2089
+M 25 H 25
+S
+#2000
+Dirt Path Outside Renfall~
+This well maintained dirt road is lined on either side by stones of
+varying sizes.  It runs east for as far as the eye can see, and west
+directly back into Renfall.  A quick glance to the north and east reveals
+the beginnings of a rather dense forest.  
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2001
+D3
+~
+~
+1 0 1021
+M 100 H 11
+S
+#2001
+Well Maintained Path~
+The road continues onward, east and west.  It seems remarkable that
+someone, somewhere has to maintain this entire road.  It must consume all of
+their time.  The forest to the northeast looms ever closer, and it's
+enormity can be made out even at this distance.  
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2002
+D3
+~
+~
+0 0 2000
+M 100 H 11
+S
+#2002
+Well Maintained Path~
+A line of trees marks the beginning of the massive forest looming to the
+north.  An obviously manmade path has been carved into the woods roughly
+fifty yards north, giving access to the ominous forest within.  The road
+continues it's rather monotonous journey, and the fabled city of Renfall can
+be seen in the distance to the west.  
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2017
+D1
+~
+~
+0 0 2003
+D3
+~
+~
+0 0 2001
+M 100 H 11
+S
+#2003
+Well Maintained Path~
+Renfall appears as nothing more than a small speck on the horizon the
+west, and the forest just to the north has completely obscured the view of
+anything further.  To the south, a seemingly neverending landscape of
+rolling hills unfolds.  The road continues on to the east and west, though
+it seems to curve south at some point ahead.  
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2004
+D3
+~
+~
+0 0 2002
+M 100 H 11
+S
+#2004
+Well Maintained Path~
+Renfall appears as nothing more than a small speck on the horizon the
+west, and the forest just to the north has completely obscured the view of
+anything further.  To the south, a seemingly neverending landscape of
+rolling hills unfolds.  The road continues on to the east and west, though
+it seems to curve south at some point ahead.  
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2005
+D3
+~
+~
+0 0 2003
+M 100 H 11
+S
+#2005
+Well Maintained Path~
+Renfall appears as nothing more than a small speck on the horizon the
+west, and the forest just to the north has completely obscured the view of
+anything further.  To the south, a seemingly neverending landscape of
+rolling hills unfolds.  The road continues on to the east and west, though
+it seems to curve south at some point ahead.  
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2006
+D3
+~
+~
+0 0 2004
+M 100 H 11
+S
+#2006
+Well Maintained Path~
+The road takes a sharp turn here, where a massive boulder impedes further
+direct movement east.  The boulder doesn't seem to be a natural occurence,
+and there are signs that it might have been hurled into this spot at some
+point.  In fact, further inspection nearby reveals a few other boulders of
+similar size, all carving their own small craters into the earth below them.
+~
+0 0 0
+0
+1
+2
+D2
+~
+~
+0 0 2007
+D3
+~
+~
+0 0 2005
+M 100 H 11
+S
+#2007
+Well Maintained Path~
+The road here has been modified at some point to avoid one of the several
+massive boulders that can be found jutting from the ground in the vicinity. 
+It seems as though a battle between giants had been held here.  
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2006
+D1
+~
+~
+0 0 2008
+M 100 H 11
+S
+#2008
+Well Maintained Path~
+The worn road continues to the east and west, and just over the horizon
+what appears to be a large wooden fence looms in your vision.  There's not
+much scenery here, other than the occasional patch of tall grass growing
+stubbornly in the middle of the road.  
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2009
+D3
+~
+~
+0 0 2007
+M 100 H 11
+S
+#2009
+Well Maintained Path~
+The road continues it's monotonous journey to the east and west.  A small
+guardhouse has been set up here as a checkpoint for travellers, to prevent
+smugglers and bandits alike.  
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2010
+D3
+~
+~
+0 0 2008
+M 100 H 11
+S
+#2010
+Well Maintained Path~
+A well traveled path heads east and west from here.
+Many different tracks line the road as if it is traveled daily.
+Different flowers and plants grow wildly from the side of the path.
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2011
+D3
+~
+~
+0 0 2009
+M 100 H 11
+S
+#2011
+Well Maintained Path~
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2012
+D3
+~
+~
+0 0 2010
+M 100 H 11
+S
+#2012
+Well Maintained Path~
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2013
+D3
+~
+~
+0 0 2011
+M 100 H 11
+S
+#2013
+Well Maintained Path~
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2014
+D3
+~
+~
+0 0 2012
+M 100 H 11
+S
+#2014
+Well Maintained Path~
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2015
+D3
+~
+~
+0 0 2013
+M 100 H 11
+S
+#2015
+Well Maintained Path~
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2016
+D2
+~
+~
+9 0 9300
+D3
+~
+~
+0 0 2014
+M 100 H 11
+S
+#2016
+Outside a Wooden Wall~
+This wooden wall forms a perimeter around what appears to be a small but
+blooming farm town.  There is a path leading from the well constructed gate
+which leads to the west for as far as the eye can see.  
+~
+0 0 0
+0
+1
+2
+D3
+~
+~
+0 0 2015
+M 100 H 11
+S
+#2017
+Mosgha Woods~
+The path into the forest is the only thing here that is altered by man in
+any way.  It is obvious that this is a very old forest, and that the
+creatures of this forest rule it without dispute.  The trees here are so
+tall and plentiful that they form a natural canopy, causing the forest to be
+somewhat dark during the day.  A multitude of sounds can be heard from all
+around; birds, insects, and...  Other things...  
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2018
+D1
+~
+~
+0 0 2026
+D2
+~
+~
+0 0 2002
+M 100 H 3
+S
+#2018
+Mosgha Woods~
+The narrow, man made path continues deeper into the forest.  Large fungus
+patches dot the landscape where they aren't swallowed up by ravenous
+underbrush.  Barely visible below, the path take a sudden turn to the east. 
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2019
+D1
+~
+~
+0 0 2027
+D2
+~
+~
+0 0 2017
+M 100 H 3
+S
+#2019
+Mosgha Woods~
+The forest is far too overgrown to continue further here.  A virtual wall
+of vines and shrubs has taken over here, creating a natural web between the
+trees.  Each step becomes a daunting task as the shrubs around threaten to
+tangle anyone's legs who pass nearby.  
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2020
+D1
+~
+~
+0 0 2028
+D2
+~
+~
+0 0 2018
+M 100 H 3
+S
+#2020
+Mosgha Woods~
+Even the breeze flowing through the treetops is dark and gloomy. Strange
+noises come from all direction. The leaves on the ground might make
+rustling sounds if they were not soaked down with mud. In each direction,
+the forest seems to grow darker and darker.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2021
+D1
+~
+~
+0 0 2029
+D2
+~
+~
+0 0 2019
+M 100 H 3
+S
+#2021
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2022
+D1
+~
+~
+0 0 2030
+D2
+~
+~
+0 0 2020
+M 100 H 3
+S
+#2022
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2023
+D1
+~
+~
+0 0 2031
+D2
+~
+~
+0 0 2021
+M 100 H 3
+S
+#2023
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2024
+D2
+~
+~
+0 0 2022
+M 100 H 3
+S
+#2024
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2025
+D1
+~
+~
+0 0 2033
+D2
+~
+~
+0 0 2023
+M 100 H 3
+S
+#2025
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2034
+D2
+~
+~
+0 0 2024
+M 100 H 3
+S
+#2026
+Mosgha Woods~
+Straying off the path, it becomes fairly difficult to navigate the
+rampant underbrush.  The natural canopy overhead provides little help, as it
+practically eliminates any of the light that would assist in traversing the
+thick of the woods.  
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2027
+D1
+~
+~
+0 0 2035
+D3
+~
+~
+0 0 2017
+M 100 H 3
+S
+#2027
+Mosgha Woods~
+Following the clearly man made path into the thick of the forest, it
+becomes clear that even this path hasn't been tread upon too much recently,
+as it is fairly overgrown with unrelenting shrubbery.  The canopy overheard
+clears just briefly, and a large range of mountains can be spotted to the
+north.  
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2028
+D1
+~
+~
+0 0 2036
+D2
+~
+~
+0 0 2026
+D3
+~
+~
+0 0 2018
+M 100 H 3
+S
+#2028
+Mosgha Woods~
+The path continues north. Along it you can see the outlines of what
+appears to be the ruins of some ancient shrine. Each side of the now rather
+narrow path are thick with vegetation, making progress into the thick of the
+forest difficult if not dangerous.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2029
+D1
+~
+~
+0 0 2037
+D2
+~
+~
+0 0 2027
+D3
+~
+~
+0 0 2019
+M 100 H 3
+S
+#2029
+Mosgha Woods~
+Moss covered rocks adorn a four foot drop from the curve in the path to
+the babbling pool of water below. Several ancient trees have grown over the
+river, their roots entwined with the riverbed like the laces of a boot. The
+water originates from a small and shallow stream which flows from the north,
+following the turn in the path. 
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2030
+D2
+~
+~
+0 0 2028
+D3
+~
+~
+0 0 2020
+M 100 H 3
+S
+#2030
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2031
+D1
+~
+~
+0 0 2039
+D2
+~
+~
+0 0 2029
+D3
+~
+~
+0 0 2021
+M 100 H 3
+S
+#2031
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D2
+~
+~
+0 0 2030
+D3
+~
+~
+0 0 2022
+M 100 H 3
+S
+#2032
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2041
+M 100 H 3
+S
+#2033
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2034
+D3
+~
+~
+0 0 2024
+M 100 H 3
+S
+#2034
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2043
+D2
+~
+~
+0 0 2033
+D3
+~
+~
+0 0 2025
+M 100 H 3
+S
+#2035
+Mosgha Woods~
+It grows increasingly more difficult to move around in the thick, untamed
+underbrush of the Mosgha Woods.  The danger of snakes and other unseen
+hazards makes itself known as movement can be detected at intervals from all
+around.  
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2036
+D1
+~
+~
+0 0 2044
+D3
+~
+~
+0 0 2026
+M 100 H 3
+S
+#2036
+Mosgha Woods~
+At one point the path nearly disappears entirely into the rampant natural
+growth of the forest beneath, but it emerges once more a bit east.  The
+trees here are adorned with several very large spider webs, spanning aroud
+eight feet in diameter or so.  This unsettling fact aside, they appear to
+have recent habitants, as there are several cocooned...  Animals?! 
+Appearing within them.  
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2037
+D1
+~
+~
+0 0 2045
+D2
+~
+~
+0 0 2035
+D3
+~
+~
+0 0 2027
+M 100 H 3
+S
+#2037
+Outside A Cave - Mosgha Woods~
+A foul odor seeps from the cave ahead, along with a faint howl. The
+plant life and trees all seem dead in this area. The ground is very
+muddy and tracks lead everywhere here. Small bones and fur lie around
+the entrance to the cave as if something has been eating.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2038
+D1
+~
+~
+0 0 2046
+D2
+~
+~
+0 0 2036
+D3
+~
+~
+0 0 2028
+M 100 H 3
+S
+#2038
+Inside the cave~
+Once inside the cave, the light seems to be swallowed into the back of
+it, which appears to lead to a tunnel that dives into the earth. 
+~
+0 8 14
+0
+1
+2
+D2
+~
+~
+0 0 2037
+D5
+~
+~
+5 0 2063
+M 100 H 35
+S
+#2039
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+bushes~
+9 0 2040
+D1
+~
+~
+0 0 2048
+D3
+~
+~
+0 0 2030
+M 100 H 3
+S
+#2040
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2041
+D2
+~
+~
+9 0 2039
+M 100 H 3
+S
+#2041
+Mosgha Woods~
+~
+0 17408 3
+0
+1
+2
+D0
+~
+~
+0 0 2042
+D1
+~
+~
+0 0 2050
+D2
+~
+~
+0 0 2040
+D3
+~
+~
+0 0 2032
+M 100 H 3
+S
+#2042
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D2
+~
+~
+0 0 2041
+M 100 H 3
+S
+#2043
+Mosgha Woods~
+~
+0 0 3
+0
+1
+2
+D1
+~
+~
+0 0 2052
+D3
+~
+~
+0 0 2034
+M 100 H 3
+S
+#2044
+Mosgha Woods~
+The thicket clears somewhat, allowing less restricted movement within
+this area of the forest.  An extremely large tree has given up it's ghost,
+noticeable by the massive log lying on it's side, surely home to many
+various animals and insects.  A small, somewhat overgrown path can be
+discerned to the north.  
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2045
+D1
+~
+~
+0 0 2053
+D3
+~
+~
+0 0 2035
+M 100 H 3
+S
+#2045
+Mosgha Woods~
+The path turns here toward the north, and the forest around seems to thin
+out a bit, allowing access to all directions from here.  More ominously
+large spider webs can be found hanging eerily in the trees above.  
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2046
+D1
+~
+~
+0 0 2054
+D2
+~
+~
+0 0 2044
+D3
+~
+~
+0 0 2036
+M 100 H 3
+S
+#2046
+Along the Path~
+The path continues north. Along it you can see the outlines of what
+appears to be the ruins of some ancient shrine. Each side of the now rather
+narrow path are thick with vegetation, making progress into the thick of the
+forest difficult if not dangerous.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2047
+D1
+~
+~
+0 0 2055
+D2
+~
+~
+0 0 2045
+D3
+~
+~
+0 0 2037
+M 100 H 3
+S
+#2047
+Mosgha Woods~
+A fresh and well-travelled route spreads out in several directions
+Plant life grows in abundance, constantly nourished by the mud and
+rain that seems to always be coming down.
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2048
+D1
+~
+~
+0 0 2056
+D2
+~
+~
+0 0 2046
+M 100 H 3
+S
+#0
+
+
+
+#SPECIALS
+M 2096 spec_construct
+M 2097 spec_construct
+M 2098 spec_beholder
+M 2099 spec_construct
+M 2016 spec_thief
+S
+
+
+
+#RESETS
+D 0 2053 5 1
+D 0 2063 4 1
+D 0 2000 3 1
+D 0 2015 2 1
+D 0 2038 5 1
+D 0 2039 0 1
+D 0 2040 2 1
+M 0 2003 2 2053 3 Load a giant centipede
+M 0 2003 2 2053 3 Load a giant centipede
+M 0 2095 1 2068 1 Load a small, scaled basilisk
+M 0 2006 10 2069 10 Load a scraggly skeleton
+O 0 2001 0 2078 A large wooden chest loaded to A lair
+M 0 2098 1 2078 1 Load a young beholder
+G 0 2001 0 A large wooden chest is given to a young beholder
+M 0 2002 2 2009 3 Load a checkpoint guard
+M 0 2002 2 2009 3 Load a checkpoint guard
+M 0 2000 10 2017 1 Load a giant spider
+G 0 2000 0 A spider's mandible is given to a giant spider
+M 0 2001 1 2026 1 Load a wolf
+M 0 2000 10 2027 1 Load a giant spider
+G 0 2000 0 A spider's mandible is given to a giant spider
+M 0 2000 2 2029 3 Load a giant spider
+M 0 2000 2 2029 3 Load a giant spider
+M 0 2004 1 2041 1 Load A hooded figure
+M 0 2000 10 2044 1 Load a giant spider
+G 0 2000 0 A spider's mandible is given to a giant spider
+M 0 2001 1 2044 1 Load a wolf
+M 0 2001 1 2046 1 Load a wolf
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#2000
+mob echoat $n A hooded figure turns and looks at you.
+mob echoat $n A hooded figure says " HALT! Who DARES enter the Sacred Shrine?"
+~
+#2001
+if $n says "$n"
+say Well have a seat and listen
+else
+say Leave at once!
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

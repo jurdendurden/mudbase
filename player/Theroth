@@ -1,0 +1,267 @@
+#PLAYER
+Name Theroth~
+Id   1579326460
+LogO 1579327391
+Vers 11
+Blind 0
+Boon 7
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race human~
+Sex  1
+Cla  3
+God	1
+Favored 0
+GuildRnk  0
+GuildPts  50
+WpnSpec	10
+Levl 3
+Sec  0
+Plyd 931
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 646
+HMV  34 41 104 104 130 132
+Bleed -1
+Talent 0
+PP 0 0
+Gold 113
+Silv 710
+BAcct 0
+Bank 0
+Exp  4283
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 14
+Eyes 32
+Haircut 1
+Facial 1
+Age 18
+Account ~
+Recall 1010
+Act  CDEGKQT
+Comm NOP
+Pos  8
+Prac 14
+Alig  -1000
+Hit   4
+Dam   5
+ACs 81 81 81 85
+Attr 17 17 16 14 15 15
+AMod 0 0 0 0 0 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+Pnts 0
+TSex 1
+LLev 0
+HMVP 33 104 132
+Cnd  0 44 52 52 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 32
+19 2128890
+20 1966192
+18 -1090519039
+72 1096
+71 1073741824
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'spear'
+Sk 78 'staff'
+Sk 1 'short sword'
+Sk 1 'long sword'
+Sk 1 'bow'
+Sk 1 'crossbow'
+Sk 1 'whip'
+Sk 1 'berserk'
+Sk 75 'first aid'
+Sk 1 'lore'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'fighter basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0
+0
+0
+0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 0
+0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 618
+Nest 0
+Cond 99
+Wear 15
+Cost 290
+End
+
+#O
+Vnum 608
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 607
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 612
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 606
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 611
+Nest 0
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 609
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 615
+Nest 0
+Wear -1
+Cost 1140
+End
+
+#END

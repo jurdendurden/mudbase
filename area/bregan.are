@@ -1,0 +1,74 @@
+#AREADATA
+Deprecated 0
+Name Clanhall: Bregan D'aerthe~
+Builders None~
+VNUMs 9200 9299
+Levels 5 40
+Credits Upro~
+Climate 0
+Plane 0
+PrimaryResource (null)~
+Security 1
+Flags 34
+Faction (null)~
+History (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9200
+{DBregan D'aerthe{x Clanhall~
+~
+0 1074790400 0
+0
+0
+0
+D1
+~
+~
+9 0 4089
+M 75 H 75
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 9200 1 1
+O 0 58 0 9200 The {dbregan d'aerthe{x clan vault loaded to {DBregan D'aerthe{x Clanhall
+O 0 49 0 9200 An orb of the {dbregan d'aerthe{x loaded to {DBregan D'aerthe{x Clanhall
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

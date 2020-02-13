@@ -1,0 +1,171 @@
+#PLAYER
+Name Balir~
+Id   1579728569
+LogO 1581048973
+Vers 11
+Blind 0
+Boon 7
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race dwarf~
+Clan guardian~
+Clan_Rank 3
+Clan_Points 0
+Sex  1
+Cla  4
+God	8
+Favored 0
+GuildRnk  2
+GuildPts  1624
+Levl 22
+Sec  0
+Plyd 69121
+Email (null)~
+Citizen Renfall~
+Scro 98
+Room 1010
+HMV  222 222 291 291 262 262
+Bleed 0
+Talent 1
+PP 99 99
+Gold 477
+Silv 11282
+BAcct 0
+Bank 0
+Exp  5310297
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 334
+Eyes 1
+Hair 4
+Haircut 8
+Facial 64
+Age 52
+Account Everclear~
+Recall 1010
+Act  CDEFGHKQT
+AfBy J
+Comm NOP
+Pos  8
+Prac 12
+Trai 2
+Alig  0
+ACs 100 100 100 100
+Attr 19 18 20 16 21 11
+AMod 0 0 0 0 0 0
+Pass ~
+Titl , of the {gwoods{x~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 10
+HMVP 222 291 262
+Cnd  0 0 150 0 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 472
+816 -268435455
+817 1056833150
+815 2146435073
+64 1409269664
+63 -252163009
+62 2147418112
+0 2
+127 126
+71 1879113726
+18 -1090519039
+20 -114927
+19 -1941799942
+31 -16840959
+21 30
+72 536977409
+73 134184966
+74 16776192
+32 1048574
+33 56
+128 -266338463
+129 8388542
+124 1
+125 -33562625
+126 -1
+68 2130706432
+69 -255
+90 -1074790399
+91 805346430
+70 -1
+87 -2065760256
+88 2147467264
+89 124
+293 16777216
+34 128
+-1 -1
+Boards       7 General 1579918964 Changes 1580062726 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 80 'armor'
+Sk 80 'bless'
+Sk 1 'cure blindness'
+Sk 80 'cure critical'
+Sk 80 'cure light'
+Sk 33 'cure serious'
+Sk 1 'detect good'
+Sk 19 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'energy drain'
+Sk 41 'sanctuary'
+Sk 1 'scry'
+Sk 80 'barkskin'
+Sk 21 'fire seeds'
+Sk 1 'regeneration'
+Sk 1 'negative plane protection'
+Sk 21 'elemental protection'
+Sk 48 'axe'
+Sk 41 'shield block'
+Sk 65 'spear'
+Sk 1 'staff'
+Sk 60 'berserk'
+Sk 37 'dodge'
+Sk 80 'enhanced damage'
+Sk 29 'forage'
+Sk 19 'herbalism'
+Sk 76 'first aid'
+Sk 1 'parry'
+Sk 18 'hapkido'
+Sk 50 'lore'
+Sk 21 'sneak'
+Sk 100 'scrolls'
+Sk 18 'wands'
+Sk 8 'recall'
+Gr 'rom basics'
+Gr 'druid basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#END

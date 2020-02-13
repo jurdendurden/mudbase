@@ -1,0 +1,2137 @@
+#AREADATA
+Deprecated 0
+Name Dreadmor Loch~
+Builders Upro Ithric~
+VNUMs 2900 2999
+Levels 8 18
+Credits Etrius~
+Climate 1
+Plane 0
+PrimaryResource (null)~
+Security 6
+Flags 34
+Faction (null)~
+History The Dreadmor Loch was once the bed of a large lake which has since dried up.
+~
+End
+
+
+
+#MOBILES
+#2901
+small cyclone dust devil~
+a small dust devil~
+A small cyclone whirls by.
+~
+~
+A small cyclone whirls around in circles picking up and throwing dust. In
+the centers a pair of glowing red eyes can be seen. 
+~
+elemental~
+AG BC JT -1000 0
+5 2 4d1+13 2d11+70 2d1+2 blast
+7 7 7 5
+0 B CP A
+stand stand none 3
+AHMV ABCDEFGHIJKY medium
+ unknown
+#2902
+small mud skipper lizard~
+small mud skipper~
+A small mud caked lizard.
+~
+~
+A brown and yellow lizard caked in mud.
+~
+lizardman~
+AG B 0 0 0
+4 0 1d3+9 3d5+54 2d1+2 bite
+7 7 7 5
+H 0 EKLQ FI
+stand stand none 14
+ABGHMVXc ABCDEFGHIJKQUV medium
+ unknown
+#2903
+giant cyclone dust devil lord~
+the dust devil lord~
+A giant cyclone spins with tremendious power.
+~
+~
+A giant whirling cyclone. Red and black magical flames cycle in and out
+of its form. Two large red eyes can be seen in its monstrously large center.
+~
+djinn~
+ABGR BCE DHJTV -1000 0
+16 2 20d8+100 5d6+95 4d1+8 air
+3 3 3 2
+AFHKRV AB CP 0
+stand stand none 3000
+AHMV ABCDEFGHIJKY gargantuan
+ unknown
+F vul A
+#2904
+huge cyclone dust devil guard~
+a dust devil guard~
+A huge cyclone spins around the perimeter.
+~
+~
+A huge brown cyclone. Dust and dirt can be seen whirling around within
+its vortex. A pair of large red eyes can be seen in its center. 
+~
+elemental~
+ABFGT BCD HJV -1000 0
+12 7 30d2+60 4d8+105 2d3+8 blast
+3 3 3 2
+CFKRV B CP A
+stand stand none 29
+AHMV ABCDEFGHIJKY huge
+ unknown
+#2905
+mud skipper giant lizard~
+giant mud skipper~
+A giant mud caked lizard.
+~
+~
+A very big brown and yellow lizard. Its scales can be barely seen with
+all the mud covering it. Almost appearing to be a rock with eyes. 
+~
+lizardman~
+AG B 0 0 0
+7 3 3d2+22 4d5+70 1d3+3 bite
+6 6 6 4
+0 0 EKLQ FI
+sleep stand none 4
+ABGHMVXc ABCDEFGHIJKQUV large
+ unknown
+#2906
+medium dust devil cyclone~
+medium dust devil~
+A medium sized cyclone spins around in large circles.
+~
+~
+This twister seems to be about average sized. Brown and red specs of dirt
+and mud can be seen whirling around in its vortex. Whats that?  Red eyes are
+at its center?  
+~
+elemental~
+AG BC J -1000 0
+7 1 6d1+20 3d7+69 2d1+4 blast
+6 6 6 4
+0 B CP A
+stand stand none 15
+AHMV ABCDEFGHIJKY medium
+ unknown
+#2907
+large dust devil cyclone~
+a large dust devil~
+A large cyclone whirls about.
+~
+~
+A larger then normal tornado. Brown and red specs of dirt and mud can be
+seen whirling around in its vortex. Whats that?  Red eyes are at its center?
+~
+elemental~
+AG BC JTV -1000 0
+7 3 5d1+29 7d3+77 3d1+5 blast
+4 4 4 3
+0 B CP A
+stand stand none 8
+AHMV ABCDEFGHIJKY large
+ unknown
+#2908
+water lord pool ~
+The Water Lord~
+A pool of water.
+~
+~
+A large pool of water with big blue eyes at its center.
+~
+elemental~
+ABGRT B HJ 1000 0
+10 20 50d3+100 10d8+100 12d2+5 magic
+1 1 1 1
+VW BR CP AI
+stand stand none 17
+AHMV ABCDEFGHIJKY large
+ unknown
+#2909
+magic barrier~
+Magic Barrier~
+A magic barrier guards the path west.
+~
+~
+~
+human~
+ABG 0 DFJZ 0 0
+15 0 100d10+500 15d8+100 0d0+0 magic
+-50 -50 -50 -50
+0 ACD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK gargantuan
+ unknown
+M EXALL 2909 3~
+#2950
+Prog Mob 1~
+mrpog mob~
+Mprog mob 2900
+~
+~
+~
+human~
+ABG DE 0 0 0
+42 0 10000d1+0 42d8+100 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M ACT 2900 begs and grovels to the powers that be~
+M ACT 2901 begs and grovels to the powers that be~
+#2951
+mprog test~
+Andora~
+Mprog test 2
+~
+~
+~
+human~
+ABG 0 0 0 0
+40 0 40d8+80 40d8+100 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+M ACT 2905 begs and grovels to the powers that be~
+#2952
+Holy Mace~
+(no short description)~
+(no long description)
+~
+vagrant, causing a wince. [0;31m[[0m3[0;31m][0m
+~
+~
+human~
+AG 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#2955
+no name~
+(no short description)~
+(no long description)
+~
+~
+~
+human~
+AG 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#2961
+mprog 2961~
+mprog 2961~
+Mprog 2961
+~
+~
+~
+human~
+ABGQRa CDE BCJZ 0 0
+100 0 100d8+200 100d8+100 0d0+0 none
+0 0 0 0
+0 Z 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#0
+
+
+
+#OBJECTS
+#2900
+ring of protection +1~
+{xRing of Protection +1{x~
+A sparkling ring.~
+Adamantite~
+0
+armor Ye 0 AB
+AC AC AC AC 1
+5 0 100000 P
+A
+17 -5
+A
+20 -1
+#2901
+magical fire~
+blazing Magical Fires~
+{r Four large pillars of demonic fire rush from the ground.{x~
+unknown~
+0
+fire 0 0 0
+0 0 0 0 0
+10 0 0 P
+#2902
+band of pure water~
+{xA band of pure water~
+A small puddle of water lies here.~
+magic~
+0
+armor UY 0 AB
+AC AC AC AC 0
+0 1 0 P
+A
+4 2
+A
+5 2
+A
+3 2
+#2905
+pen~
+pen~
+Pen~
+unknown~
+0
+pen 0 0 AO
+0 0 0 0 0
+0 0 0 P
+#2906
+pen~
+(no short description)~
+(no description)~
+unknown~
+0
+pen 0 0 AO
+0 0 0 0 0
+0 0 0 P
+#2910
+Armor of the Alpha Tester~
+armor of the Alpha tester~
+This item is used for testing classes.~
+unknown~
+0
+armor 0 0 AD
+BEF BEF BEF BEF 1
+0 1 0 P
+A
+1 15
+A
+4 15
+A
+5 15
+A
+3 15
+A
+2 15
+A
+26 15
+#2920
+Ancient Scroll~
+ancient Scroll~
+A tatterd scroll~
+unknown~
+0
+alchemy_recipe 0 0 AO
+CE ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef G 0
+0 0 0 P
+#2950
+Sword of angels~
+a short sword dubbed 'material'~
+None~
+unknown~
+0
+weapon Y 0 AN
+exotic 150 2 pierce DP
+44 0 0 P
+O FIGHT 2900 100~
+#2951
+ball of fire~
+{RB{ra{Rl{rl {WO{wf {RF{Yi{Rr{Ye{x~
+Imm Weapon~
+unknown~
+0
+weapon 0 0 AN
+exotic 0 0 none K
+0 0 0 P
+A
+30 100
+A
+30 100
+A
+30 100
+A
+30 100
+A
+30 100
+A
+30 100
+A
+30 100
+A
+30 100
+A
+30 100
+A
+30 100
+#2952
+holy mace~
+holy mace~
+Holy mace~
+unknown~
+0
+weapon 0 0 AN
+exotic 100 100 shbite I
+0 0 0 P
+A
+18 200
+#2953
+ring of spelldamage~
+ring of spelldamage~
+(no description)~
+unknown~
+0
+armor 0 0 AB
+0 0 0 0 0
+0 0 0 P
+A
+30 400
+#2954
+gloves of damroll~
+gloves of damroll~
+Gloves of damroll~
+unknown~
+0
+armor 0 0 AH
+0 0 0 0 0
+0 0 0 P
+A
+19 600
+#2955
+bracers of spelldam and crit~
+bracers of spelldam and crit~
+(no description)~
+unknown~
+0
+armor 0 0 AM
+0 0 0 0 0
+0 0 0 P
+A
+28 500
+A
+30 400
+A
+30 400
+A
+30 400
+A
+30 400
+A
+30 400
+#2961
+nature amulet wood string~
+{xNature Amulet{X~
+A small piece of wood on a string.~
+wood~
+0
+armor IKU 0 AC
+AC AC AC AC 2
+0 0 0 P
+A
+1 2
+A
+2 2
+A
+5 2
+A
+4 2
+A
+3 2
+A
+26 2
+#2962
+fountain portal~
+pixie fountain~
+A large pool of water with a stone pixie statue in the center.~
+magic~
+0
+fountain G 0 0
+-1 -1 'milk' 0 0
+0 10000 0 P
+O ACT 2962 drinks milk from the pixie fountain.~
+#0
+
+
+
+#ROOMS
+#2900
+Beginning Of A Dried Up Stream~
+Mud cakes the ground everywhere. This is the beginning of what was a
+mountain stream. What once was filled with beautiful flowing water has
+completed dried into a thick brick like mud. Heat radiates from the ground
+unnaturally almost cooking the ground like an oven. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2286
+D2
+~
+~
+0 0 2901
+M 25 H 25
+S
+#2901
+A Dried Up Stream~
+In the center of this once stream is nothing but dried up mud. In the
+distance a mountain range can be seen to the north and a sprawling forest to
+the east. Heat can be felt rising from the ground. The skeletons of fish and
+other wildlife can be seen imbedded in the mud. 
+~
+0 16384 23
+0
+1
+2
+D0
+~
+~
+0 0 2900
+D2
+~
+~
+0 0 2902
+M 25 H 25
+S
+#2902
+A Dried Up Stream~
+In the center of this once stream is nothing but dried up mud. In the
+distance a mountain range can be seen to the north and a sprawling forest to
+the east. Heat can be felt rising from the ground. The skeletons of fish and
+other wildlife can be seen imbedded in the mud. 
+~
+0 16384 23
+0
+1
+2
+D0
+~
+~
+0 0 2901
+D1
+~
+~
+0 0 2903
+D3
+~
+~
+0 0 2941
+M 25 H 25
+S
+#2903
+A Dried Up Stream~
+In the center of this once stream is nothing but dried up mud. In the
+distance a mountain range can be seen to the north and a sprawling forest to
+the east. Heat can be felt rising from the ground. The skeletons of fish and
+other wildlife can be seen imbedded in the mud. 
+~
+0 16384 23
+0
+1
+2
+D2
+~
+~
+0 0 2904
+D3
+~
+~
+0 0 2902
+M 25 H 25
+S
+#2904
+A Dried Up Stream~
+In the center of this once stream is nothing but dried up mud. In the
+distance a mountain range can be seen to the north and a sprawling forest to
+the east. Heat can be felt rising from the ground. The skeletons of fish and
+other wildlife can be seen imbedded in the mud. 
+~
+0 16384 23
+0
+1
+2
+D0
+~
+~
+0 0 2903
+D2
+~
+~
+0 0 2905
+M 25 H 25
+S
+#2905
+A Dried Up Stream~
+In the center of this once stream is nothing but dried up mud. In the
+distance a mountain range can be seen to the north and a sprawling forest to
+the east. Heat can be felt rising from the ground. The skeletons of fish and
+other wildlife can be seen imbedded in the mud. 
+~
+0 16384 23
+0
+1
+2
+D0
+~
+~
+0 0 2904
+D3
+~
+~
+0 0 2906
+M 25 H 25
+S
+#2906
+A Dried Up Stream~
+In the center of this once stream is nothing but dried up mud. In the
+distance a mountain range can be seen to the north and a sprawling forest to
+the east. Heat can be felt rising from the ground. The skeletons of fish and
+other wildlife can be seen imbedded in the mud. 
+~
+0 16384 23
+0
+1
+2
+D1
+~
+~
+0 0 2905
+D2
+~
+~
+0 0 2907
+M 25 H 25
+S
+#2907
+A Dried Up Stream~
+In the center of this once stream is nothing but dried up mud. In the
+distance a mountain range can be seen to the north and a sprawling forest to
+the east. Heat can be felt rising from the ground. The skeletons of fish and
+other wildlife can be seen imbedded in the mud. 
+~
+0 16384 23
+0
+1
+2
+D0
+~
+~
+0 0 2906
+D2
+~
+~
+0 0 2908
+M 25 H 25
+S
+#2908
+A Dried Up Stream~
+In the center of this once stream is nothing but dried up mud. In the
+distance a mountain range can be seen to the north and a sprawling forest to
+the east. Heat can be felt rising from the ground. The skeletons of fish and
+other wildlife can be seen imbedded in the mud. 
+~
+0 16384 23
+0
+1
+2
+D0
+~
+~
+0 0 2907
+D1
+~
+~
+0 0 2909
+M 25 H 25
+S
+#2909
+A Dried Up Stream~
+In the center of this once stream is nothing but dried up mud. In the
+distance a mountain range can be seen to the north and a sprawling forest to
+the east. Heat can be felt rising from the ground. The skeletons of fish and
+other wildlife can be seen imbedded in the mud. 
+~
+0 16384 23
+0
+1
+2
+D2
+~
+~
+0 0 2911
+D3
+~
+~
+0 0 2908
+M 25 H 25
+S
+#2910
+Lake Center~
+~
+0 4 23
+0
+1
+2
+M 25 H 25
+S
+#2911
+A Dried Up Stream~
+In the center of this once stream is nothing but dried up mud. In the
+distance a mountain range can be seen to the north and a sprawling forest to
+the east. Heat can be felt rising from the ground. The skeletons of fish and
+other wildlife can be seen imbedded in the mud. 
+~
+0 16384 23
+0
+1
+2
+D0
+~
+~
+0 0 2909
+D2
+~
+~
+0 0 2912
+M 25 H 25
+S
+#2912
+A Dried Up Stream~
+In the center of this once stream is nothing but dried up mud. In the
+distance a mountain range can be seen to the north and a sprawling forest to
+the east. Heat can be felt rising from the ground. The skeletons of fish and
+other wildlife can be seen imbedded in the mud. 
+~
+0 16384 23
+0
+1
+2
+D0
+~
+~
+0 0 2911
+D3
+~
+~
+0 0 2913
+M 25 H 25
+S
+#2913
+A Dried Up Stream~
+In the center of this once stream is nothing but dried up mud. In the
+distance a mountain range can be seen to the north and a sprawling forest to
+the east. Heat can be felt rising from the ground. The skeletons of fish and
+other wildlife can be seen imbedded in the mud. 
+~
+0 16384 23
+0
+1
+2
+D1
+~
+~
+0 0 2912
+D2
+~
+~
+0 0 2914
+M 25 H 25
+S
+#2914
+A Dried Up Inlet~
+The dried up stream runs south into what was once a lake. Dried up mud
+can be seen everywhere. Even more heat can be felt rising from the ground.
+Off in the distance forest can be seen surrounding the lake. Untouched by
+the unnatural heat. Something isnt right about this. 
+~
+0 0 23
+0
+1
+2
+D0
+~
+~
+0 0 2913
+D2
+~
+~
+0 0 2915
+M 25 H 25
+S
+#2915
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2914
+D1
+~
+~
+0 0 2916
+D2
+~
+~
+0 0 2922
+D3
+~
+~
+0 0 2918
+M 25 H 25
+S
+#2916
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D1
+~
+~
+0 0 2917
+D2
+~
+~
+0 0 2923
+D3
+~
+~
+0 0 2915
+M 25 H 25
+S
+#2917
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D2
+~
+~
+0 0 2924
+D3
+~
+~
+0 0 2916
+M 25 H 25
+S
+#2918
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D1
+~
+~
+0 0 2915
+D2
+~
+~
+0 0 2921
+D3
+~
+~
+0 0 2919
+M 25 H 25
+S
+#2919
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D1
+~
+~
+0 0 2918
+D2
+~
+~
+0 0 2920
+M 25 H 25
+S
+#2920
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2919
+D1
+~
+~
+0 0 2921
+D2
+~
+~
+0 0 2929
+M 25 H 25
+S
+#2921
+The Desert Lake~
+As far as the eye can see is dry barren ground. The heat rising from the
+ground is so incredibly hot that specs of glass can be seen among the dried
+mud bottom. The unnatural feel of very strong and evil magic lurks in the
+air. Perhaps the source of this near. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2918
+D1
+~
+~
+0 0 2922
+D2
+~
+~
+0 0 2928
+D3
+~
+~
+0 0 2920
+M 25 H 25
+S
+#2922
+The Desert Lake~
+As far as the eye can see is dry barren ground. The heat rising from the
+ground is so incredibly hot that specs of glass can be seen among the dried
+mud bottom. The unnatural feel of very strong and evil magic lurks in the
+air. Perhaps the source of this near. 
+~
+0 0 23
+0
+1
+2
+D0
+~
+~
+0 0 2915
+D1
+~
+~
+0 0 2923
+D2
+~
+~
+0 0 2927
+D3
+~
+~
+0 0 2921
+M 25 H 25
+S
+#2923
+The Desert Lake~
+As far as the eye can see is dry barren ground. The heat rising from the
+ground is so incredibly hot that specs of glass can be seen among the dried
+mud bottom. The unnatural feel of very strong and evil magic lurks in the
+air. Perhaps the source of this near. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2916
+D1
+~
+~
+0 0 2924
+D2
+~
+~
+0 0 2926
+D3
+~
+~
+0 0 2922
+M 25 H 25
+S
+#2924
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2917
+D2
+~
+~
+0 0 2925
+D3
+~
+~
+0 0 2923
+M 25 H 25
+S
+#2925
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2924
+D2
+~
+~
+0 0 2934
+D3
+~
+~
+0 0 2926
+M 25 H 25
+S
+#2926
+The Desert Lake~
+As far as the eye can see is dry barren ground. The heat rising from the
+ground is so incredibly hot that specs of glass can be seen among the dried
+mud bottom. The unnatural feel of very strong and evil magic lurks in the
+air. Perhaps the source of this near. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2923
+D1
+~
+~
+0 0 2925
+D2
+~
+~
+0 0 2933
+D3
+~
+~
+0 0 2927
+M 25 H 25
+S
+#2927
+Throne Of The Dust Devil Lord~
+Tremendous dry heat and flames are bursting from the ground. Four large
+pillars of fire stand rushing towards the sky. Surrounding a glass crater,
+In the center, a golden throne appears to be wreathed in fire. This must be
+the source. 
+~
+0 0 10
+0
+1
+2
+D0
+~
+~
+0 0 2922
+D1
+~
+~
+0 0 2926
+D2
+~
+~
+0 0 2932
+D3
+~
+~
+0 0 2928
+D5
+~
+~
+0 0 2940
+M 25 H 25
+S
+#2928
+The Desert Lake~
+As far as the eye can see is dry barren ground. The heat rising from the
+ground is so incredibly hot that specs of glass can be seen among the dried
+mud bottom. The unnatural feel of very strong and evil magic lurks in the
+air. Perhaps the source of this near. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2921
+D1
+~
+~
+0 0 2927
+D2
+~
+~
+0 0 2931
+D3
+~
+~
+0 0 2929
+M 25 H 25
+S
+#2929
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2920
+D1
+~
+~
+0 0 2928
+D2
+~
+~
+0 0 2930
+M 25 H 25
+S
+#2930
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2929
+D1
+~
+~
+0 0 2931
+D2
+~
+~
+0 0 2939
+M 25 H 25
+S
+#2931
+The Desert Lake~
+As far as the eye can see is dry barren ground. The heat rising from the
+ground is so incredibly hot that specs of glass can be seen among the dried
+mud bottom. The unnatural feel of very strong and evil magic lurks in the
+air. Perhaps the source of this near. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2928
+D1
+~
+~
+0 0 2932
+D2
+~
+~
+0 0 2938
+D3
+~
+~
+0 0 2930
+M 25 H 25
+S
+#2932
+The Desert Lake~
+As far as the eye can see is dry barren ground. The heat rising from the
+ground is so incredibly hot that specs of glass can be seen among the dried
+mud bottom. The unnatural feel of very strong and evil magic lurks in the
+air. Perhaps the source of this near. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2927
+D1
+~
+~
+0 0 2933
+D2
+~
+~
+0 0 2937
+D3
+~
+~
+0 0 2931
+M 25 H 25
+S
+#2933
+The Desert Lake~
+As far as the eye can see is dry barren ground. The heat rising from the
+ground is so incredibly hot that specs of glass can be seen among the dried
+mud bottom. The unnatural feel of very strong and evil magic lurks in the
+air. Perhaps the source of this near. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2926
+D1
+~
+~
+0 0 2934
+D2
+~
+~
+0 0 2936
+D3
+~
+~
+0 0 2932
+M 25 H 25
+S
+#2934
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2925
+D2
+~
+~
+0 0 2935
+D3
+~
+~
+0 0 2933
+M 25 H 25
+S
+#2935
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2934
+D3
+~
+~
+0 0 2936
+M 25 H 25
+S
+#2936
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2933
+D1
+~
+~
+0 0 2935
+D3
+~
+~
+0 0 2937
+M 25 H 25
+S
+#2937
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2932
+D1
+~
+~
+0 0 2936
+D3
+~
+~
+0 0 2938
+M 25 H 25
+S
+#2938
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2931
+D1
+~
+~
+0 0 2937
+D3
+~
+~
+0 0 2939
+M 25 H 25
+S
+#2939
+Edge Of The Desert Lake~
+This once large lake has dried up and its floor is now underfoot. The
+once loose bottom has dried to a hardened brick like substance giving a
+feeling of cobblestone. Tremendous heat can be felt rising from the lakes
+floor and a slight haze can be seen as the air makes contact with this
+unnatural heat. 
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2930
+D1
+~
+~
+0 0 2938
+M 25 H 25
+S
+#2940
+Prison Of The Water Lord~
+A small dark void.
+~
+0 524293 21
+0
+1
+2
+D4
+~
+~
+0 0 2927
+M 25 H 25
+S
+#2941
+A magical Barrier~
+~
+0 4 23
+0
+1
+2
+D1
+~
+~
+0 0 2902
+D3
+~
+~
+0 0 2942
+M 25 H 25
+S
+#2942
+A Vast, Empty Landscape~
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2943
+D1
+~
+~
+0 0 2941
+D2
+~
+~
+0 0 2944
+M 25 H 25
+S
+#2943
+A Dead End~
+~
+0 4 23
+0
+1
+2
+D2
+~
+~
+0 0 2942
+M 25 H 25
+S
+#2944
+A Vast, Empty Landscape~
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2942
+D2
+~
+~
+0 0 2945
+M 25 H 25
+S
+#2945
+A Vast, Empty Landscape~
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2944
+D1
+~
+~
+0 0 2946
+D2
+~
+~
+0 0 2948
+M 25 H 25
+S
+#2946
+A Vast, Empty Landscape~
+~
+0 4 23
+0
+1
+2
+D3
+~
+~
+0 0 2945
+M 25 H 25
+S
+#2947
+{Ropen for use{x~
+~
+0 4 23
+0
+1
+2
+M 25 H 25
+S
+#2948
+A Vast, Empty Landscape~
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2945
+D2
+~
+~
+0 0 2949
+M 25 H 25
+S
+#2949
+A Vast, Empty Landscape~
+~
+0 4 23
+0
+1
+2
+D0
+~
+~
+0 0 2948
+D3
+~
+~
+0 0 2950
+M 25 H 25
+S
+#2950
+A Vast, Empty Landscape~
+~
+0 4 23
+0
+1
+2
+D1
+~
+~
+0 0 2949
+D3
+~
+~
+0 0 2951
+M 25 H 25
+S
+#2951
+A Vast, Empty Landscape~
+~
+0 4 23
+0
+1
+2
+D1
+~
+~
+0 0 2950
+D3
+~
+~
+0 0 2952
+M 25 H 25
+S
+#2952
+A Treeline~
+A line of trees to the south beckons to salvation from the strange heat in
+this area. The trees seem to thicken a bit to the south and west, and it
+appears to be the end of this desolate wasteland. 
+~
+0 4 3
+0
+1
+2
+D1
+~
+~
+0 0 2951
+D2
+~
+~
+0 0 2953
+M 25 H 25
+S
+#2953
+Forest~
+~
+0 0 3
+0
+1
+2
+D0
+~
+~
+0 0 2952
+D3
+~
+~
+0 0 2954
+M 25 H 25
+S
+#2954
+Forest~
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2953
+D3
+~
+~
+0 0 2955
+M 25 H 25
+S
+#2955
+Forest~
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2954
+D2
+~
+~
+0 0 2956
+D3
+~
+~
+0 0 2960
+M 25 H 25
+S
+#2956
+Shrine Entrance~
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2955
+D2
+~
+~
+0 0 2957
+M 25 H 25
+S
+#2957
+Shrine~
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2956
+D2
+~
+~
+0 0 2958
+M 25 H 25
+S
+#2958
+Shrine~
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2957
+D2
+~
+~
+0 0 2959
+M 25 H 25
+S
+#2959
+Entering An Ancient Shrine~
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+0 0 2958
+D2
+~
+~
+1 0 2961
+M 40 H 40
+S
+#2960
+Base of a Giant Tree~
+~
+0 16384 3
+0
+1
+2
+D1
+~
+~
+0 0 2955
+D3
+~
+~
+0 0 2964
+M 25 H 25
+S
+#2961
+Shrine Of Andora~
+~
+0 0 0
+0
+1
+2
+D0
+~
+~
+1 0 2959
+D1
+~
+~
+0 0 2962
+D3
+~
+~
+0 0 2963
+M 150 H 150
+S
+#2962
+Pixie Fountain~
+~
+0 0 0
+0
+1
+2
+D3
+~
+~
+0 0 2961
+M 25 H 25
+S
+#2963
+Healing Beds~
+~
+0 0 0
+0
+1
+2
+D1
+~
+~
+0 0 2961
+M 60 H 60
+S
+#2964
+~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 2960
+D3
+~
+~
+0 0 2965
+M 25 H 25
+S
+#2965
+~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 2964
+D3
+~
+~
+0 0 2966
+M 25 H 25
+S
+#2966
+~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 2965
+D3
+~
+~
+0 0 2968
+M 25 H 25
+S
+#2967
+~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 2966
+M 25 H 25
+S
+#2968
+~
+~
+0 0 0
+0
+0
+0
+D1
+~
+~
+0 0 2966
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+M 2903 spec_cast_mage
+M 2904 spec_nasty
+M 2908 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 2959 2 1
+D 0 2961 0 1
+M 0 2902 2 2900 1 Load small mud skipper
+M 0 2905 3 2901 1 Load giant mud skipper
+M 0 2902 5 2901 1 Load small mud skipper
+M 0 2905 3 2902 1 Load giant mud skipper
+M 0 2902 5 2902 1 Load small mud skipper
+M 0 2905 3 2903 1 Load giant mud skipper
+M 0 2902 5 2903 1 Load small mud skipper
+M 0 2905 3 2904 1 Load giant mud skipper
+M 0 2902 5 2904 1 Load small mud skipper
+M 0 2905 3 2905 1 Load giant mud skipper
+M 0 2902 5 2905 1 Load small mud skipper
+M 0 2905 3 2906 1 Load giant mud skipper
+M 0 2902 5 2906 1 Load small mud skipper
+M 0 2905 3 2907 1 Load giant mud skipper
+M 0 2902 5 2907 1 Load small mud skipper
+M 0 2905 3 2908 1 Load giant mud skipper
+M 0 2902 5 2908 1 Load small mud skipper
+M 0 2905 3 2909 1 Load giant mud skipper
+M 0 2902 5 2909 1 Load small mud skipper
+M 0 2905 3 2911 1 Load giant mud skipper
+M 0 2902 5 2911 1 Load small mud skipper
+M 0 2905 3 2912 1 Load giant mud skipper
+M 0 2902 5 2912 1 Load small mud skipper
+M 0 2905 3 2913 1 Load giant mud skipper
+M 0 2902 5 2913 1 Load small mud skipper
+M 0 2901 5 2914 1 Load a small dust devil
+M 0 2906 3 2914 1 Load medium dust devil
+M 0 2907 2 2914 1 Load a large dust devil
+M 0 2901 5 2915 1 Load a small dust devil
+M 0 2906 3 2915 1 Load medium dust devil
+M 0 2907 2 2915 1 Load a large dust devil
+M 0 2901 5 2916 1 Load a small dust devil
+M 0 2906 3 2916 1 Load medium dust devil
+M 0 2907 2 2916 1 Load a large dust devil
+M 0 2901 5 2917 1 Load a small dust devil
+M 0 2906 3 2917 1 Load medium dust devil
+M 0 2907 2 2917 1 Load a large dust devil
+M 0 2901 5 2918 1 Load a small dust devil
+M 0 2906 3 2918 1 Load medium dust devil
+M 0 2907 2 2918 1 Load a large dust devil
+M 0 2901 5 2919 1 Load a small dust devil
+M 0 2906 3 2919 1 Load medium dust devil
+M 0 2907 2 2919 1 Load a large dust devil
+M 0 2901 5 2920 1 Load a small dust devil
+M 0 2906 3 2920 1 Load medium dust devil
+M 0 2907 2 2920 1 Load a large dust devil
+M 0 2901 5 2921 1 Load a small dust devil
+M 0 2906 3 2921 1 Load medium dust devil
+M 0 2907 2 2921 1 Load a large dust devil
+M 0 2901 5 2922 1 Load a small dust devil
+M 0 2906 3 2922 1 Load medium dust devil
+M 0 2907 2 2922 1 Load a large dust devil
+M 0 2901 5 2923 1 Load a small dust devil
+M 0 2906 3 2923 1 Load medium dust devil
+M 0 2907 2 2923 1 Load a large dust devil
+M 0 2901 5 2924 1 Load a small dust devil
+M 0 2906 3 2924 1 Load medium dust devil
+M 0 2907 2 2924 1 Load a large dust devil
+M 0 2901 5 2925 1 Load a small dust devil
+M 0 2906 3 2925 1 Load medium dust devil
+M 0 2907 2 2925 1 Load a large dust devil
+M 0 2901 5 2926 1 Load a small dust devil
+M 0 2906 3 2926 1 Load medium dust devil
+M 0 2907 2 2926 1 Load a large dust devil
+M 0 2903 1 2927 1 Load the dust devil lord
+M 0 2904 3 2927 3 Load a dust devil guard
+O 0 2901 0 2927 Blazing magical fires loaded to Throne Of The Dust Devil Lord
+M 0 2901 5 2928 1 Load a small dust devil
+M 0 2906 3 2928 1 Load medium dust devil
+M 0 2907 2 2928 1 Load a large dust devil
+M 0 2901 5 2929 1 Load a small dust devil
+M 0 2906 3 2929 1 Load medium dust devil
+M 0 2907 2 2929 1 Load a large dust devil
+M 0 2901 5 2930 1 Load a small dust devil
+M 0 2906 3 2930 1 Load medium dust devil
+M 0 2907 2 2930 1 Load a large dust devil
+M 0 2901 5 2931 1 Load a small dust devil
+M 0 2906 3 2931 1 Load medium dust devil
+M 0 2907 2 2931 1 Load a large dust devil
+M 0 2901 5 2932 1 Load a small dust devil
+M 0 2906 3 2932 1 Load medium dust devil
+M 0 2907 2 2932 1 Load a large dust devil
+M 0 2901 5 2933 1 Load a small dust devil
+M 0 2906 3 2933 1 Load medium dust devil
+M 0 2907 2 2933 1 Load a large dust devil
+M 0 2901 5 2934 1 Load a small dust devil
+M 0 2906 3 2934 1 Load medium dust devil
+M 0 2907 2 2934 1 Load a large dust devil
+M 0 2901 5 2935 1 Load a small dust devil
+M 0 2906 3 2935 1 Load medium dust devil
+M 0 2907 2 2935 1 Load a large dust devil
+M 0 2901 5 2936 1 Load a small dust devil
+M 0 2906 3 2936 1 Load medium dust devil
+M 0 2907 2 2936 1 Load a large dust devil
+M 0 2901 5 2937 1 Load a small dust devil
+M 0 2906 3 2937 1 Load medium dust devil
+M 0 2907 2 2937 1 Load a large dust devil
+M 0 2901 5 2938 1 Load a small dust devil
+M 0 2906 3 2938 1 Load medium dust devil
+M 0 2907 2 2938 1 Load a large dust devil
+M 0 2901 5 2939 1 Load a small dust devil
+M 0 2906 3 2939 1 Load medium dust devil
+M 0 2907 2 2939 1 Load a large dust devil
+M 0 2908 1 2940 1 Load The Water Lord
+E 0 2902 0 1 {xa band of pure water is loaded on the left finger of The Water Lord
+M 0 2909 1 2941 1 Load Magic Barrier
+O 0 2962 0 2962 Pixie fountain loaded to Pixie Fountain
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#2900
+if god $n == Odoma
+say your god is odoma
+else
+say your god is NOT odoma
+~
+#2901
+if god $n == Odoma
+say your god is odoma
+else
+say fuck odoma
+~
+#2903
+say hi i dont work
+if isevil $n
+say Your an Evil Bastard
+if isgood $n
+say your a little angel pansey
+if isneutral $n
+say you cant figure up your mind
+~
+#2905
+if isevil $n
+mob echoat $n A magical barrier blocks your path.
+endif
+~
+#2909
+if level $n < 8
+mob echoat $n A magical barrier blocks your path.
+else
+mob echoat $n The barrier shimmers and lets you pass.
+mob transfer $n 2942
+mob echo $n walks through the barrier.
+endif
+~
+#2961
+if pc_god $n Andora
+mob echoat $n Andora rewards you for your faithful service.
+mob oload 2961 1 Room
+endif
+~
+#2962
+if isgood $n
+mob echoat $n You have been blessed by Andora.
+mob cast 'giant' $n
+mob cast 'armor' $n
+mob cast 'shield' $n
+mob cast 'bless' $n
+if isneutral $n
+mob echoat $n You have been blessed by Andora.
+mob cast 'bless' $n
+mob cast 'shield' $n
+mob cast 'armor' $n
+mob cast 'giant strength' $n
+if isevil $n
+mob echoat $n Andora banishes you from her shrine.
+mob transfer 1010 $n
+endif
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#2900
+obj cast 'heal' $n
+~
+#2961
+obj echoat $n FOUNTAIN TEST COMPLETE
+~
+#2962
+obj echo Trigger tested
+obj transfer $n 2900
+~
+#0
+
+#ROOMPROGS
+#2900
+~
+#0
+
+#$

@@ -1,0 +1,738 @@
+#PLAYER
+Name Lothidan~
+Id   1578425847
+LogO 1581391605
+Vers 11
+Blind 0
+Boon 7
+Prom (%h/%H %m/%M %v/%V) ({Y%g{xg {D%s{xs) (%t / %b) ~
+Race human~
+Clan acolyte~
+Clan_Rank 4
+Clan_Points 0
+Sex  1
+Cla  3
+God	7
+Favored 0
+GuildRnk  3
+GuildPts  5019
+mClass 1
+Class2 1
+Level2 15
+Exp2   1885789
+WpnSpec	1
+Levl 14
+Sec  0
+Plyd 194133
+Email (null)~
+Citizen Renfall~
+Scro 98
+Room 1010
+HMV  417 417 389 389 296 296
+Bleed 0
+Talent 0
+PP 0 0
+Gold 356
+Silv 2230
+BAcct 1
+Bank 1010
+Exp  1807295
+NoExp1 0
+NoExp2 1
+Pkills 0
+Pdeath 0
+Mkills 648
+Eyes 1
+Hair 2
+Haircut 16
+Facial 32
+Age 18
+Faction 1
+Account Everclear~
+Recall 1010
+Act  CDEGKQT
+Comm NOP
+Pos  4
+Prac 5
+Trai 1
+Save  1
+Alig  500
+Hit   15
+Dam   8
+ACs -65 -60 -59 -37
+Attr 16 17 19 15 18 14
+AMod 0 8 5 0 10 0
+Pass ~
+Titl .~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 52
+HMVP 294 302 287
+Cnd  0 0 581 293 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 925
+328 520093696
+66 2
+287 65536
+77 4094
+76 1073709056
+75 134216702
+130 4
+127 268435454
+0 2
+34 504361088
+69 -1
+68 -16777215
+74 16777213
+65 -524289
+64 -201343135
+63 -260563961
+62 -65535
+33 1074758652
+32 218103806
+31 -61695
+73 134216702
+72 -548791
+21 30
+19 -134218757
+20 -130945
+18 -1090519039
+71 -264503794
+159 12288
+160 4
+165 204472320
+90 -1074790399
+91 -32050689
+92 2
+70 -268435457
+42 268435455
+192 520192
+187 -604045311
+188 254
+190 120586240
+191 56
+41 -15794687
+37 8323074
+39 -1
+40 22528
+43 16253902
+38 -3
+128 -8388623
+129 2147483647
+124 1
+125 -33554433
+126 -1
+3 16
+79 81526784
+78 49968
+35 201850624
+36 -1626996735
+815 -1048575
+817 2122120828
+816 -1
+818 12
+499 1
+500 65534
+-1 -1
+Alias 1 c 'searing light'~
+Alias 2 c 'cure serious'~
+Alias 3 c 'shadow bolt'~
+Alias k kick~
+Boards       7 General 1579043652 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 72 'bless'
+Sk 1 'blindness'
+Sk 18 'create water'
+Sk 12 'cure critical'
+Sk 49 'cure light'
+Sk 1 'cure poison'
+Sk 76 'cure serious'
+Sk 1 'detect poison'
+Sk 58 'protection evil'
+Sk 56 'protection good'
+Sk 25 'refresh'
+Sk 73 'sanctuary'
+Sk 43 'shield'
+Sk 22 'word of recall'
+Sk 60 'shadow bolt'
+Sk 70 'enlarge person'
+Sk 50 'summon water'
+Sk 79 'summon earth'
+Sk 74 'searing light'
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 17 'mace'
+Sk 1 'polearm'
+Sk 40 'shield block'
+Sk 1 'spear'
+Sk 39 'staff'
+Sk 95 'short sword'
+Sk 100 'long sword'
+Sk 1 'bow'
+Sk 1 'crossbow'
+Sk 1 'whip'
+Sk 18 'berserk'
+Sk 80 'dodge'
+Sk 100 'enhanced damage'
+Sk 61 'kick'
+Sk 62 'repair'
+Sk 81 'first aid'
+Sk 84 'parry'
+Sk 11 'blind fighting'
+Sk 30 'counter'
+Sk 56 'sharpen'
+Sk 60 'lore'
+Sk 60 'scrolls'
+Sk 1 'wands'
+Sk 16 'recall'
+Gr 'rom basics'
+Gr 'cleric basics'
+Gr 'fighter basics'
+Affc 'bless'   0  43  24   6  24          0
+Affc 'bless'   0  47  24   6  18          0
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+-24 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1117
+Nest 0
+Wear 5
+Cost 110
+End
+
+#O
+Vnum 1136
+Nest 0
+Wear 11
+Cost 300
+End
+
+#O
+Vnum 18
+Nest 0
+Name the tekko of conjury~
+ShD  the tekko of conjury~
+Desc the tekko of conjury~
+ExtF 64
+WeaF 129
+Ityp 9
+Wt   4
+Cond 99
+Material steel~
+Wear 9
+Lev  24
+Cost 7170
+Val  15 15 14 13 4
+Affc 'reserved'   0   0  -1   6  28          0
+Affc 'reserved'   0   0  -1  22  13          0
+Affc 'reserved'   0   0  -1  22  12          0
+End
+
+#O
+Vnum 2831
+Nest 0
+Wear 7
+Cost 1450
+End
+
+#O
+Vnum 18
+Nest 0
+Name the sleeves of magic~
+ShD  the sleeves of magic~
+Desc the sleeves of magic~
+ExtF 64
+WeaF 257
+Ityp 9
+Wt   6
+Material steel~
+Wear 10
+Lev  21
+Cost 4770
+Val  14 16 15 13 4
+Affc 'reserved'   0   0  -1   3  29          0
+Affc 'reserved'   0   0  -1   5  13          0
+Affc 'reserved'   0   0  -1  23  12          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a veil of erudition~
+ShD  a veil of erudition~
+Desc a veil of erudition~
+ExtF 64
+WeaF 17
+Ityp 9
+Wt   5
+Material steel~
+Wear 6
+Lev  20
+Cost 4620
+Val  16 16 14 13 4
+Affc 'reserved'   0   0  -1   2   5          0
+Affc 'reserved'   0   0  -1   2   4          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a manacle of toughness~
+ShD  a manacle of toughness~
+Desc a manacle of toughness~
+ExtF 64
+WeaF 4097
+Ityp 9
+Wt   4
+Cond 98
+Material steel~
+Wear 14
+Lev  21
+Cost 5540
+Val  15 15 16 14 4
+Affc 'reserved'   0   0  -1   3  18          0
+Affc 'reserved'   0   0  -1  13  13          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a collar of health~
+ShD  a collar of health~
+Desc a collar of health~
+ExtF 64
+WeaF 5
+Ityp 9
+Wt   4
+Material steel~
+Wear 4
+Lev  24
+Cost 8440
+Val  16 16 16 14 4
+Affc 'reserved'   0   0  -1   6  29          0
+Affc 'reserved'   0   0  -1   3  18          0
+Affc 'reserved'   0   0  -1  24  13          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a bangle of movement~
+ShD  a bangle of movement~
+Desc a bangle of movement~
+ExtF 64
+WeaF 4097
+Ityp 9
+Wt   5
+Cond 99
+Material steel~
+Wear 13
+Lev  24
+Cost 7400
+Val  16 15 16 14 4
+Affc 'reserved'   0   0  -1   9  28          0
+Affc 'reserved'   0   0  -1   9  14          0
+Affc 'reserved'   0   0  -1   3   3          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a sprite of vitality~
+ShD  a sprite of vitality~
+Desc a sprite of vitality~
+ExtF 64
+WeaF 65537
+Ityp 9
+Wt   6
+Material steel~
+Wear 19
+Lev  20
+Cost 5920
+Val  15 15 15 11 4
+Affc 'reserved'   0   0  -1  -1  17          0
+Affc 'reserved'   0   0  -1   3   5          0
+Affc 'reserved'   0   0  -1   1   4          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a gorget of augury~
+ShD  a gorget of augury~
+Desc a gorget of augury~
+ExtF 64
+WeaF 5
+Ityp 9
+Wt   4
+Material steel~
+Wear 3
+Lev  22
+Cost 11560
+Val  16 15 15 13 4
+Affc 'reserved'   0   0  -1  -3  24          0
+Affc 'reserved'   0   0  -1   3  18          0
+Affc 'reserved'   0   0  -1  22  12          0
+Affc 'reserved'   0   0  -1   3   5          0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a band of hardiness~
+ShD  a band of hardiness~
+Desc a band of hardiness~
+ExtF 64
+WeaF 3
+Ityp 9
+Wt   4
+Material steel~
+Wear 2
+Lev  24
+Cost 6100
+Val  15 15 14 11 4
+Affc 'reserved'   0   0  -1  -1  17          0
+Affc 'reserved'   0   0  -1  14  13          0
+Affc 'reserved'   0   0  -1   3   3          0
+End
+
+#O
+Vnum 2902
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 35
+Nest 0
+Name a sphere of stone skin~
+ShD  a sphere of stone skin~
+Desc a sphere of stone skin~
+ExtF 64
+WeaF 16385
+Wear -1
+Lev  19
+Cost 4749
+Val  18 5 3 85 0
+Spell 3 'stone skin'
+End
+
+#O
+Vnum 1218
+Nest 0
+Cond 87
+Wear 15
+Cost 5000
+End
+
+#O
+Vnum 18
+Nest 0
+Name a girdle of optimum pain~
+ShD  a girdle of optimum pain~
+Desc a girdle of optimum pain~
+ExtF 64
+WeaF 2049
+Ityp 9
+Wt   20
+Material iron~
+Wear 12
+Lev  14
+Cost 3320
+Val  7 8 7 6 5
+Affc 'reserved'   0   0  -1   3  19          0
+End
+
+#O
+Vnum 2407
+Nest 0
+Wear 8
+Cost 20
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1089
+Nest 0
+Wear 18
+Cost 35
+End
+
+#O
+Vnum 197
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 1040
+Nest 1
+Wear -1
+Cost 1200
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 198
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+Spell 3 'haste'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a opaque, effervescent potion of heat metal~
+ShD  a opaque, effervescent potion of heat metal~
+Desc a opaque, effervescent potion of heat metal~
+ExtF 16777280
+Wear -1
+Lev  6
+Cost 751
+Val  6 58 0 0 0
+Spell 1 'heat metal'
+End
+
+#O
+Vnum 6
+Nest 1
+ShD  a scroll of geyser~
+Wear -1
+Lev  26
+Cost 2501
+Val  27 197 0 0 0
+Spell 1 'geyser'
+End
+
+#O
+Vnum 28
+Nest 1
+Name a phosphorescent, vaporous potion of shield~
+ShD  a phosphorescent, vaporous potion of shield~
+Desc a phosphorescent, vaporous potion of shield~
+ExtF 64
+Wear -1
+Lev  13
+Cost 1801
+Val  12 81 0 0 0
+Spell 1 'shield'
+End
+
+#END

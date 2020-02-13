@@ -1,0 +1,99 @@
+ideas:
+
+owhere pccorpse	
+make list of ranger spells
+imp engage snippet (change targets in fight) (THEN IMPLEMENT A THREAT SYSTEM).
+- blind fighting
+- make infravision actually work.
+-detect trap/deactivate
+secret doors/search skill
+-confusion spell (-int, combat mods)
+
+-extension spell (adds spell damage to spells for duration)
+
+-web spell
+
+-audible glamor
+
+-shadow breath
+
+-shadow bolt
+
+paladins, bards, monks.
+
+
+energy breath
+
+rot_exit_area flag for items. basically they dissipate
+when you leave the area.
+
+golems: new item type: golem_ingredient, in create_golem spell requires person to be holding an item with type golem_ingredient, then creates golem based on item material.
+
+-new item type: paper, for use with scribing/note passing.
+
+
+bandage skill (bandage item_type)
+-counter skill
+mana shield
+
+pk timer upon login (to avoid twinkage of being jumped or jumping someone.)
+
+-detect undead
+xp bonus for groups (think i already did this but whatev)
+toss a light into a dark room to light it up.
+player shops
+expand 'consider' command
+indestructable flag for items, so they dont need repair
+regeneration quicker than per tick, (perhaps based on PULSE_VIOLENCE?)
+beseech command
+plant/palm for thieves.
+
+Feed potion pet, and other commands like it, to avoid the classic:
+give potion pet
+order pet quaff potion
+
+
+Ideas from other muds:
+
+-----------------------------
+Rings as wands??? (SEE BELOW)
+-----------------------------
+Wands has been redone.  You can now effectively use a wand from any
+wearslot that wand would be located on.  But you must SPECIFY your wand
+in said case.  "Zap ring self" for instance.  Zap with no specification
+will check for held, like the old code.  Also, items now have
+the ability to recharge on a daily basis, if it is set to be capable
+of doing so... which at present there is no items capable.
+
+
+qLU696
+
+----------------------------
+NOTES (writing, tacking, sealing, etc...)
+----------------------------
+With a blank sheet of paper, or a partially written note, one can now
+write (or add to) a note, which can be given to others or even dropped
+at a location.  This note can also be sealed, which allows a person to
+determine if the note was previously read or not. The notes can also
+be TACKed up, for higher visibility.
+
+When writing a note, the current language chosen is the
+language in which the note will be written.
+
+A sheet of paper must be HELD in order to be written. This can be a
+blank sheet, or a note that has been partially written on. The most
+that a single sheet can hold is around 12 lines of text.
+
+Syntax:
+  WRITE         - This will add a line to your letter, by itself 
+                  adds a blank line (use a blank line after an entry
+                  to form a second paragraph).
+  WRITE FORMAT  - This will format the entire note.
+  READ    - Reads the note, rocket science...
+  SEAL    - This will seal a note with your seal.
+  UNSEAL  - This causes armageddon, seriously.
+
+Have fun with it all
+Ziv.
+
+8662943464

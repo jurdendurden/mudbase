@@ -1,0 +1,589 @@
+#AREADATA
+Deprecated 0
+Name The Astral Plane~
+Builders Upro~
+VNUMs 10500 10699
+Levels 15 40
+Credits (null)~
+Climate 4
+Plane 0
+PrimaryResource adamantite~
+Security 9
+Flags 34
+Faction ~
+History ~
+End
+
+
+
+#MOBILES
+#10500
+A haunting ghost~
+A ghost~
+A haunting ghost floats aimlessly
+~
+A ghost flies~
+A ghost is here floating around aimlessly, almost as if he does not know where he is going.
+~
+wraith~
+ABGRST CDE J 0 0
+300 20 4000d1+1 2d8+100 2d4+3 none
+-50 -50 -50 -50
+FHIK M 0 HNS
+stand stand none 500
+ABHMV ABCDEFGHIJKUV medium
+ unknown
+F off R
+#10501
+intellect devourer~
+an intellect devourer~
+A crusted brain with four beastlike legs scampers about.
+~
+~
+This strange creature resembles a brain, with four beast like legs. The
+brain, or body, has no eyes, mouth, or any other discernable features, other
+than the multitude of folds. It's legs, howevers, are extremely muscular, and
+end in three large, sharp looking claws. 
+~
+intellect devourer~
+AG 0 0 0 0
+25 4 20d8+700 18d4+276 11d1+16 digestion
+-9 -9 -9 -6
+0 ABP 0 0
+stand stand none 33
+AGV ACDEFJKQV medium
+ unknown
+#10600
+Spellcaster~
+A spellcaster~
+A very powerfull spellcaster is here, throwing spells around
+~
+A being floats~
+~
+githyanki~
+AGQRa DEH DFJ 0 0
+9999 0 9999d8+19998 9999d8+100 0d0+0 none
+0 0 0 0
+0 0 CL NS
+stand stand female 0
+AHMV ABCDEFGHIJK medium
+ unknown
+#10699
+dragon ethereal~
+an e{Dt{xh{De{xr{De{xa{Dl{x dragon~
+A shimmering dragon-like form can be seen.
+~
+~
+~
+ethereal dragon~
+AG E HJTV 0 0
+40 21 18d42+2320 23d14+1026 11d2+22 scratch
+-34 -34 -34 -25
+CDHV ABO BCFP GIT
+stand stand none 152
+AHMVZ ABCDEFGHIJKPQUVX huge
+ unknown
+#0
+
+
+
+#OBJECTS
+#10500
+Lock picking tool belt~
+a belt of tools~
+A large belt with lock picking tools.~
+mithril~
+0
+thieves_tools V C ALO
+BD AC 0 0 0
+10 1 600 P
+#10501
+Bone~
+a shard of broken bone.~
+The likely remnants of the previous prisoner, left as shattered bone.~
+bone~
+0
+weapon HM 0 AN
+exotic 1 2 stab E
+0 -100 50000 P
+#10502
+Chaos orb of the weave~
+chaos orb of the weave~
+A orb of chaotic magic is here humming.~
+bone~
+0
+weapon ABI E AN
+exotic 2 4 pierce JKLMNOPQR
+3 1 50000 P
+#10503
+A mining axe~
+a diamond mining axe~
+A very strong and well crafted diamond mining axe~
+diamond~
+0
+mining_tool ABIe CDE O
+ABCFGHIJ 0 0 0 0
+12 3 0 P
+#0
+
+
+
+#ROOMS
+#10500
+The Astral Plane~
+A vast expanse of nothingness embodies visual periphery here, a blank
+void of emptiness that seems to expand into infinity. 
+~
+0 4 21
+0
+1
+2
+D0
+~
+~
+0 0 10501
+D1
+~
+~
+0 0 10505
+D2
+~
+~
+0 0 10509
+D3
+~
+~
+0 0 10513
+D5
+~
+~
+0 0 10509
+M 25 H 25
+S
+#10501
+~
+~
+0 0 21
+0
+1
+2
+D0
+~
+~
+0 0 10502
+D2
+~
+~
+0 0 10500
+M 25 H 25
+S
+#10502
+~
+~
+0 0 21
+0
+1
+2
+D0
+~
+~
+0 0 10503
+D2
+~
+~
+0 0 10501
+M 25 H 25
+S
+#10503
+~
+~
+0 0 21
+0
+1
+2
+D0
+~
+~
+0 0 10504
+D2
+~
+~
+0 0 10502
+M 25 H 25
+S
+#10504
+~
+~
+0 0 21
+0
+1
+2
+D2
+~
+~
+0 0 10503
+M 25 H 25
+S
+#10505
+~
+~
+0 0 21
+0
+1
+2
+D1
+~
+~
+0 0 10506
+D3
+~
+~
+0 0 10500
+M 25 H 25
+S
+#10506
+~
+~
+0 0 21
+0
+1
+2
+D1
+~
+~
+0 0 10507
+D3
+~
+~
+0 0 10505
+M 25 H 25
+S
+#10507
+~
+~
+0 0 21
+0
+1
+2
+D1
+~
+~
+0 0 10508
+D3
+~
+~
+0 0 10506
+M 25 H 25
+S
+#10508
+~
+~
+0 0 21
+0
+1
+2
+D3
+~
+~
+0 0 10507
+M 25 H 25
+S
+#10509
+~
+~
+0 0 21
+0
+1
+2
+D0
+~
+~
+0 0 10500
+D2
+~
+~
+0 0 10510
+M 25 H 25
+S
+#10510
+~
+~
+0 0 21
+0
+1
+2
+D0
+~
+~
+0 0 10509
+D2
+~
+~
+0 0 10511
+M 25 H 25
+S
+#10511
+~
+~
+0 0 21
+0
+1
+2
+D0
+~
+~
+0 0 10510
+D2
+~
+~
+0 0 10512
+M 25 H 25
+S
+#10512
+~
+~
+0 0 21
+0
+1
+2
+D0
+~
+~
+0 0 10511
+M 25 H 25
+S
+#10513
+The Astral Plane~
+~
+0 0 21
+0
+1
+2
+D1
+~
+~
+0 0 10500
+D3
+~
+~
+0 0 10514
+M 25 H 25
+S
+#10514
+The Astral Plane~
+~
+0 0 21
+0
+1
+2
+D1
+~
+~
+0 0 10513
+D3
+~
+~
+0 0 10515
+M 25 H 25
+S
+#10515
+The Astral Plane~
+~
+0 0 21
+0
+1
+2
+D1
+~
+~
+0 0 10514
+D3
+~
+~
+0 0 10516
+M 25 H 25
+S
+#10516
+The Astral Plane~
+~
+0 0 21
+0
+1
+2
+D1
+~
+~
+0 0 10515
+D3
+~
+~
+0 0 10517
+D4
+~
+~
+0 0 10518
+M 25 H 25
+S
+#10517
+The Astral Plane~
+~
+0 0 21
+0
+1
+2
+D1
+~
+~
+0 0 10516
+M 25 H 25
+S
+#10518
+The Astral Plane~
+~
+0 0 21
+0
+1
+2
+D1
+~
+~
+0 0 10519
+D5
+~
+~
+0 0 10516
+M 25 H 25
+S
+#10519
+The Astral Plane~
+~
+0 0 21
+0
+1
+2
+D1
+~
+~
+0 0 10520
+D3
+~
+~
+0 0 10518
+M 25 H 25
+S
+#10520
+The Astral Plane~
+~
+0 0 21
+0
+1
+2
+D1
+~
+~
+0 0 10521
+D3
+~
+~
+0 0 10519
+M 25 H 25
+S
+#10521
+The Astral Plane~
+~
+0 0 21
+0
+1
+2
+D1
+~
+~
+0 0 10522
+D3
+~
+~
+0 0 10520
+M 25 H 25
+S
+#10522
+The Astral Plane~
+~
+0 0 21
+0
+1
+2
+D0
+~
+~
+0 0 10523
+D3
+~
+~
+0 0 10521
+M 25 H 25
+S
+#10523
+The Astral Plane~
+~
+0 0 21
+0
+1
+2
+D0
+~
+~
+0 0 10524
+D2
+~
+~
+0 0 10522
+M 25 H 25
+S
+#10524
+The Astral Plane~
+~
+0 0 21
+0
+1
+2
+D2
+~
+~
+0 0 10523
+M 25 H 25
+S
+#0
+
+
+
+#SPECIALS
+M 10501 spec_cast_psion
+M 10699 spec_breath_energy
+S
+
+
+
+#RESETS
+M 0 10501 60 10512 5 Load an intellect devourer
+M 0 10501 60 10516 5 Load an intellect devourer
+M 0 10501 60 10520 5 Load an intellect devourer
+M 0 10501 60 10524 5 Load an intellect devourer
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

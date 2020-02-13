@@ -1,0 +1,349 @@
+#PLAYER
+Name Levi~
+Id   1580362341
+LogO 1580364880
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race aarakocra~
+Sex  1
+Cla  2
+God	1
+Favored 0
+GuildRnk  0
+GuildPts  166
+Levl 6
+Sec  0
+Plyd 2539
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 2384
+HMV  57 57 130 130 6 175
+Bleed 1
+Talent 0
+PP 0 0
+Gold 93
+Silv 324
+BAcct 0
+Bank 0
+Exp  36164
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 48
+Eyes 64
+Hair 4
+Haircut 32
+Facial 1
+Age 19
+Account Johngaden~
+Recall 1010
+Act  CDEGKQT
+AfBy EFJ
+Comm NOP
+Pos  8
+Prac 6
+Trai 1
+Alig  -500
+Hit   10
+Dam   2
+ACs 74 72 72 81
+Attr 20 13 15 23 13 13
+AMod 1 1 1 2 1 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 35 130 150
+Cnd  0 0 59 54 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 170
+74 72704
+72 536870912
+290 1048576
+65 2046
+64 -268467967
+63 -260568057
+62 -65535
+73 252674048
+32 -120605141
+33 1075806270
+31 -52493568
+21 30
+19 104464126
+20 536755456
+18 -1090519039
+71 1073741824
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 57 'detect traps'
+Sk 50 'dagger'
+Sk 1 'crossbow'
+Sk 50 'backstab'
+Sk 50 'dodge'
+Sk 1 'lay trap'
+Sk 50 'remove trap'
+Sk 75 'first aid'
+Sk 1 'peek'
+Sk 50 'steal'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 2 'recall'
+Sk 29 'detect secret'
+Gr 'rom basics'
+Gr 'thief basics'
+Affc 'fly'   0   5  -1   0   0         50
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+-6 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 607
+Nest 0
+Wear 7
+Cost 72
+End
+
+#O
+Vnum 612
+Nest 0
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 611
+Nest 0
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 608
+Nest 0
+Wear 8
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 13
+Cost 48
+End
+
+#O
+Vnum 35
+Nest 0
+Name the gloves of cure light~
+ShD  the gloves of cure light~
+Desc the gloves of cure light~
+ExtF 65
+WeaF 129
+Wear 9
+Lev  2
+Cost 501
+Val  1 13 8 26 0
+Spell 3 'cure light'
+End
+
+#O
+Vnum 35
+Nest 0
+Name a ring of extension~
+ShD  a ring of extension~
+Desc a ring of extension~
+ExtF 64
+WeaF 3
+Wear 1
+Lev  1
+Cost 250
+Val  1 18 18 105 0
+Spell 3 'extension'
+End
+
+#O
+Vnum 610
+Nest 0
+Wear 10
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 14
+Cost 48
+End
+
+#O
+Vnum 615
+Nest 0
+Wear 18
+Cost 1140
+End
+
+#O
+Vnum 1043
+Nest 0
+Wear 6
+Cost 300
+End
+
+#O
+Vnum 1063
+Nest 0
+Wear 19
+Cost 200
+End
+
+#O
+Vnum 1042
+Nest 0
+Wear 15
+Cost 200
+End
+
+#O
+Vnum 1041
+Nest 0
+Wear 2
+Cost 350
+End
+
+#O
+Vnum 1046
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 628
+Nest 1
+Wear -1
+Cost 65
+End
+
+#O
+Vnum 627
+Nest 1
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 1
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 1
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 1
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 1
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 1
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1099
+Nest 1
+Cond 99
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 44
+Nest 0
+Wear 0
+Cost 0
+End
+
+#END

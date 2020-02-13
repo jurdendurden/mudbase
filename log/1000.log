@@ -1,0 +1,82 @@
+Thu Feb 13 11:24:11 2020 :: Loading configuration settings from ../area/qmconfig.rc.
+Thu Feb 13 11:24:11 2020 :: Set IP address to 0.0.0.0
+Thu Feb 13 11:24:11 2020 :: Loading area limbo.are
+Thu Feb 13 11:24:11 2020 :: Loaded 0 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area trainee.are
+Thu Feb 13 11:24:11 2020 :: Loaded 0 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area immortal.are
+Thu Feb 13 11:24:11 2020 :: Loaded 0 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area uniques.are
+Thu Feb 13 11:24:11 2020 :: Loaded 0 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area academy.are
+Thu Feb 13 11:24:11 2020 :: Loaded 2 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area renfall.are
+Thu Feb 13 11:24:11 2020 :: Loaded 10 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area northrenfall.are
+Thu Feb 13 11:24:11 2020 :: Loaded 21 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area tanradtan.are
+Thu Feb 13 11:24:11 2020 :: Loaded 21 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area actalis.are
+Thu Feb 13 11:24:11 2020 :: Loaded 21 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area hallardrin.are
+Thu Feb 13 11:24:11 2020 :: Loaded 21 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area corandul.are
+Thu Feb 13 11:24:11 2020 :: Loaded 21 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area mosgha.are
+Thu Feb 13 11:24:11 2020 :: Loaded 23 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area allerion.are
+Thu Feb 13 11:24:11 2020 :: Loaded 29 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area ebonshear.are
+Thu Feb 13 11:24:11 2020 :: Loaded 46 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area greenrock.are
+Thu Feb 13 11:24:11 2020 :: Loaded 59 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area swamp.are
+Thu Feb 13 11:24:11 2020 :: Loaded 67 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area dreadmorloch.are
+Thu Feb 13 11:24:11 2020 :: Loaded 74 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area golthek.are
+Thu Feb 13 11:24:11 2020 :: Loaded 77 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area irland.are
+Thu Feb 13 11:24:11 2020 :: Loaded 91 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area garris.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area black_haven.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area vermore.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area eras_bay.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area astral_plane.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area etherl_plane.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area hell.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area volcano.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area citadel.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area conclave.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area acolyte.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area bregan.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area ravager.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area guardian.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area obsidian.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: Loading area azaram_ocean.are
+Thu Feb 13 11:24:11 2020 :: Loaded 97 mobprogs.
+Thu Feb 13 11:24:11 2020 :: [*****] BUG: Fix_exits: 4159:1 -> 4158:3 -> 4160.
+Thu Feb 13 11:24:11 2020 :: [*****] BUG: Fix_exits: 660:4 -> 600:5 -> 1010.
+Thu Feb 13 11:24:11 2020 :: [*****] BUG: Fix_exits: 2967:1 -> 2966:3 -> 2968.
+Thu Feb 13 11:24:11 2020 :: [*****] BUG: Equip_char: already equipped (5).
+Thu Feb 13 11:24:11 2020 :: [*****] BUG: Equip_char: already equipped (5).
+Thu Feb 13 11:24:11 2020 :: ROM is ready to rock on port 9000 (0.0.0.0).
+Thu Feb 13 11:24:11 2020 :: Last compiled on Feb 11 2020 at 20:15:02.
+Thu Feb 13 11:24:19 2020 :: Sock.sinaddr:  107.142.165.76
+Thu Feb 13 11:24:21 2020 :: Loading Upro.
+Thu Feb 13 11:25:07 2020 :: Log Upro: goto 1

@@ -1,0 +1,170 @@
+COOLDOWN SNIPPET 10/26/2010 by Andrew Haley (drew.haley@gmail.com)
+
+
+This snippet will allow you to add cooldowns to the skills/spells in your ROM based mud. No credit is required for this code.
+
+///////////// Merc.h / Mud.h ////////////////
+
+***I have send_to_char macro'd to SEND by the way.***
+
+Find your time definitions and add this:
+
+#define PULSE_COOLDOWN				( 1 * PULSE_PER_SECOND )  //Cooldowns go down each second.
+
+Then shortly below that, add these definitions:
+
+//Real time:
+#define TIME_ONE_SECOND				(1)
+#define TIME_FIVE_SECONDS			(5)
+#define TIME_TEN_SECONDS			(10)
+#define TIME_ONE_MINUTE				(60)
+#define TIME_ONE_HOUR				(60 * 60)	
+//Game time:
+#define TIME_TWICE_PER_DAY			((24 * 60) / 2)
+#define TIME_THREE_PER_DAY			((24 * 60) / 3)
+#define TIME_ONE_DAY				(24 * 60)
+#define TIME_ONE_WEEK				(168 * 60)
+#define TIME_ONE_MONTH				((4 * 168) * 60)
+
+Down in your char_data struct, add this:
+
+long				cooldowns[MAX_SKILL];
+
+In your skill_type struct, add this:
+
+long		cooldown;				//how long before they can use again? 0 for none.
+
+
+
+
+/////////////// Update.c ///////////////
+
+In the top section where all the function declarations are, add this:
+
+void    cooldown_update		args((void));
+
+In the update_handler function, declare this:
+
+static int pulse_cooldown;
+
+Then, add this in the meat of the function:
+
+	if ( --pulse_cooldown <= 0 )
+	{
+		pulse_cooldown = PULSE_COOLDOWN;
+		cooldown_update();
+	}
+	
+Then create a new function called cooldown_update:
+
+void cooldown_update(void)
+{
+	CHAR_DATA *ch;
+	CHAR_DATA *ch_next;      
+	int i = 0;
+
+	for ( ch = char_list; ch != NULL; ch = ch_next)
+	{
+		ch_next = ch->next;
+
+		if (IS_NPC(ch) || !ch)		
+			continue;
+		
+		for (i = 0; i <= MAX_SKILL; i++)
+		{
+			if (ch->cooldowns[i] > 0)
+				ch->cooldowns[i]--;
+		}
+	}
+};
+
+////////////// Magic.c /////////////////
+
+Under this:
+
+	if (ch->position < skill_table[sn].minimum_position)
+    {
+        SEND ("You can't concentrate enough.\r\n", ch);
+        return;
+    }
+	
+Add this:
+	
+	if (ch->cooldowns[sn] > 0)
+	{
+		SEND ("You must wait to cast that spell again.\r\n",ch);
+		return;
+	}
+	
+And directly under where it takes the mana away for casting a spell, modify it to look like this:
+
+	if (IS_NPC (ch) || class_table[ch->class].fMana)
+		{
+            /* class has spells */
+		    (*skill_table[sn].spell_fun) (sn, level, ch, vo, target);
+			ch->cooldowns[sn] = skill_table[sn].cooldown;
+		}
+        else
+		{
+            (*skill_table[sn].spell_fun) (sn, 3 * level / 4, ch, vo, target);
+			ch->cooldowns[sn] = skill_table[sn].cooldown;
+		}	
+	
+///////////// Fight.c ///////////////
+
+In every skill you want to have a cooldown, add this (of course changing the gsn to match):
+
+	if (ch->cooldowns[gsn_backstab] > 0)
+	{
+		SEND("You must wait to use this skill again.\r\n",ch);
+		return;
+	}
+	
+And also add this near the bottom of each skill:
+
+
+	ch->cooldowns[gsn_backstab] = skill_table[gsn_backstab].cooldown;
+	
+////////////// Act_Info.c //////////////
+
+In do_affects, add this:
+
+	int i = 0;	
+
+	SEND("\r\n\r\n-=-=-=Cooldowns=-=-=-\r\n\r\n",ch);
+	
+	for (i = 0; i <= MAX_SKILL; i++)
+	{
+		if (ch->cooldowns[i] > 0)
+		{
+			if (ch->cooldowns[i] >= 60)
+			{
+				if (ch->cooldowns[i] % 60 == 0)
+					sprintf(buf, "{r%-20s{x: %2ld minute%s.\r\n", skill_table[i].name, (ch->cooldowns[i] / 60), ((ch->cooldowns[i] / 60) > 1 ? "s" : ""));
+				else
+					sprintf(buf, "{r%-20s{x: %2ld minute%s, %ld second%s.\r\n", skill_table[i].name, (ch->cooldowns[i] / 60), ((ch->cooldowns[i] / 60) > 1 ? "s" : ""), (ch->cooldowns[i] % 60), (ch->cooldowns[i] % 60 > 1 ? "s" : ""));
+			}		
+			else if (ch->cooldowns[i] >= 30)
+				sprintf(buf, "{y%-20s{x: %2ld seconds.\r\n", skill_table[i].name, ch->cooldowns[i]);
+			else
+				sprintf(buf, "{g%-20s{x: %2ld seconds.\r\n", skill_table[i].name, ch->cooldowns[i]);
+				
+			SEND(buf, ch);			
+		}
+	}
+	
+/////////////// Const.c ////////////////
+
+This is the tedious part but if you're clever about it you can use search and replace to make this part a lot easier for you. Basically you just need to add either 0 or one of our predefined times to each skill/spell.
+
+Here is an example, keep in mind mine will look a lot different than yours most likely, but you can see the last thing in the skill says TIME_THREE_PER_DAY, meaning a warrior can berserk 3 times per day:
+
+	{
+     "berserk", {5, 5, 5, 10, 5, 12, 9, 9, 9, 1}, {0, 0, 0, 3, 0, 4, 0, 0, 0, 0},
+     spell_null, TAR_IGNORE, POS_FIGHTING,
+     &gsn_berserk, SLOT (0), 0, 18,
+     "", "You feel your pulse slow down.", "", FALSE, NULL, STAT_CON, APPRENTICE, -1, TIME_THREE_PER_DAY
+	},
+	
+	
+And that's it, now you have cooldowns and people can't use the most powerful skills/spells in the game over and over and over heh. Enjoy!

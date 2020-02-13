@@ -1,0 +1,196 @@
+#PLAYER
+Name Panadol~
+Id   1580716822
+LogO 1580722492
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race dwarf~
+Sex  1
+Cla  1
+God	5
+Favored 0
+GuildRnk  0
+GuildPts  87
+Levl 1
+Sec  0
+Plyd 5670
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 612
+HMV  22 22 100 100 120 120
+Bleed 0
+Talent 0
+PP 0 0
+Gold 131
+Silv 81
+BAcct 0
+Bank 0
+Exp  542
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 1
+Eyes 16
+Hair 4
+Haircut 16
+Facial 32
+Age 50
+Account Fartpants~
+Recall 1010
+Act  CDEGHKQT
+AfBy J
+Comm NOP
+Pos  8
+Save  3
+Alig  500
+Hit   4
+Dam   6
+ACs 60 60 60 60
+Attr 15 16 20 15 20 11
+AMod 0 0 0 0 0 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 0
+HMVP 20 100 120
+Cnd  0 0 0 0 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 20
+19 30
+20 917504
+18 1056964608
+72 14
+71 -536870911
+-1 -1
+Boards       7 General 1579918964 Changes 1580599112 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'bless'
+Sk 60 'create water'
+Sk 60 'cure light'
+Sk 1 'cure poison'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'refresh'
+Sk 1 'axe'
+Sk 50 'mace'
+Sk 1 'berserk'
+Sk 75 'first aid'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'cleric basics'
+Affc 'armor'   0  30  23 -20  17          0
+Affc 'bless'   0  20   7   3  24          0
+Affc 'bless'   0  22   7   3  18          0
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 600
+Nest 0
+Wear 15
+Cost 250
+End
+
+#O
+Vnum 102
+Nest 0
+Wear 16
+Cost 0
+End
+
+#END

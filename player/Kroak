@@ -1,0 +1,338 @@
+#PLAYER
+Name Kroak~
+Id   1581037662
+LogO 1581494228
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race lizardman~
+Sex  1
+Cla  8
+God	1
+Favored 0
+GuildRnk  0
+GuildPts  140
+Levl 5
+Sec  0
+Plyd 73570
+Email (null)~
+Citizen Renfall~
+Scro 22
+Room 1010
+HMV  52 52 122 122 156 156
+Bleed -1
+Talent 0
+PP 0 0
+Gold 114
+Silv 1508
+BAcct 0
+Bank 0
+Exp  18328
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 43
+Age 11
+Account Everclear~
+Recall 1010
+Act  CDEGHKQT
+Comm NOP
+Pos  8
+Prac 10
+Trai 1
+Alig  -250
+Hit   6
+Dam   5
+ACs 83 82 82 85
+Attr 16 13 18 20 20 12
+AMod 0 1 1 0 1 0
+Pass ~
+Titl  the fresh recruit.~
+PreT ~
+Cond	1
+EqCond 0
+Beeptells 0
+Pnts 0
+TSex 1
+LLev 2
+HMVP 44 122 156
+Cnd  0 0 0 0 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 50
+33 8
+19 -1909032069
+31 262144
+20 -600303
+18 520093696
+71 1073741824
+-1 -1
+Boards       7 General 1581469158 Changes 1581015058 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 14 'bless'
+Sk 5 'staff'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 53 'hand to hand'
+Sk 75 'first aid'
+Sk 1 'fast healing'
+Sk 14 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'monk basics'
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 627
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 618
+Nest 0
+Wear 15
+Cost 290
+End
+
+#O
+Vnum 609
+Nest 0
+Wear 9
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear 10
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 13
+Cost 48
+End
+
+#O
+Vnum 35
+Nest 0
+Name a sphere of gaseous form~
+ShD  a sphere of gaseous form~
+Desc a sphere of gaseous form~
+ExtF 64
+WeaF 16385
+Wear -1
+Lev  3
+Cost 750
+Val  4 19 14 148 0
+Spell 3 'gaseous form'
+End
+
+#O
+Vnum 615
+Nest 0
+Wear 18
+Cost 1140
+End
+
+#O
+Vnum 615
+Nest 0
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 608
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 607
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 612
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 6
+Nest 0
+Name a damp sacred scroll of cure light~
+ShD  a damp sacred scroll of cure light~
+Desc a damp sacred scroll of cure light~
+ExtF 64
+Wear -1
+Lev  3
+Cost 400
+Val  2 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 605
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 609
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear -1
+Cost 48
+End
+
+#O
+Vnum 18
+Nest 0
+Name the yellow gloves of ferocity~
+ShD  the yellow gloves of ferocity~
+Desc the yellow gloves of ferocity~
+ExtF 64
+WeaF 129
+Ityp 9
+Wt   6
+Material wool~
+Wear -1
+Lev  5
+Cost 1420
+Val  6 6 6 6 0
+Affc 'reserved'   0   0  -1   1  19          0
+End
+
+#O
+Vnum 615
+Nest 0
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 6
+Nest 0
+Name a vellum scroll of knock~
+ShD  a vellum scroll of knock~
+Desc a vellum scroll of knock~
+ExtF 65
+Wear -1
+Lev  4
+Cost 1001
+Val  5 102 0 0 0
+Spell 1 'knock'
+End
+
+#END

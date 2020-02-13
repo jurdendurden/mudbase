@@ -1,0 +1,642 @@
+#PLAYER
+Name Astoth~
+Id   1579412956
+LogO 1579491982
+Vers 11
+Blind 0
+Boon 0
+Prom (%h/%Hhp %m/%Mm %v/%Vmv) (%gg %ss) (%x/%Xxp) (%t) [ %b ]~
+Race aarakocra~
+Sex  1
+Cla  8
+God	8
+Favored 0
+GuildRnk  0
+GuildPts  140
+Levl 8
+Sec  0
+Plyd 2982
+Email (null)~
+Citizen (null)~
+Scro 22
+Room 2027
+HMV  83 83 115 115 162 162
+Bleed 0
+Talent 0
+PP 0 0
+Gold 145
+Silv 4713
+BAcct 0
+Bank 0
+Exp  147870
+NoExp1 0
+NoExp2 0
+Pkills 0
+Pdeath 0
+Mkills 162
+Eyes 1
+Hair 8
+Haircut 64
+Facial 1
+Age 20
+Account ~
+Recall 1010
+Act  CDEGKQT
+AfBy JT
+Comm NOP
+Pos  8
+Save  5
+Alig  -250
+Hit   14
+Dam   19
+ACs -25 -21 -23 -10
+Attr 16 14 18 23 18 15
+AMod 4 0 0 0 0 0
+Pass ~
+Titl .~
+PreT ~
+Cond	1
+Pnts 0
+TSex 1
+LLev 0
+HMVP 66 115 162
+Cnd  0 0 18 12 0
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Explored 177
+818 2
+32 1016320
+74 64512
+73 1015814
+72 328704001
+31 1040122624
+19 -1157
+20 4063346
+18 -1090519039
+71 1073741824
+62 458752
+63 815299591
+64 16352
+815 -1048575
+817 2080292926
+816 -268205825
+34 102690944
+-1 -1
+Boards       7 General 0 Changes 0 Ideas 0 Announce 0 Bugs 0 Roleplay 0 Personal 0 
+Sk 1 'bless'
+Sk 1 'staff'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 84 'hand to hand'
+Sk 75 'first aid'
+Sk 1 'scrolls'
+Sk 1 'wands'
+Sk 1 'recall'
+Gr 'rom basics'
+Gr 'monk basics'
+Affc 'wrath of the ancients'   0  49  34  15  19          0
+Affc 'wrath of the ancients'   0  48  34  15  30          0
+Affc 'giant strength'   0  50  34   4   1          0
+Affc 'giant strength'   0  47  34   4  19          0
+Affc 'armor'   0  49   7 -20  17          0
+Affc 'shield'   0  48  44 -20  17          0
+Affc 'vocal shield'   0  48   3 -30  17          0
+Affc 'cacophonic shield'   0  48   3 -40  17          0
+Affc 'bless'   0  49  42   6  18          0
+Affc 'bless'   0  50  42   6  24          0
+Affc 'fly'   0  49  39   0   0     524288
+Affc 'resistance'   0  54  10  -1  20          0
+End
+
+#MATERIAL
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+End
+
+#FACTIONS
+0 0
+0 0
+End
+
+#EXPERTISE
+0 0 0 0 0 0 
+0 0 0 0 0 
+0 0 
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18
+Nest 0
+Name a candle of wizardry~
+ShD  a candle of wizardry~
+Desc a candle of wizardry~
+ExtF 64
+WeaF 16385
+Ityp 1
+Material diamond~
+Wear -1
+Lev  5
+Cost 1300
+Val  0 1 35 0 0
+Affc 'reserved'   0   0  -1   2  12          0
+Affc 'reserved'   0   0  -1   1  14          0
+End
+
+#O
+Vnum 6
+Nest 0
+Name a scroll of planar door~
+ShD  a scroll of planar door~
+Desc a scroll of planar door~
+ExtF 64
+Wear -1
+Lev  24
+Cost 5001
+Val  25 168 0 0 0
+Spell 1 'planar door'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 833
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 938
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 1039
+Nest 0
+Wear -1
+Time 750
+Cost 500
+Spell 1 'cure light'
+End
+
+#O
+Vnum 103
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 101
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 618
+Nest 0
+Wear -1
+Cost 290
+End
+
+#O
+Vnum 607
+Nest 0
+Wear 7
+Cost 72
+End
+
+#O
+Vnum 612
+Nest 0
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 605
+Nest 0
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 609
+Nest 0
+Wear 9
+Cost 72
+End
+
+#O
+Vnum 610
+Nest 0
+Wear 10
+Cost 72
+End
+
+#O
+Vnum 613
+Nest 0
+Wear 13
+Cost 48
+End
+
+#O
+Vnum 615
+Nest 0
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 6
+Nest 0
+Name a scroll of cure light~
+ShD  a scroll of cure light~
+Desc a scroll of cure light~
+ExtF 64
+Wear -1
+Lev  4
+Time 1995
+Cost 999
+Val  4 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 28
+Nest 0
+Name a transparent, syrupy potion of cure light~
+ShD  a transparent, syrupy potion of cure light~
+Desc a transparent, syrupy potion of cure light~
+ExtF 1073741889
+Wear -1
+Lev  6
+Time 746
+Cost 750
+Val  6 26 0 0 0
+Spell 1 'cure light'
+End
+
+#O
+Vnum 6
+Nest 0
+Name a scroll of ghoul touch~
+ShD  a scroll of ghoul touch~
+Desc a scroll of ghoul touch~
+ExtF 65
+Wear -1
+Lev  18
+Time 1038
+Cost 3401
+Val  17 148 0 0 0
+Spell 1 'ghoul touch'
+End
+
+#O
+Vnum 6
+Nest 0
+Name a scroll of raise dead~
+ShD  a scroll of raise dead~
+Desc a scroll of raise dead~
+ExtF 64
+Wear -1
+Lev  42
+Time 2121
+Cost 8201
+Val  41 204 0 0 0
+Spell 1 'raise dead'
+End
+
+#O
+Vnum 2301
+Nest 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 2302
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 2310
+Nest 0
+Cond 89
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2301
+Nest 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 2302
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 2310
+Nest 0
+Cond 89
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2301
+Nest 0
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 2302
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 2310
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2304
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2305
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2314
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 2304
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 2305
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2307
+Nest 0
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2314
+Nest 0
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 2301
+Nest 0
+Wear 6
+Cost 20
+End
+
+#O
+Vnum 2302
+Nest 0
+Wear 5
+Cost 25
+End
+
+#O
+Vnum 2310
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 2331
+Nest 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 38
+Nest 0
+Name a scarlet purse~
+ShD  a scarlet purse~
+Desc a scarlet purse~
+ExtF 64
+Wt   4
+Material velvet~
+Wear -1
+Cost 3030
+Affc 'reserved'   0   0  -1   1  30          0
+Affc 'reserved'   0   0  -1   1  28          0
+End
+
+#O
+Vnum 5
+Nest 1
+ShD  1 silver coins and 1 gold coins~
+Wt   0
+Cond 93
+Wear -1
+Cost 101
+Val  1 1 0 0 0
+End
+
+#O
+Vnum 35
+Nest 0
+Name a floating sphere of flame arrow~
+ShD  a floating sphere of flame arrow~
+Desc a floating sphere of flame arrow~
+ExtF 64
+WeaF 65537
+Wear -1
+Lev  6
+Cost 1249
+Val  4 12 8 122 0
+Spell 3 'flame arrow'
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2000
+Nest 0
+Wear -1
+Cost 0
+End
+
+#END
